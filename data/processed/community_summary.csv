@@ -1,0 +1,437 @@
+community_id,n_members,departments,avg_engagement,avg_level,dept_diversity,is_silo,silo_risk
+0,1,Engineering,4.2,1.0,1,True,False
+1,1,Engineering,3.9,2.0,1,True,False
+2,1,Engineering,2.7,1.0,1,True,False
+3,1,Engineering,3.0,3.0,1,True,False
+4,2,Engineering,3.05,2.5,1,True,False
+5,2,Engineering,2.9000000000000004,2.5,1,True,False
+6,5,Engineering,3.72,1.8,1,True,False
+7,1,Engineering,3.6,3.0,1,True,False
+8,1,Engineering,4.4,1.0,1,True,False
+9,1,Engineering,4.0,2.0,1,True,False
+10,1,Engineering,2.4,2.0,1,True,False
+11,1,Engineering,3.9,1.0,1,True,False
+12,1,Engineering,3.8,2.0,1,True,False
+13,1,Engineering,3.1,3.0,1,True,False
+14,1,Engineering,2.9,1.0,1,True,False
+15,1,Engineering,2.8,1.0,1,True,False
+16,1,Engineering,2.3,2.0,1,True,False
+17,1,Engineering,2.8,4.0,1,True,False
+18,2,Engineering,2.9000000000000004,1.5,1,True,False
+19,2,Engineering,2.9,2.5,1,True,False
+20,1,Engineering,2.8,5.0,1,True,False
+21,1,Engineering,4.1,1.0,1,True,False
+22,1,Engineering,4.7,1.0,1,True,False
+23,1,Engineering,4.7,1.0,1,True,False
+24,1,Engineering,3.5,2.0,1,True,False
+25,1,Engineering,4.6,1.0,1,True,False
+26,1,Engineering,4.2,2.0,1,True,False
+27,1,Engineering,4.7,1.0,1,True,False
+28,1,Engineering,3.8,4.0,1,True,False
+29,2,Engineering,3.3,2.5,1,True,False
+30,1,Engineering,3.9,1.0,1,True,False
+31,1,Engineering,3.3,2.0,1,True,False
+32,1,Engineering,3.3,4.0,1,True,False
+33,1,Engineering,1.8,1.0,1,True,False
+34,1,Engineering,3.2,1.0,1,True,False
+35,1,Engineering,5.0,1.0,1,True,False
+36,1,Engineering,4.0,1.0,1,True,False
+37,1,Engineering,3.6,2.0,1,True,False
+38,2,Engineering,3.2,3.0,1,True,False
+39,2,Engineering,3.3,3.5,1,True,False
+40,1,Engineering,3.5,3.0,1,True,False
+41,1,Engineering,3.5,1.0,1,True,False
+42,1,Engineering,3.3,4.0,1,True,False
+43,1,Engineering,2.4,2.0,1,True,False
+44,1,Engineering,3.9,2.0,1,True,False
+45,1,Engineering,3.0,3.0,1,True,False
+46,1,Engineering,4.3,3.0,1,True,False
+47,1,Engineering,3.0,2.0,1,True,False
+48,1,Engineering,2.7,2.0,1,True,False
+49,3,Engineering,3.4333333333333336,1.6666666666666667,1,True,False
+50,3,Engineering,3.766666666666667,2.3333333333333335,1,True,False
+51,1,Engineering,3.7,3.0,1,True,False
+52,2,Engineering,3.25,1.5,1,True,False
+53,2,Engineering,3.7,2.5,1,True,False
+54,1,Engineering,2.1,5.0,1,True,False
+55,1,Engineering,2.4,1.0,1,True,False
+56,1,Engineering,3.3,1.0,1,True,False
+57,1,Engineering,3.9,1.0,1,True,False
+58,2,Engineering,3.45,2.5,1,True,False
+59,1,Engineering,2.5,1.0,1,True,False
+60,1,Engineering,2.7,4.0,1,True,False
+61,1,Engineering,2.5,3.0,1,True,False
+62,1,Engineering,3.1,1.0,1,True,False
+63,1,Engineering,3.7,2.0,1,True,False
+64,1,Engineering,3.7,2.0,1,True,False
+65,1,Engineering,4.3,2.0,1,True,False
+66,1,Engineering,1.7,1.0,1,True,False
+67,1,Engineering,2.6,2.0,1,True,False
+68,1,Engineering,3.2,2.0,1,True,False
+69,2,Engineering,3.3,3.0,1,True,False
+70,1,Engineering,1.9,1.0,1,True,False
+71,1,Engineering,3.3,1.0,1,True,False
+72,1,Engineering,4.6,1.0,1,True,False
+73,1,Engineering,4.4,4.0,1,True,False
+74,1,Engineering,3.5,1.0,1,True,False
+75,1,Engineering,2.0,1.0,1,True,False
+76,1,Engineering,2.8,2.0,1,True,False
+77,4,Engineering,3.425,1.75,1,True,False
+78,1,Engineering,3.9,2.0,1,True,False
+79,2,Engineering,2.55,2.0,1,True,False
+80,5,Engineering,3.0,1.8,1,True,False
+81,1,Engineering,4.4,1.0,1,True,False
+82,1,Engineering,2.3,1.0,1,True,False
+83,1,Engineering,2.3,3.0,1,True,False
+84,1,Engineering,2.4,3.0,1,True,False
+85,1,Engineering,3.7,1.0,1,True,False
+86,1,Engineering,1.6,4.0,1,True,False
+87,1,Engineering,3.6,3.0,1,True,False
+88,1,Engineering,3.6,1.0,1,True,False
+89,1,Engineering,2.8,1.0,1,True,False
+90,1,Engineering,1.6,3.0,1,True,False
+91,1,Engineering,4.9,3.0,1,True,False
+92,1,Engineering,3.0,3.0,1,True,False
+93,1,Engineering,3.1,3.0,1,True,False
+94,1,Engineering,3.0,1.0,1,True,False
+95,1,Engineering,2.8,3.0,1,True,False
+96,2,Engineering,3.5999999999999996,2.5,1,True,False
+97,1,Engineering,2.4,2.0,1,True,False
+98,1,Engineering,2.4,3.0,1,True,False
+99,2,Engineering,3.4,1.0,1,True,False
+100,1,Engineering,3.0,1.0,1,True,False
+101,1,Engineering,3.9,1.0,1,True,False
+102,1,Engineering,2.1,3.0,1,True,False
+103,1,Engineering,3.4,4.0,1,True,False
+104,1,Engineering,2.4,2.0,1,True,False
+105,1,Engineering,3.4,2.0,1,True,False
+106,1,Engineering,3.6,1.0,1,True,False
+107,1,Engineering,2.9,3.0,1,True,False
+108,1,Engineering,3.1,2.0,1,True,False
+109,1,Engineering,4.4,1.0,1,True,False
+110,1,Engineering,3.5,1.0,1,True,False
+111,1,Engineering,4.8,4.0,1,True,False
+112,1,Engineering,3.9,2.0,1,True,False
+113,2,Engineering,3.5,3.0,1,True,False
+114,1,Engineering,2.5,3.0,1,True,False
+115,1,Engineering,2.1,2.0,1,True,False
+116,1,Engineering,2.7,2.0,1,True,False
+117,1,Engineering,2.0,1.0,1,True,False
+118,2,Engineering,3.7,1.5,1,True,False
+119,1,Engineering,2.8,2.0,1,True,False
+120,1,Engineering,3.6,3.0,1,True,False
+121,1,Engineering,4.1,1.0,1,True,False
+122,1,Engineering,2.9,3.0,1,True,False
+123,1,Engineering,3.6,1.0,1,True,False
+124,1,Engineering,3.8,5.0,1,True,False
+125,1,Engineering,3.9,2.0,1,True,False
+126,1,Engineering,3.8,1.0,1,True,False
+127,1,Engineering,3.4,3.0,1,True,False
+128,1,Engineering,4.5,3.0,1,True,False
+129,1,Engineering,4.1,2.0,1,True,False
+130,1,Engineering,3.9,2.0,1,True,False
+131,1,Engineering,2.1,4.0,1,True,False
+132,1,Engineering,3.4,2.0,1,True,False
+133,1,Engineering,4.2,3.0,1,True,False
+134,1,Engineering,2.6,1.0,1,True,False
+135,1,Engineering,4.5,5.0,1,True,False
+136,1,Engineering,3.4,3.0,1,True,False
+137,1,Engineering,4.4,1.0,1,True,False
+138,1,Engineering,3.4,2.0,1,True,False
+139,1,Engineering,3.8,3.0,1,True,False
+140,1,Engineering,3.0,3.0,1,True,False
+141,1,Engineering,3.3,2.0,1,True,False
+142,1,Engineering,3.4,2.0,1,True,False
+143,1,Engineering,3.7,2.0,1,True,False
+144,1,Engineering,3.1,3.0,1,True,False
+145,1,Engineering,2.3,1.0,1,True,False
+146,1,Engineering,4.8,1.0,1,True,False
+147,1,Engineering,3.4,2.0,1,True,False
+148,1,Engineering,3.9,2.0,1,True,False
+149,1,Engineering,4.6,3.0,1,True,False
+150,1,Engineering,3.5,1.0,1,True,False
+151,1,Engineering,3.7,1.0,1,True,False
+152,1,Engineering,3.7,4.0,1,True,False
+153,1,Engineering,2.9,2.0,1,True,False
+154,1,Engineering,4.3,4.0,1,True,False
+155,1,Engineering,2.4,1.0,1,True,False
+156,1,Engineering,4.0,1.0,1,True,False
+157,1,Engineering,3.1,2.0,1,True,False
+158,1,Engineering,4.3,2.0,1,True,False
+159,1,Engineering,3.5,1.0,1,True,False
+160,1,Engineering,2.9,3.0,1,True,False
+161,1,Engineering,3.3,3.0,1,True,False
+162,1,Engineering,3.8,2.0,1,True,False
+163,1,Engineering,2.3,2.0,1,True,False
+164,1,Engineering,4.2,1.0,1,True,False
+165,1,Engineering,4.0,1.0,1,True,False
+166,1,Engineering,3.7,1.0,1,True,False
+167,1,Engineering,3.7,3.0,1,True,False
+168,1,Engineering,4.2,2.0,1,True,False
+169,1,Research,2.9,1.0,1,True,False
+170,48,Product,3.1875,1.9791666666666667,1,True,True
+171,1,Product,4.9,4.0,1,True,False
+172,1,Product,3.1,1.0,1,True,False
+173,1,Product,3.5,3.0,1,True,False
+174,1,Product,2.5,1.0,1,True,False
+175,1,Product,4.6,2.0,1,True,False
+176,1,Product,2.7,1.0,1,True,False
+177,1,Product,2.9,4.0,1,True,False
+178,1,Product,3.3,1.0,1,True,False
+179,1,Product,3.0,3.0,1,True,False
+180,1,Product,2.5,4.0,1,True,False
+181,1,Product,5.0,3.0,1,True,False
+182,1,Product,3.6,5.0,1,True,False
+183,2,Marketing,3.45,1.5,1,True,False
+184,3,Marketing,3.8333333333333335,2.3333333333333335,1,True,False
+185,12,Marketing,3.4583333333333335,1.8333333333333333,1,True,True
+186,1,Research,2.5,3.0,1,True,False
+187,1,Research,3.1,1.0,1,True,False
+188,3,Marketing,3.6,3.0,1,True,False
+189,39,Marketing,3.217948717948718,2.1025641025641026,1,True,True
+190,2,Marketing,3.4499999999999997,1.5,1,True,False
+191,3,Marketing,3.6999999999999997,1.3333333333333333,1,True,False
+192,1,Marketing,3.9,3.0,1,True,False
+193,1,Marketing,2.7,3.0,1,True,False
+194,2,Marketing,2.65,2.5,1,True,False
+195,1,Marketing,3.5,1.0,1,True,False
+196,1,Marketing,3.9,1.0,1,True,False
+197,1,Marketing,3.0,2.0,1,True,False
+198,1,Marketing,3.1,1.0,1,True,False
+199,1,Marketing,2.0,2.0,1,True,False
+200,1,Marketing,3.6,2.0,1,True,False
+201,2,Marketing,3.5,2.0,1,True,False
+202,1,Marketing,3.5,1.0,1,True,False
+203,2,Marketing,2.5,1.5,1,True,False
+204,1,Marketing,2.9,2.0,1,True,False
+205,1,Sales,3.9,3.0,1,True,False
+206,2,Sales,3.9,2.0,1,True,False
+207,1,Sales,4.5,3.0,1,True,False
+208,3,Sales,3.3666666666666667,2.0,1,True,False
+209,1,Sales,3.4,1.0,1,True,False
+210,1,Sales,2.3,3.0,1,True,False
+211,1,Sales,3.7,3.0,1,True,False
+212,2,Sales,3.45,1.5,1,True,False
+213,1,Sales,2.1,3.0,1,True,False
+214,1,Sales,2.2,1.0,1,True,False
+215,1,Sales,1.5,1.0,1,True,False
+216,1,Sales,5.0,2.0,1,True,False
+217,2,Sales,3.3499999999999996,2.5,1,True,False
+218,1,Sales,3.9,1.0,1,True,False
+219,1,Sales,5.0,3.0,1,True,False
+220,1,Sales,3.8,1.0,1,True,False
+221,1,Sales,1.9,1.0,1,True,False
+222,1,Sales,3.2,1.0,1,True,False
+223,2,Sales,3.65,2.0,1,True,False
+224,1,Sales,4.6,3.0,1,True,False
+225,1,Sales,4.1,2.0,1,True,False
+226,3,Sales,3.466666666666667,2.0,1,True,False
+227,4,Sales,3.6500000000000004,2.0,1,True,False
+228,4,Sales,3.3499999999999996,2.5,1,True,False
+229,2,Sales,3.15,2.5,1,True,False
+230,7,Sales,3.5714285714285716,2.5714285714285716,1,True,False
+231,1,Sales,4.0,1.0,1,True,False
+232,1,Sales,3.7,3.0,1,True,False
+233,1,Sales,3.7,1.0,1,True,False
+234,1,Sales,3.0,1.0,1,True,False
+235,1,Sales,4.5,3.0,1,True,False
+236,1,Sales,3.6,3.0,1,True,False
+237,2,Sales,3.4,2.5,1,True,False
+238,1,Sales,2.8,4.0,1,True,False
+239,1,Sales,4.5,3.0,1,True,False
+240,1,Sales,2.4,3.0,1,True,False
+241,1,Sales,4.5,3.0,1,True,False
+242,1,Sales,4.1,1.0,1,True,False
+243,1,Sales,4.4,1.0,1,True,False
+244,1,Sales,3.2,4.0,1,True,False
+245,1,Sales,3.3,3.0,1,True,False
+246,2,Sales,2.7,3.5,1,True,False
+247,1,Sales,2.8,2.0,1,True,False
+248,1,Sales,3.4,2.0,1,True,False
+249,1,Sales,2.5,1.0,1,True,False
+250,1,Sales,3.9,2.0,1,True,False
+251,2,Sales,3.55,2.0,1,True,False
+252,1,Sales,2.5,3.0,1,True,False
+253,1,Sales,2.5,1.0,1,True,False
+254,1,Sales,3.7,3.0,1,True,False
+255,1,Sales,2.7,2.0,1,True,False
+256,1,Sales,2.6,1.0,1,True,False
+257,1,Sales,3.1,1.0,1,True,False
+258,1,Sales,3.0,3.0,1,True,False
+259,1,Sales,2.8,3.0,1,True,False
+260,1,Sales,4.7,1.0,1,True,False
+261,2,Sales,2.85,3.0,1,True,False
+262,1,Sales,3.0,1.0,1,True,False
+263,2,Sales,3.0,2.0,1,True,False
+264,1,Sales,4.0,1.0,1,True,False
+265,1,Sales,4.0,2.0,1,True,False
+266,1,Sales,2.5,2.0,1,True,False
+267,3,Sales,3.033333333333333,1.3333333333333333,1,True,False
+268,1,Sales,2.7,1.0,1,True,False
+269,2,Sales,3.5,1.5,1,True,False
+270,1,Sales,4.5,3.0,1,True,False
+271,1,Sales,2.6,6.0,1,True,False
+272,2,Sales,2.95,1.5,1,True,False
+273,2,Sales,3.4,1.5,1,True,False
+274,1,Sales,3.0,3.0,1,True,False
+275,1,Sales,3.4,3.0,1,True,False
+276,1,Sales,2.6,3.0,1,True,False
+277,2,Sales,2.05,2.0,1,True,False
+278,1,Sales,3.4,4.0,1,True,False
+279,1,Sales,4.3,3.0,1,True,False
+280,1,Sales,2.8,1.0,1,True,False
+281,1,Sales,3.4,1.0,1,True,False
+282,2,Sales,3.55,1.5,1,True,False
+283,1,Sales,3.7,4.0,1,True,False
+284,1,Sales,4.5,4.0,1,True,False
+285,1,Sales,5.0,2.0,1,True,False
+286,1,Sales,2.9,3.0,1,True,False
+287,1,Sales,3.2,1.0,1,True,False
+288,1,Sales,3.6,2.0,1,True,False
+289,1,Sales,4.0,4.0,1,True,False
+290,1,Sales,3.1,2.0,1,True,False
+291,1,Sales,2.7,3.0,1,True,False
+292,1,Sales,4.7,4.0,1,True,False
+293,1,Sales,3.5,3.0,1,True,False
+294,1,Sales,4.4,2.0,1,True,False
+295,1,Sales,2.6,2.0,1,True,False
+296,1,Sales,3.0,1.0,1,True,False
+297,1,Sales,3.4,3.0,1,True,False
+298,1,Sales,3.8,2.0,1,True,False
+299,1,Sales,3.2,1.0,1,True,False
+300,1,Sales,3.5,1.0,1,True,False
+301,1,Sales,4.0,3.0,1,True,False
+302,1,Sales,2.1,2.0,1,True,False
+303,1,Sales,3.2,1.0,1,True,False
+304,1,Sales,3.9,1.0,1,True,False
+305,1,Sales,3.2,1.0,1,True,False
+306,1,Sales,3.1,2.0,1,True,False
+307,1,Sales,2.6,3.0,1,True,False
+308,1,Sales,2.2,2.0,1,True,False
+309,1,Sales,3.1,3.0,1,True,False
+310,1,Sales,3.8,3.0,1,True,False
+311,1,Sales,3.8,2.0,1,True,False
+312,1,Sales,2.7,1.0,1,True,False
+313,1,Sales,3.1,3.0,1,True,False
+314,1,Sales,3.2,1.0,1,True,False
+315,1,Sales,2.3,1.0,1,True,False
+316,1,Sales,3.0,3.0,1,True,False
+317,1,Sales,3.1,2.0,1,True,False
+318,1,Sales,4.6,2.0,1,True,False
+319,1,Sales,2.9,2.0,1,True,False
+320,1,Sales,2.9,2.0,1,True,False
+321,1,Sales,2.8,1.0,1,True,False
+322,45,Finance,3.3733333333333335,2.088888888888889,1,True,True
+323,7,Finance,3.528571428571429,2.0,1,True,False
+324,1,Finance,3.8,1.0,1,True,False
+325,1,Finance,3.8,3.0,1,True,False
+326,1,Finance,3.0,3.0,1,True,False
+327,1,Finance,4.1,4.0,1,True,False
+328,1,Finance,3.8,2.0,1,True,False
+329,1,Finance,3.0,2.0,1,True,False
+330,1,Finance,3.9,1.0,1,True,False
+331,1,Finance,3.2,1.0,1,True,False
+332,40,HR,3.2,1.85,1,True,True
+333,9,Operations,3.4222222222222225,2.0,1,True,False
+334,5,Operations,3.38,2.2,1,True,False
+335,8,Operations,3.3874999999999997,1.625,1,True,False
+336,1,Operations,3.3,2.0,1,True,False
+337,3,Operations,3.0666666666666664,2.0,1,True,False
+338,2,Operations,3.5,2.0,1,True,False
+339,4,Operations,3.675,3.25,1,True,False
+340,1,Operations,3.1,2.0,1,True,False
+341,2,Operations,4.15,1.0,1,True,False
+342,1,Operations,3.7,3.0,1,True,False
+343,2,Operations,3.25,1.0,1,True,False
+344,1,Operations,5.0,2.0,1,True,False
+345,14,Operations,3.292857142857143,1.7857142857142858,1,True,True
+346,3,Operations,4.033333333333333,2.6666666666666665,1,True,False
+347,1,Operations,2.7,6.0,1,True,False
+348,1,Operations,4.0,3.0,1,True,False
+349,2,Operations,2.8499999999999996,2.0,1,True,False
+350,4,Operations,3.425,1.0,1,True,False
+351,3,Operations,2.8666666666666667,1.6666666666666667,1,True,False
+352,1,Operations,4.6,1.0,1,True,False
+353,1,Operations,3.6,2.0,1,True,False
+354,1,Operations,3.9,4.0,1,True,False
+355,1,Operations,3.6,1.0,1,True,False
+356,1,Operations,3.2,2.0,1,True,False
+357,2,Operations,2.9000000000000004,3.0,1,True,False
+358,1,Operations,3.0,2.0,1,True,False
+359,1,Operations,3.1,1.0,1,True,False
+360,2,Operations,4.15,1.0,1,True,False
+361,4,Operations,3.15,1.5,1,True,False
+362,2,Operations,3.55,2.0,1,True,False
+363,1,Operations,3.9,1.0,1,True,False
+364,1,Operations,2.8,1.0,1,True,False
+365,1,Operations,3.4,1.0,1,True,False
+366,2,Operations,4.1,1.5,1,True,False
+367,1,Operations,3.3,1.0,1,True,False
+368,1,Operations,2.8,2.0,1,True,False
+369,1,Operations,3.5,4.0,1,True,False
+370,1,Operations,3.8,4.0,1,True,False
+371,1,Operations,3.0,4.0,1,True,False
+372,1,Operations,4.3,2.0,1,True,False
+373,1,Operations,3.0,2.0,1,True,False
+374,1,Operations,2.6,1.0,1,True,False
+375,1,Operations,3.4,3.0,1,True,False
+376,1,Operations,3.4,1.0,1,True,False
+377,1,Operations,3.3,2.0,1,True,False
+378,51,Data & Analytics,3.3215686274509806,1.9803921568627452,1,True,True
+379,1,Data & Analytics,2.3,2.0,1,True,False
+380,3,Data & Analytics,2.6999999999999997,2.3333333333333335,1,True,False
+381,1,Data & Analytics,3.5,2.0,1,True,False
+382,1,Data & Analytics,3.8,3.0,1,True,False
+383,1,Data & Analytics,2.2,1.0,1,True,False
+384,1,Data & Analytics,3.9,1.0,1,True,False
+385,1,Data & Analytics,2.7,2.0,1,True,False
+386,30,Legal,3.55,2.1,1,True,True
+387,1,Customer Success,3.0,3.0,1,True,False
+388,3,Customer Success,3.7999999999999994,1.3333333333333333,1,True,False
+389,1,Customer Success,3.7,1.0,1,True,False
+390,55,Customer Success,3.458181818181818,2.3454545454545452,1,True,True
+391,2,Customer Success,4.25,2.5,1,True,False
+392,6,Customer Success,3.15,2.3333333333333335,1,True,False
+393,1,Customer Success,2.8,1.0,1,True,False
+394,2,Customer Success,2.9000000000000004,2.0,1,True,False
+395,1,Customer Success,3.5,3.0,1,True,False
+396,1,Customer Success,2.9,2.0,1,True,False
+397,1,Customer Success,3.1,2.0,1,True,False
+398,2,Customer Success,3.3,1.0,1,True,False
+399,1,Customer Success,3.0,3.0,1,True,False
+400,1,Customer Success,1.3,1.0,1,True,False
+401,1,Customer Success,4.2,3.0,1,True,False
+402,1,Customer Success,5.0,2.0,1,True,False
+403,2,IT Infrastructure,3.9499999999999997,2.5,1,True,False
+404,1,Research,2.9,3.0,1,True,False
+405,1,IT Infrastructure,4.0,3.0,1,True,False
+406,2,IT Infrastructure,3.75,2.5,1,True,False
+407,42,IT Infrastructure,3.316666666666667,2.0238095238095237,1,True,True
+408,1,Research,4.5,4.0,1,True,False
+409,2,IT Infrastructure,2.7,2.0,1,True,False
+410,1,IT Infrastructure,2.6,2.0,1,True,False
+411,1,IT Infrastructure,2.8,3.0,1,True,False
+412,1,IT Infrastructure,4.8,4.0,1,True,False
+413,2,IT Infrastructure,3.9499999999999997,3.0,1,True,False
+414,1,IT Infrastructure,4.9,1.0,1,True,False
+415,1,IT Infrastructure,3.8,1.0,1,True,False
+416,1,IT Infrastructure,2.3,2.0,1,True,False
+417,2,IT Infrastructure,4.35,1.5,1,True,False
+418,1,IT Infrastructure,3.0,1.0,1,True,False
+419,1,IT Infrastructure,1.6,1.0,1,True,False
+420,1,IT Infrastructure,2.8,1.0,1,True,False
+421,1,IT Infrastructure,4.0,3.0,1,True,False
+422,1,IT Infrastructure,2.9,3.0,1,True,False
+423,1,IT Infrastructure,3.8,2.0,1,True,False
+424,1,IT Infrastructure,3.6,3.0,1,True,False
+425,2,IT Infrastructure,3.4,1.5,1,True,False
+426,1,IT Infrastructure,4.0,1.0,1,True,False
+427,1,IT Infrastructure,2.8,4.0,1,True,False
+428,54,Research,3.4870370370370374,2.0555555555555554,1,True,True
+429,1,Research,3.0,1.0,1,True,False
+430,1,Research,2.9,4.0,1,True,False
+431,1,Research,3.2,1.0,1,True,False
+432,1,Research,3.8,3.0,1,True,False
+433,4,Research,2.975,2.25,1,True,False
+434,1,Research,3.6,1.0,1,True,False
+435,2,Research,3.2,2.5,1,True,False
