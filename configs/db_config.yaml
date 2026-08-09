@@ -1,0 +1,6 @@
+database:
+  host: localhost
+  port: 5432
+  name: orgpulse
+  user: postgres
+  password: Aremania12
