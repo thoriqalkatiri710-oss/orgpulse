@@ -1,0 +1,2985 @@
+employee_id,training_name,category,training_date,duration_hours,completion_rate,assessment_score
+EMP00001,Code of Conduct,compliance,2024-06-09,16,0.84,57.3
+EMP00002,Change Management,leadership,2024-11-09,40,0.8,85.6
+EMP00003,Code of Conduct,compliance,2024-10-11,24,0.76,92.0
+EMP00003,Communication,soft_skills,2024-06-20,16,0.93,93.1
+EMP00003,Time Management,soft_skills,2024-10-30,24,0.81,78.2
+EMP00004,Strategic Thinking,leadership,2024-03-30,4,0.88,92.7
+EMP00005,Negotiation,soft_skills,2024-07-21,40,0.89,89.9
+EMP00005,Cybersecurity Basics,technical,2024-04-12,40,0.87,83.9
+EMP00005,Communication,soft_skills,2024-02-02,40,0.81,81.5
+EMP00006,Negotiation,soft_skills,2024-05-13,40,0.89,48.7
+EMP00007,Time Management,soft_skills,2024-06-13,24,0.85,87.0
+EMP00007,Python for Data,technical,2024-10-03,4,0.79,64.4
+EMP00008,SQL Advanced,technical,2024-04-19,40,0.94,64.6
+EMP00008,Cybersecurity Basics,technical,2024-09-01,16,0.63,97.8
+EMP00008,Data Privacy,compliance,2024-01-04,40,0.82,94.6
+EMP00008,SQL Advanced,technical,2024-08-12,40,0.82,78.6
+EMP00009,Data Privacy,compliance,2024-10-22,40,0.71,78.8
+EMP00009,Change Management,leadership,2024-12-28,4,0.81,88.7
+EMP00010,Anti-Fraud,compliance,2024-01-12,4,0.96,89.9
+EMP00010,Time Management,soft_skills,2024-07-01,16,0.82,55.6
+EMP00010,Cloud Computing,technical,2024-06-01,4,0.8,91.2
+EMP00011,Cloud Computing,technical,2024-12-04,8,0.66,79.2
+EMP00011,Anti-Fraud,compliance,2024-08-19,4,0.72,90.6
+EMP00011,Time Management,soft_skills,2024-01-07,8,0.92,35.1
+EMP00012,SQL Advanced,technical,2024-07-12,8,0.98,36.9
+EMP00012,Anti-Fraud,compliance,2024-12-03,4,0.57,86.3
+EMP00012,Leadership Fundamental,leadership,2024-06-05,16,0.78,79.6
+EMP00013,Health & Safety,compliance,2024-11-06,24,0.5,91.7
+EMP00013,Communication,soft_skills,2024-01-19,8,0.74,72.7
+EMP00013,Code of Conduct,compliance,2024-02-19,24,0.61,83.2
+EMP00013,Leadership Fundamental,leadership,2024-06-01,16,0.82,46.9
+EMP00014,Data Privacy,compliance,2024-03-14,40,0.69,84.5
+EMP00014,Python for Data,technical,2024-08-20,4,0.85,97.0
+EMP00015,Anti-Fraud,compliance,2024-10-19,4,0.93,60.6
+EMP00015,Leadership Fundamental,leadership,2024-07-27,16,0.62,44.4
+EMP00015,Strategic Thinking,leadership,2024-02-02,24,0.89,75.4
+EMP00015,Strategic Thinking,leadership,2024-04-24,24,0.69,92.5
+EMP00015,Strategic Thinking,leadership,2024-06-23,16,0.72,98.6
+EMP00016,Cloud Computing,technical,2024-12-19,16,0.96,62.0
+EMP00017,SQL Advanced,technical,2024-12-29,24,0.77,59.7
+EMP00017,Health & Safety,compliance,2024-01-11,4,0.75,82.2
+EMP00017,Health & Safety,compliance,2024-08-09,24,0.98,58.9
+EMP00018,Leadership Fundamental,leadership,2024-07-19,24,0.79,90.8
+EMP00018,SQL Advanced,technical,2024-01-26,24,0.96,96.6
+EMP00018,Leadership Fundamental,leadership,2024-04-02,24,0.87,61.7
+EMP00018,Strategic Thinking,leadership,2024-06-17,16,0.76,52.0
+EMP00018,Data Privacy,compliance,2024-12-20,16,0.84,95.9
+EMP00019,SQL Advanced,technical,2024-06-01,16,0.95,65.9
+EMP00019,Presentation,soft_skills,2024-07-19,40,0.39,78.7
+EMP00019,Presentation,soft_skills,2024-10-18,40,0.77,79.4
+EMP00019,Python for Data,technical,2024-09-28,24,0.95,36.6
+EMP00019,SQL Advanced,technical,2024-04-23,8,0.87,74.3
+EMP00020,Change Management,leadership,2024-08-25,4,0.95,69.1
+EMP00021,Coaching Skills,leadership,2024-06-20,24,0.85,66.9
+EMP00022,Python for Data,technical,2024-05-28,24,0.66,88.7
+EMP00022,Data Privacy,compliance,2024-05-15,16,0.81,88.3
+EMP00023,Change Management,leadership,2024-07-12,8,0.72,84.6
+EMP00023,Cloud Computing,technical,2024-06-12,4,0.84,60.2
+EMP00023,Time Management,soft_skills,2024-10-04,16,0.94,93.1
+EMP00024,Code of Conduct,compliance,2024-12-20,24,0.87,90.4
+EMP00024,Data Privacy,compliance,2024-01-28,24,0.97,90.5
+EMP00024,Change Management,leadership,2024-12-06,24,0.78,77.9
+EMP00024,Change Management,leadership,2024-06-10,4,0.66,72.9
+EMP00024,Time Management,soft_skills,2024-10-11,40,0.99,78.6
+EMP00025,Health & Safety,compliance,2024-03-09,16,0.96,80.3
+EMP00025,Anti-Fraud,compliance,2024-12-30,8,0.71,89.6
+EMP00025,Strategic Thinking,leadership,2024-01-07,40,0.59,81.7
+EMP00026,Leadership Fundamental,leadership,2024-03-19,16,0.79,93.0
+EMP00026,Python for Data,technical,2024-08-19,16,0.88,87.1
+EMP00026,Time Management,soft_skills,2024-06-04,24,0.69,77.5
+EMP00026,Health & Safety,compliance,2024-12-25,16,0.98,79.2
+EMP00026,Presentation,soft_skills,2024-06-28,8,0.94,72.8
+EMP00027,Python for Data,technical,2024-07-04,16,0.64,97.9
+EMP00028,Code of Conduct,compliance,2024-06-29,16,0.81,73.3
+EMP00028,Cybersecurity Basics,technical,2024-09-14,24,0.73,92.7
+EMP00028,Leadership Fundamental,leadership,2024-12-29,40,0.81,89.5
+EMP00028,Health & Safety,compliance,2024-02-11,24,0.79,76.5
+EMP00028,Anti-Fraud,compliance,2024-11-04,24,0.78,84.3
+EMP00029,Cybersecurity Basics,technical,2024-02-22,8,0.74,63.8
+EMP00029,Cloud Computing,technical,2024-11-23,24,0.93,58.8
+EMP00030,Python for Data,technical,2024-08-14,24,0.76,61.1
+EMP00031,Presentation,soft_skills,2024-10-03,4,0.71,86.5
+EMP00031,Code of Conduct,compliance,2024-05-24,24,0.93,93.4
+EMP00031,Cloud Computing,technical,2024-05-18,24,0.61,76.0
+EMP00031,Data Privacy,compliance,2024-09-28,40,0.8,37.3
+EMP00032,Coaching Skills,leadership,2024-05-03,8,0.91,74.8
+EMP00032,SQL Advanced,technical,2024-08-01,40,0.96,90.0
+EMP00032,SQL Advanced,technical,2024-03-30,24,0.92,57.7
+EMP00032,Change Management,leadership,2024-05-09,40,0.7,47.2
+EMP00032,Leadership Fundamental,leadership,2024-01-30,8,0.79,84.1
+EMP00033,Change Management,leadership,2024-05-15,24,0.86,96.0
+EMP00033,Anti-Fraud,compliance,2024-11-04,40,0.7,92.6
+EMP00033,Negotiation,soft_skills,2024-03-31,4,0.82,78.4
+EMP00033,Health & Safety,compliance,2024-06-07,40,0.77,91.8
+EMP00034,Anti-Fraud,compliance,2024-01-27,16,0.77,74.9
+EMP00034,Cybersecurity Basics,technical,2024-09-05,8,0.37,78.7
+EMP00034,Cybersecurity Basics,technical,2024-04-14,24,0.83,80.4
+EMP00034,Coaching Skills,leadership,2024-02-25,40,0.84,50.5
+EMP00034,Negotiation,soft_skills,2024-02-03,24,0.96,93.9
+EMP00035,Presentation,soft_skills,2024-12-28,24,0.69,81.3
+EMP00035,Strategic Thinking,leadership,2024-07-04,24,0.83,77.3
+EMP00035,Leadership Fundamental,leadership,2024-08-27,4,0.95,79.4
+EMP00035,Health & Safety,compliance,2024-04-10,24,0.76,85.4
+EMP00036,Presentation,soft_skills,2024-06-09,24,0.67,80.6
+EMP00036,Coaching Skills,leadership,2024-09-14,16,0.93,88.3
+EMP00037,Data Privacy,compliance,2024-11-03,4,0.86,61.5
+EMP00037,Coaching Skills,leadership,2024-04-04,8,0.67,87.1
+EMP00037,Anti-Fraud,compliance,2024-11-02,16,0.93,48.4
+EMP00037,Health & Safety,compliance,2024-12-06,8,0.89,93.2
+EMP00037,Strategic Thinking,leadership,2024-03-05,24,0.8,72.9
+EMP00038,Negotiation,soft_skills,2024-03-17,4,0.75,71.8
+EMP00038,Health & Safety,compliance,2024-03-02,16,0.73,74.3
+EMP00038,Leadership Fundamental,leadership,2024-02-01,16,0.79,79.2
+EMP00038,Leadership Fundamental,leadership,2024-06-14,40,0.9,70.9
+EMP00039,Anti-Fraud,compliance,2024-07-03,24,0.99,70.8
+EMP00039,Python for Data,technical,2024-03-05,40,0.77,81.8
+EMP00040,Health & Safety,compliance,2024-04-01,24,0.78,33.3
+EMP00040,Leadership Fundamental,leadership,2024-04-15,16,0.97,86.4
+EMP00040,Data Privacy,compliance,2024-11-04,4,0.75,81.4
+EMP00040,Anti-Fraud,compliance,2024-06-22,4,0.69,95.6
+EMP00041,Cybersecurity Basics,technical,2024-02-06,24,0.67,84.5
+EMP00042,Coaching Skills,leadership,2024-09-12,4,0.88,96.0
+EMP00042,Cybersecurity Basics,technical,2024-06-10,4,0.77,87.2
+EMP00042,Health & Safety,compliance,2024-04-15,40,0.92,87.5
+EMP00042,Presentation,soft_skills,2024-07-29,8,0.71,71.9
+EMP00042,Health & Safety,compliance,2024-05-20,16,0.69,86.8
+EMP00043,Strategic Thinking,leadership,2024-02-04,24,0.78,87.4
+EMP00044,Cloud Computing,technical,2024-02-07,40,0.69,81.1
+EMP00044,Code of Conduct,compliance,2024-03-15,16,0.98,92.5
+EMP00044,Data Privacy,compliance,2024-02-24,16,0.9,94.8
+EMP00045,Cybersecurity Basics,technical,2024-08-04,24,0.73,99.0
+EMP00045,Anti-Fraud,compliance,2024-02-13,24,0.82,93.0
+EMP00045,Code of Conduct,compliance,2024-02-29,16,0.95,80.9
+EMP00045,Coaching Skills,leadership,2024-05-05,16,0.71,45.6
+EMP00045,Data Privacy,compliance,2024-06-05,16,0.89,67.3
+EMP00046,Leadership Fundamental,leadership,2024-12-07,4,0.81,80.2
+EMP00046,Data Privacy,compliance,2024-07-06,8,0.78,46.8
+EMP00046,Time Management,soft_skills,2024-12-02,24,0.97,77.4
+EMP00046,Strategic Thinking,leadership,2024-03-12,8,0.6,81.1
+EMP00046,Cybersecurity Basics,technical,2024-04-13,40,0.84,74.1
+EMP00047,Cloud Computing,technical,2024-01-18,8,0.87,75.3
+EMP00048,Code of Conduct,compliance,2024-06-21,8,0.5,83.1
+EMP00048,Cloud Computing,technical,2024-02-29,16,0.82,74.3
+EMP00048,Anti-Fraud,compliance,2024-12-07,16,0.73,24.2
+EMP00048,Anti-Fraud,compliance,2024-08-06,40,0.75,90.9
+EMP00048,Health & Safety,compliance,2024-03-11,40,0.63,73.0
+EMP00049,Code of Conduct,compliance,2024-05-15,16,0.84,61.6
+EMP00049,Coaching Skills,leadership,2024-08-16,4,0.67,67.4
+EMP00049,Anti-Fraud,compliance,2024-11-18,24,0.91,86.7
+EMP00049,Strategic Thinking,leadership,2024-07-19,16,0.89,87.9
+EMP00049,Presentation,soft_skills,2024-05-11,40,0.78,87.1
+EMP00050,Presentation,soft_skills,2024-05-13,16,0.63,90.7
+EMP00050,Change Management,leadership,2024-09-16,4,0.67,43.9
+EMP00050,Code of Conduct,compliance,2024-01-26,40,0.87,73.4
+EMP00050,SQL Advanced,technical,2024-12-29,16,0.84,95.3
+EMP00051,Health & Safety,compliance,2024-05-27,8,0.83,74.2
+EMP00051,Health & Safety,compliance,2024-10-24,4,0.9,65.6
+EMP00051,Strategic Thinking,leadership,2024-05-18,8,0.72,81.6
+EMP00051,Health & Safety,compliance,2024-02-02,4,0.99,91.6
+EMP00052,Negotiation,soft_skills,2024-01-27,8,0.81,49.2
+EMP00053,Python for Data,technical,2024-03-08,16,0.86,79.8
+EMP00054,Cybersecurity Basics,technical,2024-04-03,4,0.97,71.5
+EMP00054,Change Management,leadership,2024-11-09,40,0.71,63.4
+EMP00054,Cybersecurity Basics,technical,2024-03-09,16,0.77,97.0
+EMP00054,Anti-Fraud,compliance,2024-10-30,24,0.68,64.9
+EMP00054,Strategic Thinking,leadership,2024-10-24,40,0.94,89.7
+EMP00055,Anti-Fraud,compliance,2024-02-04,24,0.8,53.3
+EMP00056,SQL Advanced,technical,2024-06-15,8,0.92,48.3
+EMP00056,Coaching Skills,leadership,2024-11-12,4,0.81,71.5
+EMP00057,Presentation,soft_skills,2024-10-11,16,0.89,75.1
+EMP00057,Communication,soft_skills,2024-06-13,4,0.85,91.6
+EMP00057,Strategic Thinking,leadership,2024-12-02,4,0.93,54.1
+EMP00058,Time Management,soft_skills,2024-04-22,24,0.79,82.7
+EMP00059,Leadership Fundamental,leadership,2024-03-02,24,0.82,78.3
+EMP00060,Health & Safety,compliance,2024-02-10,8,0.88,62.8
+EMP00060,Strategic Thinking,leadership,2024-07-23,24,0.9,70.2
+EMP00060,Anti-Fraud,compliance,2024-12-16,16,0.82,83.8
+EMP00060,Code of Conduct,compliance,2024-09-01,16,0.63,49.0
+EMP00060,Presentation,soft_skills,2024-08-23,16,0.96,79.5
+EMP00061,Python for Data,technical,2024-12-09,8,0.74,71.4
+EMP00061,Leadership Fundamental,leadership,2024-10-02,8,0.98,69.4
+EMP00061,Leadership Fundamental,leadership,2024-07-11,8,0.71,55.7
+EMP00061,Presentation,soft_skills,2024-12-25,24,0.8,78.4
+EMP00061,Negotiation,soft_skills,2024-09-30,16,0.76,64.3
+EMP00062,Python for Data,technical,2024-09-07,4,0.83,82.5
+EMP00062,Python for Data,technical,2024-06-13,40,0.88,81.9
+EMP00062,Strategic Thinking,leadership,2024-03-12,16,0.89,55.5
+EMP00062,Data Privacy,compliance,2024-05-11,4,0.48,76.8
+EMP00062,Time Management,soft_skills,2024-09-10,8,0.92,93.4
+EMP00063,Python for Data,technical,2024-10-27,8,0.71,64.1
+EMP00064,Cybersecurity Basics,technical,2024-01-23,24,0.7,24.0
+EMP00064,Negotiation,soft_skills,2024-09-20,16,0.96,83.1
+EMP00064,Anti-Fraud,compliance,2024-02-05,8,0.83,94.8
+EMP00064,Negotiation,soft_skills,2024-09-01,24,0.79,39.3
+EMP00064,SQL Advanced,technical,2024-01-13,16,0.66,76.2
+EMP00065,Coaching Skills,leadership,2024-02-21,16,0.75,77.3
+EMP00065,SQL Advanced,technical,2024-01-12,16,0.82,84.5
+EMP00065,Python for Data,technical,2024-05-17,24,0.84,64.0
+EMP00065,Coaching Skills,leadership,2024-01-09,16,0.83,79.6
+EMP00066,Code of Conduct,compliance,2024-01-29,16,0.7,94.6
+EMP00066,Coaching Skills,leadership,2024-01-17,4,0.8,81.0
+EMP00066,Data Privacy,compliance,2024-05-30,40,0.95,60.7
+EMP00066,Presentation,soft_skills,2024-06-17,4,0.7,53.3
+EMP00067,Presentation,soft_skills,2024-06-19,4,0.62,86.4
+EMP00067,Health & Safety,compliance,2024-03-28,4,0.89,40.7
+EMP00068,Cloud Computing,technical,2024-01-27,40,0.68,92.4
+EMP00068,Coaching Skills,leadership,2024-12-23,8,0.83,62.9
+EMP00068,Change Management,leadership,2024-12-06,8,0.88,72.4
+EMP00068,SQL Advanced,technical,2024-06-28,4,0.72,97.2
+EMP00069,Cloud Computing,technical,2024-10-08,24,0.91,67.9
+EMP00070,Data Privacy,compliance,2024-11-30,16,0.79,89.6
+EMP00070,Strategic Thinking,leadership,2024-06-25,40,0.88,82.8
+EMP00071,Anti-Fraud,compliance,2024-02-21,8,0.8,68.8
+EMP00071,Coaching Skills,leadership,2024-01-22,8,0.81,92.4
+EMP00071,Coaching Skills,leadership,2024-03-08,16,0.76,73.2
+EMP00072,Anti-Fraud,compliance,2024-04-29,8,0.95,86.6
+EMP00073,Coaching Skills,leadership,2024-09-14,16,0.88,89.2
+EMP00073,Presentation,soft_skills,2024-02-19,40,0.72,65.5
+EMP00073,Cloud Computing,technical,2024-04-05,40,0.9,62.8
+EMP00073,Anti-Fraud,compliance,2024-11-28,16,0.88,92.3
+EMP00073,Code of Conduct,compliance,2024-10-01,40,0.95,90.6
+EMP00074,Cloud Computing,technical,2024-01-08,4,0.82,80.9
+EMP00074,Change Management,leadership,2024-03-01,24,0.85,55.3
+EMP00074,Cloud Computing,technical,2024-04-24,24,0.61,68.7
+EMP00074,Code of Conduct,compliance,2024-10-28,4,0.77,71.8
+EMP00075,Python for Data,technical,2024-10-05,4,0.61,99.8
+EMP00075,Leadership Fundamental,leadership,2024-03-13,8,0.62,74.4
+EMP00076,Data Privacy,compliance,2024-07-07,24,0.82,59.7
+EMP00076,Time Management,soft_skills,2024-09-25,8,0.85,80.9
+EMP00076,Cloud Computing,technical,2024-04-16,16,0.8,72.6
+EMP00076,Data Privacy,compliance,2024-09-11,8,0.87,70.1
+EMP00076,Cloud Computing,technical,2024-06-08,4,0.92,75.9
+EMP00077,SQL Advanced,technical,2024-09-30,16,0.88,84.4
+EMP00077,Cloud Computing,technical,2024-02-15,16,0.79,63.8
+EMP00078,Data Privacy,compliance,2024-03-12,16,0.95,79.8
+EMP00078,Python for Data,technical,2024-11-01,4,0.88,66.9
+EMP00078,Code of Conduct,compliance,2024-06-19,8,0.72,95.7
+EMP00078,Coaching Skills,leadership,2024-09-09,16,0.73,76.7
+EMP00078,Code of Conduct,compliance,2024-04-14,24,0.74,65.0
+EMP00079,Code of Conduct,compliance,2024-09-04,40,0.95,90.7
+EMP00079,Health & Safety,compliance,2024-11-11,24,0.44,89.6
+EMP00079,Cybersecurity Basics,technical,2024-03-26,40,0.86,64.2
+EMP00079,Health & Safety,compliance,2024-12-03,24,0.92,92.6
+EMP00079,Data Privacy,compliance,2024-10-29,4,0.72,85.5
+EMP00080,Leadership Fundamental,leadership,2024-11-29,16,0.76,50.0
+EMP00080,Code of Conduct,compliance,2024-12-11,40,0.75,74.6
+EMP00080,Communication,soft_skills,2024-04-30,4,0.88,64.1
+EMP00081,Python for Data,technical,2024-07-11,40,0.89,85.1
+EMP00081,Coaching Skills,leadership,2024-04-14,40,0.85,66.9
+EMP00081,Cloud Computing,technical,2024-08-08,4,0.58,78.0
+EMP00081,Data Privacy,compliance,2024-07-17,4,0.43,48.5
+EMP00081,Data Privacy,compliance,2024-01-02,4,0.86,81.2
+EMP00082,Data Privacy,compliance,2024-07-26,40,0.68,69.7
+EMP00082,Leadership Fundamental,leadership,2024-01-19,8,0.96,97.1
+EMP00082,SQL Advanced,technical,2024-11-29,40,0.43,54.0
+EMP00083,Communication,soft_skills,2024-06-03,40,0.79,86.3
+EMP00083,Python for Data,technical,2024-06-05,24,0.56,70.1
+EMP00083,Time Management,soft_skills,2024-11-17,4,0.82,95.4
+EMP00083,Health & Safety,compliance,2024-12-04,8,0.71,59.6
+EMP00083,Code of Conduct,compliance,2024-10-21,8,0.94,94.9
+EMP00084,Cloud Computing,technical,2024-08-26,40,0.68,90.6
+EMP00084,Code of Conduct,compliance,2024-03-01,40,0.89,60.5
+EMP00084,Python for Data,technical,2024-11-06,24,0.89,91.1
+EMP00084,SQL Advanced,technical,2024-10-19,40,0.87,65.0
+EMP00085,SQL Advanced,technical,2024-07-02,40,0.9,74.1
+EMP00085,Health & Safety,compliance,2024-10-13,24,0.86,86.8
+EMP00085,Change Management,leadership,2024-03-07,8,0.78,73.4
+EMP00085,Anti-Fraud,compliance,2024-03-16,4,0.85,66.4
+EMP00085,Time Management,soft_skills,2024-11-13,24,0.85,72.7
+EMP00086,Presentation,soft_skills,2024-04-19,24,1.0,77.9
+EMP00086,Negotiation,soft_skills,2024-10-14,4,0.81,95.6
+EMP00086,Cloud Computing,technical,2024-09-15,4,0.82,39.7
+EMP00086,Negotiation,soft_skills,2024-01-04,16,0.83,82.7
+EMP00086,Presentation,soft_skills,2024-03-14,40,0.91,74.4
+EMP00087,Change Management,leadership,2024-08-05,24,0.69,79.6
+EMP00087,Python for Data,technical,2024-03-21,16,0.54,85.8
+EMP00087,Coaching Skills,leadership,2024-04-08,16,0.94,80.7
+EMP00088,Communication,soft_skills,2024-04-23,40,0.83,92.2
+EMP00088,Data Privacy,compliance,2024-07-10,4,0.88,62.3
+EMP00088,Change Management,leadership,2024-06-07,8,0.97,78.1
+EMP00089,Negotiation,soft_skills,2024-01-01,16,0.68,50.3
+EMP00089,Negotiation,soft_skills,2024-02-16,16,0.57,53.5
+EMP00090,Presentation,soft_skills,2024-06-25,8,0.79,67.6
+EMP00090,Strategic Thinking,leadership,2024-02-13,16,0.84,56.2
+EMP00090,Strategic Thinking,leadership,2024-08-08,4,0.88,77.0
+EMP00090,Strategic Thinking,leadership,2024-12-03,24,0.51,78.6
+EMP00090,Communication,soft_skills,2024-08-30,8,0.74,69.4
+EMP00091,Health & Safety,compliance,2024-02-26,4,0.88,87.6
+EMP00091,Change Management,leadership,2024-02-06,40,0.93,73.4
+EMP00091,Coaching Skills,leadership,2024-02-16,24,0.95,98.9
+EMP00091,Negotiation,soft_skills,2024-02-06,40,0.95,86.6
+EMP00092,SQL Advanced,technical,2024-02-18,8,0.96,70.0
+EMP00092,Leadership Fundamental,leadership,2024-07-13,4,0.76,87.5
+EMP00092,Change Management,leadership,2024-03-31,4,0.82,85.7
+EMP00093,Leadership Fundamental,leadership,2024-07-27,4,0.83,86.4
+EMP00093,Presentation,soft_skills,2024-03-24,8,0.68,84.4
+EMP00093,SQL Advanced,technical,2024-06-12,8,0.85,83.4
+EMP00094,Data Privacy,compliance,2024-03-25,16,0.73,82.2
+EMP00094,SQL Advanced,technical,2024-04-25,4,0.46,61.7
+EMP00094,Cybersecurity Basics,technical,2024-03-28,8,0.65,91.9
+EMP00094,Presentation,soft_skills,2024-05-22,40,0.64,89.4
+EMP00094,Anti-Fraud,compliance,2024-03-21,4,0.77,71.6
+EMP00095,Strategic Thinking,leadership,2024-08-23,8,0.86,78.4
+EMP00095,Time Management,soft_skills,2024-09-02,40,0.78,93.1
+EMP00095,Coaching Skills,leadership,2024-02-17,16,0.85,71.9
+EMP00096,Communication,soft_skills,2024-06-19,40,0.77,66.6
+EMP00097,Communication,soft_skills,2024-11-09,40,0.95,70.0
+EMP00098,Health & Safety,compliance,2024-01-20,24,0.93,74.1
+EMP00099,Cybersecurity Basics,technical,2024-08-08,4,0.95,83.2
+EMP00099,Health & Safety,compliance,2024-04-03,40,0.7,73.2
+EMP00099,Negotiation,soft_skills,2024-01-10,8,0.72,73.9
+EMP00100,Change Management,leadership,2024-02-01,4,0.68,87.9
+EMP00100,Cloud Computing,technical,2024-04-02,8,0.87,81.0
+EMP00100,Time Management,soft_skills,2024-12-24,24,0.79,87.1
+EMP00101,Python for Data,technical,2024-07-08,8,0.73,77.6
+EMP00101,Strategic Thinking,leadership,2024-12-01,8,0.61,95.5
+EMP00102,Coaching Skills,leadership,2024-10-22,8,0.93,94.0
+EMP00102,Leadership Fundamental,leadership,2024-12-23,24,0.94,48.9
+EMP00102,Cloud Computing,technical,2024-05-31,16,0.91,87.4
+EMP00102,SQL Advanced,technical,2024-02-19,16,0.86,60.3
+EMP00102,Negotiation,soft_skills,2024-12-15,16,0.79,69.5
+EMP00103,Change Management,leadership,2024-12-30,16,0.92,75.7
+EMP00103,Time Management,soft_skills,2024-08-13,4,0.94,72.6
+EMP00103,Python for Data,technical,2024-10-19,40,0.7,70.4
+EMP00104,Python for Data,technical,2024-10-21,8,0.91,85.4
+EMP00104,Python for Data,technical,2024-11-18,24,0.9,96.1
+EMP00104,SQL Advanced,technical,2024-07-24,24,0.73,83.4
+EMP00105,Communication,soft_skills,2024-04-24,8,0.82,73.1
+EMP00105,Coaching Skills,leadership,2024-07-04,8,0.72,77.4
+EMP00105,Code of Conduct,compliance,2024-03-14,4,0.83,66.3
+EMP00105,Leadership Fundamental,leadership,2024-09-27,16,0.97,79.0
+EMP00105,Communication,soft_skills,2024-11-16,24,0.78,78.2
+EMP00106,Coaching Skills,leadership,2024-01-24,40,0.8,84.8
+EMP00107,SQL Advanced,technical,2024-07-11,24,0.7,83.2
+EMP00107,Time Management,soft_skills,2024-04-30,24,0.99,80.2
+EMP00108,Cloud Computing,technical,2024-10-23,16,0.96,68.4
+EMP00109,Anti-Fraud,compliance,2024-11-25,8,0.6,86.0
+EMP00109,SQL Advanced,technical,2024-04-19,24,0.86,84.2
+EMP00110,Change Management,leadership,2024-01-30,40,0.91,39.5
+EMP00110,Presentation,soft_skills,2024-05-14,4,0.97,73.5
+EMP00110,Change Management,leadership,2024-12-19,24,0.83,62.3
+EMP00111,Strategic Thinking,leadership,2024-12-16,40,0.71,76.6
+EMP00111,Code of Conduct,compliance,2024-07-09,40,0.89,88.1
+EMP00111,Coaching Skills,leadership,2024-01-18,8,0.73,83.3
+EMP00112,Change Management,leadership,2024-08-26,16,0.96,62.7
+EMP00112,Change Management,leadership,2024-01-15,24,0.89,95.4
+EMP00112,Negotiation,soft_skills,2024-04-27,40,0.71,74.1
+EMP00112,Cybersecurity Basics,technical,2024-08-06,8,0.91,74.7
+EMP00113,Code of Conduct,compliance,2024-10-16,40,0.73,82.0
+EMP00114,SQL Advanced,technical,2024-07-26,40,0.9,80.5
+EMP00114,Leadership Fundamental,leadership,2024-07-01,4,0.9,36.6
+EMP00115,Strategic Thinking,leadership,2024-08-12,8,0.84,68.2
+EMP00115,Cloud Computing,technical,2024-06-13,8,0.72,51.7
+EMP00116,Negotiation,soft_skills,2024-01-27,8,0.94,85.3
+EMP00116,Cybersecurity Basics,technical,2024-03-27,8,0.75,77.6
+EMP00116,Data Privacy,compliance,2024-11-20,16,0.78,74.3
+EMP00116,Leadership Fundamental,leadership,2024-02-09,16,0.84,86.1
+EMP00117,Health & Safety,compliance,2024-11-16,4,0.84,94.7
+EMP00117,Time Management,soft_skills,2024-02-04,24,0.79,47.1
+EMP00117,Cybersecurity Basics,technical,2024-06-03,24,0.83,38.2
+EMP00117,Anti-Fraud,compliance,2024-02-25,24,0.88,76.2
+EMP00117,Health & Safety,compliance,2024-10-30,4,0.72,79.6
+EMP00118,Health & Safety,compliance,2024-07-17,40,0.48,54.2
+EMP00118,Time Management,soft_skills,2024-08-23,8,0.79,84.0
+EMP00118,Cloud Computing,technical,2024-11-09,4,0.77,75.9
+EMP00118,Coaching Skills,leadership,2024-02-25,40,0.77,82.3
+EMP00119,Health & Safety,compliance,2024-07-06,8,0.77,73.5
+EMP00119,Data Privacy,compliance,2024-09-14,16,0.98,73.2
+EMP00119,Anti-Fraud,compliance,2024-12-16,24,0.9,66.7
+EMP00120,Negotiation,soft_skills,2024-04-09,8,0.86,62.5
+EMP00120,Strategic Thinking,leadership,2024-11-02,4,0.71,78.6
+EMP00121,Leadership Fundamental,leadership,2024-04-12,4,0.89,83.0
+EMP00121,Communication,soft_skills,2024-04-29,24,0.69,74.1
+EMP00121,Change Management,leadership,2024-01-15,16,0.68,70.0
+EMP00121,Communication,soft_skills,2024-04-13,16,0.8,72.0
+EMP00121,Presentation,soft_skills,2024-01-30,8,0.65,70.5
+EMP00122,Presentation,soft_skills,2024-07-31,40,0.47,48.7
+EMP00122,Data Privacy,compliance,2024-04-13,40,0.82,91.9
+EMP00122,Coaching Skills,leadership,2024-11-02,40,0.83,43.2
+EMP00122,Communication,soft_skills,2024-02-08,8,0.89,74.8
+EMP00122,Time Management,soft_skills,2024-07-20,8,0.64,61.9
+EMP00123,Coaching Skills,leadership,2024-03-20,8,0.79,81.0
+EMP00123,Negotiation,soft_skills,2024-07-12,4,0.68,17.2
+EMP00123,Coaching Skills,leadership,2024-01-27,8,0.95,57.5
+EMP00123,Anti-Fraud,compliance,2024-06-04,4,0.9,41.4
+EMP00124,Coaching Skills,leadership,2024-05-02,4,0.87,76.0
+EMP00124,Communication,soft_skills,2024-11-27,4,0.75,83.0
+EMP00124,Presentation,soft_skills,2024-06-07,8,0.98,84.0
+EMP00125,Leadership Fundamental,leadership,2024-03-27,4,0.49,46.3
+EMP00125,SQL Advanced,technical,2024-07-15,8,0.77,74.6
+EMP00125,Presentation,soft_skills,2024-07-25,8,0.76,81.9
+EMP00125,Negotiation,soft_skills,2024-10-17,24,0.85,76.2
+EMP00125,Health & Safety,compliance,2024-02-15,4,0.68,57.1
+EMP00126,Data Privacy,compliance,2024-06-09,40,0.81,91.2
+EMP00126,Change Management,leadership,2024-06-26,40,0.87,84.3
+EMP00126,Cybersecurity Basics,technical,2024-10-07,8,0.9,63.8
+EMP00126,Data Privacy,compliance,2024-03-02,8,0.89,90.1
+EMP00126,Health & Safety,compliance,2024-06-23,4,0.73,90.8
+EMP00127,Leadership Fundamental,leadership,2024-08-03,16,0.92,64.1
+EMP00127,Time Management,soft_skills,2024-09-16,24,0.9,71.9
+EMP00128,Code of Conduct,compliance,2024-07-19,24,0.85,90.8
+EMP00128,Cloud Computing,technical,2024-10-12,24,0.83,70.0
+EMP00128,Cloud Computing,technical,2024-01-01,16,0.74,62.9
+EMP00128,Python for Data,technical,2024-06-28,16,0.74,75.8
+EMP00128,Change Management,leadership,2024-08-20,8,0.92,71.7
+EMP00129,Cybersecurity Basics,technical,2024-05-27,8,0.93,80.8
+EMP00129,Code of Conduct,compliance,2024-12-25,40,0.7,46.6
+EMP00129,Time Management,soft_skills,2024-02-18,40,0.7,84.9
+EMP00129,Communication,soft_skills,2024-11-18,40,0.82,84.5
+EMP00130,Communication,soft_skills,2024-01-25,16,0.88,90.4
+EMP00131,Python for Data,technical,2024-12-22,16,0.85,60.7
+EMP00131,Cybersecurity Basics,technical,2024-07-22,8,0.88,70.7
+EMP00132,Strategic Thinking,leadership,2024-06-17,16,0.67,97.7
+EMP00132,Anti-Fraud,compliance,2024-06-16,16,0.9,80.3
+EMP00132,Time Management,soft_skills,2024-07-05,40,0.87,59.7
+EMP00132,Time Management,soft_skills,2024-09-13,40,0.91,67.9
+EMP00133,Strategic Thinking,leadership,2024-09-12,4,0.53,88.2
+EMP00133,Health & Safety,compliance,2024-08-08,16,0.94,97.3
+EMP00133,Data Privacy,compliance,2024-09-08,24,0.35,61.4
+EMP00133,Python for Data,technical,2024-08-17,8,0.85,80.3
+EMP00133,Cybersecurity Basics,technical,2024-05-24,40,0.56,54.3
+EMP00134,Cybersecurity Basics,technical,2024-01-10,40,0.94,78.5
+EMP00134,Time Management,soft_skills,2024-07-15,24,0.93,71.3
+EMP00135,Code of Conduct,compliance,2024-03-07,8,0.91,93.4
+EMP00135,Negotiation,soft_skills,2024-03-29,16,0.65,87.7
+EMP00135,Python for Data,technical,2024-04-13,8,0.96,90.3
+EMP00136,Code of Conduct,compliance,2024-07-05,40,0.61,48.4
+EMP00137,Python for Data,technical,2024-10-04,24,0.96,81.2
+EMP00137,Cybersecurity Basics,technical,2024-09-29,16,0.67,73.8
+EMP00137,Code of Conduct,compliance,2024-01-20,40,0.62,79.7
+EMP00138,Communication,soft_skills,2024-07-17,4,0.86,83.7
+EMP00138,Health & Safety,compliance,2024-10-20,40,0.64,91.5
+EMP00138,Coaching Skills,leadership,2024-09-06,8,0.98,67.9
+EMP00139,Code of Conduct,compliance,2024-08-26,24,0.94,54.2
+EMP00139,Presentation,soft_skills,2024-04-29,8,0.87,45.0
+EMP00139,Communication,soft_skills,2024-08-24,40,0.91,95.5
+EMP00140,Health & Safety,compliance,2024-03-06,4,0.68,85.1
+EMP00140,Cybersecurity Basics,technical,2024-01-09,16,0.77,65.5
+EMP00141,Time Management,soft_skills,2024-06-17,8,0.89,82.2
+EMP00141,Health & Safety,compliance,2024-02-14,24,0.81,64.6
+EMP00141,Health & Safety,compliance,2024-11-06,40,0.96,94.5
+EMP00141,Cybersecurity Basics,technical,2024-06-24,24,0.75,90.7
+EMP00142,Presentation,soft_skills,2024-02-16,24,0.97,72.2
+EMP00143,Presentation,soft_skills,2024-04-01,8,0.93,91.1
+EMP00143,Communication,soft_skills,2024-02-28,40,0.71,84.5
+EMP00143,Presentation,soft_skills,2024-11-05,16,0.62,86.5
+EMP00144,Negotiation,soft_skills,2024-03-08,40,0.78,86.9
+EMP00145,Python for Data,technical,2024-12-22,16,0.89,69.7
+EMP00145,Negotiation,soft_skills,2024-04-27,4,0.79,91.2
+EMP00145,Code of Conduct,compliance,2024-04-14,8,0.89,85.5
+EMP00146,Negotiation,soft_skills,2024-05-13,8,0.83,86.1
+EMP00146,Anti-Fraud,compliance,2024-07-18,8,0.86,88.4
+EMP00147,Code of Conduct,compliance,2024-12-01,16,0.98,81.4
+EMP00147,Data Privacy,compliance,2024-11-17,40,0.86,83.6
+EMP00147,Code of Conduct,compliance,2024-10-22,16,0.78,72.9
+EMP00148,Python for Data,technical,2024-05-03,24,0.78,65.4
+EMP00148,SQL Advanced,technical,2024-05-19,24,0.49,82.1
+EMP00149,Health & Safety,compliance,2024-06-11,40,0.73,68.7
+EMP00149,SQL Advanced,technical,2024-11-24,4,0.61,78.4
+EMP00149,Time Management,soft_skills,2024-08-11,4,0.91,81.8
+EMP00150,Communication,soft_skills,2024-05-06,4,0.67,52.2
+EMP00150,Coaching Skills,leadership,2024-05-24,40,0.94,64.3
+EMP00150,SQL Advanced,technical,2024-05-27,4,0.84,83.3
+EMP00150,Code of Conduct,compliance,2024-09-26,8,0.81,78.4
+EMP00151,Change Management,leadership,2024-01-03,24,0.95,57.4
+EMP00152,Change Management,leadership,2024-10-02,8,0.85,76.3
+EMP00152,Coaching Skills,leadership,2024-06-06,4,0.93,91.5
+EMP00152,Negotiation,soft_skills,2024-11-11,16,0.85,80.9
+EMP00152,Negotiation,soft_skills,2024-06-21,24,0.98,85.1
+EMP00153,Change Management,leadership,2024-10-14,24,0.89,79.5
+EMP00153,Time Management,soft_skills,2024-02-14,24,0.81,69.9
+EMP00153,Coaching Skills,leadership,2024-02-19,4,0.81,85.4
+EMP00153,Health & Safety,compliance,2024-07-03,40,0.79,53.5
+EMP00153,SQL Advanced,technical,2024-06-07,8,0.81,65.5
+EMP00154,Communication,soft_skills,2024-02-16,40,0.86,59.1
+EMP00154,Leadership Fundamental,leadership,2024-03-14,16,0.83,64.4
+EMP00154,Presentation,soft_skills,2024-12-27,16,0.76,69.2
+EMP00155,Python for Data,technical,2024-06-18,8,0.91,85.3
+EMP00155,Negotiation,soft_skills,2024-02-28,40,0.74,91.9
+EMP00155,Cybersecurity Basics,technical,2024-08-17,24,0.8,81.8
+EMP00155,Coaching Skills,leadership,2024-01-20,4,0.85,54.2
+EMP00156,Strategic Thinking,leadership,2024-01-30,8,0.86,82.5
+EMP00156,Communication,soft_skills,2024-07-31,4,0.62,76.1
+EMP00156,Time Management,soft_skills,2024-10-07,40,0.5,93.0
+EMP00157,Python for Data,technical,2024-04-22,8,0.88,75.5
+EMP00157,Cloud Computing,technical,2024-08-05,16,0.62,62.7
+EMP00157,Time Management,soft_skills,2024-01-17,40,0.82,95.7
+EMP00157,Change Management,leadership,2024-03-12,40,0.68,72.6
+EMP00158,Strategic Thinking,leadership,2024-07-07,4,0.84,69.4
+EMP00158,Strategic Thinking,leadership,2024-12-13,24,0.98,73.6
+EMP00158,Leadership Fundamental,leadership,2024-08-21,40,0.54,92.0
+EMP00159,Code of Conduct,compliance,2024-04-10,16,0.95,83.0
+EMP00159,SQL Advanced,technical,2024-07-06,8,0.87,84.9
+EMP00159,Strategic Thinking,leadership,2024-03-22,40,0.99,67.7
+EMP00160,SQL Advanced,technical,2024-10-25,16,0.93,61.4
+EMP00161,Communication,soft_skills,2024-09-08,40,0.69,52.7
+EMP00162,Anti-Fraud,compliance,2024-06-03,24,0.89,85.5
+EMP00162,Cloud Computing,technical,2024-07-23,8,0.8,68.6
+EMP00163,Leadership Fundamental,leadership,2024-03-19,24,0.81,63.7
+EMP00163,Python for Data,technical,2024-01-15,16,0.91,93.0
+EMP00163,Change Management,leadership,2024-06-25,40,0.71,83.1
+EMP00163,Strategic Thinking,leadership,2024-08-03,24,0.85,36.3
+EMP00164,Data Privacy,compliance,2024-09-28,4,0.6,83.6
+EMP00164,Code of Conduct,compliance,2024-05-04,4,0.79,73.5
+EMP00164,Strategic Thinking,leadership,2024-02-13,40,0.73,75.1
+EMP00164,Cloud Computing,technical,2024-05-15,4,0.89,68.1
+EMP00165,Cybersecurity Basics,technical,2024-06-13,16,0.67,80.6
+EMP00165,Coaching Skills,leadership,2024-02-07,24,0.87,86.7
+EMP00165,Change Management,leadership,2024-10-19,16,0.83,75.4
+EMP00165,Presentation,soft_skills,2024-02-20,40,0.76,55.4
+EMP00166,SQL Advanced,technical,2024-08-02,40,0.92,70.0
+EMP00166,Code of Conduct,compliance,2024-04-03,4,0.81,82.6
+EMP00166,Change Management,leadership,2024-12-25,24,0.62,92.5
+EMP00166,Health & Safety,compliance,2024-10-12,4,0.79,86.9
+EMP00167,Strategic Thinking,leadership,2024-06-12,8,0.91,66.3
+EMP00167,Anti-Fraud,compliance,2024-08-11,4,0.79,77.0
+EMP00167,Health & Safety,compliance,2024-04-01,16,0.94,60.5
+EMP00167,Cybersecurity Basics,technical,2024-08-19,40,0.78,92.2
+EMP00168,Strategic Thinking,leadership,2024-05-01,24,0.92,64.4
+EMP00168,Communication,soft_skills,2024-09-11,24,0.82,74.1
+EMP00168,Change Management,leadership,2024-08-17,16,0.84,82.0
+EMP00168,Python for Data,technical,2024-03-27,16,0.86,69.3
+EMP00169,Health & Safety,compliance,2024-01-12,24,0.93,78.8
+EMP00169,Time Management,soft_skills,2024-10-12,4,0.7,90.9
+EMP00169,Cybersecurity Basics,technical,2024-12-23,8,0.79,82.0
+EMP00170,Presentation,soft_skills,2024-02-28,4,0.53,63.4
+EMP00170,Presentation,soft_skills,2024-02-16,40,0.53,78.3
+EMP00171,Anti-Fraud,compliance,2024-01-03,24,0.92,63.2
+EMP00171,Data Privacy,compliance,2024-06-04,4,0.95,60.2
+EMP00171,Anti-Fraud,compliance,2024-09-26,24,0.56,44.9
+EMP00171,Time Management,soft_skills,2024-03-04,16,0.81,94.4
+EMP00172,Code of Conduct,compliance,2024-12-06,16,0.82,68.9
+EMP00173,Cybersecurity Basics,technical,2024-09-06,24,0.78,63.0
+EMP00173,Anti-Fraud,compliance,2024-11-18,24,0.86,46.0
+EMP00173,Presentation,soft_skills,2024-11-10,16,0.73,58.0
+EMP00173,Coaching Skills,leadership,2024-11-15,4,0.9,65.7
+EMP00174,Leadership Fundamental,leadership,2024-08-13,16,0.87,75.0
+EMP00174,SQL Advanced,technical,2024-06-22,40,0.72,91.2
+EMP00174,Coaching Skills,leadership,2024-08-30,16,0.87,87.9
+EMP00175,Code of Conduct,compliance,2024-08-14,8,0.88,66.9
+EMP00176,Presentation,soft_skills,2024-08-17,4,0.64,65.8
+EMP00176,Anti-Fraud,compliance,2024-09-07,16,0.74,65.6
+EMP00177,Communication,soft_skills,2024-11-06,40,0.8,92.5
+EMP00177,Negotiation,soft_skills,2024-06-27,16,0.79,83.3
+EMP00177,Python for Data,technical,2024-07-28,16,0.8,77.1
+EMP00178,Presentation,soft_skills,2024-12-03,24,0.93,66.0
+EMP00178,Code of Conduct,compliance,2024-02-29,24,0.87,64.2
+EMP00178,Python for Data,technical,2024-02-24,4,0.92,66.1
+EMP00178,Leadership Fundamental,leadership,2024-01-20,8,0.68,69.6
+EMP00178,Health & Safety,compliance,2024-12-16,8,0.95,72.9
+EMP00179,Strategic Thinking,leadership,2024-01-06,40,0.89,91.3
+EMP00179,Strategic Thinking,leadership,2024-11-13,16,0.84,40.0
+EMP00179,Cloud Computing,technical,2024-05-16,24,0.76,69.4
+EMP00179,Python for Data,technical,2024-02-08,16,0.56,55.9
+EMP00180,Anti-Fraud,compliance,2024-06-12,40,0.71,82.3
+EMP00180,Change Management,leadership,2024-03-22,40,0.71,65.1
+EMP00180,Leadership Fundamental,leadership,2024-12-29,8,0.8,75.9
+EMP00180,Cloud Computing,technical,2024-12-17,24,0.63,92.8
+EMP00180,Health & Safety,compliance,2024-12-07,40,0.72,89.1
+EMP00181,Data Privacy,compliance,2024-10-01,16,0.82,67.2
+EMP00181,SQL Advanced,technical,2024-12-06,24,0.4,43.9
+EMP00182,Code of Conduct,compliance,2024-05-12,24,0.82,67.6
+EMP00182,Cybersecurity Basics,technical,2024-10-14,40,0.76,88.0
+EMP00183,Cybersecurity Basics,technical,2024-10-08,16,0.78,80.5
+EMP00184,Negotiation,soft_skills,2024-05-03,24,0.85,82.0
+EMP00184,Strategic Thinking,leadership,2024-04-24,16,0.89,93.2
+EMP00185,Coaching Skills,leadership,2024-02-27,8,0.81,78.6
+EMP00185,Communication,soft_skills,2024-02-05,8,0.5,51.9
+EMP00185,Leadership Fundamental,leadership,2024-11-20,16,0.8,82.0
+EMP00186,Data Privacy,compliance,2024-12-27,24,0.91,98.4
+EMP00187,Cloud Computing,technical,2024-08-20,4,0.74,71.0
+EMP00187,Leadership Fundamental,leadership,2024-04-23,8,0.97,71.7
+EMP00188,Cybersecurity Basics,technical,2024-09-12,24,0.87,56.0
+EMP00189,Cybersecurity Basics,technical,2024-10-18,16,0.88,42.3
+EMP00189,Strategic Thinking,leadership,2024-04-09,24,0.89,67.3
+EMP00189,Health & Safety,compliance,2024-04-20,24,0.57,87.2
+EMP00189,Code of Conduct,compliance,2024-04-01,24,0.89,45.3
+EMP00190,Change Management,leadership,2024-07-12,8,0.84,68.9
+EMP00190,Anti-Fraud,compliance,2024-06-02,24,0.79,68.3
+EMP00190,SQL Advanced,technical,2024-05-07,24,0.9,88.2
+EMP00190,Change Management,leadership,2024-10-31,4,0.87,68.0
+EMP00191,Strategic Thinking,leadership,2024-08-31,40,0.88,90.2
+EMP00191,Change Management,leadership,2024-07-27,8,0.66,75.7
+EMP00191,Code of Conduct,compliance,2024-01-23,4,0.49,76.2
+EMP00191,Code of Conduct,compliance,2024-02-13,24,0.92,84.6
+EMP00192,Cybersecurity Basics,technical,2024-03-16,4,0.69,82.2
+EMP00192,SQL Advanced,technical,2024-10-01,24,0.85,51.3
+EMP00192,Strategic Thinking,leadership,2024-04-06,4,0.57,74.5
+EMP00192,Cybersecurity Basics,technical,2024-10-29,8,0.86,96.7
+EMP00192,Communication,soft_skills,2024-02-07,40,0.85,93.7
+EMP00193,Anti-Fraud,compliance,2024-03-11,24,0.97,83.9
+EMP00194,Communication,soft_skills,2024-01-09,24,0.98,67.4
+EMP00194,Change Management,leadership,2024-01-16,8,0.58,85.4
+EMP00194,Cybersecurity Basics,technical,2024-07-13,40,0.86,84.5
+EMP00194,SQL Advanced,technical,2024-01-14,4,0.8,86.4
+EMP00194,Coaching Skills,leadership,2024-02-29,16,0.61,37.5
+EMP00195,Negotiation,soft_skills,2024-08-25,24,0.74,71.5
+EMP00195,Anti-Fraud,compliance,2024-02-05,4,0.85,71.1
+EMP00196,Code of Conduct,compliance,2024-08-29,40,0.89,87.8
+EMP00196,Cybersecurity Basics,technical,2024-01-09,4,0.67,63.4
+EMP00196,Cloud Computing,technical,2024-01-18,40,0.97,83.8
+EMP00196,SQL Advanced,technical,2024-04-23,16,0.79,91.9
+EMP00197,Change Management,leadership,2024-01-12,8,0.7,92.7
+EMP00198,Coaching Skills,leadership,2024-08-26,4,0.69,67.0
+EMP00199,Health & Safety,compliance,2024-06-27,24,0.93,89.0
+EMP00199,Leadership Fundamental,leadership,2024-03-05,8,0.74,70.7
+EMP00199,Anti-Fraud,compliance,2024-03-15,40,0.75,93.9
+EMP00200,Leadership Fundamental,leadership,2024-03-08,4,0.78,74.4
+EMP00200,Python for Data,technical,2024-08-29,8,0.89,75.4
+EMP00200,Presentation,soft_skills,2024-10-11,16,0.95,70.1
+EMP00200,Health & Safety,compliance,2024-04-25,40,0.84,96.4
+EMP00201,Change Management,leadership,2024-07-09,16,0.91,90.7
+EMP00201,Anti-Fraud,compliance,2024-12-13,8,0.83,99.3
+EMP00201,Negotiation,soft_skills,2024-11-11,24,0.9,74.5
+EMP00201,Presentation,soft_skills,2024-07-04,16,0.59,92.2
+EMP00201,Leadership Fundamental,leadership,2024-11-17,16,0.9,77.5
+EMP00202,Data Privacy,compliance,2024-02-19,24,0.57,94.2
+EMP00202,Presentation,soft_skills,2024-04-27,24,0.92,82.4
+EMP00202,Coaching Skills,leadership,2024-06-06,24,0.7,85.4
+EMP00202,Health & Safety,compliance,2024-03-13,4,0.78,89.0
+EMP00203,Negotiation,soft_skills,2024-10-23,4,0.79,92.8
+EMP00204,Python for Data,technical,2024-07-08,16,0.75,91.6
+EMP00205,Communication,soft_skills,2024-05-04,40,0.83,48.2
+EMP00205,Cybersecurity Basics,technical,2024-05-30,24,0.78,52.8
+EMP00205,Strategic Thinking,leadership,2024-06-29,4,0.78,81.5
+EMP00205,Python for Data,technical,2024-04-17,40,0.78,55.6
+EMP00206,Anti-Fraud,compliance,2024-05-28,40,0.9,90.7
+EMP00206,Health & Safety,compliance,2024-06-25,8,0.84,91.6
+EMP00206,Code of Conduct,compliance,2024-06-16,4,0.71,92.4
+EMP00206,Communication,soft_skills,2024-03-08,8,0.9,83.7
+EMP00207,Health & Safety,compliance,2024-10-09,40,0.87,71.3
+EMP00207,Communication,soft_skills,2024-02-24,8,0.85,68.3
+EMP00207,Leadership Fundamental,leadership,2024-05-04,8,0.89,93.7
+EMP00208,Communication,soft_skills,2024-04-09,40,0.89,53.2
+EMP00208,Cybersecurity Basics,technical,2024-04-17,40,0.91,90.4
+EMP00209,Coaching Skills,leadership,2024-11-07,16,0.61,53.1
+EMP00210,Negotiation,soft_skills,2024-01-12,16,0.84,84.1
+EMP00210,SQL Advanced,technical,2024-12-11,24,0.86,63.5
+EMP00211,Python for Data,technical,2024-12-18,16,0.6,65.7
+EMP00211,Leadership Fundamental,leadership,2024-05-23,40,0.77,67.1
+EMP00211,Presentation,soft_skills,2024-01-04,4,0.87,56.4
+EMP00212,SQL Advanced,technical,2024-08-13,4,0.81,66.9
+EMP00212,Strategic Thinking,leadership,2024-03-22,24,0.8,58.1
+EMP00212,SQL Advanced,technical,2024-09-25,24,0.97,59.2
+EMP00212,SQL Advanced,technical,2024-04-16,16,0.72,86.7
+EMP00212,Coaching Skills,leadership,2024-12-07,8,0.73,55.1
+EMP00213,Anti-Fraud,compliance,2024-05-14,4,0.75,81.6
+EMP00213,Cloud Computing,technical,2024-08-29,8,0.95,66.0
+EMP00213,Strategic Thinking,leadership,2024-06-13,4,0.73,87.5
+EMP00213,Change Management,leadership,2024-03-26,40,0.75,93.5
+EMP00213,Leadership Fundamental,leadership,2024-02-26,8,0.87,42.6
+EMP00214,Data Privacy,compliance,2024-01-11,8,0.81,73.7
+EMP00214,Time Management,soft_skills,2024-08-11,40,0.72,84.1
+EMP00214,Strategic Thinking,leadership,2024-05-10,4,0.76,92.8
+EMP00214,Python for Data,technical,2024-11-03,4,0.88,65.8
+EMP00214,Anti-Fraud,compliance,2024-10-21,24,0.91,53.8
+EMP00215,Leadership Fundamental,leadership,2024-07-31,40,0.87,87.3
+EMP00216,SQL Advanced,technical,2024-02-04,16,0.88,87.6
+EMP00216,Data Privacy,compliance,2024-07-04,24,0.85,67.7
+EMP00217,Presentation,soft_skills,2024-06-28,4,0.86,84.5
+EMP00217,Anti-Fraud,compliance,2024-05-03,16,0.88,69.5
+EMP00218,Coaching Skills,leadership,2024-08-23,40,0.88,24.6
+EMP00219,Change Management,leadership,2024-12-21,8,0.7,90.4
+EMP00220,SQL Advanced,technical,2024-07-31,8,0.46,69.7
+EMP00220,SQL Advanced,technical,2024-05-01,8,0.7,72.2
+EMP00220,Coaching Skills,leadership,2024-07-10,24,0.84,69.6
+EMP00220,Strategic Thinking,leadership,2024-12-19,4,0.69,84.9
+EMP00220,Time Management,soft_skills,2024-04-11,24,0.97,95.3
+EMP00221,Cybersecurity Basics,technical,2024-12-04,24,0.96,65.7
+EMP00222,Strategic Thinking,leadership,2024-03-27,24,0.94,62.2
+EMP00222,SQL Advanced,technical,2024-06-18,16,0.89,71.5
+EMP00222,SQL Advanced,technical,2024-04-08,24,0.51,79.9
+EMP00223,Cybersecurity Basics,technical,2024-04-08,40,0.85,59.2
+EMP00223,Change Management,leadership,2024-11-20,16,0.56,94.4
+EMP00223,Communication,soft_skills,2024-11-27,24,0.6,78.9
+EMP00223,Cybersecurity Basics,technical,2024-07-26,8,0.66,66.6
+EMP00224,Cloud Computing,technical,2024-12-29,8,0.83,74.2
+EMP00224,Communication,soft_skills,2024-10-09,24,0.88,86.7
+EMP00224,Negotiation,soft_skills,2024-01-02,40,0.85,78.5
+EMP00225,Negotiation,soft_skills,2024-01-27,40,0.7,67.8
+EMP00225,Code of Conduct,compliance,2024-12-26,8,0.34,95.9
+EMP00225,Time Management,soft_skills,2024-01-01,16,0.44,63.8
+EMP00226,Cloud Computing,technical,2024-12-24,40,0.7,79.2
+EMP00226,Health & Safety,compliance,2024-01-28,8,0.9,46.1
+EMP00226,Leadership Fundamental,leadership,2024-02-15,40,0.92,88.8
+EMP00226,Cloud Computing,technical,2024-05-24,16,0.82,80.3
+EMP00227,Health & Safety,compliance,2024-03-16,4,0.53,95.8
+EMP00227,SQL Advanced,technical,2024-10-07,4,0.93,76.2
+EMP00228,Anti-Fraud,compliance,2024-02-27,8,0.78,58.0
+EMP00228,Cloud Computing,technical,2024-11-19,8,0.8,70.6
+EMP00229,Anti-Fraud,compliance,2024-04-16,16,0.71,82.3
+EMP00229,Leadership Fundamental,leadership,2024-04-22,8,0.81,92.5
+EMP00229,Communication,soft_skills,2024-05-03,4,0.94,48.2
+EMP00230,Change Management,leadership,2024-05-08,16,0.92,70.3
+EMP00230,Strategic Thinking,leadership,2024-04-05,16,0.83,93.0
+EMP00230,Leadership Fundamental,leadership,2024-11-02,16,0.83,95.6
+EMP00230,Data Privacy,compliance,2024-06-22,8,0.78,64.0
+EMP00231,SQL Advanced,technical,2024-11-18,16,0.8,87.4
+EMP00231,Health & Safety,compliance,2024-03-04,40,0.92,66.8
+EMP00231,Time Management,soft_skills,2024-04-10,24,0.66,77.7
+EMP00231,Cybersecurity Basics,technical,2024-03-11,24,0.71,76.5
+EMP00232,Data Privacy,compliance,2024-09-01,40,0.81,84.0
+EMP00232,Health & Safety,compliance,2024-05-10,24,0.86,90.6
+EMP00233,Presentation,soft_skills,2024-01-19,24,0.7,72.7
+EMP00233,Negotiation,soft_skills,2024-05-10,40,0.83,71.6
+EMP00233,Presentation,soft_skills,2024-09-27,4,0.87,72.3
+EMP00233,Health & Safety,compliance,2024-03-09,16,0.97,88.7
+EMP00233,Presentation,soft_skills,2024-08-22,8,0.71,78.8
+EMP00234,SQL Advanced,technical,2024-04-27,8,0.85,66.2
+EMP00234,Presentation,soft_skills,2024-10-25,24,0.79,75.6
+EMP00234,Presentation,soft_skills,2024-07-24,8,0.69,92.4
+EMP00235,Anti-Fraud,compliance,2024-07-18,24,0.75,66.8
+EMP00235,Communication,soft_skills,2024-01-14,40,0.61,83.5
+EMP00235,Strategic Thinking,leadership,2024-06-23,4,0.77,77.9
+EMP00235,SQL Advanced,technical,2024-04-18,24,0.58,54.3
+EMP00236,Presentation,soft_skills,2024-03-25,24,0.91,76.1
+EMP00237,Leadership Fundamental,leadership,2024-01-06,16,0.94,79.0
+EMP00237,Strategic Thinking,leadership,2024-07-07,40,0.92,70.3
+EMP00237,Communication,soft_skills,2024-08-05,24,0.64,87.4
+EMP00237,Strategic Thinking,leadership,2024-06-30,8,0.91,80.2
+EMP00237,Negotiation,soft_skills,2024-02-18,4,0.62,48.8
+EMP00238,Communication,soft_skills,2024-08-05,16,0.9,75.5
+EMP00238,Cloud Computing,technical,2024-11-06,4,0.87,58.3
+EMP00239,Code of Conduct,compliance,2024-12-13,8,0.76,45.6
+EMP00239,Presentation,soft_skills,2024-05-21,8,0.81,85.4
+EMP00239,Data Privacy,compliance,2024-04-17,4,0.79,81.9
+EMP00240,Data Privacy,compliance,2024-07-27,24,0.87,79.8
+EMP00241,Code of Conduct,compliance,2024-11-05,8,0.71,66.9
+EMP00241,SQL Advanced,technical,2024-09-02,4,0.78,89.7
+EMP00242,Time Management,soft_skills,2024-03-19,8,0.97,63.0
+EMP00242,Change Management,leadership,2024-03-18,24,0.92,74.5
+EMP00242,Leadership Fundamental,leadership,2024-09-01,8,0.87,77.8
+EMP00243,Strategic Thinking,leadership,2024-11-07,4,0.92,85.8
+EMP00243,Leadership Fundamental,leadership,2024-11-26,8,0.8,78.1
+EMP00243,Strategic Thinking,leadership,2024-01-07,40,0.98,67.8
+EMP00244,Negotiation,soft_skills,2024-01-08,40,0.8,87.4
+EMP00244,Cybersecurity Basics,technical,2024-01-07,40,0.84,71.4
+EMP00244,Change Management,leadership,2024-11-15,40,0.77,48.9
+EMP00244,Presentation,soft_skills,2024-05-04,4,0.63,61.2
+EMP00245,Negotiation,soft_skills,2024-09-13,24,0.7,90.5
+EMP00245,Strategic Thinking,leadership,2024-11-29,16,0.93,86.4
+EMP00245,Cybersecurity Basics,technical,2024-03-22,8,0.75,86.3
+EMP00246,Cybersecurity Basics,technical,2024-10-18,24,0.83,81.9
+EMP00246,Leadership Fundamental,leadership,2024-04-08,8,0.73,83.1
+EMP00246,Time Management,soft_skills,2024-08-30,8,0.97,81.7
+EMP00246,Anti-Fraud,compliance,2024-03-18,4,0.81,63.3
+EMP00247,Communication,soft_skills,2024-06-05,8,0.95,86.3
+EMP00247,Communication,soft_skills,2024-04-09,16,0.64,55.2
+EMP00247,Change Management,leadership,2024-11-08,8,0.86,91.6
+EMP00247,Python for Data,technical,2024-10-27,4,0.75,67.8
+EMP00247,Leadership Fundamental,leadership,2024-10-14,16,0.85,78.1
+EMP00248,Data Privacy,compliance,2024-06-14,16,0.77,72.9
+EMP00248,Strategic Thinking,leadership,2024-12-09,24,0.82,67.5
+EMP00248,Strategic Thinking,leadership,2024-07-11,24,0.48,78.7
+EMP00248,Coaching Skills,leadership,2024-12-25,8,0.61,88.2
+EMP00248,Code of Conduct,compliance,2024-02-04,8,0.75,96.1
+EMP00249,Cloud Computing,technical,2024-09-07,24,0.71,79.5
+EMP00250,Presentation,soft_skills,2024-09-15,24,0.68,74.0
+EMP00251,Cybersecurity Basics,technical,2024-10-15,16,0.73,98.1
+EMP00251,Presentation,soft_skills,2024-04-05,16,0.91,92.3
+EMP00251,Leadership Fundamental,leadership,2024-07-04,24,0.73,74.9
+EMP00251,Data Privacy,compliance,2024-03-12,40,0.8,35.9
+EMP00252,Leadership Fundamental,leadership,2024-12-27,4,0.87,86.0
+EMP00253,Communication,soft_skills,2024-10-10,4,0.81,70.3
+EMP00254,Leadership Fundamental,leadership,2024-06-03,4,0.85,80.7
+EMP00254,Python for Data,technical,2024-10-17,40,0.86,87.9
+EMP00255,Anti-Fraud,compliance,2024-07-04,16,0.7,77.9
+EMP00255,Health & Safety,compliance,2024-12-05,40,0.77,74.3
+EMP00255,Communication,soft_skills,2024-01-02,24,0.79,34.4
+EMP00255,Python for Data,technical,2024-03-19,4,0.72,72.5
+EMP00255,Change Management,leadership,2024-08-27,40,0.83,79.7
+EMP00256,Communication,soft_skills,2024-02-22,40,0.88,41.7
+EMP00256,Strategic Thinking,leadership,2024-09-05,40,0.86,70.9
+EMP00256,Presentation,soft_skills,2024-10-02,8,0.95,89.7
+EMP00256,Cloud Computing,technical,2024-02-13,8,0.87,92.2
+EMP00257,Communication,soft_skills,2024-11-23,16,0.77,92.0
+EMP00257,Communication,soft_skills,2024-05-11,8,0.8,79.8
+EMP00257,Leadership Fundamental,leadership,2024-05-30,8,0.88,45.9
+EMP00257,Health & Safety,compliance,2024-04-26,40,0.84,79.0
+EMP00257,Cybersecurity Basics,technical,2024-06-16,40,0.89,62.8
+EMP00258,Cloud Computing,technical,2024-02-05,24,0.91,71.5
+EMP00258,Leadership Fundamental,leadership,2024-01-11,16,0.82,71.0
+EMP00259,Change Management,leadership,2024-01-04,24,0.97,64.1
+EMP00260,Health & Safety,compliance,2024-09-26,4,0.87,82.8
+EMP00260,Leadership Fundamental,leadership,2024-09-25,4,0.69,56.9
+EMP00260,Data Privacy,compliance,2024-08-25,8,0.78,81.4
+EMP00260,Cloud Computing,technical,2024-12-10,16,0.92,67.1
+EMP00261,Change Management,leadership,2024-09-11,4,0.91,75.9
+EMP00261,Anti-Fraud,compliance,2024-01-17,8,0.74,65.8
+EMP00261,Change Management,leadership,2024-03-16,24,0.82,93.5
+EMP00262,Communication,soft_skills,2024-03-12,8,0.9,81.6
+EMP00262,Time Management,soft_skills,2024-03-26,16,0.72,77.9
+EMP00262,Cloud Computing,technical,2024-11-20,16,0.85,83.4
+EMP00263,Coaching Skills,leadership,2024-08-15,24,0.51,62.1
+EMP00263,Health & Safety,compliance,2024-03-14,40,0.82,89.5
+EMP00263,Coaching Skills,leadership,2024-12-16,8,0.69,90.9
+EMP00263,Cybersecurity Basics,technical,2024-10-23,8,0.63,74.1
+EMP00264,Strategic Thinking,leadership,2024-11-30,40,0.87,85.2
+EMP00264,Data Privacy,compliance,2024-06-25,4,0.64,76.3
+EMP00265,Cybersecurity Basics,technical,2024-09-23,24,0.74,61.0
+EMP00266,Health & Safety,compliance,2024-12-23,4,0.91,95.9
+EMP00266,Change Management,leadership,2024-11-08,24,0.56,51.9
+EMP00267,Leadership Fundamental,leadership,2024-07-03,4,0.82,92.3
+EMP00267,Change Management,leadership,2024-05-31,40,0.81,56.6
+EMP00267,Time Management,soft_skills,2024-02-13,8,0.87,77.5
+EMP00268,Cybersecurity Basics,technical,2024-12-05,4,0.69,91.4
+EMP00269,Negotiation,soft_skills,2024-10-19,24,0.81,91.9
+EMP00270,SQL Advanced,technical,2024-12-02,8,0.79,65.9
+EMP00270,Python for Data,technical,2024-09-27,4,0.87,82.1
+EMP00270,Change Management,leadership,2024-06-05,8,0.9,68.4
+EMP00271,Coaching Skills,leadership,2024-02-12,8,0.88,88.1
+EMP00271,Presentation,soft_skills,2024-06-03,16,0.98,51.2
+EMP00271,Cloud Computing,technical,2024-07-25,16,0.62,82.2
+EMP00272,Health & Safety,compliance,2024-09-07,40,0.96,94.0
+EMP00273,Time Management,soft_skills,2024-09-07,8,0.75,91.6
+EMP00273,Anti-Fraud,compliance,2024-04-12,8,0.86,91.2
+EMP00273,Communication,soft_skills,2024-01-03,24,0.82,71.5
+EMP00273,Code of Conduct,compliance,2024-10-05,24,0.68,89.0
+EMP00274,Anti-Fraud,compliance,2024-04-18,40,0.85,87.3
+EMP00275,Presentation,soft_skills,2024-11-03,24,0.82,88.2
+EMP00275,Time Management,soft_skills,2024-01-10,4,0.78,56.7
+EMP00275,Change Management,leadership,2024-07-19,8,0.83,78.9
+EMP00276,Cybersecurity Basics,technical,2024-01-19,16,0.87,83.5
+EMP00276,Code of Conduct,compliance,2024-03-30,40,0.74,72.8
+EMP00276,Change Management,leadership,2024-12-30,16,0.91,71.6
+EMP00276,Cybersecurity Basics,technical,2024-06-04,4,0.8,87.9
+EMP00277,Python for Data,technical,2024-12-12,8,0.76,86.1
+EMP00277,Change Management,leadership,2024-07-20,8,0.92,69.5
+EMP00277,Health & Safety,compliance,2024-09-26,40,0.54,93.8
+EMP00277,Health & Safety,compliance,2024-06-15,40,0.79,73.4
+EMP00277,Code of Conduct,compliance,2024-04-04,8,0.79,96.6
+EMP00278,SQL Advanced,technical,2024-05-20,40,0.73,84.5
+EMP00278,Code of Conduct,compliance,2024-03-14,8,0.8,74.9
+EMP00278,Cloud Computing,technical,2024-09-13,24,0.81,62.2
+EMP00279,Time Management,soft_skills,2024-03-05,24,0.81,80.4
+EMP00279,Presentation,soft_skills,2024-05-30,40,0.82,86.0
+EMP00280,Cloud Computing,technical,2024-03-10,8,0.7,92.4
+EMP00280,Coaching Skills,leadership,2024-05-30,4,0.75,46.9
+EMP00280,Cloud Computing,technical,2024-05-05,40,0.81,76.1
+EMP00280,Strategic Thinking,leadership,2024-06-14,4,0.73,71.7
+EMP00281,Code of Conduct,compliance,2024-09-10,16,0.81,76.2
+EMP00281,Python for Data,technical,2024-10-28,4,0.84,28.2
+EMP00281,Anti-Fraud,compliance,2024-02-11,8,0.67,80.0
+EMP00281,Leadership Fundamental,leadership,2024-05-07,8,0.79,80.0
+EMP00281,Cybersecurity Basics,technical,2024-01-15,24,0.98,90.0
+EMP00282,Data Privacy,compliance,2024-12-16,24,0.89,71.7
+EMP00282,Code of Conduct,compliance,2024-11-08,16,0.79,89.2
+EMP00282,Code of Conduct,compliance,2024-04-29,4,0.92,84.8
+EMP00283,Cybersecurity Basics,technical,2024-08-05,24,0.62,88.0
+EMP00283,Change Management,leadership,2024-02-07,4,0.76,94.6
+EMP00284,Strategic Thinking,leadership,2024-02-19,8,0.84,77.4
+EMP00285,Anti-Fraud,compliance,2024-11-08,16,0.77,73.4
+EMP00285,Change Management,leadership,2024-04-12,24,0.81,83.2
+EMP00285,SQL Advanced,technical,2024-12-28,16,0.92,78.7
+EMP00285,Anti-Fraud,compliance,2024-05-26,4,0.81,76.0
+EMP00285,Negotiation,soft_skills,2024-07-21,16,0.81,74.6
+EMP00286,Leadership Fundamental,leadership,2024-09-06,40,0.8,97.8
+EMP00286,Python for Data,technical,2024-04-18,40,0.86,95.0
+EMP00286,Data Privacy,compliance,2024-05-25,4,0.65,71.3
+EMP00286,Cybersecurity Basics,technical,2024-12-22,40,0.75,94.0
+EMP00287,Health & Safety,compliance,2024-08-19,8,0.73,69.4
+EMP00287,Negotiation,soft_skills,2024-10-01,16,0.97,84.6
+EMP00288,Cybersecurity Basics,technical,2024-01-30,40,0.73,84.8
+EMP00288,Strategic Thinking,leadership,2024-12-10,8,0.81,81.3
+EMP00289,Python for Data,technical,2024-05-05,40,0.73,55.8
+EMP00289,Strategic Thinking,leadership,2024-12-16,16,0.91,69.6
+EMP00290,Change Management,leadership,2024-05-21,16,0.71,80.9
+EMP00290,Cybersecurity Basics,technical,2024-07-25,4,0.57,53.2
+EMP00290,Strategic Thinking,leadership,2024-09-20,40,0.86,70.8
+EMP00291,Python for Data,technical,2024-04-18,8,0.82,76.7
+EMP00291,Presentation,soft_skills,2024-08-05,4,0.87,74.6
+EMP00291,Leadership Fundamental,leadership,2024-06-05,4,0.88,81.7
+EMP00291,Cybersecurity Basics,technical,2024-02-13,40,0.9,59.2
+EMP00291,Communication,soft_skills,2024-08-25,8,0.75,56.8
+EMP00292,Cybersecurity Basics,technical,2024-07-08,40,0.92,63.8
+EMP00292,Time Management,soft_skills,2024-03-19,4,0.78,85.3
+EMP00292,Coaching Skills,leadership,2024-05-21,16,0.73,52.7
+EMP00292,Negotiation,soft_skills,2024-07-20,40,0.38,36.9
+EMP00292,Coaching Skills,leadership,2024-01-26,8,0.95,44.7
+EMP00293,Data Privacy,compliance,2024-09-08,40,0.59,91.5
+EMP00293,Cloud Computing,technical,2024-10-26,8,0.85,60.0
+EMP00294,SQL Advanced,technical,2024-03-03,16,0.86,55.8
+EMP00295,Coaching Skills,leadership,2024-10-23,24,0.55,78.7
+EMP00295,Change Management,leadership,2024-08-13,40,0.69,82.6
+EMP00295,Coaching Skills,leadership,2024-04-12,4,0.74,70.3
+EMP00296,Data Privacy,compliance,2024-01-20,24,0.69,58.9
+EMP00296,SQL Advanced,technical,2024-03-11,40,0.99,67.0
+EMP00296,Leadership Fundamental,leadership,2024-12-27,16,0.62,96.3
+EMP00297,Cloud Computing,technical,2024-04-20,16,0.84,44.9
+EMP00297,Data Privacy,compliance,2024-01-14,8,0.8,40.7
+EMP00297,Data Privacy,compliance,2024-08-28,24,0.59,61.1
+EMP00297,Strategic Thinking,leadership,2024-07-01,4,0.65,75.9
+EMP00297,Python for Data,technical,2024-09-28,4,0.87,28.9
+EMP00298,Communication,soft_skills,2024-05-18,4,0.36,83.8
+EMP00299,Change Management,leadership,2024-01-25,8,0.76,78.4
+EMP00299,Leadership Fundamental,leadership,2024-04-17,4,0.85,63.6
+EMP00300,Python for Data,technical,2024-03-12,8,0.68,75.9
+EMP00300,Change Management,leadership,2024-03-03,24,0.95,85.8
+EMP00300,Leadership Fundamental,leadership,2024-01-07,4,0.7,73.1
+EMP00301,Anti-Fraud,compliance,2024-12-28,24,0.99,87.5
+EMP00301,Anti-Fraud,compliance,2024-11-12,24,0.82,82.3
+EMP00301,Cybersecurity Basics,technical,2024-05-14,16,0.68,76.8
+EMP00302,Negotiation,soft_skills,2024-06-02,40,0.76,61.8
+EMP00302,SQL Advanced,technical,2024-06-19,16,0.71,94.5
+EMP00302,Leadership Fundamental,leadership,2024-06-02,16,0.77,75.3
+EMP00302,Anti-Fraud,compliance,2024-01-01,8,0.84,83.5
+EMP00302,Strategic Thinking,leadership,2024-10-11,40,0.68,72.0
+EMP00303,Leadership Fundamental,leadership,2024-08-18,16,0.85,79.1
+EMP00304,Cloud Computing,technical,2024-02-17,4,0.9,51.5
+EMP00304,SQL Advanced,technical,2024-12-22,4,0.87,81.7
+EMP00304,Cloud Computing,technical,2024-12-14,24,0.58,84.1
+EMP00304,Code of Conduct,compliance,2024-11-22,24,0.67,82.6
+EMP00304,Data Privacy,compliance,2024-06-23,4,0.5,69.7
+EMP00305,Presentation,soft_skills,2024-10-31,40,0.91,73.7
+EMP00305,Code of Conduct,compliance,2024-03-05,16,0.93,72.1
+EMP00306,Coaching Skills,leadership,2024-02-04,16,0.75,70.1
+EMP00306,Change Management,leadership,2024-05-19,40,0.85,94.4
+EMP00306,Communication,soft_skills,2024-11-30,8,0.77,70.5
+EMP00306,Code of Conduct,compliance,2024-08-07,24,0.99,79.6
+EMP00307,Code of Conduct,compliance,2024-05-24,4,0.94,56.3
+EMP00307,SQL Advanced,technical,2024-09-09,40,0.93,93.3
+EMP00307,Communication,soft_skills,2024-08-03,16,0.72,70.9
+EMP00307,Health & Safety,compliance,2024-11-30,40,0.84,89.8
+EMP00308,Strategic Thinking,leadership,2024-10-31,8,0.89,94.8
+EMP00308,Cybersecurity Basics,technical,2024-01-15,8,0.86,70.4
+EMP00308,Health & Safety,compliance,2024-01-26,4,0.82,70.7
+EMP00309,Communication,soft_skills,2024-02-21,16,0.81,78.3
+EMP00309,Python for Data,technical,2024-08-26,24,0.75,82.3
+EMP00309,Python for Data,technical,2024-01-24,4,0.91,73.2
+EMP00309,Coaching Skills,leadership,2024-02-05,8,0.51,79.6
+EMP00310,Anti-Fraud,compliance,2024-06-10,16,0.91,93.2
+EMP00311,Time Management,soft_skills,2024-08-19,24,0.95,78.4
+EMP00311,SQL Advanced,technical,2024-12-12,4,0.91,77.6
+EMP00312,Communication,soft_skills,2024-09-01,40,0.79,90.3
+EMP00312,Health & Safety,compliance,2024-01-11,16,0.63,81.1
+EMP00313,Cloud Computing,technical,2024-09-02,24,0.64,70.9
+EMP00313,Data Privacy,compliance,2024-10-31,16,0.71,62.7
+EMP00314,Communication,soft_skills,2024-07-16,16,0.81,68.5
+EMP00314,Anti-Fraud,compliance,2024-01-22,16,0.72,60.4
+EMP00315,Change Management,leadership,2024-06-18,24,0.92,88.6
+EMP00315,SQL Advanced,technical,2024-10-02,16,0.9,66.8
+EMP00316,SQL Advanced,technical,2024-11-05,40,0.74,80.1
+EMP00316,Python for Data,technical,2024-03-08,8,0.85,93.2
+EMP00316,Communication,soft_skills,2024-06-16,8,0.71,79.4
+EMP00317,Time Management,soft_skills,2024-11-22,8,0.91,90.4
+EMP00317,Leadership Fundamental,leadership,2024-07-10,4,0.83,87.2
+EMP00318,Code of Conduct,compliance,2024-01-31,24,0.65,56.1
+EMP00318,Cloud Computing,technical,2024-05-15,24,0.88,49.9
+EMP00318,Presentation,soft_skills,2024-04-15,4,0.97,96.2
+EMP00318,SQL Advanced,technical,2024-03-05,24,0.8,93.8
+EMP00319,Python for Data,technical,2024-06-09,24,0.83,64.2
+EMP00319,Cloud Computing,technical,2024-05-25,24,0.87,65.0
+EMP00320,Data Privacy,compliance,2024-12-14,24,0.74,95.6
+EMP00320,Cybersecurity Basics,technical,2024-12-29,24,0.7,73.9
+EMP00320,Coaching Skills,leadership,2024-10-01,4,0.74,76.3
+EMP00321,Communication,soft_skills,2024-07-01,24,0.92,85.0
+EMP00321,Python for Data,technical,2024-12-03,24,0.68,87.5
+EMP00322,Coaching Skills,leadership,2024-05-09,8,0.87,91.9
+EMP00322,Cybersecurity Basics,technical,2024-05-05,16,0.86,83.9
+EMP00323,Anti-Fraud,compliance,2024-03-23,4,0.75,61.4
+EMP00323,Presentation,soft_skills,2024-02-09,16,0.81,40.2
+EMP00324,Negotiation,soft_skills,2024-09-12,4,0.9,62.2
+EMP00324,Coaching Skills,leadership,2024-01-04,8,0.79,80.3
+EMP00325,Data Privacy,compliance,2024-07-28,4,0.7,62.6
+EMP00325,Time Management,soft_skills,2024-06-26,4,0.97,79.8
+EMP00325,Leadership Fundamental,leadership,2024-12-22,24,0.95,89.3
+EMP00326,Anti-Fraud,compliance,2024-06-01,8,0.93,64.5
+EMP00327,Code of Conduct,compliance,2024-10-30,16,0.49,22.7
+EMP00327,Leadership Fundamental,leadership,2024-04-22,8,0.75,78.7
+EMP00327,Presentation,soft_skills,2024-05-24,4,0.94,84.3
+EMP00327,Time Management,soft_skills,2024-08-19,40,0.71,96.7
+EMP00328,Cybersecurity Basics,technical,2024-04-23,24,0.79,88.4
+EMP00328,Strategic Thinking,leadership,2024-09-17,24,0.96,73.4
+EMP00329,SQL Advanced,technical,2024-09-08,40,0.89,81.6
+EMP00329,Coaching Skills,leadership,2024-07-27,8,0.85,65.8
+EMP00329,Cloud Computing,technical,2024-03-02,24,0.81,76.1
+EMP00329,Communication,soft_skills,2024-08-27,4,0.72,77.7
+EMP00330,Cybersecurity Basics,technical,2024-05-23,8,0.75,94.4
+EMP00330,Code of Conduct,compliance,2024-04-13,8,0.77,31.3
+EMP00330,Leadership Fundamental,leadership,2024-06-10,8,0.72,91.8
+EMP00331,Python for Data,technical,2024-04-20,40,0.58,95.5
+EMP00331,Data Privacy,compliance,2024-03-17,40,0.51,87.0
+EMP00332,Cybersecurity Basics,technical,2024-01-06,16,0.79,54.2
+EMP00333,Coaching Skills,leadership,2024-06-27,4,0.77,93.9
+EMP00334,Health & Safety,compliance,2024-12-15,8,0.83,67.4
+EMP00334,Leadership Fundamental,leadership,2024-04-24,24,0.77,85.9
+EMP00334,Negotiation,soft_skills,2024-09-04,4,0.68,70.5
+EMP00335,SQL Advanced,technical,2024-09-06,8,0.75,70.9
+EMP00335,Coaching Skills,leadership,2024-03-16,40,0.83,48.2
+EMP00336,Communication,soft_skills,2024-08-12,24,0.78,97.5
+EMP00337,SQL Advanced,technical,2024-01-24,24,0.88,90.1
+EMP00337,Strategic Thinking,leadership,2024-05-11,24,0.8,45.2
+EMP00337,Change Management,leadership,2024-01-14,40,0.92,70.8
+EMP00337,Coaching Skills,leadership,2024-05-17,4,0.85,66.1
+EMP00338,Time Management,soft_skills,2024-04-18,8,0.98,48.6
+EMP00338,Leadership Fundamental,leadership,2024-09-14,40,0.98,72.5
+EMP00339,Strategic Thinking,leadership,2024-02-15,40,0.93,73.3
+EMP00339,Cybersecurity Basics,technical,2024-12-26,16,0.77,68.1
+EMP00340,Python for Data,technical,2024-02-19,16,0.45,34.3
+EMP00340,Anti-Fraud,compliance,2024-05-22,4,0.7,61.7
+EMP00340,Negotiation,soft_skills,2024-08-31,40,0.86,72.8
+EMP00340,Anti-Fraud,compliance,2024-01-11,16,0.88,89.9
+EMP00341,Time Management,soft_skills,2024-09-28,4,0.61,62.3
+EMP00341,Time Management,soft_skills,2024-03-20,24,0.62,90.4
+EMP00342,Health & Safety,compliance,2024-06-16,24,0.74,87.2
+EMP00342,SQL Advanced,technical,2024-07-11,24,0.79,74.7
+EMP00343,Leadership Fundamental,leadership,2024-01-20,40,0.73,65.0
+EMP00343,Python for Data,technical,2024-10-12,24,0.79,82.7
+EMP00343,Cybersecurity Basics,technical,2024-06-21,24,0.74,56.8
+EMP00344,Leadership Fundamental,leadership,2024-10-27,24,0.92,80.1
+EMP00345,Python for Data,technical,2024-11-29,4,0.9,76.2
+EMP00345,Health & Safety,compliance,2024-01-31,8,0.54,68.8
+EMP00346,Leadership Fundamental,leadership,2024-02-20,4,0.96,94.2
+EMP00346,Anti-Fraud,compliance,2024-01-05,24,0.95,76.5
+EMP00346,Coaching Skills,leadership,2024-05-25,24,0.6,75.3
+EMP00346,Leadership Fundamental,leadership,2024-04-14,40,0.64,43.3
+EMP00347,Time Management,soft_skills,2024-08-29,24,0.71,94.4
+EMP00347,Presentation,soft_skills,2024-01-07,4,0.9,56.6
+EMP00348,Strategic Thinking,leadership,2024-09-21,40,0.92,71.6
+EMP00348,Anti-Fraud,compliance,2024-03-02,24,0.73,66.6
+EMP00348,SQL Advanced,technical,2024-04-16,16,0.68,59.9
+EMP00349,Python for Data,technical,2024-12-04,16,0.9,48.2
+EMP00350,Cybersecurity Basics,technical,2024-09-20,40,0.88,68.5
+EMP00351,Coaching Skills,leadership,2024-05-26,4,0.88,66.2
+EMP00351,Change Management,leadership,2024-06-20,24,0.69,78.9
+EMP00351,Cybersecurity Basics,technical,2024-06-05,4,0.95,76.9
+EMP00351,SQL Advanced,technical,2024-10-15,16,0.93,87.6
+EMP00352,SQL Advanced,technical,2024-11-28,16,0.95,91.3
+EMP00352,Cloud Computing,technical,2024-08-14,4,0.42,70.4
+EMP00353,Cloud Computing,technical,2024-12-19,16,0.89,79.5
+EMP00353,Health & Safety,compliance,2024-06-30,8,0.93,73.5
+EMP00353,Change Management,leadership,2024-09-11,8,0.68,96.0
+EMP00354,Presentation,soft_skills,2024-09-03,24,0.64,60.8
+EMP00354,SQL Advanced,technical,2024-06-16,40,0.89,84.8
+EMP00354,Cybersecurity Basics,technical,2024-08-01,16,0.96,73.8
+EMP00354,Coaching Skills,leadership,2024-10-12,16,0.93,61.7
+EMP00355,Health & Safety,compliance,2024-07-19,16,0.73,75.7
+EMP00355,Strategic Thinking,leadership,2024-10-06,24,0.7,50.3
+EMP00355,Python for Data,technical,2024-08-11,8,0.85,75.2
+EMP00356,Data Privacy,compliance,2024-07-31,4,0.94,75.8
+EMP00356,Change Management,leadership,2024-12-30,24,0.9,68.3
+EMP00356,Presentation,soft_skills,2024-05-20,8,0.72,50.1
+EMP00356,Presentation,soft_skills,2024-03-08,16,0.79,94.7
+EMP00357,Coaching Skills,leadership,2024-09-28,40,0.98,92.1
+EMP00358,Python for Data,technical,2024-12-04,40,0.92,60.5
+EMP00358,Change Management,leadership,2024-07-11,16,0.65,60.9
+EMP00359,Coaching Skills,leadership,2024-08-01,24,0.87,46.6
+EMP00359,Time Management,soft_skills,2024-02-08,24,0.9,65.6
+EMP00359,Presentation,soft_skills,2024-01-16,40,0.9,91.8
+EMP00359,Coaching Skills,leadership,2024-08-19,24,0.49,72.9
+EMP00360,SQL Advanced,technical,2024-03-29,24,0.85,65.5
+EMP00360,Change Management,leadership,2024-03-19,4,0.63,91.0
+EMP00360,Anti-Fraud,compliance,2024-01-19,8,0.64,87.7
+EMP00360,Cybersecurity Basics,technical,2024-01-27,16,0.78,95.0
+EMP00361,Cloud Computing,technical,2024-11-13,8,0.76,75.1
+EMP00362,Presentation,soft_skills,2024-08-10,4,0.57,76.2
+EMP00362,Strategic Thinking,leadership,2024-08-07,24,0.94,83.9
+EMP00362,Cloud Computing,technical,2024-08-15,40,0.91,73.9
+EMP00362,Negotiation,soft_skills,2024-03-01,40,0.56,91.7
+EMP00363,Data Privacy,compliance,2024-12-16,4,0.81,82.1
+EMP00363,Change Management,leadership,2024-12-20,8,0.9,82.7
+EMP00363,Cloud Computing,technical,2024-02-18,4,0.71,72.2
+EMP00364,Coaching Skills,leadership,2024-01-26,8,0.82,75.6
+EMP00364,Anti-Fraud,compliance,2024-08-06,16,0.51,92.6
+EMP00364,Cybersecurity Basics,technical,2024-09-19,40,0.73,90.0
+EMP00365,Time Management,soft_skills,2024-05-03,24,0.61,83.1
+EMP00365,Leadership Fundamental,leadership,2024-02-19,40,0.78,79.1
+EMP00365,Data Privacy,compliance,2024-06-29,40,0.87,68.3
+EMP00366,Cloud Computing,technical,2024-01-27,8,0.79,86.3
+EMP00366,SQL Advanced,technical,2024-05-18,16,0.59,51.0
+EMP00366,Time Management,soft_skills,2024-07-21,8,0.85,72.1
+EMP00367,Strategic Thinking,leadership,2024-05-21,24,0.96,81.1
+EMP00367,Code of Conduct,compliance,2024-10-01,4,0.91,89.4
+EMP00368,Strategic Thinking,leadership,2024-06-23,4,0.83,89.5
+EMP00368,Data Privacy,compliance,2024-11-27,40,0.93,62.1
+EMP00369,Leadership Fundamental,leadership,2024-05-20,4,0.72,74.3
+EMP00370,Time Management,soft_skills,2024-01-02,8,0.68,82.6
+EMP00370,Communication,soft_skills,2024-07-07,40,0.77,41.8
+EMP00370,Strategic Thinking,leadership,2024-09-20,4,0.87,86.3
+EMP00371,Cloud Computing,technical,2024-10-01,16,0.89,86.2
+EMP00371,Cybersecurity Basics,technical,2024-12-05,4,0.76,48.7
+EMP00372,Health & Safety,compliance,2024-03-17,40,0.56,85.6
+EMP00372,Cybersecurity Basics,technical,2024-07-14,8,0.89,77.4
+EMP00372,Strategic Thinking,leadership,2024-06-28,4,0.86,63.9
+EMP00372,Anti-Fraud,compliance,2024-10-03,40,0.72,80.9
+EMP00373,SQL Advanced,technical,2024-02-26,40,0.88,75.9
+EMP00373,Anti-Fraud,compliance,2024-02-05,16,0.94,55.2
+EMP00374,Negotiation,soft_skills,2024-08-24,4,0.86,81.5
+EMP00374,Health & Safety,compliance,2024-12-01,16,0.49,41.5
+EMP00374,Presentation,soft_skills,2024-01-20,8,0.66,88.4
+EMP00374,Communication,soft_skills,2024-05-25,4,0.88,66.3
+EMP00375,Cybersecurity Basics,technical,2024-05-08,24,0.83,91.9
+EMP00375,Cybersecurity Basics,technical,2024-04-13,8,0.86,56.4
+EMP00376,Time Management,soft_skills,2024-03-27,16,0.96,52.0
+EMP00376,Strategic Thinking,leadership,2024-12-20,16,0.79,60.9
+EMP00376,Anti-Fraud,compliance,2024-08-23,8,0.83,26.9
+EMP00376,SQL Advanced,technical,2024-12-02,24,0.93,83.4
+EMP00376,Communication,soft_skills,2024-06-22,24,0.5,85.3
+EMP00377,Communication,soft_skills,2024-09-25,16,0.61,93.3
+EMP00377,Change Management,leadership,2024-07-08,40,0.61,75.9
+EMP00377,Coaching Skills,leadership,2024-03-03,24,0.77,87.7
+EMP00377,Leadership Fundamental,leadership,2024-11-23,16,0.89,88.3
+EMP00377,SQL Advanced,technical,2024-02-21,16,0.7,85.1
+EMP00378,Health & Safety,compliance,2024-12-27,16,0.42,51.7
+EMP00378,Strategic Thinking,leadership,2024-03-13,4,0.91,79.4
+EMP00378,Time Management,soft_skills,2024-12-05,4,0.87,87.8
+EMP00379,Health & Safety,compliance,2024-02-27,16,0.72,59.8
+EMP00379,Presentation,soft_skills,2024-03-28,16,0.65,74.5
+EMP00380,Data Privacy,compliance,2024-10-11,8,0.92,76.0
+EMP00380,Communication,soft_skills,2024-11-14,24,0.86,57.2
+EMP00381,Leadership Fundamental,leadership,2024-10-24,4,0.95,76.0
+EMP00381,Cloud Computing,technical,2024-10-18,40,0.5,51.9
+EMP00381,Presentation,soft_skills,2024-03-26,40,0.87,60.6
+EMP00381,SQL Advanced,technical,2024-07-13,24,0.86,93.1
+EMP00382,Health & Safety,compliance,2024-03-02,4,0.98,82.7
+EMP00382,Leadership Fundamental,leadership,2024-08-20,4,0.83,82.5
+EMP00382,Health & Safety,compliance,2024-10-17,24,0.83,47.5
+EMP00382,Time Management,soft_skills,2024-08-21,8,0.8,65.7
+EMP00383,Presentation,soft_skills,2024-02-18,24,0.9,63.9
+EMP00383,Coaching Skills,leadership,2024-11-05,24,0.75,50.5
+EMP00384,Cybersecurity Basics,technical,2024-10-30,4,0.51,59.5
+EMP00384,Coaching Skills,leadership,2024-03-01,40,0.84,95.1
+EMP00384,Data Privacy,compliance,2024-11-25,8,0.83,67.8
+EMP00385,Health & Safety,compliance,2024-02-16,8,0.91,79.6
+EMP00386,Strategic Thinking,leadership,2024-11-26,8,0.92,48.4
+EMP00386,Presentation,soft_skills,2024-06-08,8,0.64,46.8
+EMP00386,Cloud Computing,technical,2024-02-28,24,0.88,81.8
+EMP00386,Communication,soft_skills,2024-05-13,16,0.87,80.7
+EMP00387,Time Management,soft_skills,2024-07-24,16,0.87,85.8
+EMP00387,Communication,soft_skills,2024-04-19,24,0.88,70.0
+EMP00387,Data Privacy,compliance,2024-10-10,8,0.92,70.8
+EMP00387,Time Management,soft_skills,2024-12-17,8,0.93,61.1
+EMP00388,Presentation,soft_skills,2024-05-29,40,0.77,66.1
+EMP00388,Code of Conduct,compliance,2024-05-07,16,0.89,90.8
+EMP00388,Presentation,soft_skills,2024-03-02,16,0.92,93.6
+EMP00389,Coaching Skills,leadership,2024-01-18,4,0.71,96.1
+EMP00389,Python for Data,technical,2024-11-01,4,0.94,43.1
+EMP00390,Data Privacy,compliance,2024-08-15,24,0.8,96.0
+EMP00390,Strategic Thinking,leadership,2024-03-18,16,0.94,76.0
+EMP00390,Cybersecurity Basics,technical,2024-08-13,8,0.86,70.3
+EMP00390,Leadership Fundamental,leadership,2024-01-10,40,0.62,65.5
+EMP00391,Presentation,soft_skills,2024-01-03,16,0.76,66.0
+EMP00391,Time Management,soft_skills,2024-09-25,16,0.83,62.1
+EMP00391,Data Privacy,compliance,2024-09-02,16,0.96,73.6
+EMP00392,Code of Conduct,compliance,2024-01-24,24,0.75,88.4
+EMP00392,Presentation,soft_skills,2024-12-10,8,0.8,87.1
+EMP00392,Code of Conduct,compliance,2024-04-07,40,0.84,89.0
+EMP00392,Health & Safety,compliance,2024-04-29,8,0.87,92.3
+EMP00392,Anti-Fraud,compliance,2024-12-24,40,0.92,67.2
+EMP00393,Strategic Thinking,leadership,2024-10-13,16,0.95,77.1
+EMP00393,Communication,soft_skills,2024-01-15,16,0.85,84.9
+EMP00393,Time Management,soft_skills,2024-02-09,8,0.72,79.2
+EMP00393,Time Management,soft_skills,2024-05-19,8,0.57,95.7
+EMP00393,Leadership Fundamental,leadership,2024-05-27,4,0.54,55.4
+EMP00394,Health & Safety,compliance,2024-12-13,24,0.9,72.2
+EMP00394,Negotiation,soft_skills,2024-06-22,24,0.88,79.6
+EMP00395,Change Management,leadership,2024-09-21,8,0.49,63.0
+EMP00395,Cloud Computing,technical,2024-06-08,16,0.88,87.9
+EMP00395,Data Privacy,compliance,2024-03-05,40,0.81,44.8
+EMP00396,Communication,soft_skills,2024-03-06,4,0.64,79.0
+EMP00396,Python for Data,technical,2024-04-16,4,0.83,60.9
+EMP00396,Presentation,soft_skills,2024-07-20,4,0.71,95.2
+EMP00396,Presentation,soft_skills,2024-07-10,8,0.91,91.6
+EMP00397,Cybersecurity Basics,technical,2024-11-22,40,0.68,68.3
+EMP00397,Cloud Computing,technical,2024-08-27,40,0.91,64.8
+EMP00398,Coaching Skills,leadership,2024-12-19,16,0.82,91.2
+EMP00398,Communication,soft_skills,2024-07-30,24,0.8,61.4
+EMP00398,Health & Safety,compliance,2024-06-26,16,0.69,96.7
+EMP00399,Leadership Fundamental,leadership,2024-06-08,40,0.66,77.2
+EMP00400,Health & Safety,compliance,2024-06-29,40,0.86,85.4
+EMP00400,Cybersecurity Basics,technical,2024-02-13,16,0.95,87.0
+EMP00400,SQL Advanced,technical,2024-09-27,4,0.62,91.6
+EMP00400,Code of Conduct,compliance,2024-10-15,16,0.81,71.5
+EMP00401,Leadership Fundamental,leadership,2024-05-19,16,0.9,90.5
+EMP00401,Time Management,soft_skills,2024-04-19,4,0.94,92.3
+EMP00401,Cloud Computing,technical,2024-06-24,16,0.81,57.2
+EMP00401,Communication,soft_skills,2024-05-29,16,0.84,58.6
+EMP00401,Data Privacy,compliance,2024-11-04,4,0.97,58.9
+EMP00402,SQL Advanced,technical,2024-10-07,40,0.93,57.9
+EMP00402,Coaching Skills,leadership,2024-02-09,40,0.8,55.9
+EMP00402,Python for Data,technical,2024-04-15,4,0.97,94.0
+EMP00402,Communication,soft_skills,2024-04-04,24,0.84,74.0
+EMP00403,Leadership Fundamental,leadership,2024-04-29,40,0.86,79.7
+EMP00404,Change Management,leadership,2024-01-23,24,0.77,81.9
+EMP00404,Change Management,leadership,2024-09-04,4,0.93,83.1
+EMP00404,Health & Safety,compliance,2024-11-01,40,0.48,70.4
+EMP00404,Strategic Thinking,leadership,2024-12-11,4,0.85,64.9
+EMP00404,Data Privacy,compliance,2024-05-23,8,0.97,84.9
+EMP00405,Python for Data,technical,2024-02-22,8,0.78,86.8
+EMP00405,Time Management,soft_skills,2024-08-27,24,0.96,62.6
+EMP00406,Presentation,soft_skills,2024-02-29,24,0.75,70.4
+EMP00406,Leadership Fundamental,leadership,2024-09-18,24,0.85,61.9
+EMP00406,Presentation,soft_skills,2024-07-21,24,0.73,77.3
+EMP00406,Time Management,soft_skills,2024-11-06,8,0.77,67.7
+EMP00407,Negotiation,soft_skills,2024-04-08,8,0.69,28.6
+EMP00407,Change Management,leadership,2024-06-12,16,0.83,65.1
+EMP00407,Strategic Thinking,leadership,2024-11-15,24,0.68,82.6
+EMP00407,Leadership Fundamental,leadership,2024-01-19,24,0.82,80.3
+EMP00408,Communication,soft_skills,2024-07-21,40,0.85,85.5
+EMP00408,Cybersecurity Basics,technical,2024-04-01,16,0.87,92.1
+EMP00409,Anti-Fraud,compliance,2024-01-20,40,0.54,80.0
+EMP00409,SQL Advanced,technical,2024-05-24,40,0.82,74.8
+EMP00410,Health & Safety,compliance,2024-11-19,24,0.81,72.6
+EMP00410,Python for Data,technical,2024-04-18,40,0.69,91.3
+EMP00410,Cybersecurity Basics,technical,2024-10-20,16,0.99,74.7
+EMP00410,Anti-Fraud,compliance,2024-07-11,40,0.93,75.2
+EMP00411,Negotiation,soft_skills,2024-07-11,24,0.76,82.9
+EMP00411,Cloud Computing,technical,2024-11-03,24,0.94,46.2
+EMP00411,Cloud Computing,technical,2024-08-05,8,0.93,92.0
+EMP00412,Negotiation,soft_skills,2024-11-04,8,0.86,52.0
+EMP00412,Code of Conduct,compliance,2024-07-30,8,0.89,77.3
+EMP00412,Cloud Computing,technical,2024-03-31,24,0.8,76.2
+EMP00413,Presentation,soft_skills,2024-09-29,40,0.91,92.0
+EMP00413,Leadership Fundamental,leadership,2024-02-25,40,0.85,92.4
+EMP00413,Cloud Computing,technical,2024-12-14,4,0.87,63.9
+EMP00414,Change Management,leadership,2024-05-13,16,0.53,79.7
+EMP00414,Data Privacy,compliance,2024-07-04,8,0.67,70.8
+EMP00415,Python for Data,technical,2024-06-02,24,0.5,97.4
+EMP00415,Code of Conduct,compliance,2024-06-03,8,0.34,83.2
+EMP00415,SQL Advanced,technical,2024-01-22,40,0.83,71.8
+EMP00416,Health & Safety,compliance,2024-12-14,40,0.82,91.8
+EMP00416,Negotiation,soft_skills,2024-12-01,4,0.66,69.5
+EMP00416,Cloud Computing,technical,2024-10-11,24,0.82,68.2
+EMP00416,Strategic Thinking,leadership,2024-08-24,24,0.64,97.4
+EMP00416,Communication,soft_skills,2024-07-28,16,0.95,73.4
+EMP00417,Cloud Computing,technical,2024-04-28,8,0.83,74.6
+EMP00417,Python for Data,technical,2024-09-23,24,0.92,57.8
+EMP00417,Negotiation,soft_skills,2024-09-11,8,0.88,63.7
+EMP00417,Python for Data,technical,2024-08-27,40,0.98,87.0
+EMP00418,SQL Advanced,technical,2024-03-28,40,0.63,82.4
+EMP00419,Health & Safety,compliance,2024-07-16,16,0.89,72.8
+EMP00419,Leadership Fundamental,leadership,2024-04-02,24,0.78,90.5
+EMP00419,Cloud Computing,technical,2024-03-25,4,0.83,78.2
+EMP00419,Cloud Computing,technical,2024-02-06,24,0.84,77.8
+EMP00419,Change Management,leadership,2024-03-03,24,0.85,86.3
+EMP00420,Python for Data,technical,2024-02-15,8,0.87,88.2
+EMP00420,Negotiation,soft_skills,2024-02-10,4,0.72,81.3
+EMP00420,SQL Advanced,technical,2024-11-17,8,0.82,82.2
+EMP00420,Strategic Thinking,leadership,2024-06-27,24,0.45,77.0
+EMP00420,Anti-Fraud,compliance,2024-09-23,40,0.56,83.6
+EMP00421,Negotiation,soft_skills,2024-02-07,8,0.58,49.4
+EMP00422,Leadership Fundamental,leadership,2024-12-01,16,0.92,72.8
+EMP00422,Health & Safety,compliance,2024-06-21,8,0.71,77.9
+EMP00422,Communication,soft_skills,2024-12-08,16,0.84,89.3
+EMP00422,Strategic Thinking,leadership,2024-09-10,24,0.7,82.9
+EMP00422,Python for Data,technical,2024-10-31,8,0.65,73.9
+EMP00423,Presentation,soft_skills,2024-02-25,40,0.94,80.6
+EMP00423,Code of Conduct,compliance,2024-08-25,16,0.73,60.1
+EMP00423,Health & Safety,compliance,2024-11-21,4,0.94,78.9
+EMP00423,Python for Data,technical,2024-03-29,4,0.6,90.6
+EMP00424,Strategic Thinking,leadership,2024-01-01,16,0.79,84.4
+EMP00424,Cybersecurity Basics,technical,2024-11-20,24,0.95,70.0
+EMP00424,Strategic Thinking,leadership,2024-05-06,8,0.7,94.9
+EMP00424,SQL Advanced,technical,2024-06-12,8,0.78,87.7
+EMP00424,Leadership Fundamental,leadership,2024-02-13,8,0.66,91.2
+EMP00425,Communication,soft_skills,2024-10-16,8,0.84,72.4
+EMP00425,Cloud Computing,technical,2024-11-04,4,0.88,93.5
+EMP00425,Cybersecurity Basics,technical,2024-08-09,4,0.85,76.9
+EMP00425,Communication,soft_skills,2024-03-10,16,0.78,83.5
+EMP00425,Data Privacy,compliance,2024-06-25,8,0.71,76.8
+EMP00426,Anti-Fraud,compliance,2024-02-27,40,0.77,51.6
+EMP00426,Communication,soft_skills,2024-05-27,4,0.41,87.5
+EMP00426,Code of Conduct,compliance,2024-04-19,4,0.66,76.8
+EMP00426,Cloud Computing,technical,2024-03-12,4,0.91,96.0
+EMP00427,Time Management,soft_skills,2024-05-26,16,0.87,79.1
+EMP00427,Anti-Fraud,compliance,2024-01-22,40,0.78,63.4
+EMP00428,Code of Conduct,compliance,2024-10-01,24,0.82,70.5
+EMP00428,Health & Safety,compliance,2024-05-06,24,0.94,84.1
+EMP00429,Anti-Fraud,compliance,2024-05-19,4,0.88,80.1
+EMP00429,Strategic Thinking,leadership,2024-02-16,16,0.85,56.3
+EMP00429,Cybersecurity Basics,technical,2024-08-17,40,0.81,68.9
+EMP00430,Anti-Fraud,compliance,2024-03-07,4,0.97,72.6
+EMP00430,Time Management,soft_skills,2024-11-04,16,0.85,68.4
+EMP00430,Leadership Fundamental,leadership,2024-04-13,40,0.85,72.5
+EMP00430,Communication,soft_skills,2024-01-29,8,0.76,89.6
+EMP00430,Communication,soft_skills,2024-07-15,4,0.73,33.7
+EMP00431,Code of Conduct,compliance,2024-06-18,4,0.58,87.7
+EMP00431,Change Management,leadership,2024-04-12,40,0.86,84.3
+EMP00431,Time Management,soft_skills,2024-10-29,8,0.83,80.2
+EMP00431,Leadership Fundamental,leadership,2024-09-22,8,0.67,86.3
+EMP00431,Cloud Computing,technical,2024-07-21,4,0.98,84.7
+EMP00432,Data Privacy,compliance,2024-11-29,8,0.91,94.8
+EMP00432,Communication,soft_skills,2024-08-23,40,0.77,82.1
+EMP00433,Code of Conduct,compliance,2024-01-05,8,0.62,85.3
+EMP00433,Strategic Thinking,leadership,2024-03-01,40,0.61,86.9
+EMP00434,Negotiation,soft_skills,2024-08-10,16,0.73,44.9
+EMP00434,Python for Data,technical,2024-03-10,40,0.44,66.0
+EMP00434,Leadership Fundamental,leadership,2024-10-26,16,0.94,69.4
+EMP00434,Cybersecurity Basics,technical,2024-08-07,4,0.76,64.1
+EMP00435,Data Privacy,compliance,2024-03-04,24,0.79,64.5
+EMP00435,Python for Data,technical,2024-08-28,24,0.73,69.9
+EMP00435,Communication,soft_skills,2024-06-26,8,0.54,95.1
+EMP00436,Anti-Fraud,compliance,2024-12-01,24,0.82,37.3
+EMP00437,Anti-Fraud,compliance,2024-07-22,24,0.88,94.6
+EMP00438,Anti-Fraud,compliance,2024-08-25,4,0.88,86.9
+EMP00439,Health & Safety,compliance,2024-03-16,8,0.51,79.8
+EMP00439,Strategic Thinking,leadership,2024-03-31,4,0.9,81.9
+EMP00439,Anti-Fraud,compliance,2024-08-10,4,0.5,75.3
+EMP00439,Presentation,soft_skills,2024-02-12,40,0.73,67.5
+EMP00440,Anti-Fraud,compliance,2024-02-28,16,0.74,58.1
+EMP00440,Python for Data,technical,2024-07-02,24,0.83,80.0
+EMP00441,Strategic Thinking,leadership,2024-02-13,4,0.79,74.6
+EMP00441,Coaching Skills,leadership,2024-01-23,8,0.74,74.2
+EMP00442,SQL Advanced,technical,2024-04-14,24,0.75,56.6
+EMP00442,Anti-Fraud,compliance,2024-04-02,16,0.89,86.9
+EMP00443,Data Privacy,compliance,2024-05-07,24,0.83,76.7
+EMP00444,Anti-Fraud,compliance,2024-08-19,16,0.91,82.1
+EMP00444,Health & Safety,compliance,2024-03-04,24,0.61,82.5
+EMP00444,Coaching Skills,leadership,2024-02-16,40,0.88,50.1
+EMP00444,Negotiation,soft_skills,2024-10-31,4,0.81,96.6
+EMP00444,Cybersecurity Basics,technical,2024-01-03,16,0.77,84.8
+EMP00445,Cybersecurity Basics,technical,2024-12-22,4,0.71,85.5
+EMP00446,Change Management,leadership,2024-05-26,16,0.81,86.6
+EMP00446,Communication,soft_skills,2024-05-11,16,0.84,55.0
+EMP00446,Python for Data,technical,2024-10-29,16,0.73,60.8
+EMP00446,Coaching Skills,leadership,2024-06-06,16,0.82,79.7
+EMP00446,Negotiation,soft_skills,2024-12-30,8,0.86,63.3
+EMP00447,Python for Data,technical,2024-03-13,24,0.77,97.6
+EMP00447,Change Management,leadership,2024-11-14,40,0.58,67.3
+EMP00448,Anti-Fraud,compliance,2024-07-13,16,0.96,63.5
+EMP00448,Change Management,leadership,2024-07-04,4,0.72,81.0
+EMP00448,Python for Data,technical,2024-12-29,16,0.85,86.8
+EMP00448,Data Privacy,compliance,2024-05-25,4,0.68,71.9
+EMP00449,Code of Conduct,compliance,2024-04-21,16,0.72,55.3
+EMP00449,Health & Safety,compliance,2024-12-29,4,0.84,48.5
+EMP00449,Cybersecurity Basics,technical,2024-03-02,40,0.82,92.4
+EMP00449,Python for Data,technical,2024-04-30,4,0.98,68.7
+EMP00449,Anti-Fraud,compliance,2024-10-09,24,0.7,84.7
+EMP00450,Leadership Fundamental,leadership,2024-08-20,16,0.91,88.9
+EMP00450,Code of Conduct,compliance,2024-05-23,16,0.94,63.0
+EMP00451,Coaching Skills,leadership,2024-12-11,40,0.92,90.5
+EMP00451,Time Management,soft_skills,2024-03-02,24,0.9,75.9
+EMP00452,Anti-Fraud,compliance,2024-05-26,8,0.81,76.0
+EMP00453,Strategic Thinking,leadership,2024-05-08,24,0.82,77.5
+EMP00453,Data Privacy,compliance,2024-08-04,8,0.74,68.0
+EMP00453,Data Privacy,compliance,2024-08-17,8,0.84,81.3
+EMP00453,SQL Advanced,technical,2024-08-09,24,0.87,71.1
+EMP00453,Presentation,soft_skills,2024-12-17,24,0.74,72.6
+EMP00454,Cybersecurity Basics,technical,2024-02-13,4,0.73,71.5
+EMP00454,Python for Data,technical,2024-05-08,24,0.91,80.2
+EMP00454,Anti-Fraud,compliance,2024-05-17,4,0.95,76.4
+EMP00455,Strategic Thinking,leadership,2024-06-26,4,0.75,51.3
+EMP00455,Anti-Fraud,compliance,2024-10-30,8,0.89,79.8
+EMP00455,Presentation,soft_skills,2024-06-04,16,0.8,44.5
+EMP00455,Cybersecurity Basics,technical,2024-03-12,16,0.9,72.5
+EMP00455,Code of Conduct,compliance,2024-11-21,16,0.78,91.2
+EMP00456,Cloud Computing,technical,2024-11-19,16,0.86,47.6
+EMP00456,Leadership Fundamental,leadership,2024-07-19,8,0.78,69.7
+EMP00457,Health & Safety,compliance,2024-08-31,8,0.78,61.9
+EMP00457,Negotiation,soft_skills,2024-10-05,40,0.69,94.2
+EMP00457,Anti-Fraud,compliance,2024-01-22,40,0.9,69.2
+EMP00457,Change Management,leadership,2024-12-21,40,0.85,70.8
+EMP00458,Time Management,soft_skills,2024-03-27,40,0.81,74.3
+EMP00459,Cybersecurity Basics,technical,2024-10-25,40,0.95,62.3
+EMP00459,Time Management,soft_skills,2024-05-17,8,0.78,83.0
+EMP00459,Cloud Computing,technical,2024-04-10,40,0.58,77.0
+EMP00459,Presentation,soft_skills,2024-11-14,8,0.78,76.6
+EMP00459,Change Management,leadership,2024-05-17,4,0.72,85.3
+EMP00460,Strategic Thinking,leadership,2024-05-07,24,0.9,89.2
+EMP00460,Time Management,soft_skills,2024-07-05,40,0.88,90.3
+EMP00461,Code of Conduct,compliance,2024-12-08,16,0.71,53.6
+EMP00462,Coaching Skills,leadership,2024-05-23,24,0.73,76.8
+EMP00462,Negotiation,soft_skills,2024-10-12,16,0.52,53.2
+EMP00462,Strategic Thinking,leadership,2024-09-30,4,0.68,72.0
+EMP00462,Strategic Thinking,leadership,2024-04-15,24,0.77,82.4
+EMP00462,Leadership Fundamental,leadership,2024-04-09,24,0.72,89.5
+EMP00463,Python for Data,technical,2024-05-27,8,0.75,76.4
+EMP00463,Coaching Skills,leadership,2024-08-21,16,0.97,62.1
+EMP00463,Leadership Fundamental,leadership,2024-09-20,40,0.99,80.4
+EMP00464,Strategic Thinking,leadership,2024-01-22,40,0.86,87.6
+EMP00464,Data Privacy,compliance,2024-12-23,40,0.68,62.3
+EMP00464,Anti-Fraud,compliance,2024-10-09,24,0.87,64.6
+EMP00464,Anti-Fraud,compliance,2024-06-16,4,0.79,74.9
+EMP00465,Code of Conduct,compliance,2024-02-26,8,0.91,73.7
+EMP00466,SQL Advanced,technical,2024-12-19,40,0.82,52.5
+EMP00466,Cybersecurity Basics,technical,2024-12-26,4,0.83,71.6
+EMP00466,Cloud Computing,technical,2024-04-02,40,0.82,94.5
+EMP00466,Presentation,soft_skills,2024-05-22,24,0.74,90.0
+EMP00467,Presentation,soft_skills,2024-08-19,40,0.78,94.2
+EMP00467,SQL Advanced,technical,2024-01-02,16,0.59,80.2
+EMP00467,Cloud Computing,technical,2024-05-31,24,0.57,63.9
+EMP00467,SQL Advanced,technical,2024-08-18,4,0.9,67.7
+EMP00468,Code of Conduct,compliance,2024-03-16,24,0.75,69.5
+EMP00468,Coaching Skills,leadership,2024-04-10,40,0.78,74.9
+EMP00468,Anti-Fraud,compliance,2024-08-01,8,0.77,72.7
+EMP00468,Data Privacy,compliance,2024-03-16,16,0.86,48.4
+EMP00468,Cloud Computing,technical,2024-09-24,24,0.81,38.0
+EMP00469,Python for Data,technical,2024-08-13,16,0.88,85.8
+EMP00469,Strategic Thinking,leadership,2024-04-20,24,0.82,44.6
+EMP00469,Python for Data,technical,2024-10-01,16,0.75,92.0
+EMP00470,Anti-Fraud,compliance,2024-01-05,40,0.87,75.9
+EMP00471,Change Management,leadership,2024-12-03,4,0.97,88.2
+EMP00471,Time Management,soft_skills,2024-09-15,16,0.76,77.4
+EMP00471,Strategic Thinking,leadership,2024-06-11,24,0.97,72.9
+EMP00471,Cybersecurity Basics,technical,2024-11-23,40,0.9,88.4
+EMP00471,Communication,soft_skills,2024-02-04,8,0.97,74.9
+EMP00472,Presentation,soft_skills,2024-06-24,4,0.97,88.0
+EMP00472,Change Management,leadership,2024-09-30,24,0.81,98.7
+EMP00472,Python for Data,technical,2024-08-07,24,0.97,55.8
+EMP00472,Leadership Fundamental,leadership,2024-02-13,8,0.55,63.9
+EMP00473,Presentation,soft_skills,2024-04-02,24,0.85,59.3
+EMP00473,Coaching Skills,leadership,2024-01-12,40,0.73,80.6
+EMP00473,Cloud Computing,technical,2024-04-09,40,0.73,80.8
+EMP00473,Coaching Skills,leadership,2024-08-22,8,0.84,73.9
+EMP00473,Cybersecurity Basics,technical,2024-09-02,8,0.81,82.1
+EMP00474,Cloud Computing,technical,2024-04-18,8,0.91,79.2
+EMP00474,Time Management,soft_skills,2024-04-08,4,0.75,87.1
+EMP00474,Coaching Skills,leadership,2024-04-03,40,0.81,75.5
+EMP00474,Negotiation,soft_skills,2024-09-27,4,0.79,92.7
+EMP00474,Communication,soft_skills,2024-09-11,40,0.76,89.1
+EMP00475,Communication,soft_skills,2024-02-22,40,0.96,57.3
+EMP00476,Anti-Fraud,compliance,2024-04-25,16,0.9,65.7
+EMP00476,SQL Advanced,technical,2024-08-09,24,0.88,67.6
+EMP00477,Strategic Thinking,leadership,2024-07-09,4,0.46,60.2
+EMP00477,Data Privacy,compliance,2024-09-25,40,0.59,94.4
+EMP00477,Strategic Thinking,leadership,2024-05-28,8,0.87,89.4
+EMP00477,Communication,soft_skills,2024-09-17,24,0.68,43.2
+EMP00477,Anti-Fraud,compliance,2024-04-25,16,0.94,84.8
+EMP00478,Change Management,leadership,2024-11-04,24,0.6,34.2
+EMP00478,Coaching Skills,leadership,2024-03-10,16,0.94,77.3
+EMP00478,Anti-Fraud,compliance,2024-04-25,16,0.87,89.7
+EMP00478,Anti-Fraud,compliance,2024-06-19,24,0.89,96.9
+EMP00479,Anti-Fraud,compliance,2024-11-14,40,0.73,59.7
+EMP00480,Cloud Computing,technical,2024-08-09,4,0.9,55.6
+EMP00480,Negotiation,soft_skills,2024-03-04,24,0.74,91.2
+EMP00480,Data Privacy,compliance,2024-01-20,4,0.95,94.3
+EMP00480,Code of Conduct,compliance,2024-10-10,8,0.97,72.2
+EMP00481,Negotiation,soft_skills,2024-12-08,40,0.94,45.6
+EMP00481,Data Privacy,compliance,2024-12-04,4,0.86,73.1
+EMP00482,Communication,soft_skills,2024-10-07,8,0.81,81.4
+EMP00482,Health & Safety,compliance,2024-11-04,24,0.86,79.4
+EMP00482,Change Management,leadership,2024-02-19,24,0.9,74.4
+EMP00483,Coaching Skills,leadership,2024-02-13,24,0.73,48.0
+EMP00483,Coaching Skills,leadership,2024-01-03,24,0.86,92.3
+EMP00483,Anti-Fraud,compliance,2024-12-10,16,0.75,72.1
+EMP00483,Leadership Fundamental,leadership,2024-02-05,24,0.85,82.7
+EMP00484,Coaching Skills,leadership,2024-11-17,8,0.89,88.1
+EMP00484,Data Privacy,compliance,2024-11-19,24,0.99,93.1
+EMP00484,Python for Data,technical,2024-03-03,8,0.94,80.2
+EMP00484,Communication,soft_skills,2024-05-27,40,0.85,93.3
+EMP00484,Presentation,soft_skills,2024-07-30,4,0.74,74.7
+EMP00485,Data Privacy,compliance,2024-11-06,8,0.76,87.0
+EMP00485,Health & Safety,compliance,2024-01-15,40,0.81,80.6
+EMP00486,SQL Advanced,technical,2024-05-12,16,0.82,77.3
+EMP00486,Change Management,leadership,2024-01-10,8,0.79,90.6
+EMP00487,Strategic Thinking,leadership,2024-05-31,24,0.72,78.7
+EMP00487,Anti-Fraud,compliance,2024-03-18,8,0.79,45.9
+EMP00487,Anti-Fraud,compliance,2024-06-05,40,0.8,77.3
+EMP00488,Presentation,soft_skills,2024-05-02,16,0.79,88.7
+EMP00488,Change Management,leadership,2024-10-25,4,0.66,87.0
+EMP00488,Leadership Fundamental,leadership,2024-09-20,40,0.75,97.3
+EMP00488,Time Management,soft_skills,2024-01-15,40,0.77,70.9
+EMP00489,Change Management,leadership,2024-02-07,40,0.63,64.0
+EMP00489,Leadership Fundamental,leadership,2024-04-21,24,0.87,83.0
+EMP00490,Strategic Thinking,leadership,2024-03-23,24,0.75,92.3
+EMP00490,Anti-Fraud,compliance,2024-08-23,8,0.98,88.0
+EMP00491,Communication,soft_skills,2024-07-31,40,0.88,87.3
+EMP00492,Cybersecurity Basics,technical,2024-11-30,4,0.78,75.8
+EMP00492,Negotiation,soft_skills,2024-12-18,16,0.72,82.5
+EMP00492,Cloud Computing,technical,2024-09-13,4,0.65,39.0
+EMP00492,Presentation,soft_skills,2024-02-27,16,0.88,68.8
+EMP00492,Negotiation,soft_skills,2024-01-14,8,0.77,97.4
+EMP00493,Leadership Fundamental,leadership,2024-08-25,40,0.66,84.0
+EMP00493,Cybersecurity Basics,technical,2024-07-12,8,0.93,70.8
+EMP00493,Strategic Thinking,leadership,2024-07-25,8,0.93,70.5
+EMP00493,Anti-Fraud,compliance,2024-07-25,24,0.74,72.1
+EMP00494,Python for Data,technical,2024-07-24,4,0.86,73.1
+EMP00494,Health & Safety,compliance,2024-10-18,4,0.85,65.2
+EMP00494,Cloud Computing,technical,2024-09-12,8,0.64,63.1
+EMP00495,Python for Data,technical,2024-07-24,40,0.61,89.9
+EMP00495,Negotiation,soft_skills,2024-03-21,40,0.88,90.0
+EMP00495,Coaching Skills,leadership,2024-02-24,24,0.78,88.9
+EMP00496,Presentation,soft_skills,2024-01-13,24,0.96,81.2
+EMP00496,Communication,soft_skills,2024-12-30,16,0.79,65.2
+EMP00496,Anti-Fraud,compliance,2024-06-20,16,0.83,59.8
+EMP00496,Strategic Thinking,leadership,2024-05-09,40,0.76,88.2
+EMP00497,Negotiation,soft_skills,2024-02-13,16,0.72,81.1
+EMP00497,Communication,soft_skills,2024-12-09,16,0.94,93.9
+EMP00498,Change Management,leadership,2024-04-10,4,0.75,91.3
+EMP00498,Anti-Fraud,compliance,2024-06-24,40,0.72,67.7
+EMP00499,Cloud Computing,technical,2024-09-21,40,0.65,50.6
+EMP00499,Cloud Computing,technical,2024-03-31,24,0.9,87.1
+EMP00499,Presentation,soft_skills,2024-09-25,8,0.73,78.1
+EMP00499,Cybersecurity Basics,technical,2024-12-03,40,0.83,84.2
+EMP00499,Leadership Fundamental,leadership,2024-03-25,16,0.9,71.3
+EMP00500,Code of Conduct,compliance,2024-09-13,8,0.62,74.9
+EMP00500,Python for Data,technical,2024-10-08,8,0.71,91.2
+EMP00500,Cloud Computing,technical,2024-07-11,8,0.72,89.2
+EMP00501,Presentation,soft_skills,2024-04-30,8,0.81,89.1
+EMP00501,Data Privacy,compliance,2024-03-19,4,0.74,78.1
+EMP00501,Data Privacy,compliance,2024-04-06,4,0.77,64.0
+EMP00501,Cloud Computing,technical,2024-03-03,4,0.47,89.4
+EMP00501,Health & Safety,compliance,2024-10-29,16,0.65,80.3
+EMP00502,Strategic Thinking,leadership,2024-12-25,40,0.88,80.5
+EMP00502,Cloud Computing,technical,2024-02-15,24,0.65,49.8
+EMP00502,Presentation,soft_skills,2024-02-19,40,0.71,91.2
+EMP00503,Strategic Thinking,leadership,2024-05-10,8,0.77,72.3
+EMP00503,Python for Data,technical,2024-02-16,16,0.75,71.1
+EMP00503,Data Privacy,compliance,2024-02-10,40,0.92,67.9
+EMP00504,Coaching Skills,leadership,2024-11-18,16,0.76,95.5
+EMP00505,Strategic Thinking,leadership,2024-02-27,40,0.93,71.6
+EMP00505,Cloud Computing,technical,2024-04-29,24,0.53,88.5
+EMP00505,Cloud Computing,technical,2024-10-01,8,0.9,66.3
+EMP00506,Coaching Skills,leadership,2024-11-22,24,0.92,68.6
+EMP00506,Health & Safety,compliance,2024-11-06,40,0.92,29.9
+EMP00506,Negotiation,soft_skills,2024-12-26,24,0.77,89.8
+EMP00506,Time Management,soft_skills,2024-07-07,24,0.75,76.0
+EMP00507,Health & Safety,compliance,2024-04-10,8,0.78,91.7
+EMP00507,SQL Advanced,technical,2024-09-10,16,0.79,85.6
+EMP00507,Strategic Thinking,leadership,2024-07-17,24,0.93,65.3
+EMP00507,Change Management,leadership,2024-09-06,40,0.81,68.4
+EMP00507,Communication,soft_skills,2024-07-05,24,0.84,87.1
+EMP00508,Coaching Skills,leadership,2024-10-10,24,0.51,69.3
+EMP00508,Leadership Fundamental,leadership,2024-01-26,8,0.8,77.5
+EMP00509,Coaching Skills,leadership,2024-01-02,8,0.85,75.3
+EMP00509,Time Management,soft_skills,2024-04-26,8,0.79,77.0
+EMP00509,Data Privacy,compliance,2024-10-18,8,0.98,71.1
+EMP00510,Python for Data,technical,2024-05-14,24,0.98,74.9
+EMP00510,Presentation,soft_skills,2024-09-03,4,0.77,83.1
+EMP00510,Time Management,soft_skills,2024-05-24,40,0.95,65.0
+EMP00510,Anti-Fraud,compliance,2024-08-04,40,0.95,93.5
+EMP00510,Presentation,soft_skills,2024-02-18,40,0.31,65.2
+EMP00511,Communication,soft_skills,2024-12-03,16,0.92,45.2
+EMP00511,Negotiation,soft_skills,2024-02-13,40,0.78,80.9
+EMP00511,Presentation,soft_skills,2024-07-06,16,0.71,89.6
+EMP00512,Change Management,leadership,2024-06-04,4,0.81,78.7
+EMP00512,Communication,soft_skills,2024-03-09,4,0.74,88.8
+EMP00513,Communication,soft_skills,2024-06-29,8,0.86,92.5
+EMP00513,Strategic Thinking,leadership,2024-12-09,4,0.68,56.8
+EMP00514,Coaching Skills,leadership,2024-01-27,4,0.94,68.7
+EMP00514,Presentation,soft_skills,2024-04-29,16,0.85,77.4
+EMP00514,Strategic Thinking,leadership,2024-12-15,40,0.94,81.9
+EMP00514,Health & Safety,compliance,2024-02-23,40,0.48,80.4
+EMP00515,Coaching Skills,leadership,2024-01-31,4,0.6,69.1
+EMP00516,Presentation,soft_skills,2024-02-13,24,0.87,64.6
+EMP00516,Health & Safety,compliance,2024-09-03,8,0.59,97.6
+EMP00516,Negotiation,soft_skills,2024-12-14,24,0.75,76.0
+EMP00516,Change Management,leadership,2024-09-25,40,0.83,90.4
+EMP00516,Negotiation,soft_skills,2024-01-28,4,0.88,76.5
+EMP00517,Code of Conduct,compliance,2024-10-27,16,0.88,83.4
+EMP00518,Change Management,leadership,2024-02-27,40,0.98,92.0
+EMP00518,Negotiation,soft_skills,2024-06-08,4,0.62,84.6
+EMP00518,Cybersecurity Basics,technical,2024-12-19,24,0.82,89.6
+EMP00519,Cybersecurity Basics,technical,2024-04-12,24,0.85,69.9
+EMP00519,Communication,soft_skills,2024-08-25,24,0.8,76.5
+EMP00519,Time Management,soft_skills,2024-03-26,4,0.85,84.3
+EMP00519,Communication,soft_skills,2024-11-16,8,0.76,84.6
+EMP00520,Cloud Computing,technical,2024-05-05,4,0.93,41.7
+EMP00520,Data Privacy,compliance,2024-09-30,4,0.88,48.1
+EMP00520,Code of Conduct,compliance,2024-01-18,16,0.87,69.2
+EMP00520,Change Management,leadership,2024-09-01,40,0.47,33.7
+EMP00521,Leadership Fundamental,leadership,2024-11-30,16,0.66,84.2
+EMP00522,Cybersecurity Basics,technical,2024-10-25,24,0.79,70.5
+EMP00522,Strategic Thinking,leadership,2024-12-06,40,0.55,76.5
+EMP00522,Negotiation,soft_skills,2024-01-13,40,0.59,86.1
+EMP00522,Communication,soft_skills,2024-12-22,16,0.55,97.3
+EMP00522,Anti-Fraud,compliance,2024-12-07,16,0.59,72.3
+EMP00523,Change Management,leadership,2024-12-21,4,0.88,64.5
+EMP00523,Strategic Thinking,leadership,2024-06-21,24,0.63,78.8
+EMP00523,Python for Data,technical,2024-07-12,4,0.88,65.6
+EMP00523,Cloud Computing,technical,2024-12-13,40,0.92,84.1
+EMP00524,Time Management,soft_skills,2024-01-27,40,0.75,82.6
+EMP00524,Coaching Skills,leadership,2024-12-25,4,0.57,49.6
+EMP00524,Communication,soft_skills,2024-08-22,8,0.73,94.4
+EMP00524,Python for Data,technical,2024-05-16,24,0.75,79.9
+EMP00524,Anti-Fraud,compliance,2024-02-07,24,0.72,90.9
+EMP00525,Presentation,soft_skills,2024-06-20,24,0.75,81.4
+EMP00526,Health & Safety,compliance,2024-02-19,8,0.93,77.3
+EMP00526,Presentation,soft_skills,2024-05-17,8,0.93,95.9
+EMP00526,Communication,soft_skills,2024-10-11,16,0.77,71.3
+EMP00526,Negotiation,soft_skills,2024-05-19,40,0.62,87.8
+EMP00527,Cloud Computing,technical,2024-06-04,4,0.97,81.9
+EMP00527,Python for Data,technical,2024-01-06,16,0.8,94.2
+EMP00527,Coaching Skills,leadership,2024-01-26,16,0.65,71.6
+EMP00527,Anti-Fraud,compliance,2024-01-16,40,0.92,56.2
+EMP00528,Strategic Thinking,leadership,2024-08-17,24,0.77,79.6
+EMP00528,Data Privacy,compliance,2024-04-28,4,0.96,69.5
+EMP00528,Code of Conduct,compliance,2024-03-29,8,0.79,58.6
+EMP00528,SQL Advanced,technical,2024-12-02,40,0.85,80.5
+EMP00528,Time Management,soft_skills,2024-02-01,8,0.76,94.0
+EMP00529,Python for Data,technical,2024-06-30,4,0.8,83.2
+EMP00530,Data Privacy,compliance,2024-03-27,16,0.88,84.8
+EMP00530,Leadership Fundamental,leadership,2024-02-01,4,0.91,82.0
+EMP00531,Coaching Skills,leadership,2024-10-05,40,0.79,86.1
+EMP00531,Change Management,leadership,2024-06-01,8,0.87,73.3
+EMP00531,Negotiation,soft_skills,2024-03-01,4,0.97,70.8
+EMP00532,Cloud Computing,technical,2024-11-25,40,0.91,86.0
+EMP00533,Negotiation,soft_skills,2024-11-23,4,0.86,81.1
+EMP00533,Leadership Fundamental,leadership,2024-02-26,24,0.71,76.2
+EMP00534,Change Management,leadership,2024-07-10,4,0.9,79.9
+EMP00534,Change Management,leadership,2024-02-22,24,0.84,71.7
+EMP00534,Data Privacy,compliance,2024-05-14,24,0.69,79.8
+EMP00534,Change Management,leadership,2024-11-06,24,0.73,81.1
+EMP00535,Coaching Skills,leadership,2024-11-23,4,0.89,81.6
+EMP00535,Time Management,soft_skills,2024-10-12,8,0.72,76.1
+EMP00536,Cybersecurity Basics,technical,2024-05-10,24,0.9,84.9
+EMP00536,Anti-Fraud,compliance,2024-03-15,24,0.81,77.9
+EMP00536,Communication,soft_skills,2024-12-17,8,0.67,98.2
+EMP00536,Communication,soft_skills,2024-07-14,16,0.95,86.9
+EMP00536,Leadership Fundamental,leadership,2024-12-07,4,0.96,78.2
+EMP00537,Cybersecurity Basics,technical,2024-10-22,24,0.87,97.8
+EMP00537,Health & Safety,compliance,2024-05-04,40,0.95,62.7
+EMP00537,Coaching Skills,leadership,2024-10-04,4,0.91,78.6
+EMP00537,Negotiation,soft_skills,2024-01-25,4,0.74,73.2
+EMP00538,Negotiation,soft_skills,2024-12-10,4,0.72,64.9
+EMP00538,Leadership Fundamental,leadership,2024-01-24,40,0.88,69.7
+EMP00538,Coaching Skills,leadership,2024-12-26,4,0.99,91.2
+EMP00539,Cloud Computing,technical,2024-02-11,8,0.72,72.6
+EMP00539,Cloud Computing,technical,2024-08-29,8,0.77,90.5
+EMP00539,Presentation,soft_skills,2024-08-30,8,0.86,79.0
+EMP00539,Cloud Computing,technical,2024-02-18,8,0.75,91.6
+EMP00540,Cloud Computing,technical,2024-10-23,40,0.92,69.2
+EMP00541,Change Management,leadership,2024-02-02,8,0.73,50.7
+EMP00541,Leadership Fundamental,leadership,2024-08-31,24,0.91,50.1
+EMP00541,Time Management,soft_skills,2024-07-07,40,0.79,92.3
+EMP00541,Leadership Fundamental,leadership,2024-05-29,24,0.75,66.7
+EMP00542,Time Management,soft_skills,2024-01-19,40,0.89,93.6
+EMP00542,Data Privacy,compliance,2024-07-21,16,0.62,88.0
+EMP00542,Anti-Fraud,compliance,2024-02-23,8,0.86,83.5
+EMP00542,Time Management,soft_skills,2024-08-18,40,0.66,82.9
+EMP00543,Strategic Thinking,leadership,2024-12-10,24,0.93,59.2
+EMP00543,Time Management,soft_skills,2024-07-31,16,0.69,86.3
+EMP00543,Python for Data,technical,2024-07-01,24,0.78,66.9
+EMP00544,Cybersecurity Basics,technical,2024-09-09,40,0.75,69.9
+EMP00544,Cybersecurity Basics,technical,2024-05-11,24,0.76,87.0
+EMP00544,Strategic Thinking,leadership,2024-05-28,24,0.6,71.9
+EMP00544,Code of Conduct,compliance,2024-12-14,16,0.57,90.9
+EMP00544,Health & Safety,compliance,2024-01-23,40,0.94,78.2
+EMP00545,Data Privacy,compliance,2024-02-28,40,0.87,85.1
+EMP00546,Communication,soft_skills,2024-07-03,4,0.8,57.8
+EMP00546,SQL Advanced,technical,2024-10-06,8,0.79,72.7
+EMP00546,Leadership Fundamental,leadership,2024-03-05,4,0.71,79.5
+EMP00546,Health & Safety,compliance,2024-08-16,4,0.87,92.5
+EMP00547,Presentation,soft_skills,2024-01-22,16,0.74,86.1
+EMP00547,Health & Safety,compliance,2024-04-22,8,0.81,87.1
+EMP00548,Anti-Fraud,compliance,2024-09-02,8,0.66,85.9
+EMP00548,Cybersecurity Basics,technical,2024-07-24,40,0.86,60.8
+EMP00549,Strategic Thinking,leadership,2024-09-20,40,0.68,67.2
+EMP00549,Data Privacy,compliance,2024-02-11,16,0.92,89.6
+EMP00549,Presentation,soft_skills,2024-02-25,4,0.97,60.3
+EMP00549,Negotiation,soft_skills,2024-01-31,24,0.86,68.6
+EMP00549,Data Privacy,compliance,2024-10-28,4,0.89,82.1
+EMP00550,Negotiation,soft_skills,2024-05-13,8,0.38,81.7
+EMP00551,Data Privacy,compliance,2024-11-21,8,0.82,60.4
+EMP00551,Communication,soft_skills,2024-02-26,40,0.51,80.0
+EMP00551,Strategic Thinking,leadership,2024-08-30,40,0.78,53.0
+EMP00552,Python for Data,technical,2024-10-01,16,0.95,85.0
+EMP00552,Health & Safety,compliance,2024-12-03,16,0.84,96.9
+EMP00552,Leadership Fundamental,leadership,2024-01-12,8,0.81,79.9
+EMP00552,Cloud Computing,technical,2024-09-03,4,0.87,66.1
+EMP00553,SQL Advanced,technical,2024-09-11,40,0.85,68.7
+EMP00553,Cloud Computing,technical,2024-06-24,24,0.94,75.9
+EMP00553,Leadership Fundamental,leadership,2024-11-17,8,0.59,56.6
+EMP00554,Presentation,soft_skills,2024-01-19,8,0.79,77.2
+EMP00555,Code of Conduct,compliance,2024-05-16,4,0.86,71.2
+EMP00555,Python for Data,technical,2024-09-28,8,0.97,51.9
+EMP00556,Negotiation,soft_skills,2024-11-28,16,0.73,86.9
+EMP00556,Time Management,soft_skills,2024-09-04,8,0.81,95.6
+EMP00557,Health & Safety,compliance,2024-04-30,8,0.81,56.8
+EMP00558,Strategic Thinking,leadership,2024-12-03,4,0.94,71.9
+EMP00559,Anti-Fraud,compliance,2024-05-15,16,0.74,84.7
+EMP00560,Cloud Computing,technical,2024-10-06,24,0.74,51.7
+EMP00560,Communication,soft_skills,2024-10-22,8,0.62,63.2
+EMP00560,Coaching Skills,leadership,2024-10-23,8,0.68,78.7
+EMP00560,Cloud Computing,technical,2024-08-03,16,0.88,48.1
+EMP00561,Python for Data,technical,2024-08-26,16,0.95,78.4
+EMP00561,Cloud Computing,technical,2024-03-14,8,0.94,60.3
+EMP00562,Cloud Computing,technical,2024-05-15,24,0.72,95.7
+EMP00562,Code of Conduct,compliance,2024-01-25,4,0.88,42.2
+EMP00562,Health & Safety,compliance,2024-01-16,40,0.89,93.9
+EMP00563,Time Management,soft_skills,2024-06-19,24,0.76,87.0
+EMP00564,Code of Conduct,compliance,2024-03-17,4,0.76,83.9
+EMP00564,Strategic Thinking,leadership,2024-03-01,4,0.97,70.6
+EMP00564,Communication,soft_skills,2024-12-26,24,0.96,86.7
+EMP00564,Cybersecurity Basics,technical,2024-02-17,8,0.82,63.9
+EMP00565,Health & Safety,compliance,2024-04-25,40,0.94,84.3
+EMP00565,SQL Advanced,technical,2024-09-19,8,0.65,67.6
+EMP00565,Communication,soft_skills,2024-11-03,16,0.81,82.4
+EMP00565,Leadership Fundamental,leadership,2024-12-02,8,0.85,87.4
+EMP00565,Leadership Fundamental,leadership,2024-08-27,24,0.79,59.1
+EMP00566,Cloud Computing,technical,2024-12-15,4,0.9,74.6
+EMP00566,Code of Conduct,compliance,2024-11-13,16,0.75,60.4
+EMP00566,Negotiation,soft_skills,2024-04-30,40,0.59,92.1
+EMP00567,Negotiation,soft_skills,2024-12-22,8,0.77,62.7
+EMP00568,Leadership Fundamental,leadership,2024-01-12,8,0.69,90.8
+EMP00568,Code of Conduct,compliance,2024-07-14,24,0.87,83.1
+EMP00568,Negotiation,soft_skills,2024-05-28,40,0.75,83.3
+EMP00569,Coaching Skills,leadership,2024-03-07,40,0.76,40.5
+EMP00569,Health & Safety,compliance,2024-01-21,24,0.82,32.0
+EMP00569,Strategic Thinking,leadership,2024-04-29,8,0.9,88.5
+EMP00569,Health & Safety,compliance,2024-10-22,40,0.91,73.8
+EMP00570,Health & Safety,compliance,2024-09-06,24,0.43,82.3
+EMP00570,Presentation,soft_skills,2024-05-10,8,0.85,96.4
+EMP00570,Change Management,leadership,2024-04-16,24,0.87,77.2
+EMP00571,Cybersecurity Basics,technical,2024-07-26,8,0.89,91.2
+EMP00572,Presentation,soft_skills,2024-04-22,8,0.92,65.1
+EMP00572,Time Management,soft_skills,2024-04-01,8,0.83,92.0
+EMP00572,Anti-Fraud,compliance,2024-02-04,24,0.87,78.1
+EMP00572,Cloud Computing,technical,2024-02-22,4,0.88,43.4
+EMP00573,Cloud Computing,technical,2024-01-22,24,0.82,95.9
+EMP00573,SQL Advanced,technical,2024-05-15,16,0.7,76.6
+EMP00573,Time Management,soft_skills,2024-01-04,40,0.81,84.9
+EMP00574,Python for Data,technical,2024-09-30,40,0.99,77.6
+EMP00574,Presentation,soft_skills,2024-11-21,4,0.87,78.5
+EMP00574,Presentation,soft_skills,2024-04-17,8,0.81,58.8
+EMP00575,Python for Data,technical,2024-01-26,4,0.73,90.0
+EMP00576,Code of Conduct,compliance,2024-03-07,24,0.73,71.0
+EMP00576,Negotiation,soft_skills,2024-08-29,4,0.85,87.6
+EMP00576,Python for Data,technical,2024-06-14,24,0.64,83.1
+EMP00576,Presentation,soft_skills,2024-10-11,8,0.96,87.6
+EMP00577,Presentation,soft_skills,2024-06-24,16,0.51,65.3
+EMP00577,Data Privacy,compliance,2024-06-02,16,0.91,82.6
+EMP00577,Change Management,leadership,2024-07-23,4,0.75,87.2
+EMP00578,Data Privacy,compliance,2024-03-11,40,0.67,73.3
+EMP00578,Strategic Thinking,leadership,2024-09-06,24,0.97,70.0
+EMP00578,Negotiation,soft_skills,2024-01-12,24,0.91,99.0
+EMP00578,Negotiation,soft_skills,2024-08-22,4,0.93,79.4
+EMP00579,Negotiation,soft_skills,2024-07-16,4,0.96,51.0
+EMP00579,Change Management,leadership,2024-03-29,24,0.79,82.2
+EMP00579,Change Management,leadership,2024-04-10,40,0.77,74.3
+EMP00580,Python for Data,technical,2024-02-29,40,0.78,60.6
+EMP00580,Change Management,leadership,2024-08-02,4,0.94,83.7
+EMP00581,Python for Data,technical,2024-10-05,8,0.79,76.5
+EMP00581,Cloud Computing,technical,2024-11-15,4,0.98,97.1
+EMP00581,Time Management,soft_skills,2024-03-12,8,0.9,74.9
+EMP00581,Python for Data,technical,2024-02-24,16,0.83,63.1
+EMP00581,Python for Data,technical,2024-05-28,16,0.73,82.4
+EMP00582,Communication,soft_skills,2024-06-01,4,0.49,81.9
+EMP00583,Time Management,soft_skills,2024-11-29,16,0.79,65.8
+EMP00584,Python for Data,technical,2024-07-06,16,0.81,83.2
+EMP00584,Presentation,soft_skills,2024-01-03,8,0.66,84.1
+EMP00584,Anti-Fraud,compliance,2024-03-06,16,0.83,80.3
+EMP00584,Time Management,soft_skills,2024-07-30,40,0.79,76.4
+EMP00585,Leadership Fundamental,leadership,2024-06-01,4,0.98,61.8
+EMP00586,Change Management,leadership,2024-01-09,40,0.89,94.4
+EMP00586,Presentation,soft_skills,2024-07-22,8,0.82,51.1
+EMP00587,Cloud Computing,technical,2024-11-17,24,0.91,93.3
+EMP00588,Strategic Thinking,leadership,2024-12-06,16,0.85,69.2
+EMP00588,Leadership Fundamental,leadership,2024-10-31,40,0.77,62.7
+EMP00588,Communication,soft_skills,2024-08-18,24,0.78,65.2
+EMP00588,Time Management,soft_skills,2024-11-28,4,0.88,63.5
+EMP00588,Coaching Skills,leadership,2024-10-06,40,0.59,72.6
+EMP00589,Python for Data,technical,2024-10-05,40,0.93,74.3
+EMP00589,Presentation,soft_skills,2024-11-20,4,0.79,69.8
+EMP00589,Code of Conduct,compliance,2024-04-09,40,0.89,98.0
+EMP00589,Cybersecurity Basics,technical,2024-02-04,16,0.75,69.0
+EMP00590,Cybersecurity Basics,technical,2024-10-31,16,0.71,95.2
+EMP00591,Health & Safety,compliance,2024-05-24,40,0.83,73.1
+EMP00591,Anti-Fraud,compliance,2024-05-21,40,0.79,88.0
+EMP00591,Cybersecurity Basics,technical,2024-02-28,40,0.84,79.8
+EMP00591,Code of Conduct,compliance,2024-02-16,4,0.79,73.0
+EMP00591,Change Management,leadership,2024-08-25,16,0.74,46.9
+EMP00592,Python for Data,technical,2024-09-17,24,0.64,26.2
+EMP00592,Negotiation,soft_skills,2024-06-20,16,0.81,63.2
+EMP00592,Communication,soft_skills,2024-06-01,24,0.9,47.9
+EMP00592,Coaching Skills,leadership,2024-12-27,24,0.5,69.8
+EMP00593,Leadership Fundamental,leadership,2024-09-27,4,0.82,88.4
+EMP00593,Negotiation,soft_skills,2024-12-19,8,0.84,82.6
+EMP00593,Anti-Fraud,compliance,2024-01-15,40,0.83,74.7
+EMP00593,Strategic Thinking,leadership,2024-05-12,40,0.78,72.3
+EMP00594,Python for Data,technical,2024-07-29,8,0.91,76.6
+EMP00595,Health & Safety,compliance,2024-12-01,16,0.89,50.1
+EMP00596,Communication,soft_skills,2024-02-05,16,0.74,97.9
+EMP00596,Cloud Computing,technical,2024-06-20,24,0.74,57.4
+EMP00597,SQL Advanced,technical,2024-06-10,40,0.97,64.3
+EMP00597,Code of Conduct,compliance,2024-04-05,4,0.94,36.7
+EMP00597,Strategic Thinking,leadership,2024-09-09,24,0.93,69.8
+EMP00597,Communication,soft_skills,2024-01-29,16,0.74,60.1
+EMP00597,Change Management,leadership,2024-02-06,4,0.77,57.3
+EMP00598,Coaching Skills,leadership,2024-10-25,40,0.48,66.8
+EMP00598,Code of Conduct,compliance,2024-10-10,24,0.82,63.8
+EMP00598,Data Privacy,compliance,2024-06-09,24,0.95,91.7
+EMP00599,Code of Conduct,compliance,2024-08-06,40,0.98,59.5
+EMP00600,Health & Safety,compliance,2024-03-09,8,0.89,91.9
+EMP00600,Cloud Computing,technical,2024-10-18,24,0.82,82.0
+EMP00600,Change Management,leadership,2024-05-29,4,0.76,86.2
+EMP00601,Time Management,soft_skills,2024-01-17,8,0.79,87.2
+EMP00601,Presentation,soft_skills,2024-12-18,24,0.9,73.0
+EMP00601,Leadership Fundamental,leadership,2024-04-23,8,0.79,64.6
+EMP00602,Python for Data,technical,2024-12-02,16,0.81,94.7
+EMP00602,Python for Data,technical,2024-12-03,16,0.54,84.4
+EMP00603,Anti-Fraud,compliance,2024-01-06,8,0.82,76.4
+EMP00603,Data Privacy,compliance,2024-05-20,16,0.82,91.7
+EMP00603,Negotiation,soft_skills,2024-08-03,4,0.97,93.9
+EMP00603,Cybersecurity Basics,technical,2024-07-24,16,0.94,60.6
+EMP00604,Time Management,soft_skills,2024-07-27,40,0.63,74.3
+EMP00604,SQL Advanced,technical,2024-07-28,40,0.86,72.9
+EMP00604,Strategic Thinking,leadership,2024-09-19,24,0.78,65.8
+EMP00605,Time Management,soft_skills,2024-10-17,4,0.96,81.2
+EMP00605,Cloud Computing,technical,2024-04-29,8,0.87,97.8
+EMP00605,Time Management,soft_skills,2024-08-30,24,0.77,68.0
+EMP00606,Presentation,soft_skills,2024-08-23,8,0.97,70.7
+EMP00606,Cloud Computing,technical,2024-04-09,4,0.71,68.4
+EMP00606,SQL Advanced,technical,2024-01-10,8,0.73,32.0
+EMP00606,Cybersecurity Basics,technical,2024-03-14,24,0.72,71.5
+EMP00606,Cybersecurity Basics,technical,2024-04-16,24,0.76,47.1
+EMP00607,Time Management,soft_skills,2024-08-07,40,0.73,80.4
+EMP00608,Negotiation,soft_skills,2024-03-31,8,0.77,49.3
+EMP00608,Coaching Skills,leadership,2024-05-25,8,0.9,97.1
+EMP00608,Leadership Fundamental,leadership,2024-05-27,40,0.78,77.7
+EMP00608,Communication,soft_skills,2024-11-11,16,0.92,84.7
+EMP00609,Coaching Skills,leadership,2024-01-04,16,0.68,79.2
+EMP00609,Data Privacy,compliance,2024-06-07,16,0.93,62.8
+EMP00609,Negotiation,soft_skills,2024-10-17,24,0.85,99.3
+EMP00609,Python for Data,technical,2024-05-01,24,0.84,71.3
+EMP00610,Time Management,soft_skills,2024-09-16,4,0.9,87.2
+EMP00610,Data Privacy,compliance,2024-03-13,24,0.73,59.0
+EMP00610,Cloud Computing,technical,2024-10-31,24,0.76,73.3
+EMP00610,Anti-Fraud,compliance,2024-08-21,8,0.86,62.6
+EMP00611,Leadership Fundamental,leadership,2024-09-02,40,0.79,86.2
+EMP00611,Code of Conduct,compliance,2024-03-24,4,0.6,68.2
+EMP00611,Cloud Computing,technical,2024-02-27,8,0.77,88.6
+EMP00611,Health & Safety,compliance,2024-03-23,40,0.8,92.1
+EMP00612,Leadership Fundamental,leadership,2024-11-09,16,0.7,51.2
+EMP00612,Coaching Skills,leadership,2024-12-02,4,0.82,71.5
+EMP00612,Python for Data,technical,2024-12-16,16,0.91,74.6
+EMP00612,Cybersecurity Basics,technical,2024-07-30,16,0.56,77.8
+EMP00612,Presentation,soft_skills,2024-11-03,8,0.57,81.6
+EMP00613,Anti-Fraud,compliance,2024-06-28,24,0.61,93.1
+EMP00613,Anti-Fraud,compliance,2024-03-17,4,0.69,88.4
+EMP00613,Presentation,soft_skills,2024-10-03,16,0.67,80.4
+EMP00614,SQL Advanced,technical,2024-09-07,16,0.77,93.2
+EMP00614,Health & Safety,compliance,2024-07-30,24,0.73,83.2
+EMP00614,Cloud Computing,technical,2024-05-20,16,0.95,68.2
+EMP00614,SQL Advanced,technical,2024-02-25,16,0.79,93.3
+EMP00614,Strategic Thinking,leadership,2024-03-20,4,0.61,62.4
+EMP00615,Coaching Skills,leadership,2024-01-02,4,0.89,35.2
+EMP00615,Cybersecurity Basics,technical,2024-08-02,8,0.98,70.1
+EMP00615,Presentation,soft_skills,2024-02-11,40,0.67,71.7
+EMP00615,Health & Safety,compliance,2024-11-06,8,0.9,87.4
+EMP00615,Python for Data,technical,2024-10-16,24,0.96,93.1
+EMP00616,Communication,soft_skills,2024-03-31,24,0.82,50.6
+EMP00617,Anti-Fraud,compliance,2024-10-09,16,0.99,61.3
+EMP00617,Anti-Fraud,compliance,2024-05-22,16,0.75,67.5
+EMP00617,Health & Safety,compliance,2024-09-03,16,0.76,78.6
+EMP00617,Strategic Thinking,leadership,2024-06-25,4,0.72,43.0
+EMP00618,Cloud Computing,technical,2024-02-23,24,0.81,86.1
+EMP00619,Health & Safety,compliance,2024-06-22,40,0.86,73.4
+EMP00619,Time Management,soft_skills,2024-11-20,4,0.86,65.1
+EMP00620,Time Management,soft_skills,2024-11-23,4,0.78,83.2
+EMP00621,Strategic Thinking,leadership,2024-08-13,8,0.66,86.5
+EMP00621,Change Management,leadership,2024-02-04,8,0.55,88.2
+EMP00621,Code of Conduct,compliance,2024-04-02,8,0.85,73.1
+EMP00621,Coaching Skills,leadership,2024-07-29,24,0.93,83.2
+EMP00622,Negotiation,soft_skills,2024-01-07,40,0.92,85.1
+EMP00623,Time Management,soft_skills,2024-10-05,4,0.91,62.1
+EMP00623,Data Privacy,compliance,2024-09-24,4,0.93,80.2
+EMP00624,Strategic Thinking,leadership,2024-11-01,4,0.69,80.9
+EMP00624,SQL Advanced,technical,2024-06-30,24,0.87,55.8
+EMP00624,Code of Conduct,compliance,2024-02-25,24,0.97,62.3
+EMP00624,Data Privacy,compliance,2024-04-05,40,0.91,89.5
+EMP00625,Strategic Thinking,leadership,2024-04-05,8,0.93,65.1
+EMP00625,Negotiation,soft_skills,2024-01-19,4,0.7,72.4
+EMP00625,Health & Safety,compliance,2024-05-11,24,0.74,79.6
+EMP00625,Time Management,soft_skills,2024-02-12,24,0.63,60.0
+EMP00625,Python for Data,technical,2024-11-04,24,0.78,55.8
+EMP00626,Health & Safety,compliance,2024-05-18,16,0.56,68.0
+EMP00626,Code of Conduct,compliance,2024-02-10,40,0.9,81.7
+EMP00627,Time Management,soft_skills,2024-05-16,24,0.84,63.5
+EMP00628,Time Management,soft_skills,2024-07-20,16,0.62,66.2
+EMP00628,Coaching Skills,leadership,2024-04-10,8,0.53,97.7
+EMP00629,Cybersecurity Basics,technical,2024-09-17,4,0.8,62.4
+EMP00629,Cybersecurity Basics,technical,2024-09-16,8,0.68,96.5
+EMP00629,SQL Advanced,technical,2024-06-05,40,0.78,60.3
+EMP00629,Cloud Computing,technical,2024-07-05,16,0.69,77.9
+EMP00630,Leadership Fundamental,leadership,2024-08-03,4,0.82,67.6
+EMP00630,Presentation,soft_skills,2024-10-11,40,0.94,66.6
+EMP00630,Python for Data,technical,2024-11-05,8,0.89,75.8
+EMP00630,Negotiation,soft_skills,2024-09-28,8,0.89,82.3
+EMP00630,Anti-Fraud,compliance,2024-05-13,4,0.86,54.0
+EMP00631,Cybersecurity Basics,technical,2024-06-09,4,0.58,46.5
+EMP00631,Health & Safety,compliance,2024-08-23,16,0.86,44.1
+EMP00631,Data Privacy,compliance,2024-07-09,16,0.81,71.1
+EMP00631,Code of Conduct,compliance,2024-01-14,8,0.98,70.8
+EMP00632,Time Management,soft_skills,2024-02-14,8,0.96,79.6
+EMP00632,Change Management,leadership,2024-01-22,8,0.88,71.4
+EMP00633,Anti-Fraud,compliance,2024-06-01,24,0.76,77.3
+EMP00633,Coaching Skills,leadership,2024-06-18,4,0.94,80.8
+EMP00633,SQL Advanced,technical,2024-10-07,40,0.71,87.1
+EMP00633,Python for Data,technical,2024-06-08,40,0.78,86.7
+EMP00633,Change Management,leadership,2024-11-29,24,0.87,47.4
+EMP00634,Negotiation,soft_skills,2024-03-04,24,0.81,88.1
+EMP00634,Data Privacy,compliance,2024-01-31,8,0.9,90.8
+EMP00634,Negotiation,soft_skills,2024-07-10,40,0.78,46.8
+EMP00634,SQL Advanced,technical,2024-07-01,40,0.99,72.7
+EMP00635,Coaching Skills,leadership,2024-01-28,4,0.7,95.9
+EMP00635,Cybersecurity Basics,technical,2024-11-13,24,0.86,64.7
+EMP00635,Strategic Thinking,leadership,2024-06-30,24,0.69,60.3
+EMP00635,Anti-Fraud,compliance,2024-08-08,40,0.96,64.1
+EMP00636,Communication,soft_skills,2024-05-09,4,0.89,86.3
+EMP00636,Negotiation,soft_skills,2024-03-05,16,0.68,95.2
+EMP00636,SQL Advanced,technical,2024-03-14,24,0.83,71.2
+EMP00637,Negotiation,soft_skills,2024-07-26,16,0.91,86.0
+EMP00637,SQL Advanced,technical,2024-10-20,8,0.89,69.9
+EMP00637,Change Management,leadership,2024-12-25,4,0.67,76.5
+EMP00638,Python for Data,technical,2024-05-05,16,0.84,65.1
+EMP00639,SQL Advanced,technical,2024-12-30,8,0.73,71.0
+EMP00639,Strategic Thinking,leadership,2024-07-25,40,0.71,64.2
+EMP00640,Coaching Skills,leadership,2024-12-10,24,0.64,84.7
+EMP00641,Python for Data,technical,2024-09-14,16,0.87,80.0
+EMP00642,Negotiation,soft_skills,2024-06-07,16,0.94,89.2
+EMP00642,SQL Advanced,technical,2024-11-07,24,0.79,86.4
+EMP00642,Time Management,soft_skills,2024-06-26,40,0.94,66.0
+EMP00642,Data Privacy,compliance,2024-09-09,24,0.96,81.6
+EMP00642,Health & Safety,compliance,2024-02-08,16,0.83,74.3
+EMP00643,Anti-Fraud,compliance,2024-09-13,40,0.79,93.7
+EMP00643,Cloud Computing,technical,2024-08-20,16,0.8,92.9
+EMP00643,Data Privacy,compliance,2024-02-15,8,0.79,92.0
+EMP00643,Coaching Skills,leadership,2024-03-27,8,0.84,81.9
+EMP00644,Negotiation,soft_skills,2024-04-17,8,0.89,47.8
+EMP00644,Communication,soft_skills,2024-11-17,24,0.68,53.1
+EMP00644,Data Privacy,compliance,2024-05-08,16,0.84,64.4
+EMP00644,Data Privacy,compliance,2024-03-22,4,0.68,75.5
+EMP00645,SQL Advanced,technical,2024-02-28,8,0.85,66.7
+EMP00646,Presentation,soft_skills,2024-01-30,4,0.72,85.2
+EMP00646,Python for Data,technical,2024-04-03,16,0.95,73.6
+EMP00646,Code of Conduct,compliance,2024-09-18,8,0.5,86.1
+EMP00646,Anti-Fraud,compliance,2024-02-08,40,0.76,55.1
+EMP00646,Cloud Computing,technical,2024-12-30,24,0.87,73.8
+EMP00647,Coaching Skills,leadership,2024-07-02,4,0.93,57.8
+EMP00647,Presentation,soft_skills,2024-09-18,16,0.44,65.7
+EMP00648,Time Management,soft_skills,2024-08-04,40,0.82,98.0
+EMP00648,Cybersecurity Basics,technical,2024-05-22,8,0.97,70.2
+EMP00648,Leadership Fundamental,leadership,2024-03-15,16,0.84,71.4
+EMP00648,Data Privacy,compliance,2024-05-10,16,0.83,82.4
+EMP00648,Communication,soft_skills,2024-05-06,8,0.79,53.3
+EMP00649,Data Privacy,compliance,2024-05-02,4,0.57,53.0
+EMP00649,Python for Data,technical,2024-11-14,16,0.9,76.0
+EMP00649,Communication,soft_skills,2024-07-08,4,0.72,81.9
+EMP00649,Coaching Skills,leadership,2024-09-07,16,0.91,67.8
+EMP00649,Presentation,soft_skills,2024-07-28,4,0.89,71.3
+EMP00650,Time Management,soft_skills,2024-12-08,24,0.91,88.3
+EMP00651,Data Privacy,compliance,2024-03-01,4,0.92,82.4
+EMP00651,Strategic Thinking,leadership,2024-08-22,16,0.82,88.7
+EMP00652,Time Management,soft_skills,2024-01-15,4,0.93,53.5
+EMP00652,Strategic Thinking,leadership,2024-07-08,40,0.72,85.8
+EMP00652,Data Privacy,compliance,2024-05-14,40,0.77,56.9
+EMP00653,Leadership Fundamental,leadership,2024-02-27,8,0.66,93.9
+EMP00653,Health & Safety,compliance,2024-05-11,24,0.82,80.8
+EMP00654,Anti-Fraud,compliance,2024-03-24,40,0.89,52.1
+EMP00654,Time Management,soft_skills,2024-09-18,4,0.74,63.8
+EMP00654,Presentation,soft_skills,2024-12-13,40,0.93,50.3
+EMP00654,Strategic Thinking,leadership,2024-12-29,4,0.74,80.0
+EMP00654,Coaching Skills,leadership,2024-11-07,8,0.72,37.3
+EMP00655,Strategic Thinking,leadership,2024-12-06,24,0.78,94.3
+EMP00655,Time Management,soft_skills,2024-05-28,8,0.55,77.8
+EMP00656,Health & Safety,compliance,2024-07-22,4,0.94,71.2
+EMP00657,Communication,soft_skills,2024-03-22,40,0.69,90.0
+EMP00657,Change Management,leadership,2024-09-25,8,0.86,51.6
+EMP00657,Leadership Fundamental,leadership,2024-10-29,8,0.79,79.9
+EMP00657,Coaching Skills,leadership,2024-10-05,16,0.78,83.5
+EMP00658,Health & Safety,compliance,2024-05-08,4,0.93,66.0
+EMP00658,Data Privacy,compliance,2024-09-14,24,0.93,91.0
+EMP00658,Python for Data,technical,2024-01-27,40,0.68,89.0
+EMP00658,Cloud Computing,technical,2024-10-26,4,0.82,62.5
+EMP00659,Presentation,soft_skills,2024-10-28,4,0.8,80.3
+EMP00659,Anti-Fraud,compliance,2024-04-18,4,0.7,44.4
+EMP00659,Time Management,soft_skills,2024-10-22,24,0.79,56.9
+EMP00659,Cybersecurity Basics,technical,2024-06-24,8,0.85,50.1
+EMP00660,Cybersecurity Basics,technical,2024-02-23,40,0.63,92.0
+EMP00661,Code of Conduct,compliance,2024-09-16,8,0.87,83.6
+EMP00661,Leadership Fundamental,leadership,2024-07-14,40,0.74,72.5
+EMP00661,Data Privacy,compliance,2024-08-17,16,0.72,62.1
+EMP00662,Health & Safety,compliance,2024-08-25,40,0.66,58.1
+EMP00662,Presentation,soft_skills,2024-01-14,16,0.79,95.4
+EMP00663,Change Management,leadership,2024-11-27,8,0.72,67.2
+EMP00663,Data Privacy,compliance,2024-02-09,24,0.77,79.7
+EMP00663,SQL Advanced,technical,2024-11-09,4,0.91,97.8
+EMP00663,Python for Data,technical,2024-01-24,24,0.9,73.3
+EMP00664,Coaching Skills,leadership,2024-04-01,16,0.79,89.3
+EMP00664,Negotiation,soft_skills,2024-10-30,16,0.78,83.7
+EMP00664,Coaching Skills,leadership,2024-04-13,16,0.71,68.3
+EMP00664,Cybersecurity Basics,technical,2024-06-07,4,0.63,42.5
+EMP00664,Cloud Computing,technical,2024-08-22,16,0.76,64.6
+EMP00665,Data Privacy,compliance,2024-04-17,16,0.8,82.7
+EMP00666,Cloud Computing,technical,2024-09-05,8,0.81,73.3
+EMP00666,Leadership Fundamental,leadership,2024-10-08,8,0.71,72.7
+EMP00667,Coaching Skills,leadership,2024-10-24,4,0.96,86.9
+EMP00667,Communication,soft_skills,2024-10-10,24,0.79,75.8
+EMP00668,Negotiation,soft_skills,2024-12-25,24,0.78,72.2
+EMP00668,Communication,soft_skills,2024-07-20,8,0.89,61.7
+EMP00668,Coaching Skills,leadership,2024-07-18,24,0.91,92.8
+EMP00668,Leadership Fundamental,leadership,2024-02-24,16,0.37,54.5
+EMP00669,Time Management,soft_skills,2024-04-17,16,0.91,83.4
+EMP00669,Health & Safety,compliance,2024-03-15,16,0.45,91.7
+EMP00669,Strategic Thinking,leadership,2024-04-27,40,0.87,58.7
+EMP00669,Negotiation,soft_skills,2024-10-15,24,0.91,65.2
+EMP00669,Communication,soft_skills,2024-07-24,24,0.88,95.6
+EMP00670,Cybersecurity Basics,technical,2024-08-12,24,0.91,90.6
+EMP00670,Health & Safety,compliance,2024-10-10,4,0.93,85.5
+EMP00670,Communication,soft_skills,2024-12-24,4,0.82,29.8
+EMP00670,Change Management,leadership,2024-07-25,24,0.92,65.9
+EMP00671,Health & Safety,compliance,2024-06-30,40,0.76,59.1
+EMP00671,Code of Conduct,compliance,2024-05-02,4,0.62,93.8
+EMP00671,Strategic Thinking,leadership,2024-07-14,4,0.96,77.1
+EMP00671,Code of Conduct,compliance,2024-04-15,4,0.79,73.8
+EMP00671,Data Privacy,compliance,2024-01-24,24,0.91,42.0
+EMP00672,Coaching Skills,leadership,2024-01-07,16,0.94,77.9
+EMP00672,Coaching Skills,leadership,2024-08-06,16,0.73,71.4
+EMP00673,Change Management,leadership,2024-08-03,4,0.66,87.2
+EMP00673,Leadership Fundamental,leadership,2024-04-19,4,0.74,88.1
+EMP00673,Change Management,leadership,2024-07-18,40,0.87,52.4
+EMP00673,Python for Data,technical,2024-06-22,40,0.75,87.8
+EMP00673,Anti-Fraud,compliance,2024-03-22,24,0.78,90.7
+EMP00674,Change Management,leadership,2024-07-06,16,0.74,66.5
+EMP00674,Anti-Fraud,compliance,2024-12-17,16,0.7,33.1
+EMP00675,Strategic Thinking,leadership,2024-11-24,16,0.74,62.6
+EMP00675,Anti-Fraud,compliance,2024-02-01,16,0.85,90.8
+EMP00675,Code of Conduct,compliance,2024-05-05,24,0.83,63.3
+EMP00676,Cybersecurity Basics,technical,2024-10-13,24,0.75,89.1
+EMP00676,Strategic Thinking,leadership,2024-09-14,40,0.91,66.4
+EMP00676,Strategic Thinking,leadership,2024-08-27,40,0.83,50.1
+EMP00677,Negotiation,soft_skills,2024-02-15,24,0.75,46.4
+EMP00677,Data Privacy,compliance,2024-02-09,24,0.88,90.0
+EMP00677,Code of Conduct,compliance,2024-02-02,24,0.73,90.4
+EMP00678,Health & Safety,compliance,2024-10-26,4,0.9,91.2
+EMP00678,Change Management,leadership,2024-09-01,4,0.78,91.2
+EMP00678,Coaching Skills,leadership,2024-07-14,40,0.87,63.5
+EMP00678,Health & Safety,compliance,2024-06-16,8,0.67,37.5
+EMP00679,Cybersecurity Basics,technical,2024-11-08,40,0.81,79.8
+EMP00679,Negotiation,soft_skills,2024-09-29,24,0.93,89.5
+EMP00679,Cybersecurity Basics,technical,2024-10-16,16,0.91,75.5
+EMP00679,Cloud Computing,technical,2024-05-18,40,0.91,83.5
+EMP00680,Time Management,soft_skills,2024-10-07,16,0.84,61.3
+EMP00680,Time Management,soft_skills,2024-05-17,4,0.85,87.9
+EMP00680,Python for Data,technical,2024-01-09,8,0.87,82.7
+EMP00681,Python for Data,technical,2024-09-23,8,0.93,61.0
+EMP00681,Cloud Computing,technical,2024-12-26,16,0.61,96.7
+EMP00681,Data Privacy,compliance,2024-05-16,40,0.69,87.8
+EMP00681,Cybersecurity Basics,technical,2024-05-15,16,0.82,63.2
+EMP00682,Negotiation,soft_skills,2024-12-09,24,0.79,93.2
+EMP00682,Time Management,soft_skills,2024-03-17,8,0.99,70.8
+EMP00683,Communication,soft_skills,2024-05-29,8,0.93,60.2
+EMP00683,Python for Data,technical,2024-10-01,40,0.87,85.1
+EMP00683,Anti-Fraud,compliance,2024-07-15,8,0.76,93.1
+EMP00684,Data Privacy,compliance,2024-09-13,16,0.82,56.2
+EMP00684,Anti-Fraud,compliance,2024-01-28,40,0.85,67.1
+EMP00684,Communication,soft_skills,2024-06-17,8,0.76,68.3
+EMP00684,Data Privacy,compliance,2024-01-12,16,0.85,74.7
+EMP00684,Coaching Skills,leadership,2024-05-26,4,0.88,86.6
+EMP00685,Leadership Fundamental,leadership,2024-06-27,8,0.89,95.4
+EMP00685,Time Management,soft_skills,2024-03-28,16,0.84,72.2
+EMP00686,Presentation,soft_skills,2024-06-27,24,0.7,85.1
+EMP00686,Communication,soft_skills,2024-09-18,16,0.93,95.5
+EMP00686,Negotiation,soft_skills,2024-02-12,8,0.76,76.9
+EMP00687,Data Privacy,compliance,2024-03-29,40,0.66,76.2
+EMP00687,Python for Data,technical,2024-07-14,16,0.7,90.9
+EMP00687,Cloud Computing,technical,2024-10-24,4,0.76,85.6
+EMP00688,Time Management,soft_skills,2024-01-11,8,0.9,96.9
+EMP00688,Code of Conduct,compliance,2024-06-03,40,0.81,83.8
+EMP00688,Communication,soft_skills,2024-03-24,24,0.8,60.3
+EMP00689,Coaching Skills,leadership,2024-01-25,16,0.71,70.9
+EMP00690,Leadership Fundamental,leadership,2024-12-26,16,0.92,79.3
+EMP00691,SQL Advanced,technical,2024-08-01,16,0.8,80.9
+EMP00692,Code of Conduct,compliance,2024-09-11,4,0.54,62.7
+EMP00692,Coaching Skills,leadership,2024-11-18,24,0.66,74.9
+EMP00692,Health & Safety,compliance,2024-06-24,4,0.77,85.1
+EMP00692,SQL Advanced,technical,2024-02-21,24,0.91,85.7
+EMP00692,SQL Advanced,technical,2024-04-17,16,0.8,79.5
+EMP00693,Leadership Fundamental,leadership,2024-07-15,4,0.87,58.1
+EMP00693,Strategic Thinking,leadership,2024-11-11,40,0.64,68.3
+EMP00694,Strategic Thinking,leadership,2024-11-12,24,0.68,74.6
+EMP00694,Time Management,soft_skills,2024-07-20,40,0.83,70.5
+EMP00694,Strategic Thinking,leadership,2024-06-13,16,0.89,29.1
+EMP00695,Communication,soft_skills,2024-01-14,4,0.68,86.0
+EMP00696,Cloud Computing,technical,2024-07-28,40,0.89,87.6
+EMP00697,Coaching Skills,leadership,2024-08-22,40,0.73,83.4
+EMP00697,Time Management,soft_skills,2024-04-03,40,0.9,73.2
+EMP00697,Strategic Thinking,leadership,2024-03-09,24,0.87,83.2
+EMP00697,Presentation,soft_skills,2024-01-18,40,0.86,78.5
+EMP00697,Health & Safety,compliance,2024-07-31,8,0.88,80.7
+EMP00698,Negotiation,soft_skills,2024-05-27,24,0.93,89.6
+EMP00698,Change Management,leadership,2024-02-20,4,0.7,81.1
+EMP00698,Cybersecurity Basics,technical,2024-09-10,4,0.83,61.4
+EMP00698,Cybersecurity Basics,technical,2024-02-15,8,0.63,90.7
+EMP00698,Change Management,leadership,2024-05-09,40,0.72,61.5
+EMP00699,SQL Advanced,technical,2024-12-30,24,0.9,59.6
+EMP00699,Coaching Skills,leadership,2024-03-04,16,0.72,96.7
+EMP00699,Health & Safety,compliance,2024-09-23,16,0.79,29.2
+EMP00699,Data Privacy,compliance,2024-10-04,24,0.85,67.9
+EMP00699,Leadership Fundamental,leadership,2024-04-14,40,0.62,91.9
+EMP00700,Change Management,leadership,2024-06-10,8,0.95,65.7
+EMP00700,Cloud Computing,technical,2024-11-10,4,0.97,89.1
+EMP00700,Communication,soft_skills,2024-01-23,24,0.77,68.1
+EMP00700,Communication,soft_skills,2024-11-01,24,0.75,65.6
+EMP00700,Code of Conduct,compliance,2024-12-07,8,0.81,83.5
+EMP00701,Leadership Fundamental,leadership,2024-10-23,16,0.76,62.1
+EMP00701,Change Management,leadership,2024-05-24,8,0.95,74.0
+EMP00701,Time Management,soft_skills,2024-05-25,8,0.84,97.9
+EMP00701,Presentation,soft_skills,2024-03-13,24,0.94,92.4
+EMP00701,Python for Data,technical,2024-02-23,24,0.67,90.2
+EMP00702,Communication,soft_skills,2024-05-15,4,0.93,66.3
+EMP00702,SQL Advanced,technical,2024-08-20,40,0.51,92.4
+EMP00702,Data Privacy,compliance,2024-12-27,4,0.76,92.5
+EMP00703,Anti-Fraud,compliance,2024-08-05,16,0.61,74.4
+EMP00704,Python for Data,technical,2024-10-18,4,0.72,38.3
+EMP00704,SQL Advanced,technical,2024-01-29,24,0.84,79.6
+EMP00704,Cybersecurity Basics,technical,2024-03-11,8,0.7,64.0
+EMP00704,Negotiation,soft_skills,2024-09-14,40,0.54,79.4
+EMP00705,Negotiation,soft_skills,2024-05-08,4,0.81,70.9
+EMP00705,Strategic Thinking,leadership,2024-12-17,40,0.86,66.3
+EMP00706,Leadership Fundamental,leadership,2024-09-30,4,0.87,83.4
+EMP00706,Time Management,soft_skills,2024-04-24,24,0.69,89.4
+EMP00706,Communication,soft_skills,2024-05-16,16,0.86,85.4
+EMP00706,Python for Data,technical,2024-06-11,40,0.88,93.3
+EMP00707,Python for Data,technical,2024-06-06,4,0.78,80.3
+EMP00707,Leadership Fundamental,leadership,2024-10-20,4,0.8,76.7
+EMP00707,Anti-Fraud,compliance,2024-06-04,16,0.92,84.1
+EMP00707,Coaching Skills,leadership,2024-03-20,24,0.66,77.0
+EMP00707,Coaching Skills,leadership,2024-07-04,4,0.91,68.3
+EMP00708,Anti-Fraud,compliance,2024-03-03,16,0.87,62.0
+EMP00708,Data Privacy,compliance,2024-11-20,40,0.74,97.0
+EMP00708,Anti-Fraud,compliance,2024-10-18,24,0.85,63.0
+EMP00708,Change Management,leadership,2024-04-16,40,0.76,42.1
+EMP00708,Change Management,leadership,2024-02-12,40,0.6,42.8
+EMP00709,Negotiation,soft_skills,2024-02-25,4,0.97,95.9
+EMP00709,Time Management,soft_skills,2024-08-14,4,0.81,67.4
+EMP00709,Strategic Thinking,leadership,2024-12-03,16,0.86,51.0
+EMP00709,Anti-Fraud,compliance,2024-06-23,16,0.79,87.6
+EMP00710,Strategic Thinking,leadership,2024-12-14,40,0.84,74.1
+EMP00710,Python for Data,technical,2024-12-05,24,0.79,82.5
+EMP00710,Anti-Fraud,compliance,2024-08-19,16,0.96,84.8
+EMP00711,Communication,soft_skills,2024-05-16,40,0.72,54.7
+EMP00711,Cloud Computing,technical,2024-03-01,16,0.46,64.5
+EMP00711,Python for Data,technical,2024-06-05,8,0.82,83.9
+EMP00712,Anti-Fraud,compliance,2024-06-30,24,0.62,76.4
+EMP00713,Communication,soft_skills,2024-01-29,24,0.93,39.2
+EMP00714,Coaching Skills,leadership,2024-04-18,24,0.58,92.2
+EMP00714,Health & Safety,compliance,2024-12-19,8,0.8,59.3
+EMP00714,Coaching Skills,leadership,2024-10-13,24,0.85,68.0
+EMP00714,Negotiation,soft_skills,2024-11-23,16,0.73,85.0
+EMP00714,Time Management,soft_skills,2024-07-13,40,0.86,81.2
+EMP00715,Data Privacy,compliance,2024-10-25,40,0.67,79.0
+EMP00716,Presentation,soft_skills,2024-10-02,40,0.97,70.0
+EMP00716,Code of Conduct,compliance,2024-08-29,24,0.94,86.0
+EMP00716,Change Management,leadership,2024-03-04,4,0.92,64.9
+EMP00716,Time Management,soft_skills,2024-06-15,40,0.73,74.2
+EMP00716,Cybersecurity Basics,technical,2024-03-26,4,0.82,53.0
+EMP00717,Cybersecurity Basics,technical,2024-04-26,40,0.62,80.1
+EMP00718,Communication,soft_skills,2024-06-18,24,0.74,86.2
+EMP00718,Python for Data,technical,2024-01-09,24,0.97,47.9
+EMP00718,Python for Data,technical,2024-05-13,16,0.87,75.2
+EMP00718,Change Management,leadership,2024-10-01,4,0.85,92.4
+EMP00718,Strategic Thinking,leadership,2024-03-30,40,0.85,93.4
+EMP00719,Cybersecurity Basics,technical,2024-01-13,4,0.72,95.2
+EMP00719,Communication,soft_skills,2024-11-29,40,0.98,78.4
+EMP00719,Communication,soft_skills,2024-01-01,8,0.81,84.1
+EMP00720,Anti-Fraud,compliance,2024-01-20,24,0.89,64.4
+EMP00720,Anti-Fraud,compliance,2024-07-24,8,0.86,87.2
+EMP00720,SQL Advanced,technical,2024-05-10,40,0.7,97.8
+EMP00720,Strategic Thinking,leadership,2024-08-11,4,0.78,85.7
+EMP00720,Time Management,soft_skills,2024-04-01,40,0.7,84.3
+EMP00721,Presentation,soft_skills,2024-04-06,40,0.86,70.0
+EMP00721,Anti-Fraud,compliance,2024-04-04,40,0.82,91.7
+EMP00722,Cybersecurity Basics,technical,2024-10-14,8,0.84,69.9
+EMP00722,Time Management,soft_skills,2024-03-30,8,0.89,44.1
+EMP00723,Strategic Thinking,leadership,2024-11-01,40,0.84,67.3
+EMP00723,Leadership Fundamental,leadership,2024-09-05,16,0.93,90.2
+EMP00723,Python for Data,technical,2024-10-25,4,0.89,71.4
+EMP00724,Cloud Computing,technical,2024-05-07,16,0.73,96.1
+EMP00724,Communication,soft_skills,2024-03-05,40,0.95,71.9
+EMP00724,Communication,soft_skills,2024-10-08,8,0.83,64.5
+EMP00724,Negotiation,soft_skills,2024-01-30,8,0.9,68.9
+EMP00724,Leadership Fundamental,leadership,2024-12-17,24,0.74,69.7
+EMP00725,Coaching Skills,leadership,2024-04-03,16,0.97,63.4
+EMP00725,Time Management,soft_skills,2024-11-15,16,0.92,74.2
+EMP00725,Negotiation,soft_skills,2024-07-11,40,0.78,92.8
+EMP00726,Cybersecurity Basics,technical,2024-09-22,40,0.7,82.8
+EMP00726,SQL Advanced,technical,2024-10-27,24,0.86,91.6
+EMP00726,Change Management,leadership,2024-08-21,8,0.79,69.1
+EMP00726,Health & Safety,compliance,2024-12-29,8,0.89,92.4
+EMP00727,Coaching Skills,leadership,2024-01-02,40,0.77,80.6
+EMP00727,Strategic Thinking,leadership,2024-07-08,40,0.86,62.7
+EMP00728,Presentation,soft_skills,2024-07-10,16,0.91,73.2
+EMP00729,Communication,soft_skills,2024-10-31,16,0.35,76.4
+EMP00729,Negotiation,soft_skills,2024-08-08,40,0.67,76.3
+EMP00729,Negotiation,soft_skills,2024-09-24,40,0.76,64.6
+EMP00729,Negotiation,soft_skills,2024-10-16,16,0.85,94.1
+EMP00730,Communication,soft_skills,2024-09-28,4,0.57,83.9
+EMP00730,Anti-Fraud,compliance,2024-06-23,24,0.83,63.0
+EMP00731,Strategic Thinking,leadership,2024-04-17,24,0.81,73.7
+EMP00731,Communication,soft_skills,2024-01-12,4,0.98,71.5
+EMP00732,Negotiation,soft_skills,2024-02-04,8,0.64,86.7
+EMP00732,Health & Safety,compliance,2024-03-11,40,0.8,68.1
+EMP00732,Anti-Fraud,compliance,2024-03-13,16,0.76,86.9
+EMP00732,Presentation,soft_skills,2024-05-25,24,0.92,80.9
+EMP00732,Presentation,soft_skills,2024-08-20,8,0.84,88.1
+EMP00733,Data Privacy,compliance,2024-09-13,16,0.88,79.4
+EMP00734,Anti-Fraud,compliance,2024-10-14,16,0.94,80.4
+EMP00734,Anti-Fraud,compliance,2024-03-24,40,0.88,90.2
+EMP00734,Time Management,soft_skills,2024-11-07,40,0.99,60.4
+EMP00735,Data Privacy,compliance,2024-01-24,16,0.6,60.0
+EMP00735,Negotiation,soft_skills,2024-07-11,16,0.89,69.1
+EMP00735,Change Management,leadership,2024-05-09,40,0.6,87.6
+EMP00735,Coaching Skills,leadership,2024-06-17,40,0.79,98.8
+EMP00736,Code of Conduct,compliance,2024-01-31,8,0.84,62.7
+EMP00736,Negotiation,soft_skills,2024-02-17,40,0.77,77.2
+EMP00736,Code of Conduct,compliance,2024-08-13,24,0.93,97.0
+EMP00736,Communication,soft_skills,2024-05-16,40,0.76,63.6
+EMP00737,Leadership Fundamental,leadership,2024-01-01,4,0.85,75.2
+EMP00738,Code of Conduct,compliance,2024-10-13,8,0.84,80.6
+EMP00738,Time Management,soft_skills,2024-06-03,8,0.75,86.1
+EMP00738,Cloud Computing,technical,2024-11-23,16,0.85,62.7
+EMP00738,Negotiation,soft_skills,2024-11-21,8,0.97,78.3
+EMP00738,Negotiation,soft_skills,2024-09-09,8,0.64,87.2
+EMP00739,Leadership Fundamental,leadership,2024-03-23,40,0.89,72.6
+EMP00739,Leadership Fundamental,leadership,2024-11-18,4,0.75,59.9
+EMP00739,Communication,soft_skills,2024-04-24,8,0.87,89.2
+EMP00739,Communication,soft_skills,2024-10-15,8,0.66,91.2
+EMP00740,Cloud Computing,technical,2024-12-25,24,0.8,93.0
+EMP00741,Change Management,leadership,2024-05-01,4,0.81,58.7
+EMP00742,Leadership Fundamental,leadership,2024-09-02,24,0.52,86.5
+EMP00742,Time Management,soft_skills,2024-06-12,40,0.93,50.7
+EMP00742,Python for Data,technical,2024-09-20,40,0.65,75.0
+EMP00742,Negotiation,soft_skills,2024-03-20,4,0.75,34.3
+EMP00743,Anti-Fraud,compliance,2024-06-13,24,0.71,71.3
+EMP00743,Coaching Skills,leadership,2024-09-24,40,0.91,70.2
+EMP00743,Cloud Computing,technical,2024-07-08,40,0.84,78.0
+EMP00744,Presentation,soft_skills,2024-04-01,4,0.91,66.4
+EMP00744,Strategic Thinking,leadership,2024-01-12,40,0.64,64.2
+EMP00744,Cloud Computing,technical,2024-05-10,40,0.71,67.3
+EMP00745,Strategic Thinking,leadership,2024-07-17,8,0.8,73.9
+EMP00745,Python for Data,technical,2024-08-18,8,0.89,56.7
+EMP00745,Anti-Fraud,compliance,2024-11-23,40,0.81,80.2
+EMP00745,Communication,soft_skills,2024-05-23,40,0.94,96.2
+EMP00746,Cybersecurity Basics,technical,2024-09-13,8,0.93,95.3
+EMP00746,Data Privacy,compliance,2024-08-11,24,0.85,83.5
+EMP00746,Presentation,soft_skills,2024-03-06,40,0.76,78.2
+EMP00746,Python for Data,technical,2024-09-10,8,0.72,84.1
+EMP00746,Cybersecurity Basics,technical,2024-10-19,8,0.94,83.7
+EMP00747,Strategic Thinking,leadership,2024-02-16,40,0.73,85.3
+EMP00747,Data Privacy,compliance,2024-01-15,40,0.72,94.7
+EMP00748,Coaching Skills,leadership,2024-03-27,4,0.57,79.7
+EMP00748,Time Management,soft_skills,2024-07-04,8,0.84,61.3
+EMP00749,Time Management,soft_skills,2024-05-12,8,0.85,88.4
+EMP00750,Anti-Fraud,compliance,2024-06-09,4,0.64,98.9
+EMP00751,Anti-Fraud,compliance,2024-05-09,24,0.87,86.8
+EMP00752,Health & Safety,compliance,2024-02-15,24,0.68,88.9
+EMP00752,Negotiation,soft_skills,2024-06-18,8,0.77,87.5
+EMP00753,Health & Safety,compliance,2024-05-28,16,0.64,80.2
+EMP00753,Strategic Thinking,leadership,2024-05-29,8,0.85,58.1
+EMP00753,Presentation,soft_skills,2024-10-04,8,0.85,98.5
+EMP00753,Leadership Fundamental,leadership,2024-04-30,24,0.69,84.2
+EMP00754,Data Privacy,compliance,2024-12-14,8,0.76,66.2
+EMP00754,Health & Safety,compliance,2024-12-05,40,0.85,77.9
+EMP00754,SQL Advanced,technical,2024-08-31,8,0.8,68.5
+EMP00754,Data Privacy,compliance,2024-08-18,24,0.9,67.4
+EMP00755,Data Privacy,compliance,2024-09-21,8,0.74,76.2
+EMP00756,Cybersecurity Basics,technical,2024-07-10,4,0.55,46.1
+EMP00756,Change Management,leadership,2024-02-14,16,0.86,93.0
+EMP00756,Strategic Thinking,leadership,2024-12-09,40,0.87,90.2
+EMP00756,Cloud Computing,technical,2024-07-13,24,0.8,89.0
+EMP00757,Cloud Computing,technical,2024-03-28,16,0.83,86.3
+EMP00758,SQL Advanced,technical,2024-07-18,4,0.58,82.3
+EMP00758,Time Management,soft_skills,2024-12-15,16,0.69,80.6
+EMP00759,Python for Data,technical,2024-04-22,16,0.75,93.1
+EMP00759,Change Management,leadership,2024-11-15,8,0.88,77.9
+EMP00760,Time Management,soft_skills,2024-05-03,4,0.78,88.1
+EMP00760,Anti-Fraud,compliance,2024-05-15,40,0.64,87.3
+EMP00761,Coaching Skills,leadership,2024-04-19,16,0.72,82.3
+EMP00762,Python for Data,technical,2024-04-19,16,0.8,66.0
+EMP00762,Strategic Thinking,leadership,2024-10-04,4,0.85,88.9
+EMP00762,Data Privacy,compliance,2024-11-29,16,0.84,74.2
+EMP00762,Presentation,soft_skills,2024-07-24,8,0.74,94.7
+EMP00762,Code of Conduct,compliance,2024-12-12,16,0.74,87.4
+EMP00763,Negotiation,soft_skills,2024-07-01,24,0.66,71.7
+EMP00763,Cloud Computing,technical,2024-09-11,24,0.91,94.9
+EMP00763,Presentation,soft_skills,2024-02-20,40,0.72,65.9
+EMP00763,Presentation,soft_skills,2024-03-20,40,0.86,58.3
+EMP00763,Data Privacy,compliance,2024-05-17,16,0.46,73.4
+EMP00764,Communication,soft_skills,2024-02-10,40,0.95,52.6
+EMP00764,Anti-Fraud,compliance,2024-08-12,8,0.91,91.5
+EMP00764,Leadership Fundamental,leadership,2024-07-09,16,0.93,61.6
+EMP00765,Communication,soft_skills,2024-04-21,24,0.91,81.7
+EMP00765,Coaching Skills,leadership,2024-01-09,16,0.5,81.1
+EMP00766,Coaching Skills,leadership,2024-08-15,16,0.89,74.7
+EMP00766,Communication,soft_skills,2024-09-11,24,0.56,58.6
+EMP00767,Presentation,soft_skills,2024-08-08,24,0.89,56.2
+EMP00767,Leadership Fundamental,leadership,2024-01-23,4,0.82,81.0
+EMP00767,Cloud Computing,technical,2024-01-26,40,0.83,61.5
+EMP00767,Communication,soft_skills,2024-04-19,16,0.82,63.9
+EMP00768,Anti-Fraud,compliance,2024-12-02,16,0.88,84.9
+EMP00768,Cybersecurity Basics,technical,2024-07-23,8,0.83,86.5
+EMP00768,Health & Safety,compliance,2024-06-17,40,0.88,61.3
+EMP00769,Presentation,soft_skills,2024-03-15,16,0.86,57.8
+EMP00770,SQL Advanced,technical,2024-12-24,24,0.68,67.9
+EMP00770,Anti-Fraud,compliance,2024-08-08,16,0.9,87.3
+EMP00770,Communication,soft_skills,2024-08-20,16,0.93,42.3
+EMP00770,Negotiation,soft_skills,2024-01-01,24,0.87,46.9
+EMP00770,Cloud Computing,technical,2024-09-14,4,0.8,60.3
+EMP00771,Time Management,soft_skills,2024-05-17,16,0.96,25.6
+EMP00771,Health & Safety,compliance,2024-02-20,8,0.67,88.8
+EMP00771,Time Management,soft_skills,2024-04-19,16,0.97,61.3
+EMP00771,Anti-Fraud,compliance,2024-12-06,40,0.89,86.0
+EMP00772,Cloud Computing,technical,2024-12-29,8,0.56,78.8
+EMP00772,SQL Advanced,technical,2024-04-27,4,0.88,36.8
+EMP00773,Python for Data,technical,2024-07-11,4,0.71,64.0
+EMP00773,Time Management,soft_skills,2024-08-30,4,0.76,70.1
+EMP00773,Health & Safety,compliance,2024-03-28,16,0.89,96.2
+EMP00773,Code of Conduct,compliance,2024-01-28,8,0.78,75.1
+EMP00773,Strategic Thinking,leadership,2024-07-07,4,0.88,87.5
+EMP00774,Code of Conduct,compliance,2024-01-25,4,0.81,72.4
+EMP00775,Code of Conduct,compliance,2024-05-19,8,0.86,89.2
+EMP00775,Cloud Computing,technical,2024-04-05,24,0.95,70.4
+EMP00775,Leadership Fundamental,leadership,2024-06-09,40,0.93,95.6
+EMP00775,SQL Advanced,technical,2024-10-13,24,0.77,72.7
+EMP00776,Presentation,soft_skills,2024-05-22,16,0.98,57.4
+EMP00776,Strategic Thinking,leadership,2024-08-19,24,0.7,91.3
+EMP00776,Coaching Skills,leadership,2024-10-05,8,0.85,56.3
+EMP00777,Communication,soft_skills,2024-12-28,24,0.63,67.0
+EMP00777,Code of Conduct,compliance,2024-02-25,40,0.97,75.2
+EMP00777,Presentation,soft_skills,2024-02-14,40,0.96,53.2
+EMP00777,Code of Conduct,compliance,2024-11-14,16,0.58,93.2
+EMP00778,Presentation,soft_skills,2024-12-12,8,0.87,57.0
+EMP00778,Coaching Skills,leadership,2024-01-17,8,0.86,67.9
+EMP00779,Coaching Skills,leadership,2024-08-01,16,0.58,83.5
+EMP00779,Cybersecurity Basics,technical,2024-01-13,24,0.82,90.9
+EMP00779,Strategic Thinking,leadership,2024-03-13,24,0.48,69.5
+EMP00779,Presentation,soft_skills,2024-12-06,24,0.54,73.7
+EMP00780,Presentation,soft_skills,2024-12-16,8,0.88,32.7
+EMP00781,Communication,soft_skills,2024-08-27,16,0.61,89.7
+EMP00781,Coaching Skills,leadership,2024-07-15,24,0.69,87.4
+EMP00782,SQL Advanced,technical,2024-12-09,40,0.63,88.0
+EMP00783,Cloud Computing,technical,2024-07-05,16,0.67,80.7
+EMP00783,Negotiation,soft_skills,2024-10-02,4,0.86,57.5
+EMP00783,Data Privacy,compliance,2024-09-06,4,0.93,83.5
+EMP00783,Python for Data,technical,2024-06-16,4,0.56,84.4
+EMP00784,Presentation,soft_skills,2024-10-06,8,0.94,49.2
+EMP00785,Cybersecurity Basics,technical,2024-10-05,40,0.88,82.5
+EMP00785,Leadership Fundamental,leadership,2024-01-25,16,0.86,76.6
+EMP00785,Cloud Computing,technical,2024-07-08,24,0.82,85.9
+EMP00785,Health & Safety,compliance,2024-05-29,40,0.65,82.6
+EMP00785,Presentation,soft_skills,2024-02-12,40,0.69,49.3
+EMP00786,Health & Safety,compliance,2024-08-28,8,0.81,84.1
+EMP00786,Communication,soft_skills,2024-10-28,8,0.81,53.3
+EMP00787,Cloud Computing,technical,2024-05-29,8,0.91,90.8
+EMP00787,Negotiation,soft_skills,2024-04-20,8,0.68,69.5
+EMP00787,Anti-Fraud,compliance,2024-08-06,40,0.66,73.5
+EMP00788,Leadership Fundamental,leadership,2024-05-27,24,0.75,80.7
+EMP00788,Leadership Fundamental,leadership,2024-12-15,4,0.69,89.0
+EMP00788,Coaching Skills,leadership,2024-10-02,4,0.99,80.0
+EMP00789,Code of Conduct,compliance,2024-06-21,8,0.9,83.4
+EMP00790,Presentation,soft_skills,2024-09-16,24,0.76,88.0
+EMP00790,SQL Advanced,technical,2024-01-16,16,0.88,91.5
+EMP00790,Negotiation,soft_skills,2024-07-24,4,0.86,89.9
+EMP00790,Cloud Computing,technical,2024-07-13,24,0.69,67.6
+EMP00790,Presentation,soft_skills,2024-05-29,40,0.62,47.5
+EMP00791,Strategic Thinking,leadership,2024-08-03,24,0.79,71.4
+EMP00791,SQL Advanced,technical,2024-09-08,16,0.45,86.1
+EMP00791,Data Privacy,compliance,2024-08-23,16,0.91,60.0
+EMP00792,Change Management,leadership,2024-09-16,8,0.78,75.9
+EMP00792,Change Management,leadership,2024-12-27,24,0.72,81.7
+EMP00793,Coaching Skills,leadership,2024-04-03,8,0.84,61.1
+EMP00794,Communication,soft_skills,2024-05-07,24,0.8,96.6
+EMP00794,Time Management,soft_skills,2024-08-21,16,0.91,93.4
+EMP00794,Health & Safety,compliance,2024-02-01,4,0.78,70.9
+EMP00794,Code of Conduct,compliance,2024-11-11,4,0.85,66.5
+EMP00795,SQL Advanced,technical,2024-03-30,40,0.65,78.0
+EMP00796,Communication,soft_skills,2024-07-20,8,0.67,66.4
+EMP00797,Python for Data,technical,2024-01-15,24,0.84,88.0
+EMP00797,Python for Data,technical,2024-02-20,8,0.52,63.9
+EMP00797,Cybersecurity Basics,technical,2024-10-07,16,0.83,86.6
+EMP00797,Leadership Fundamental,leadership,2024-05-24,16,0.9,60.2
+EMP00798,Presentation,soft_skills,2024-04-30,4,0.78,83.1
+EMP00798,Leadership Fundamental,leadership,2024-12-18,40,0.51,72.3
+EMP00798,Coaching Skills,leadership,2024-10-23,24,0.9,62.1
+EMP00799,Change Management,leadership,2024-01-13,4,0.83,69.8
+EMP00800,Negotiation,soft_skills,2024-09-24,40,0.93,61.0
+EMP00800,SQL Advanced,technical,2024-07-18,40,0.91,92.9
+EMP00800,Data Privacy,compliance,2024-01-13,16,0.98,87.4
+EMP00801,Data Privacy,compliance,2024-05-18,4,0.86,87.9
+EMP00802,Time Management,soft_skills,2024-06-03,40,0.84,52.4
+EMP00802,Change Management,leadership,2024-05-28,40,0.89,93.0
+EMP00802,Strategic Thinking,leadership,2024-01-15,16,0.91,71.3
+EMP00803,SQL Advanced,technical,2024-04-15,8,0.8,96.9
+EMP00803,Code of Conduct,compliance,2024-02-07,16,0.82,64.6
+EMP00803,Negotiation,soft_skills,2024-08-29,24,0.83,40.7
+EMP00803,Code of Conduct,compliance,2024-04-22,16,0.8,64.8
+EMP00804,SQL Advanced,technical,2024-08-24,24,0.9,60.4
+EMP00804,SQL Advanced,technical,2024-07-25,8,0.94,75.3
+EMP00804,Anti-Fraud,compliance,2024-07-19,16,0.76,66.7
+EMP00804,Coaching Skills,leadership,2024-02-21,4,0.96,84.9
+EMP00805,Time Management,soft_skills,2024-11-06,4,0.74,89.8
+EMP00806,Change Management,leadership,2024-02-29,4,0.66,76.2
+EMP00806,Cybersecurity Basics,technical,2024-03-13,40,0.93,75.0
+EMP00807,Time Management,soft_skills,2024-06-24,8,0.68,57.7
+EMP00807,Change Management,leadership,2024-09-11,4,0.76,45.9
+EMP00808,Presentation,soft_skills,2024-06-24,8,0.88,96.0
+EMP00808,Anti-Fraud,compliance,2024-01-25,40,0.81,77.0
+EMP00808,Anti-Fraud,compliance,2024-06-02,16,0.84,86.4
+EMP00808,SQL Advanced,technical,2024-06-13,16,0.87,52.8
+EMP00809,Python for Data,technical,2024-06-24,40,0.89,67.3
+EMP00810,Code of Conduct,compliance,2024-03-17,16,0.96,72.2
+EMP00810,Cloud Computing,technical,2024-09-13,16,0.9,65.3
+EMP00810,Strategic Thinking,leadership,2024-12-12,8,0.87,58.0
+EMP00811,Health & Safety,compliance,2024-05-11,16,0.98,75.2
+EMP00811,SQL Advanced,technical,2024-10-28,4,0.89,62.3
+EMP00811,Coaching Skills,leadership,2024-08-15,8,0.78,93.5
+EMP00812,Cybersecurity Basics,technical,2024-12-01,4,0.46,56.9
+EMP00812,Python for Data,technical,2024-04-20,4,0.99,89.3
+EMP00812,Cybersecurity Basics,technical,2024-12-01,40,0.62,86.4
+EMP00812,Health & Safety,compliance,2024-01-13,40,0.73,56.3
+EMP00813,SQL Advanced,technical,2024-08-31,40,0.73,55.5
+EMP00813,Coaching Skills,leadership,2024-06-19,4,0.82,26.4
+EMP00814,Health & Safety,compliance,2024-07-15,24,0.81,59.9
+EMP00814,Strategic Thinking,leadership,2024-06-29,8,0.78,56.1
+EMP00814,Time Management,soft_skills,2024-08-06,8,0.85,82.3
+EMP00814,Anti-Fraud,compliance,2024-05-20,4,0.58,83.4
+EMP00814,Strategic Thinking,leadership,2024-07-06,8,0.79,69.0
+EMP00815,Anti-Fraud,compliance,2024-04-06,8,0.77,86.2
+EMP00815,Change Management,leadership,2024-08-28,16,0.78,56.5
+EMP00815,Python for Data,technical,2024-01-04,4,0.77,69.9
+EMP00815,Change Management,leadership,2024-09-14,4,0.68,91.0
+EMP00816,Communication,soft_skills,2024-08-10,40,0.93,68.5
+EMP00816,Python for Data,technical,2024-07-25,8,0.82,70.6
+EMP00816,Anti-Fraud,compliance,2024-02-15,8,0.8,70.4
+EMP00817,Time Management,soft_skills,2024-02-20,24,0.92,78.4
+EMP00817,Presentation,soft_skills,2024-10-16,40,0.94,73.7
+EMP00817,Leadership Fundamental,leadership,2024-07-21,16,0.9,72.7
+EMP00818,Health & Safety,compliance,2024-05-28,40,0.47,81.9
+EMP00818,Python for Data,technical,2024-09-01,24,0.84,90.9
+EMP00818,Time Management,soft_skills,2024-01-01,24,0.7,91.3
+EMP00818,Time Management,soft_skills,2024-05-05,24,0.85,33.9
+EMP00818,Coaching Skills,leadership,2024-10-27,16,0.76,92.8
+EMP00819,Data Privacy,compliance,2024-01-16,8,0.91,82.3
+EMP00819,Cybersecurity Basics,technical,2024-12-11,16,0.63,95.1
+EMP00820,Change Management,leadership,2024-03-28,24,0.83,75.8
+EMP00820,Anti-Fraud,compliance,2024-01-15,4,0.81,58.5
+EMP00820,Data Privacy,compliance,2024-07-16,8,0.7,76.1
+EMP00821,Change Management,leadership,2024-06-14,4,0.82,97.2
+EMP00821,Cybersecurity Basics,technical,2024-03-16,16,0.87,55.3
+EMP00821,Data Privacy,compliance,2024-12-05,8,0.5,84.7
+EMP00821,Data Privacy,compliance,2024-05-12,8,0.87,76.6
+EMP00821,SQL Advanced,technical,2024-02-17,4,0.75,43.5
+EMP00822,Time Management,soft_skills,2024-10-04,24,0.72,85.0
+EMP00822,Presentation,soft_skills,2024-10-01,16,0.81,77.6
+EMP00823,Python for Data,technical,2024-01-13,40,0.93,83.4
+EMP00823,Presentation,soft_skills,2024-03-03,24,0.9,73.4
+EMP00824,Code of Conduct,compliance,2024-04-27,40,0.88,87.0
+EMP00824,Data Privacy,compliance,2024-08-06,8,0.93,88.0
+EMP00824,Python for Data,technical,2024-05-17,40,0.66,94.5
+EMP00824,Time Management,soft_skills,2024-03-07,40,0.77,70.8
+EMP00824,Health & Safety,compliance,2024-07-04,40,0.95,60.9
+EMP00825,Python for Data,technical,2024-09-09,4,0.94,97.2
+EMP00825,Health & Safety,compliance,2024-09-20,16,0.83,88.5
+EMP00825,Strategic Thinking,leadership,2024-12-02,16,0.86,80.1
+EMP00826,Python for Data,technical,2024-10-02,24,0.86,68.9
+EMP00827,Cybersecurity Basics,technical,2024-06-29,4,0.9,59.5
+EMP00827,Python for Data,technical,2024-12-17,4,0.57,77.0
+EMP00828,Leadership Fundamental,leadership,2024-09-21,40,0.62,81.3
+EMP00828,Cloud Computing,technical,2024-08-17,40,0.94,66.6
+EMP00828,Coaching Skills,leadership,2024-10-13,16,0.74,74.2
+EMP00828,Time Management,soft_skills,2024-05-31,16,0.77,97.8
+EMP00829,SQL Advanced,technical,2024-09-18,16,0.93,72.2
+EMP00829,Time Management,soft_skills,2024-10-15,4,0.53,63.6
+EMP00830,Cybersecurity Basics,technical,2024-07-26,16,0.62,47.3
+EMP00830,Strategic Thinking,leadership,2024-01-21,16,0.56,73.2
+EMP00830,Data Privacy,compliance,2024-05-07,8,0.92,80.3
+EMP00831,Coaching Skills,leadership,2024-11-29,40,0.95,84.9
+EMP00831,Time Management,soft_skills,2024-09-26,24,0.84,78.3
+EMP00831,Presentation,soft_skills,2024-03-26,8,0.64,96.0
+EMP00832,Python for Data,technical,2024-10-02,40,0.69,65.9
+EMP00833,SQL Advanced,technical,2024-06-14,40,0.7,70.7
+EMP00833,SQL Advanced,technical,2024-02-29,40,0.8,77.5
+EMP00833,Time Management,soft_skills,2024-02-26,40,0.84,47.9
+EMP00833,Python for Data,technical,2024-02-22,16,0.91,96.7
+EMP00833,Python for Data,technical,2024-12-26,8,0.76,94.3
+EMP00834,Coaching Skills,leadership,2024-01-31,40,0.64,40.8
+EMP00834,Code of Conduct,compliance,2024-03-09,40,0.78,59.3
+EMP00834,Strategic Thinking,leadership,2024-08-31,16,0.89,93.3
+EMP00834,Leadership Fundamental,leadership,2024-03-14,8,0.81,92.8
+EMP00834,Data Privacy,compliance,2024-03-29,24,0.9,79.1
+EMP00835,Presentation,soft_skills,2024-01-21,16,0.75,86.9
+EMP00835,SQL Advanced,technical,2024-05-05,40,0.82,84.1
+EMP00835,Leadership Fundamental,leadership,2024-11-06,8,0.82,69.9
+EMP00835,Code of Conduct,compliance,2024-02-13,4,0.75,60.3
+EMP00835,Time Management,soft_skills,2024-07-01,24,0.74,77.5
+EMP00836,Health & Safety,compliance,2024-07-19,40,0.84,47.3
+EMP00836,Strategic Thinking,leadership,2024-08-04,24,0.77,47.7
+EMP00836,Leadership Fundamental,leadership,2024-03-01,4,0.74,86.8
+EMP00836,Change Management,leadership,2024-05-19,4,0.88,89.6
+EMP00837,Communication,soft_skills,2024-06-14,24,0.88,84.1
+EMP00838,Code of Conduct,compliance,2024-04-28,24,0.94,87.6
+EMP00838,Cybersecurity Basics,technical,2024-04-28,16,0.86,93.6
+EMP00839,Strategic Thinking,leadership,2024-06-28,40,0.64,83.8
+EMP00840,Data Privacy,compliance,2024-10-14,16,0.9,97.2
+EMP00840,Change Management,leadership,2024-07-22,4,0.43,79.2
+EMP00841,SQL Advanced,technical,2024-01-12,40,0.62,86.1
+EMP00841,Coaching Skills,leadership,2024-08-04,40,0.76,57.8
+EMP00841,Negotiation,soft_skills,2024-07-09,4,0.83,89.6
+EMP00842,Data Privacy,compliance,2024-01-24,4,0.98,75.6
+EMP00842,Cybersecurity Basics,technical,2024-12-01,24,0.89,86.0
+EMP00843,Health & Safety,compliance,2024-01-16,8,0.91,91.5
+EMP00843,Leadership Fundamental,leadership,2024-12-27,8,0.9,77.7
+EMP00843,SQL Advanced,technical,2024-11-14,24,0.87,82.5
+EMP00843,Health & Safety,compliance,2024-10-03,8,0.75,55.1
+EMP00844,Coaching Skills,leadership,2024-03-16,8,0.86,66.0
+EMP00845,Cloud Computing,technical,2024-01-17,4,0.87,87.1
+EMP00845,Coaching Skills,leadership,2024-05-31,16,0.55,46.4
+EMP00845,SQL Advanced,technical,2024-04-03,24,0.77,43.1
+EMP00845,Strategic Thinking,leadership,2024-04-22,40,0.91,87.3
+EMP00845,Health & Safety,compliance,2024-10-21,24,0.82,91.9
+EMP00846,SQL Advanced,technical,2024-11-23,16,0.79,77.1
+EMP00846,Change Management,leadership,2024-08-27,24,0.92,54.7
+EMP00847,Anti-Fraud,compliance,2024-10-19,4,0.58,86.8
+EMP00847,Anti-Fraud,compliance,2024-09-22,24,0.9,45.3
+EMP00847,Strategic Thinking,leadership,2024-06-15,4,0.66,76.6
+EMP00847,Code of Conduct,compliance,2024-04-05,40,0.84,91.4
+EMP00847,SQL Advanced,technical,2024-08-29,8,0.8,62.2
+EMP00848,Presentation,soft_skills,2024-09-10,24,0.5,77.2
+EMP00849,Change Management,leadership,2024-07-27,16,0.75,73.0
+EMP00849,Code of Conduct,compliance,2024-09-07,8,0.67,92.4
+EMP00850,SQL Advanced,technical,2024-07-16,8,0.84,93.1
+EMP00850,Code of Conduct,compliance,2024-09-09,40,0.72,76.6
+EMP00850,Time Management,soft_skills,2024-12-18,16,0.78,80.9
+EMP00850,Python for Data,technical,2024-11-30,4,0.75,66.5
+EMP00850,Communication,soft_skills,2024-02-18,40,0.82,73.1
+EMP00851,Leadership Fundamental,leadership,2024-06-20,4,0.82,76.3
+EMP00851,Change Management,leadership,2024-03-30,8,0.71,91.8
+EMP00852,Presentation,soft_skills,2024-12-24,40,0.82,75.1
+EMP00852,Code of Conduct,compliance,2024-05-02,4,0.94,80.6
+EMP00852,Change Management,leadership,2024-09-28,8,0.88,79.2
+EMP00852,Anti-Fraud,compliance,2024-10-27,16,0.81,62.6
+EMP00853,Strategic Thinking,leadership,2024-01-26,4,0.53,63.1
+EMP00853,Code of Conduct,compliance,2024-07-09,8,0.89,78.9
+EMP00853,Code of Conduct,compliance,2024-01-27,24,0.75,71.3
+EMP00853,Python for Data,technical,2024-03-15,24,0.75,79.2
+EMP00854,SQL Advanced,technical,2024-11-25,24,0.94,63.3
+EMP00855,Change Management,leadership,2024-03-03,4,0.93,76.3
+EMP00855,Change Management,leadership,2024-03-09,16,0.68,95.1
+EMP00855,Coaching Skills,leadership,2024-04-18,8,0.72,72.9
+EMP00855,Code of Conduct,compliance,2024-02-11,24,0.87,77.3
+EMP00855,Communication,soft_skills,2024-09-15,40,0.88,61.2
+EMP00856,Data Privacy,compliance,2024-05-23,40,0.65,71.4
+EMP00856,Cybersecurity Basics,technical,2024-07-04,16,0.85,68.8
+EMP00856,Health & Safety,compliance,2024-09-09,24,0.73,76.9
+EMP00856,Cloud Computing,technical,2024-01-01,40,0.58,56.8
+EMP00857,Negotiation,soft_skills,2024-02-28,40,0.82,59.1
+EMP00858,Presentation,soft_skills,2024-06-08,16,0.92,86.0
+EMP00858,Coaching Skills,leadership,2024-07-19,8,0.61,83.9
+EMP00859,SQL Advanced,technical,2024-10-15,24,0.79,35.8
+EMP00859,Negotiation,soft_skills,2024-11-01,16,0.97,66.9
+EMP00860,Time Management,soft_skills,2024-06-03,24,0.89,56.4
+EMP00860,Cybersecurity Basics,technical,2024-05-03,8,0.66,74.9
+EMP00860,Anti-Fraud,compliance,2024-03-23,24,0.83,92.0
+EMP00860,Presentation,soft_skills,2024-01-04,4,0.67,82.6
+EMP00860,Communication,soft_skills,2024-06-23,4,0.87,91.0
+EMP00861,Time Management,soft_skills,2024-06-21,4,0.88,69.2
+EMP00861,Data Privacy,compliance,2024-07-09,8,0.92,70.4
+EMP00861,Communication,soft_skills,2024-01-19,40,0.77,50.0
+EMP00862,Change Management,leadership,2024-03-19,16,0.93,94.3
+EMP00862,Leadership Fundamental,leadership,2024-03-12,24,0.9,81.7
+EMP00863,Anti-Fraud,compliance,2024-06-28,40,0.88,87.7
+EMP00863,Presentation,soft_skills,2024-11-03,24,0.86,79.1
+EMP00863,Anti-Fraud,compliance,2024-06-14,24,0.99,76.3
+EMP00864,Change Management,leadership,2024-10-28,24,0.78,94.6
+EMP00864,Data Privacy,compliance,2024-11-16,8,0.89,75.6
+EMP00864,Time Management,soft_skills,2024-02-04,40,0.82,86.2
+EMP00864,Anti-Fraud,compliance,2024-07-21,16,0.7,54.4
+EMP00865,Cloud Computing,technical,2024-06-05,24,0.91,65.0
+EMP00865,Health & Safety,compliance,2024-08-28,40,0.91,44.5
+EMP00866,Strategic Thinking,leadership,2024-07-08,16,0.78,81.1
+EMP00866,Python for Data,technical,2024-09-23,4,0.94,52.1
+EMP00866,Change Management,leadership,2024-03-04,16,0.84,81.4
+EMP00866,Data Privacy,compliance,2024-05-09,8,0.71,79.1
+EMP00867,Cloud Computing,technical,2024-12-24,40,0.59,89.6
+EMP00867,Anti-Fraud,compliance,2024-09-06,24,0.9,67.9
+EMP00867,Leadership Fundamental,leadership,2024-08-02,16,0.62,62.1
+EMP00868,SQL Advanced,technical,2024-08-02,16,0.86,93.6
+EMP00868,Health & Safety,compliance,2024-08-14,8,0.71,92.7
+EMP00869,Leadership Fundamental,leadership,2024-03-22,24,0.65,89.7
+EMP00870,Health & Safety,compliance,2024-10-14,4,0.62,84.9
+EMP00870,Time Management,soft_skills,2024-11-17,16,0.82,86.8
+EMP00871,Communication,soft_skills,2024-12-29,8,0.85,93.6
+EMP00871,Communication,soft_skills,2024-03-03,40,0.88,86.3
+EMP00871,Health & Safety,compliance,2024-11-17,8,0.97,50.1
+EMP00872,Time Management,soft_skills,2024-07-29,40,0.71,88.6
+EMP00872,Python for Data,technical,2024-03-30,24,0.77,84.6
+EMP00873,Data Privacy,compliance,2024-03-08,40,0.85,85.1
+EMP00873,Code of Conduct,compliance,2024-08-26,4,0.88,84.3
+EMP00873,Cybersecurity Basics,technical,2024-08-28,40,0.79,71.2
+EMP00874,Coaching Skills,leadership,2024-07-03,8,0.84,81.7
+EMP00875,Health & Safety,compliance,2024-09-18,40,0.84,61.0
+EMP00876,Code of Conduct,compliance,2024-08-04,24,0.9,56.1
+EMP00876,Strategic Thinking,leadership,2024-09-13,40,0.88,64.4
+EMP00876,Coaching Skills,leadership,2024-09-21,16,0.71,98.2
+EMP00876,Cloud Computing,technical,2024-03-03,16,0.4,62.9
+EMP00876,Python for Data,technical,2024-07-24,40,0.72,86.9
+EMP00877,Anti-Fraud,compliance,2024-03-29,40,0.97,68.2
+EMP00877,Data Privacy,compliance,2024-08-31,40,0.85,88.7
+EMP00877,Change Management,leadership,2024-07-07,24,0.76,46.4
+EMP00877,Strategic Thinking,leadership,2024-01-13,4,0.85,84.8
+EMP00877,Code of Conduct,compliance,2024-03-13,24,0.8,73.8
+EMP00878,Presentation,soft_skills,2024-01-17,4,0.79,72.9
+EMP00878,Anti-Fraud,compliance,2024-02-17,24,0.9,71.9
+EMP00878,Leadership Fundamental,leadership,2024-11-08,4,0.89,51.4
+EMP00878,Coaching Skills,leadership,2024-11-21,40,0.87,87.5
+EMP00879,Strategic Thinking,leadership,2024-05-05,16,0.59,55.3
+EMP00879,Cloud Computing,technical,2024-09-15,40,0.86,93.0
+EMP00880,Code of Conduct,compliance,2024-08-12,24,0.79,85.1
+EMP00880,Coaching Skills,leadership,2024-02-23,16,0.81,91.7
+EMP00880,Strategic Thinking,leadership,2024-11-08,24,0.82,92.0
+EMP00880,Communication,soft_skills,2024-12-24,40,0.91,94.6
+EMP00881,Cloud Computing,technical,2024-12-14,8,0.79,91.5
+EMP00881,Data Privacy,compliance,2024-02-12,8,0.86,68.1
+EMP00882,Leadership Fundamental,leadership,2024-10-15,24,0.76,95.9
+EMP00882,Time Management,soft_skills,2024-01-12,16,0.81,71.9
+EMP00882,Data Privacy,compliance,2024-03-10,40,0.56,61.5
+EMP00882,Negotiation,soft_skills,2024-08-05,16,0.7,89.2
+EMP00882,Python for Data,technical,2024-05-27,24,0.85,84.6
+EMP00883,Anti-Fraud,compliance,2024-03-09,24,0.73,36.7
+EMP00883,Change Management,leadership,2024-11-25,16,0.72,79.7
+EMP00884,Communication,soft_skills,2024-12-18,16,0.71,83.8
+EMP00884,Data Privacy,compliance,2024-08-04,16,0.5,93.4
+EMP00884,Change Management,leadership,2024-10-21,24,0.92,34.7
+EMP00885,Python for Data,technical,2024-09-16,24,0.75,72.7
+EMP00885,Leadership Fundamental,leadership,2024-12-25,16,0.64,89.5
+EMP00885,Data Privacy,compliance,2024-10-18,8,0.79,84.7
+EMP00886,Coaching Skills,leadership,2024-12-17,24,0.8,90.0
+EMP00886,Strategic Thinking,leadership,2024-09-27,4,0.77,74.4
+EMP00886,Communication,soft_skills,2024-01-09,40,0.89,89.7
+EMP00886,Communication,soft_skills,2024-03-18,16,0.98,55.3
+EMP00886,Cybersecurity Basics,technical,2024-05-24,8,0.74,89.4
+EMP00887,Leadership Fundamental,leadership,2024-09-20,8,0.87,86.3
+EMP00887,Negotiation,soft_skills,2024-02-26,4,0.64,71.7
+EMP00888,Python for Data,technical,2024-05-31,40,0.59,84.7
+EMP00889,Health & Safety,compliance,2024-06-26,24,0.61,85.1
+EMP00889,Cloud Computing,technical,2024-01-25,8,0.57,59.1
+EMP00889,Data Privacy,compliance,2024-11-18,4,0.55,80.7
+EMP00889,Cloud Computing,technical,2024-09-15,40,0.97,87.1
+EMP00890,Code of Conduct,compliance,2024-11-27,16,0.91,71.1
+EMP00890,SQL Advanced,technical,2024-02-06,16,0.82,81.1
+EMP00890,Data Privacy,compliance,2024-01-10,24,0.93,78.3
+EMP00891,Presentation,soft_skills,2024-08-11,8,0.88,51.4
+EMP00891,Cybersecurity Basics,technical,2024-05-05,16,0.89,97.3
+EMP00891,Strategic Thinking,leadership,2024-04-19,16,0.7,76.9
+EMP00892,Anti-Fraud,compliance,2024-11-23,40,0.73,74.8
+EMP00892,Strategic Thinking,leadership,2024-12-23,4,0.8,96.6
+EMP00892,Strategic Thinking,leadership,2024-06-21,24,0.81,80.1
+EMP00892,Leadership Fundamental,leadership,2024-10-13,4,0.79,75.4
+EMP00893,Communication,soft_skills,2024-08-01,8,0.67,55.8
+EMP00893,Change Management,leadership,2024-08-19,8,0.74,66.1
+EMP00894,Anti-Fraud,compliance,2024-12-24,40,0.95,59.2
+EMP00894,Negotiation,soft_skills,2024-04-24,16,0.88,75.9
+EMP00894,Negotiation,soft_skills,2024-08-04,16,0.94,56.9
+EMP00895,Strategic Thinking,leadership,2024-11-29,4,0.84,72.2
+EMP00895,Leadership Fundamental,leadership,2024-03-15,4,0.9,94.9
+EMP00895,Data Privacy,compliance,2024-07-22,8,0.58,39.5
+EMP00896,Change Management,leadership,2024-07-06,40,0.73,74.2
+EMP00896,Change Management,leadership,2024-03-04,40,0.73,81.8
+EMP00896,Code of Conduct,compliance,2024-05-18,24,0.88,98.6
+EMP00896,Coaching Skills,leadership,2024-02-07,8,0.72,88.9
+EMP00897,Cybersecurity Basics,technical,2024-03-10,8,0.63,82.1
+EMP00898,Data Privacy,compliance,2024-06-01,16,0.91,60.3
+EMP00898,Leadership Fundamental,leadership,2024-11-14,8,0.91,82.1
+EMP00899,Strategic Thinking,leadership,2024-03-03,8,0.84,46.2
+EMP00899,Communication,soft_skills,2024-09-22,24,0.94,57.7
+EMP00899,Coaching Skills,leadership,2024-02-23,4,0.84,85.2
+EMP00899,SQL Advanced,technical,2024-02-19,24,0.56,36.5
+EMP00900,Data Privacy,compliance,2024-01-21,24,0.71,83.0
+EMP00901,Anti-Fraud,compliance,2024-08-03,16,0.77,80.7
+EMP00902,Coaching Skills,leadership,2024-08-10,40,0.89,75.0
+EMP00903,Health & Safety,compliance,2024-09-27,16,0.87,43.9
+EMP00903,Communication,soft_skills,2024-04-19,24,0.79,52.1
+EMP00903,Anti-Fraud,compliance,2024-12-30,4,0.87,87.6
+EMP00903,Cloud Computing,technical,2024-05-27,40,0.91,90.3
+EMP00904,Negotiation,soft_skills,2024-06-08,40,0.91,67.8
+EMP00904,Cybersecurity Basics,technical,2024-01-31,40,0.98,87.7
+EMP00905,Negotiation,soft_skills,2024-03-01,24,0.73,61.8
+EMP00906,Coaching Skills,leadership,2024-10-07,8,0.96,95.1
+EMP00906,Anti-Fraud,compliance,2024-05-23,4,0.71,58.3
+EMP00906,Communication,soft_skills,2024-09-01,8,0.93,61.6
+EMP00906,Code of Conduct,compliance,2024-10-02,40,0.62,54.2
+EMP00907,Time Management,soft_skills,2024-12-22,4,0.42,75.1
+EMP00907,Code of Conduct,compliance,2024-07-22,16,0.84,76.6
+EMP00908,Cloud Computing,technical,2024-09-30,40,0.92,50.9
+EMP00908,Presentation,soft_skills,2024-10-03,8,0.66,59.5
+EMP00908,Leadership Fundamental,leadership,2024-06-26,24,0.62,86.5
+EMP00908,Data Privacy,compliance,2024-02-01,40,0.7,93.3
+EMP00909,Health & Safety,compliance,2024-04-12,8,0.66,65.1
+EMP00909,Time Management,soft_skills,2024-05-12,8,0.89,57.1
+EMP00909,Anti-Fraud,compliance,2024-08-13,8,0.88,88.2
+EMP00910,Health & Safety,compliance,2024-10-17,16,0.81,62.1
+EMP00910,Presentation,soft_skills,2024-04-06,8,0.97,90.1
+EMP00910,Coaching Skills,leadership,2024-07-28,8,0.93,46.2
+EMP00910,SQL Advanced,technical,2024-10-10,8,0.64,75.4
+EMP00910,Python for Data,technical,2024-07-13,40,0.97,60.4
+EMP00911,Negotiation,soft_skills,2024-02-01,4,0.92,58.5
+EMP00911,Coaching Skills,leadership,2024-07-21,40,0.78,79.7
+EMP00911,Negotiation,soft_skills,2024-06-24,24,0.76,81.5
+EMP00912,Presentation,soft_skills,2024-09-04,8,0.88,54.6
+EMP00912,Cybersecurity Basics,technical,2024-02-27,4,0.83,87.0
+EMP00912,Cloud Computing,technical,2024-10-03,8,0.91,66.4
+EMP00912,Change Management,leadership,2024-04-15,40,0.8,98.0
+EMP00913,Cloud Computing,technical,2024-09-02,4,0.74,56.5
+EMP00913,Cybersecurity Basics,technical,2024-05-20,16,0.84,52.7
+EMP00913,Time Management,soft_skills,2024-04-21,4,0.91,91.5
+EMP00914,Negotiation,soft_skills,2024-12-27,8,0.91,76.7
+EMP00914,Negotiation,soft_skills,2024-07-10,16,0.68,91.2
+EMP00915,Health & Safety,compliance,2024-05-13,4,0.88,80.7
+EMP00916,Communication,soft_skills,2024-05-17,24,0.6,65.2
+EMP00916,Python for Data,technical,2024-02-11,4,0.93,78.3
+EMP00916,Data Privacy,compliance,2024-06-13,4,0.51,56.5
+EMP00916,SQL Advanced,technical,2024-06-17,24,0.75,58.7
+EMP00916,Communication,soft_skills,2024-08-23,8,0.74,41.1
+EMP00917,Strategic Thinking,leadership,2024-03-08,24,0.75,71.7
+EMP00917,Communication,soft_skills,2024-12-04,24,0.9,44.8
+EMP00917,Change Management,leadership,2024-09-24,24,0.84,83.7
+EMP00918,Coaching Skills,leadership,2024-05-30,40,0.81,63.8
+EMP00918,Anti-Fraud,compliance,2024-05-05,40,0.78,83.5
+EMP00918,Change Management,leadership,2024-03-12,24,0.8,84.5
+EMP00918,Coaching Skills,leadership,2024-05-25,4,0.86,55.3
+EMP00918,Python for Data,technical,2024-11-06,24,0.68,72.9
+EMP00919,Strategic Thinking,leadership,2024-01-14,4,0.8,80.2
+EMP00919,Cloud Computing,technical,2024-07-24,16,0.75,86.8
+EMP00920,Strategic Thinking,leadership,2024-02-04,24,0.8,95.5
+EMP00920,Code of Conduct,compliance,2024-10-19,8,0.74,85.7
+EMP00921,Presentation,soft_skills,2024-05-15,40,0.96,77.1
+EMP00921,Strategic Thinking,leadership,2024-12-05,8,0.77,93.8
+EMP00921,Leadership Fundamental,leadership,2024-01-11,24,0.68,50.3
+EMP00921,Time Management,soft_skills,2024-02-18,40,0.91,96.8
+EMP00921,Strategic Thinking,leadership,2024-10-04,24,0.94,78.4
+EMP00922,Negotiation,soft_skills,2024-02-12,16,0.88,96.5
+EMP00922,Cybersecurity Basics,technical,2024-04-25,40,0.9,93.7
+EMP00923,Code of Conduct,compliance,2024-12-08,16,0.94,54.4
+EMP00923,Cybersecurity Basics,technical,2024-05-23,40,0.93,56.1
+EMP00923,SQL Advanced,technical,2024-12-21,8,0.8,91.2
+EMP00923,Health & Safety,compliance,2024-04-27,40,0.81,61.8
+EMP00923,Data Privacy,compliance,2024-01-12,8,0.76,61.3
+EMP00924,SQL Advanced,technical,2024-02-07,8,0.81,75.8
+EMP00924,Negotiation,soft_skills,2024-11-06,16,0.61,67.7
+EMP00924,Cybersecurity Basics,technical,2024-10-13,40,0.81,97.2
+EMP00924,Cloud Computing,technical,2024-06-10,40,0.87,53.2
+EMP00924,Communication,soft_skills,2024-08-30,8,0.9,91.3
+EMP00925,Negotiation,soft_skills,2024-01-19,16,0.75,79.2
+EMP00925,Health & Safety,compliance,2024-09-05,4,0.85,99.8
+EMP00926,Data Privacy,compliance,2024-01-11,40,0.86,66.0
+EMP00926,Coaching Skills,leadership,2024-05-14,16,0.86,65.7
+EMP00926,Code of Conduct,compliance,2024-04-26,40,0.89,83.3
+EMP00926,Health & Safety,compliance,2024-04-29,8,0.9,83.4
+EMP00926,Strategic Thinking,leadership,2024-08-16,16,0.79,89.6
+EMP00927,Time Management,soft_skills,2024-07-05,40,0.8,58.4
+EMP00928,Anti-Fraud,compliance,2024-10-16,16,0.89,74.2
+EMP00928,Data Privacy,compliance,2024-04-09,8,0.89,59.3
+EMP00928,Change Management,leadership,2024-04-15,16,0.86,95.9
+EMP00928,Leadership Fundamental,leadership,2024-03-18,24,0.85,53.3
+EMP00929,Coaching Skills,leadership,2024-09-08,40,0.86,86.9
+EMP00929,Leadership Fundamental,leadership,2024-08-28,40,0.76,79.1
+EMP00929,Strategic Thinking,leadership,2024-12-23,8,0.87,91.9
+EMP00930,Cloud Computing,technical,2024-04-12,16,0.97,94.2
+EMP00930,Python for Data,technical,2024-12-05,16,0.95,96.8
+EMP00930,Cloud Computing,technical,2024-02-13,24,0.8,67.5
+EMP00931,Change Management,leadership,2024-04-08,4,0.87,92.1
+EMP00931,Code of Conduct,compliance,2024-03-02,24,0.93,84.9
+EMP00931,Coaching Skills,leadership,2024-07-29,40,0.91,78.5
+EMP00931,Code of Conduct,compliance,2024-10-09,4,0.82,65.0
+EMP00931,Coaching Skills,leadership,2024-05-07,8,0.94,58.0
+EMP00932,Change Management,leadership,2024-06-10,40,0.97,57.8
+EMP00932,Cloud Computing,technical,2024-08-21,40,0.97,90.9
+EMP00932,Data Privacy,compliance,2024-01-29,8,0.48,78.3
+EMP00932,Negotiation,soft_skills,2024-08-11,8,0.92,60.2
+EMP00933,Health & Safety,compliance,2024-07-04,24,0.95,69.9
+EMP00934,Leadership Fundamental,leadership,2024-06-14,40,0.66,84.6
+EMP00934,Coaching Skills,leadership,2024-05-21,40,0.81,64.0
+EMP00934,SQL Advanced,technical,2024-11-19,16,0.89,50.6
+EMP00934,Strategic Thinking,leadership,2024-11-17,40,0.51,81.9
+EMP00934,SQL Advanced,technical,2024-02-24,16,0.79,57.8
+EMP00935,Change Management,leadership,2024-08-11,16,0.97,92.7
+EMP00935,Cybersecurity Basics,technical,2024-11-11,4,0.98,88.8
+EMP00935,Health & Safety,compliance,2024-03-09,40,0.79,66.2
+EMP00935,Cloud Computing,technical,2024-11-17,4,0.79,61.8
+EMP00936,Coaching Skills,leadership,2024-10-17,40,0.87,69.9
+EMP00936,Communication,soft_skills,2024-07-10,40,0.73,74.8
+EMP00936,Strategic Thinking,leadership,2024-10-27,4,0.52,69.0
+EMP00936,Health & Safety,compliance,2024-12-18,40,0.96,79.6
+EMP00937,Python for Data,technical,2024-05-18,24,0.7,71.0
+EMP00937,Cloud Computing,technical,2024-10-31,24,0.83,82.2
+EMP00937,Strategic Thinking,leadership,2024-05-30,4,0.67,71.7
+EMP00938,Negotiation,soft_skills,2024-12-16,16,0.8,93.0
+EMP00938,Presentation,soft_skills,2024-01-02,4,0.86,84.8
+EMP00938,Code of Conduct,compliance,2024-12-14,4,0.82,90.1
+EMP00938,Coaching Skills,leadership,2024-04-04,8,0.93,75.1
+EMP00939,Cloud Computing,technical,2024-08-09,4,0.95,76.9
+EMP00940,Strategic Thinking,leadership,2024-11-02,16,0.87,79.7
+EMP00940,Python for Data,technical,2024-05-01,16,0.57,62.3
+EMP00940,Data Privacy,compliance,2024-11-20,40,0.66,57.4
+EMP00940,SQL Advanced,technical,2024-06-18,40,0.89,64.6
+EMP00940,Data Privacy,compliance,2024-09-11,16,0.77,84.8
+EMP00941,Leadership Fundamental,leadership,2024-05-16,4,0.78,59.1
+EMP00941,Presentation,soft_skills,2024-11-03,4,0.83,78.3
+EMP00941,Time Management,soft_skills,2024-07-02,16,0.95,85.4
+EMP00941,Change Management,leadership,2024-12-21,4,0.74,83.1
+EMP00941,Coaching Skills,leadership,2024-07-11,4,0.86,67.7
+EMP00942,Coaching Skills,leadership,2024-10-05,16,0.72,62.6
+EMP00942,Strategic Thinking,leadership,2024-03-23,16,0.82,85.6
+EMP00942,Negotiation,soft_skills,2024-03-20,16,0.74,83.3
+EMP00942,Cloud Computing,technical,2024-01-22,8,0.74,61.9
+EMP00942,Anti-Fraud,compliance,2024-01-11,4,0.91,66.4
+EMP00943,Change Management,leadership,2024-06-05,16,0.7,81.2
+EMP00943,Time Management,soft_skills,2024-09-10,4,0.9,65.3
+EMP00943,Communication,soft_skills,2024-01-21,16,0.9,88.8
+EMP00943,Strategic Thinking,leadership,2024-06-10,8,0.88,75.1
+EMP00943,Coaching Skills,leadership,2024-09-02,8,0.7,89.9
+EMP00944,Strategic Thinking,leadership,2024-03-06,4,0.77,92.2
+EMP00944,Code of Conduct,compliance,2024-12-15,4,0.75,51.6
+EMP00944,SQL Advanced,technical,2024-04-23,40,0.79,42.3
+EMP00944,SQL Advanced,technical,2024-01-03,40,0.81,82.1
+EMP00945,Anti-Fraud,compliance,2024-10-23,8,0.84,67.1
+EMP00945,Cloud Computing,technical,2024-08-03,16,0.87,87.6
+EMP00945,Leadership Fundamental,leadership,2024-06-15,4,0.65,68.6
+EMP00946,Data Privacy,compliance,2024-08-24,40,0.78,81.4
+EMP00947,Health & Safety,compliance,2024-10-31,24,0.85,63.1
+EMP00947,SQL Advanced,technical,2024-05-31,16,0.85,83.3
+EMP00947,Coaching Skills,leadership,2024-10-31,16,0.85,74.2
+EMP00947,Data Privacy,compliance,2024-02-23,40,0.81,73.5
+EMP00947,Data Privacy,compliance,2024-10-03,16,0.84,77.2
+EMP00948,Change Management,leadership,2024-03-09,8,0.84,60.3
+EMP00948,Time Management,soft_skills,2024-11-09,40,0.78,78.2
+EMP00949,Coaching Skills,leadership,2024-11-20,4,0.51,78.3
+EMP00950,Cybersecurity Basics,technical,2024-12-26,24,0.57,70.0
+EMP00950,Anti-Fraud,compliance,2024-03-30,4,0.96,75.1
+EMP00950,Time Management,soft_skills,2024-05-16,24,0.86,81.7
+EMP00951,Health & Safety,compliance,2024-08-30,4,0.73,90.2
+EMP00951,SQL Advanced,technical,2024-10-21,24,0.98,74.8
+EMP00951,Presentation,soft_skills,2024-04-13,40,0.83,72.6
+EMP00951,Negotiation,soft_skills,2024-08-01,16,0.68,74.3
+EMP00951,Leadership Fundamental,leadership,2024-09-07,16,0.7,74.5
+EMP00952,Health & Safety,compliance,2024-09-28,40,0.95,87.8
+EMP00952,Time Management,soft_skills,2024-01-30,4,0.73,78.8
+EMP00953,Change Management,leadership,2024-06-27,8,0.72,97.1
+EMP00954,Python for Data,technical,2024-04-23,8,0.85,72.8
+EMP00954,Leadership Fundamental,leadership,2024-10-31,16,0.9,39.8
+EMP00954,Cybersecurity Basics,technical,2024-04-20,8,0.9,39.0
+EMP00954,Cloud Computing,technical,2024-12-28,16,0.97,74.1
+EMP00954,Strategic Thinking,leadership,2024-03-03,40,0.73,85.4
+EMP00955,Data Privacy,compliance,2024-01-10,8,0.82,89.7
+EMP00955,Health & Safety,compliance,2024-10-20,8,0.71,90.7
+EMP00955,Strategic Thinking,leadership,2024-03-18,16,0.87,58.0
+EMP00955,Data Privacy,compliance,2024-06-30,4,0.6,79.7
+EMP00955,Leadership Fundamental,leadership,2024-05-18,8,0.9,43.8
+EMP00956,Code of Conduct,compliance,2024-09-26,16,0.75,88.4
+EMP00956,Coaching Skills,leadership,2024-05-02,4,0.84,74.3
+EMP00957,Negotiation,soft_skills,2024-08-24,24,0.56,87.4
+EMP00957,Health & Safety,compliance,2024-04-29,24,0.91,87.7
+EMP00957,Time Management,soft_skills,2024-08-12,8,0.88,73.3
+EMP00957,Code of Conduct,compliance,2024-12-06,40,0.65,70.6
+EMP00957,Leadership Fundamental,leadership,2024-03-03,8,0.91,69.0
+EMP00958,Health & Safety,compliance,2024-11-26,40,0.9,87.2
+EMP00958,Change Management,leadership,2024-09-17,8,0.94,84.5
+EMP00959,Strategic Thinking,leadership,2024-07-16,24,0.84,55.1
+EMP00959,Negotiation,soft_skills,2024-07-06,8,0.88,84.5
+EMP00959,Code of Conduct,compliance,2024-08-19,24,0.93,39.5
+EMP00959,Cloud Computing,technical,2024-04-26,24,0.84,56.0
+EMP00959,Anti-Fraud,compliance,2024-06-19,24,0.96,91.7
+EMP00960,Communication,soft_skills,2024-01-27,24,0.59,78.2
+EMP00961,Leadership Fundamental,leadership,2024-04-21,16,0.84,76.5
+EMP00961,Strategic Thinking,leadership,2024-01-06,16,0.88,88.1
+EMP00961,Health & Safety,compliance,2024-06-02,24,0.73,96.8
+EMP00961,Leadership Fundamental,leadership,2024-01-23,8,0.92,92.2
+EMP00962,Strategic Thinking,leadership,2024-02-13,4,0.77,61.0
+EMP00962,SQL Advanced,technical,2024-10-12,40,0.74,95.7
+EMP00962,Change Management,leadership,2024-11-10,4,0.8,71.7
+EMP00962,Code of Conduct,compliance,2024-01-17,40,0.86,76.2
+EMP00962,SQL Advanced,technical,2024-12-27,8,0.72,96.6
+EMP00963,Negotiation,soft_skills,2024-06-07,16,0.73,75.6
+EMP00964,Data Privacy,compliance,2024-12-27,24,0.94,90.3
+EMP00964,Python for Data,technical,2024-07-03,4,0.56,90.0
+EMP00964,Python for Data,technical,2024-09-17,16,0.72,86.2
+EMP00964,Coaching Skills,leadership,2024-06-06,40,0.55,67.8
+EMP00965,Communication,soft_skills,2024-11-12,4,0.78,84.0
+EMP00965,Time Management,soft_skills,2024-07-16,8,0.51,93.0
+EMP00965,Code of Conduct,compliance,2024-08-26,40,0.65,75.3
+EMP00966,Communication,soft_skills,2024-12-01,4,0.96,87.7
+EMP00966,Coaching Skills,leadership,2024-05-07,4,0.88,83.1
+EMP00966,Code of Conduct,compliance,2024-02-03,16,0.88,82.6
+EMP00967,Presentation,soft_skills,2024-08-19,24,0.81,57.7
+EMP00967,Presentation,soft_skills,2024-05-25,24,0.97,94.4
+EMP00967,Coaching Skills,leadership,2024-01-10,4,0.73,75.4
+EMP00968,Coaching Skills,leadership,2024-07-23,40,0.79,60.2
+EMP00968,Presentation,soft_skills,2024-09-06,40,0.87,71.3
+EMP00968,Negotiation,soft_skills,2024-03-09,8,0.89,75.6
+EMP00969,Python for Data,technical,2024-06-24,40,0.62,76.7
+EMP00969,Presentation,soft_skills,2024-10-24,4,0.92,88.0
+EMP00969,Change Management,leadership,2024-12-21,16,0.82,48.3
+EMP00969,Strategic Thinking,leadership,2024-04-13,16,0.42,77.6
+EMP00969,Time Management,soft_skills,2024-10-29,8,0.97,61.3
+EMP00970,Leadership Fundamental,leadership,2024-10-24,4,0.72,91.2
+EMP00971,Strategic Thinking,leadership,2024-08-22,4,0.89,71.0
+EMP00971,Presentation,soft_skills,2024-05-22,16,0.87,81.0
+EMP00971,Strategic Thinking,leadership,2024-11-09,8,0.64,47.2
+EMP00971,Time Management,soft_skills,2024-06-04,4,0.45,68.8
+EMP00971,Data Privacy,compliance,2024-07-19,4,0.53,96.6
+EMP00972,Health & Safety,compliance,2024-03-22,24,0.45,81.2
+EMP00973,Code of Conduct,compliance,2024-08-17,40,0.95,92.0
+EMP00973,Python for Data,technical,2024-03-11,16,0.8,52.5
+EMP00973,Coaching Skills,leadership,2024-01-19,24,0.95,75.6
+EMP00973,Negotiation,soft_skills,2024-07-29,4,0.68,79.5
+EMP00974,Python for Data,technical,2024-06-04,24,0.73,81.1
+EMP00974,Cloud Computing,technical,2024-08-04,16,0.79,87.7
+EMP00974,Coaching Skills,leadership,2024-09-14,24,0.77,96.2
+EMP00974,Negotiation,soft_skills,2024-12-03,4,0.93,44.1
+EMP00975,SQL Advanced,technical,2024-08-27,8,0.93,65.4
+EMP00975,Code of Conduct,compliance,2024-05-18,16,0.93,85.5
+EMP00976,Python for Data,technical,2024-12-02,40,0.93,97.1
+EMP00976,Strategic Thinking,leadership,2024-07-25,16,0.66,65.7
+EMP00976,Python for Data,technical,2024-12-03,16,0.96,75.3
+EMP00976,SQL Advanced,technical,2024-02-14,8,0.85,85.8
+EMP00976,Communication,soft_skills,2024-08-30,24,0.55,90.1
+EMP00977,SQL Advanced,technical,2024-04-21,40,0.74,66.0
+EMP00977,Negotiation,soft_skills,2024-05-08,8,0.79,95.1
+EMP00978,Leadership Fundamental,leadership,2024-01-28,8,0.79,80.5
+EMP00978,Negotiation,soft_skills,2024-03-27,16,0.87,68.1
+EMP00978,Strategic Thinking,leadership,2024-09-18,40,0.91,83.5
+EMP00979,Code of Conduct,compliance,2024-06-30,8,0.8,56.6
+EMP00980,Cybersecurity Basics,technical,2024-01-07,4,0.92,92.4
+EMP00981,Communication,soft_skills,2024-04-21,16,0.91,83.8
+EMP00981,Presentation,soft_skills,2024-12-12,8,0.61,87.5
+EMP00982,Leadership Fundamental,leadership,2024-03-29,16,0.85,82.4
+EMP00982,Communication,soft_skills,2024-12-02,24,0.82,77.9
+EMP00982,Presentation,soft_skills,2024-07-31,8,0.93,48.4
+EMP00982,Data Privacy,compliance,2024-05-13,40,0.73,77.5
+EMP00983,Cybersecurity Basics,technical,2024-12-07,16,0.67,81.6
+EMP00984,Strategic Thinking,leadership,2024-07-14,16,0.93,78.2
+EMP00984,Code of Conduct,compliance,2024-06-18,24,0.65,48.2
+EMP00984,Negotiation,soft_skills,2024-08-04,40,0.88,63.9
+EMP00984,Leadership Fundamental,leadership,2024-01-02,8,0.8,76.9
+EMP00985,Time Management,soft_skills,2024-05-18,8,0.93,90.9
+EMP00985,Negotiation,soft_skills,2024-07-20,40,0.66,73.2
+EMP00985,Python for Data,technical,2024-09-18,24,0.84,61.5
+EMP00986,Cloud Computing,technical,2024-01-22,4,0.76,99.1
+EMP00986,Leadership Fundamental,leadership,2024-04-22,16,0.84,80.8
+EMP00986,Time Management,soft_skills,2024-08-09,16,0.93,47.9
+EMP00987,Python for Data,technical,2024-02-14,16,0.83,58.7
+EMP00987,Anti-Fraud,compliance,2024-07-05,40,0.85,60.0
+EMP00987,Strategic Thinking,leadership,2024-04-25,16,0.86,80.0
+EMP00988,Change Management,leadership,2024-05-13,8,0.56,88.1
+EMP00988,Leadership Fundamental,leadership,2024-02-19,16,0.67,44.6
+EMP00988,SQL Advanced,technical,2024-03-31,16,0.66,72.3
+EMP00988,Code of Conduct,compliance,2024-11-10,8,0.63,68.6
+EMP00988,Communication,soft_skills,2024-03-22,40,0.85,43.8
+EMP00989,Python for Data,technical,2024-08-26,24,0.56,89.1
+EMP00989,SQL Advanced,technical,2024-10-19,8,0.58,79.4
+EMP00989,Cybersecurity Basics,technical,2024-04-30,24,0.77,97.2
+EMP00989,Presentation,soft_skills,2024-11-05,8,0.9,64.1
+EMP00990,Cloud Computing,technical,2024-12-05,40,0.72,60.0
+EMP00990,SQL Advanced,technical,2024-03-01,8,0.77,97.5
+EMP00990,Python for Data,technical,2024-02-23,40,0.7,89.7
+EMP00990,Time Management,soft_skills,2024-12-16,24,0.97,57.7
+EMP00990,Cybersecurity Basics,technical,2024-07-17,8,0.89,71.4
+EMP00991,Change Management,leadership,2024-04-09,40,0.84,92.8
+EMP00991,Health & Safety,compliance,2024-11-18,8,0.53,68.6
+EMP00991,Code of Conduct,compliance,2024-09-10,8,0.93,81.5
+EMP00991,SQL Advanced,technical,2024-11-20,24,0.81,86.0
+EMP00991,Negotiation,soft_skills,2024-08-26,24,0.79,74.0
+EMP00992,Time Management,soft_skills,2024-07-25,40,0.75,67.9
+EMP00992,Presentation,soft_skills,2024-02-25,16,0.81,70.8
+EMP00992,Time Management,soft_skills,2024-12-10,4,0.75,49.0
+EMP00992,Data Privacy,compliance,2024-02-12,8,0.71,88.7
+EMP00992,Cloud Computing,technical,2024-08-14,16,0.95,95.6
+EMP00993,Time Management,soft_skills,2024-05-17,40,0.79,75.4
+EMP00993,Leadership Fundamental,leadership,2024-02-25,16,0.63,66.0
+EMP00993,Code of Conduct,compliance,2024-01-10,4,0.75,66.8
+EMP00993,Change Management,leadership,2024-03-22,40,0.7,66.7
+EMP00994,Time Management,soft_skills,2024-10-25,16,0.64,50.2
+EMP00995,SQL Advanced,technical,2024-12-23,24,0.88,84.8
+EMP00995,Time Management,soft_skills,2024-07-23,16,0.52,87.4
+EMP00995,Python for Data,technical,2024-12-05,40,0.44,66.6
+EMP00995,Python for Data,technical,2024-10-04,24,0.79,86.0
+EMP00995,Code of Conduct,compliance,2024-12-02,8,0.99,43.5
+EMP00996,Communication,soft_skills,2024-08-07,40,0.94,50.0
+EMP00996,Leadership Fundamental,leadership,2024-08-31,24,0.91,39.7
+EMP00996,Cloud Computing,technical,2024-10-23,4,0.44,63.6
+EMP00996,Code of Conduct,compliance,2024-08-25,8,0.78,86.3
+EMP00997,Coaching Skills,leadership,2024-02-17,24,0.73,77.6
+EMP00998,Communication,soft_skills,2024-03-25,16,0.82,56.6
+EMP00998,Anti-Fraud,compliance,2024-08-21,40,0.7,72.1
+EMP00999,Presentation,soft_skills,2024-03-19,16,0.92,79.9
+EMP00999,SQL Advanced,technical,2024-07-31,16,0.86,77.7
+EMP00999,Cloud Computing,technical,2024-12-04,24,0.85,79.1
+EMP01000,Negotiation,soft_skills,2024-11-24,24,0.89,61.5
+EMP01000,Change Management,leadership,2024-01-12,24,0.88,54.6
+EMP01000,SQL Advanced,technical,2024-09-03,4,0.4,91.3
+EMP01000,Health & Safety,compliance,2024-11-20,24,0.58,69.1
+EMP01000,Cybersecurity Basics,technical,2024-04-21,40,0.82,88.9
