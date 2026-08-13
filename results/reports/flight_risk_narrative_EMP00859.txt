@@ -1,0 +1,17 @@
+RINGKASAN FLIGHT RISK — Martani Tampubolon (EMP00859)
+Departemen : Customer Success | Level: Senior Staff | Tenure: 2.4 tahun
+Skor Risiko: 100.0% ⚠️ TINGGI
+
+FAKTOR RISIKO UTAMA (meningkatkan kemungkinan resign):
+  • avg_sentiment: kontribusi +5.910
+  • absence_worsening: kontribusi +3.069
+  • pct_negative_review: kontribusi +0.956
+
+FAKTOR PROTEKTIF (menurunkan kemungkinan resign):
+  • monthly_salary: kontribusi -0.317
+  • gender: kontribusi -0.075
+
+REKOMENDASI INTERVENSI HRD:
+→ Periksa wellbeing — tren absensi memburuk
+→ Review ulang performance feedback — banyak sentimen negatif
+→ Diskusikan kepuasan kerja — sentimen review sangat negatif
