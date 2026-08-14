@@ -1,0 +1,4 @@
+employee_id,full_name,job_level_name,tenure_years,engagement_score,flight_risk_score,influence_score,readiness_score
+EMP00100,"Puput Halim, S.Psi",Specialist,5.69,4.9,0.0132449259222449,0.0092,0.774
+EMP00175,Dt. Gadang Suwarno,Specialist,5.61,4.6,0.0099295790405944,0.0092,0.7521
+EMP00186,"Puti Mutia Agustina, M.Farm",Specialist,6.32,4.2,0.0082302830508881,0.0092,0.7413
