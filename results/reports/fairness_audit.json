@@ -1,0 +1,23 @@
+{
+  "gender_rates": {
+    "L": 0.2,
+    "P": 0.214
+  },
+  "gender_dir": 0.935,
+  "gender_concern": "False",
+  "age_rates": {
+    "<30": 0.196,
+    "30-40": 0.21,
+    ">40": 0.212
+  },
+  "age_dir": 0.925,
+  "age_concern": "False",
+  "education_rates": {
+    "D3": 0.176,
+    "S1": 0.207,
+    "S2": 0.194,
+    "S3": 0.4
+  },
+  "education_dir": 0.441,
+  "education_concern": "True"
+}

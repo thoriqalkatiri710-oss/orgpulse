@@ -1,0 +1,13 @@
+department,job_level,market_p25,market_p50,market_p75,survey_source,n_data_points
+Engineering,1,8500000,11000000,14000000,Simulated Market Survey 2024,72
+Engineering,2,11000000,14500000,18000000,Simulated Market Survey 2024,243
+Engineering,3,14000000,18000000,23000000,Simulated Market Survey 2024,213
+Data & Analytics,1,9000000,12000000,16000000,Simulated Market Survey 2024,159
+Data & Analytics,2,12000000,16000000,21000000,Simulated Market Survey 2024,158
+Product,2,13000000,17500000,22000000,Simulated Market Survey 2024,264
+Sales,2,10000000,13500000,17000000,Simulated Market Survey 2024,71
+HR,2,8000000,11000000,14000000,Simulated Market Survey 2024,224
+Finance,2,9500000,13000000,17000000,Simulated Market Survey 2024,100
+Operations,2,8000000,10500000,13500000,Simulated Market Survey 2024,73
+Marketing,2,9000000,11500000,15000000,Simulated Market Survey 2024,181
+Research,2,11000000,15000000,20000000,Simulated Market Survey 2024,293
