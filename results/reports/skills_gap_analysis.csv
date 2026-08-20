@@ -1,0 +1,16 @@
+department,skill,required_pct,current_pct,gap_pct,n_need_training,priority
+Data & Analytics,ML/AI,0.9,0.0,0.9,54,HIGH
+Marketing,Digital Marketing,0.8,0.0,0.8,64,HIGH
+Product,Agile,0.8,0.0,0.8,48,HIGH
+Data & Analytics,SQL Advanced,0.85,0.083,0.767,46,HIGH
+HR,Employment Law,0.75,0.0,0.75,30,HIGH
+Marketing,Analytics,0.7,0.0,0.7,56,HIGH
+HR,People Analytics,0.7,0.0,0.7,28,HIGH
+Engineering,Python/ML,0.8,0.11,0.69,138,HIGH
+Product,UX Research,0.65,0.0,0.65,39,HIGH
+HR,HRIS,0.65,0.0,0.65,26,HIGH
+Engineering,Cloud,0.7,0.09,0.61,122,HIGH
+Engineering,System Design,0.6,0.0,0.6,120,HIGH
+Marketing,Content,0.6,0.0,0.6,48,HIGH
+Product,Data-Driven PM,0.75,0.25,0.5,30,MEDIUM
+Data & Analytics,Causal Inference,0.5,0.0,0.5,30,MEDIUM

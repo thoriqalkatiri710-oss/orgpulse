@@ -1,0 +1,5 @@
+category,n_participants,total_hours,total_cost_idr,did_rating_impact,significant,p_value,cost_per_rating_pt
+compliance,540,14028,7014000000,0.072,False,0.3604,97415313676.0
+soft_skills,533,13684,6842000000,-0.015,False,0.8496,456102926472.0
+leadership,571,14248,7124000000,-0.022,False,0.7754,323803463479.0
+technical,541,14124,7062000000,-0.031,False,0.6832,227799103255.0
