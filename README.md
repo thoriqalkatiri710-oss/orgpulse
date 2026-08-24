@@ -31,34 +31,34 @@ OrgPulse menjawab ini dengan menggabungkan 5 sumber data → 1 platform analitik
 ---
 
 ## Arsitektur Pipeline
+
+```
 5 Sumber Data HR (317,984 rows di PostgreSQL)
 │
 ├──► ONA (NetworkX)
-│ ├── Influence Score (betweenness + pagerank + eigenvector)
-│ ├── Community Detection (Louvain)
-│ └── Network Roles (Central Connector, Information Broker, dll)
+│    ├── Influence Score (betweenness + pagerank + eigenvector)
+│    ├── Community Detection (Louvain)
+│    └── Network Roles (Central Connector, Information Broker, dll)
 │
 ├──► NLP (VADER + LDA + Sentence-BERT)
-│ ├── Sentiment Score per review (HR lexicon custom)
-│ ├── 6 Topic LDA dari 2000 performance review
-│ └── Gender bias analysis dalam bahasa reviewer
+│    ├── Sentiment Score per review (HR lexicon custom)
+│    ├── 6 Topic LDA dari 2000 performance review
+│    └── Gender bias analysis dalam bahasa reviewer
 │
 ├──► ML (Gradient Boosting + SHAP)
-│ ├── Flight Risk Score per karyawan (CV AUC 0.875)
-│ ├── SHAP waterfall per individu
-│ └── Risk narrative otomatis untuk HRBP
+│    ├── Flight Risk Score per karyawan (CV AUC 0.875)
+│    ├── SHAP waterfall per individu
+│    └── Risk narrative otomatis untuk HRBP
 │
 ├──► Survival Analysis (Kaplan-Meier + Cox PH)
-│ ├── Kurva survival per segmen engagement
-│ └── Hazard ratio per faktor (low engagement 2.31x lebih berisiko)
+│    ├── Kurva survival per segmen engagement
+│    └── Hazard ratio per faktor (low engagement 2.31x lebih berisiko)
 │
 └──► Scenario Simulator
-├── Skenario A: Top-5 Flight Risk resign → 19.6% dampak produktivitas
-├── Skenario B: Top-5 Influencer resign → 40.0% dampak produktivitas
-└── Skenario C: 5 Karyawan acak → 11.5% dampak produktivitas
-
-
----
+     ├── Skenario A: Top-5 Flight Risk resign → 19.6% dampak produktivitas
+     ├── Skenario B: Top-5 Influencer resign → 40.0% dampak produktivitas
+     └── Skenario C: 5 Karyawan acak → 11.5% dampak produktivitas
+```
 
 ## Hasil Analisis
 
@@ -196,37 +196,35 @@ python -m src.reporting.executive_brief
 python -m pytest tests/ -v
 ```
 
----
-
 ## Struktur Project
+
+```
 orgpulse/
 ├── src/
-│ ├── simulation/ # 5 data generator (1000 karyawan, 317K rows)
-│ ├── network/ # ONA, centrality, community detection
-│ ├── nlp/ # Preprocessing, sentiment, LDA, bias analysis
-│ ├── prediction/ # Flight risk model, SHAP, survival, MLOps
-│ ├── planning/ # Knowledge risk, scenario simulator, succession
-│ ├── compensation/ # Pay equity, compa-ratio, retention ROI
-│ ├── analysis/ # Cohort, DEI, L&D effectiveness, fairness audit
-│ └── reporting/ # Excel generator, executive brief
+│   ├── simulation/       # 5 data generator (1000 karyawan, 317K rows)
+│   ├── network/          # ONA, centrality, community detection
+│   ├── nlp/              # Preprocessing, sentiment, LDA, bias analysis
+│   ├── prediction/       # Flight risk model, SHAP, survival, MLOps
+│   ├── planning/         # Knowledge risk, scenario simulator, succession
+│   ├── compensation/     # Pay equity, compa-ratio, retention ROI
+│   ├── analysis/         # Cohort, DEI, L&D effectiveness, fairness audit
+│   └── reporting/        # Excel generator, executive brief
 ├── sql/
-│ ├── schema.sql # 5 tabel PostgreSQL
-│ └── analytical_queries.sql # 5 query analitik lanjutan
+│   ├── schema.sql               # 5 tabel PostgreSQL
+│   └── analytical_queries.sql   # 5 query analitik lanjutan
 ├── data/
-│ ├── raw/ # Dataset eksternal (jika ada)
-│ ├── processed/ # Cleaned, features, scores
-│ └── simulated/ # Output 5 generator
+│   ├── raw/         # Dataset eksternal (jika ada)
+│   ├── processed/   # Cleaned, features, scores
+│   └── simulated/   # Output 5 generator
 ├── results/
-│ ├── figures/ # 10+ visualisasi
-│ ├── models/ # Saved ML models + metadata
-│ └── reports/ # Executive brief, ROI, scenarios
-├── excel_deliverables/ # Board-ready Excel workbook
-├── docs/ # Ethics framework, interview prep
-├── tests/ # 20+ unit tests (simulation, ONA, NLP, prediction, planning)
-└── configs/ # db_config.yaml
-
-
----
+│   ├── figures/   # 10+ visualisasi
+│   ├── models/    # Saved ML models + metadata
+│   └── reports/   # Executive brief, ROI, scenarios
+├── excel_deliverables/   # Board-ready Excel workbook
+├── docs/                 # Ethics framework, interview prep
+├── tests/                # 20+ unit tests (simulation, ONA, NLP, prediction, planning)
+└── configs/              # db_config.yaml
+```
 
 ## Keterbatasan & Rencana Lanjutan
 
