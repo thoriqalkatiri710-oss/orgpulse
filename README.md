@@ -12,7 +12,7 @@
 
 ## Dashboard Preview
 
-![OrgPulse Dashboard](docs/Dashboard 1.png)
+![OrgPulse Dashboard](docs/Dashboard_1.png)
 
 **Live Dashboard:** [Tableau Public](https://public.tableau.com) | **Code:** [GitHub](https://github.com/thoriqalkatiri710-oss/orgpulse)
 
