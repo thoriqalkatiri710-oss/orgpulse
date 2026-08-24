@@ -1,0 +1,4 @@
+scenario,lost_direct_connections,total_influence_lost,est_productivity_impact_pct,est_recovery_months,new_isolated_components
+Skenario A: Top-5 Flight Risk,2,0.0784,19.6,2.7,-3
+Skenario B: Top-5 Influencer,43,2.7606,40.0,1.6,0
+Skenario C: 5 Karyawan Acak,4,0.046,11.5,2.3,-2

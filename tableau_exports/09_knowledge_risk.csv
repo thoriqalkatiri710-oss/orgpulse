@@ -1,0 +1,1001 @@
+employee_id,full_name,department,job_level,job_level_name,hire_date,tenure_years,monthly_salary,gender,age,education,manager_id,engagement_score,is_flight_risk_sim,influence_score,network_role,flight_risk_score,knowledge_risk,risk_quadrant
+EMP00564,"Liman Habibi, S.Psi",HR,2,Senior Staff,2019-01-06,5.98,10789415,L,23,S1,EMP00575,2.9,True,0.5199,Central Connector,0.966107889852222,0.743,🔴 Critical (High Influence + High Risk)
+EMP00749,Aris Mandala,Data & Analytics,1,Staff,2022-02-26,2.84,16864776,P,31,S1,EMP00728,2.5,True,0.4427,Central Connector,0.940806440885764,0.6918,🟡 Monitor (Low Influence + High Risk)
+EMP00587,"Najib Prakasa, M.M.",HR,2,Senior Staff,2019-10-30,5.17,12193931,L,43,S1,EMP00575,2.9,True,0.3694,Central Connector,0.98993519511154,0.6797,🟡 Monitor (Low Influence + High Risk)
+EMP00586,Hendra Utama,HR,1,Staff,2019-09-15,5.3,9742723,L,40,S2,EMP00575,3.3,True,0.3457,Central Connector,0.9953336419194488,0.6705,🟡 Monitor (Low Influence + High Risk)
+EMP00737,Diana Saptono,Data & Analytics,2,Senior Staff,2022-06-22,2.53,22616273,L,32,S1,EMP00728,3.5,True,0.3304,Central Connector,0.922872097005571,0.6266,🟡 Monitor (Low Influence + High Risk)
+EMP00235,Salsabila Latupono,Product,2,Senior Staff,2021-01-05,3.99,21664158,P,46,S1,EMP00254,3.4,True,0.2259,Central Connector,0.9887936833561712,0.6073,🟡 Monitor (Low Influence + High Risk)
+EMP00715,Mutia Hidayanto,Data & Analytics,2,Senior Staff,2022-12-22,2.03,17445796,P,31,S1,EMP00728,2.5,True,0.2072,Central Connector,0.998446430353479,0.6028,🟡 Monitor (Low Influence + High Risk)
+EMP00515,"T. Elvin Simbolon, S.IP",Finance,1,Staff,2019-11-09,5.14,14157096,P,50,S1,EMP00523,2.8,True,0.1859,Central Connector,0.9942141077632372,0.5901,🟡 Monitor (Low Influence + High Risk)
+EMP00227,Jane Sirait,Product,1,Staff,2019-10-16,5.21,16380901,P,34,S1,EMP00254,2.8,True,0.1959,Central Connector,0.9811874073705964,0.5885,🟡 Monitor (Low Influence + High Risk)
+EMP00218,Harsaya Sirait,Product,2,Senior Staff,2022-07-31,2.42,20494043,L,31,S2,EMP00254,2.7,True,0.1652,Central Connector,0.9945565663181524,0.5799,🟡 Monitor (Low Influence + High Risk)
+EMP00717,Novi Hariyah,Data & Analytics,2,Senior Staff,2023-08-14,1.38,16538616,L,38,S1,EMP00728,4.0,True,0.1697,Central Connector,0.9717130698153216,0.5707,🟡 Monitor (Low Influence + High Risk)
+EMP01000,Juli Astuti,Research,2,Senior Staff,2022-04-07,2.74,20493201,L,34,S2,EMP00942,3.4,True,0.146,Central Connector,0.991414396139808,0.5687,🟡 Monitor (Low Influence + High Risk)
+EMP00950,"Puti Paris Gunarto, S.H.",Research,2,Senior Staff,2021-07-24,3.44,15830994,P,27,S1,EMP00942,3.9,True,0.1401,Central Connector,0.9921725747190788,0.5661,🟡 Monitor (Low Influence + High Risk)
+EMP00709,Arsipatra Yuniar,Data & Analytics,1,Staff,2022-02-03,2.91,17707946,L,28,S2,EMP00728,3.1,True,0.1255,Central Connector,0.9902425426974024,0.5579,🟡 Monitor (Low Influence + High Risk)
+EMP00702,T. Budi Utami,Data & Analytics,1,Staff,2022-05-21,2.61,14441240,P,44,S1,EMP00728,2.9,True,0.2089,Information Broker,0.9056780701901124,0.5573,🟡 Monitor (Low Influence + High Risk)
+EMP00988,R.M. Mahdi Wibowo,Research,3,Specialist,2019-05-14,5.63,23560622,P,50,S1,EMP00942,3.7,True,0.1097,Central Connector,0.9957729913857664,0.5527,🟡 Monitor (Low Influence + High Risk)
+EMP00707,Ir. Jessica Pratiwi,Data & Analytics,1,Staff,2020-09-01,4.33,16172687,P,40,S1,EMP00728,4.9,True,0.1029,Central Connector,0.9966592564401012,0.5498,🟡 Monitor (Low Influence + High Risk)
+EMP00841,Catur Simbolon,Customer Success,3,Specialist,2022-07-28,2.43,12923548,L,23,S1,EMP00846,3.8,True,0.1286,Central Connector,0.9678613934695586,0.5482,🟡 Monitor (Low Influence + High Risk)
+EMP00816,"Jessica Sihombing, M.Farm",Customer Success,2,Senior Staff,2022-05-06,2.66,13418456,L,44,S1,EMP00846,5.0,True,0.1022,Central Connector,0.9895900301867738,0.5459,🟡 Monitor (Low Influence + High Risk)
+EMP00856,"Ir. Omar Yuliarti, S.Farm",Customer Success,4,Lead,2022-12-26,2.02,18676503,P,30,S3,,3.8,True,0.091,Central Connector,0.9967920162661552,0.5439,🟡 Monitor (Low Influence + High Risk)
+EMP00854,Edison Wasita,Customer Success,2,Senior Staff,2019-12-20,5.03,14056801,L,25,S2,EMP00846,4.4,True,0.1083,Central Connector,0.9758013961500994,0.5421,🟡 Monitor (Low Influence + High Risk)
+EMP00802,Irma Yuliarti,Customer Success,3,Specialist,2021-12-07,3.07,13291703,P,30,S1,EMP00846,4.1,True,0.1271,Central Connector,0.9557992440088198,0.5414,🟡 Monitor (Low Influence + High Risk)
+EMP00852,"Bella Namaga, S.Gz",Customer Success,4,Lead,2021-11-14,3.13,17971468,P,45,S1,,5.0,True,0.0819,Central Connector,0.9963465615646824,0.5391,🟡 Monitor (Low Influence + High Risk)
+EMP00728,"dr. Ratih Sihotang, S.Kom",Data & Analytics,4,Lead,2022-02-18,2.87,31360989,P,36,S1,,3.2,True,0.1333,Central Connector,0.9441564504390274,0.5387,🟡 Monitor (Low Influence + High Risk)
+EMP00941,Hardi Waskita,Research,2,Senior Staff,2019-11-18,5.12,14583655,P,32,S1,EMP00942,2.9,True,0.0901,Central Connector,0.9857397316166108,0.5379,🟡 Monitor (Low Influence + High Risk)
+EMP00410,Yunita Laksmiwati,Sales,2,Senior Staff,2022-02-18,2.87,16600735,L,28,S3,EMP00474,2.8,True,0.077,Central Connector,0.9929056504669652,0.535,🟡 Monitor (Low Influence + High Risk)
+EMP00910,"Tgk. Vinsen Putra, S.I.Kom",IT Infrastructure,3,Specialist,2020-07-27,4.43,18580470,L,37,S1,EMP00925,2.9,True,0.0934,Central Connector,0.9736847587175282,0.5335,🟡 Monitor (Low Influence + High Risk)
+EMP00270,Tgk. Irwan Pudjiastuti,Marketing,3,Specialist,2019-02-10,5.89,17718859,P,30,S1,EMP00318,2.7,True,0.0731,Central Connector,0.9939848302589568,0.5335,🟡 Monitor (Low Influence + High Risk)
+EMP00906,"T. Harjasa Hastuti, M.Pd",IT Infrastructure,4,Lead,2022-11-08,2.15,22222034,L,26,S2,,3.3,True,0.0695,Central Connector,0.997283082266413,0.5334,🟡 Monitor (Low Influence + High Risk)
+EMP00968,"drg. Joko Pradana, S.I.Kom",Research,1,Staff,2023-04-08,1.73,15377001,P,29,S3,EMP00942,3.2,True,0.069,Central Connector,0.9971947006949232,0.5331,🟡 Monitor (Low Influence + High Risk)
+EMP00205,Cakrawangsa Pradipta,Product,3,Specialist,2019-03-22,5.78,25719234,L,51,S1,EMP00254,3.1,True,0.1123,Central Connector,0.9395136099008512,0.5259,🟡 Monitor (Low Influence + High Risk)
+EMP00318,Tgk. Aisyah Iswahyudi,Marketing,4,Lead,2019-05-02,5.67,20902285,L,31,S1,,3.7,True,0.053,Information Broker,0.9985099353592098,0.5258,🟡 Monitor (Low Influence + High Risk)
+EMP00431,Safina Januar,Sales,1,Staff,2023-02-10,1.89,16274780,P,51,S1,EMP00474,3.5,True,0.0518,Central Connector,0.999494791596688,0.5256,🟡 Monitor (Low Influence + High Risk)
+EMP00623,Fitria Widiastuti,Operations,1,Staff,2022-06-30,2.51,7107465,P,37,S1,EMP00601,2.9,True,0.0764,Central Connector,0.9737509625271976,0.5251,🟡 Monitor (Low Influence + High Risk)
+EMP00858,"drg. Keisha Hutapea, M.Pd",Customer Success,4,Lead,2023-02-09,1.89,22328760,L,38,S1,,3.6,True,0.0718,Central Connector,0.9764113491019356,0.5241,🟡 Monitor (Low Influence + High Risk)
+EMP00955,Wisnu Sihotang,Research,1,Staff,2023-03-12,1.81,15818171,P,32,S1,EMP00942,3.9,True,0.1287,Central Connector,0.918435211063232,0.5236,🟡 Monitor (Low Influence + High Risk)
+EMP00326,Juli Sinaga,Marketing,3,Specialist,2022-10-06,2.24,15033523,L,31,S1,EMP00318,2.4,True,0.0658,Central Connector,0.9776517973054656,0.5217,🟡 Monitor (Low Influence + High Risk)
+EMP00806,Zalindra Nugroho,Customer Success,1,Staff,2019-04-07,5.74,11138174,L,27,S2,EMP00846,3.1,True,0.0501,Information Broker,0.992006791865592,0.5211,🟡 Monitor (Low Influence + High Risk)
+EMP00328,Talia Lailasari,Marketing,3,Specialist,2020-11-24,4.1,17921462,L,34,S1,EMP00318,1.7,True,0.0715,Central Connector,0.9705584512746472,0.521,🟡 Monitor (Low Influence + High Risk)
+EMP00363,Drs. Gamblang Januar,Sales,1,Staff,2023-05-02,1.67,11052931,L,41,S1,EMP00474,4.4,True,0.0427,Information Broker,0.9989865988242242,0.5208,🟡 Monitor (Low Influence + High Risk)
+EMP00859,Martani Tampubolon,Customer Success,2,Senior Staff,2022-08-23,2.36,12760975,L,46,S1,EMP00846,3.8,True,0.0416,Information Broker,0.9998990396080416,0.5207,🟡 Monitor (Low Influence + High Risk)
+EMP00828,Halim Mardhiyah,Customer Success,3,Specialist,2019-02-24,5.85,15045762,L,36,S1,EMP00846,2.5,True,0.0431,Central Connector,0.9977817802122472,0.5204,🟡 Monitor (Low Influence + High Risk)
+EMP00646,Jessica Nashiruddin,Operations,1,Staff,2022-01-22,2.94,8672800,P,29,S3,EMP00601,2.6,True,0.0431,Information Broker,0.9951952806094146,0.5191,🟡 Monitor (Low Influence + High Risk)
+EMP00062,Maryanto Kusmawati,Engineering,2,Senior Staff,2018-09-12,6.3,22077883,L,49,S1,EMP00155,4.1,True,0.0431,Information Broker,0.9947004634612648,0.5189,🟡 Monitor (Low Influence + High Risk)
+EMP00620,Drs. Dimas Megantara,Operations,2,Senior Staff,2019-03-06,5.82,9296897,P,25,S1,EMP00601,2.5,True,0.0502,Information Broker,0.986345099872618,0.5183,🟡 Monitor (Low Influence + High Risk)
+EMP00700,Zulfa Hutapea,Data & Analytics,2,Senior Staff,2019-03-10,5.81,23183719,P,43,S3,EMP00728,2.3,True,0.0663,Central Connector,0.9698448379308454,0.5181,🟡 Monitor (Low Influence + High Risk)
+EMP00362,Ani Mahendra,Sales,3,Specialist,2019-02-19,5.86,16201546,L,33,S1,EMP00474,3.7,True,0.0497,Information Broker,0.9856148525720052,0.5177,🟡 Monitor (Low Influence + High Risk)
+EMP00860,Cemani Nasyiah,Customer Success,1,Staff,2018-10-08,6.23,8278521,P,48,D3,EMP00846,2.5,True,0.0379,Central Connector,0.9974403979635406,0.5177,🟡 Monitor (Low Influence + High Risk)
+EMP00785,"dr. Vera Maulana, S.Pd",Customer Success,2,Senior Staff,2021-11-21,3.11,14866216,P,44,S1,EMP00846,2.4,True,0.0937,Central Connector,0.939202971600772,0.5165,🟡 Monitor (Low Influence + High Risk)
+EMP00742,drg. Prakosa Pudjiastuti,Data & Analytics,2,Senior Staff,2022-10-24,2.19,20514090,L,34,S1,EMP00728,3.5,True,0.0403,Central Connector,0.992398178543178,0.5163,🟡 Monitor (Low Influence + High Risk)
+EMP00845,Diah Mulyani,Customer Success,2,Senior Staff,2023-06-18,1.54,10240329,L,24,S1,EMP00846,3.6,True,0.0446,Information Broker,0.9877916420641112,0.5162,🟡 Monitor (Low Influence + High Risk)
+EMP00268,Salimah Prastuti,Marketing,1,Staff,2020-04-05,4.74,10072381,P,44,S1,EMP00318,3.3,True,0.0425,Information Broker,0.9884184594668992,0.5155,🟡 Monitor (Low Influence + High Risk)
+EMP00804,"Kemal Pradipta, M.Pd",Customer Success,1,Staff,2022-01-08,2.98,8744654,L,41,S1,EMP00846,2.0,True,0.0425,Information Broker,0.9884533372706876,0.5155,🟡 Monitor (Low Influence + High Risk)
+EMP00818,Hj. Latika Aryani,Customer Success,1,Staff,2020-06-12,4.55,11510790,L,32,S1,EMP00846,3.3,True,0.0976,Central Connector,0.9326959667812048,0.5151,🟡 Monitor (Low Influence + High Risk)
+EMP00276,"Novi Saefullah, M.Farm",Marketing,1,Staff,2022-12-16,2.04,8716714,P,23,S2,EMP00318,3.8,True,0.0392,Information Broker,0.9910949762564792,0.5151,🟡 Monitor (Low Influence + High Risk)
+EMP00862,"Genta Adriansyah, S.Ked",IT Infrastructure,3,Specialist,2023-05-05,1.66,20231032,L,47,S2,EMP00925,3.9,True,0.0379,Information Broker,0.9920511349192856,0.515,🟡 Monitor (Low Influence + High Risk)
+EMP00419,Cici Wulandari,Sales,2,Senior Staff,2023-10-22,1.19,15698579,P,50,S1,EMP00474,3.9,True,0.0551,Central Connector,0.973049286124914,0.5141,🟡 Monitor (Low Influence + High Risk)
+EMP00626,Dr. Panji Mayasari,Operations,2,Senior Staff,2022-09-12,2.3,11323561,L,26,S1,EMP00601,3.7,True,0.0497,Information Broker,0.9782105940314656,0.514,🟡 Monitor (Low Influence + High Risk)
+EMP00921,Cahyono Palastri,IT Infrastructure,4,Lead,2023-07-22,1.45,22853450,P,31,D3,,3.3,True,0.0411,Information Broker,0.9819668152871706,0.5115,🟡 Monitor (Low Influence + High Risk)
+EMP00993,Novi Hutagalung,Research,2,Senior Staff,2022-07-21,2.45,18499921,P,22,S1,EMP00942,4.5,True,0.0464,Information Broker,0.9759559188900708,0.5112,🟡 Monitor (Low Influence + High Risk)
+EMP00439,Warta Hasanah,Sales,1,Staff,2022-12-17,2.04,15030658,L,47,S1,EMP00474,3.8,True,0.0431,Information Broker,0.978965435538357,0.511,🟡 Monitor (Low Influence + High Risk)
+EMP00228,"dr. Estiawan Andriani, S.T.",Product,2,Senior Staff,2018-12-13,6.05,19906156,L,49,S2,EMP00254,2.4,True,0.0381,Information Broker,0.9814043952648234,0.5098,🟡 Monitor (Low Influence + High Risk)
+EMP00782,KH. Najam Saefullah,Customer Success,1,Staff,2021-12-29,3.01,9611628,L,25,S1,EMP00846,2.8,True,0.0392,Information Broker,0.9797648970462528,0.5095,🟡 Monitor (Low Influence + High Risk)
+EMP00619,Drs. Anita Usamah,Operations,1,Staff,2019-02-10,5.89,10251160,L,51,S1,EMP00601,2.7,True,0.0431,Information Broker,0.974922676102746,0.509,🟡 Monitor (Low Influence + High Risk)
+EMP00443,Budi Pratiwi,Sales,3,Specialist,2020-05-29,4.59,20567645,L,26,S1,EMP00474,4.3,True,0.0392,Information Broker,0.977685179708908,0.5084,🟡 Monitor (Low Influence + High Risk)
+EMP00253,"drg. Jaka Fujiati, M.Farm",Product,1,Staff,2018-11-09,6.14,20646903,P,43,S1,EMP00254,2.2,True,0.0379,Information Broker,0.9785407366150064,0.5082,🟡 Monitor (Low Influence + High Risk)
+EMP00415,Eman Nasyiah,Sales,2,Senior Staff,2019-09-22,5.28,15286574,P,51,S1,EMP00474,3.0,True,0.0392,Information Broker,0.9745941016923608,0.5069,🟡 Monitor (Low Influence + High Risk)
+EMP00960,"Usman Namaga, S.Psi",Research,1,Staff,2019-06-10,5.56,10996742,L,33,S1,EMP00942,2.5,True,0.057,Central Connector,0.955805677896618,0.5064,🟡 Monitor (Low Influence + High Risk)
+EMP00547,Garan Mayasari,Finance,3,Specialist,2023-02-21,1.86,18256020,P,35,S1,EMP00523,2.6,True,0.0879,Central Connector,0.9213441908100772,0.5046,🟡 Monitor (Low Influence + High Risk)
+EMP00455,Melinda Tarihoran,Sales,1,Staff,2021-02-01,3.91,12093661,L,49,S1,EMP00474,3.0,True,0.0092,Information Broker,0.9998256102952544,0.5045,🟡 Monitor (Low Influence + High Risk)
+EMP00475,"Virman Kusmawati, S.Pt",Sales,3,Specialist,2019-06-14,5.55,17140347,L,45,D3,EMP00474,3.1,True,0.0092,Information Broker,0.9998633785286444,0.5045,🟡 Monitor (Low Influence + High Risk)
+EMP00945,Halim Wibowo,Research,2,Senior Staff,2022-08-06,2.4,23145336,L,31,S2,EMP00942,3.1,True,0.0431,Central Connector,0.9658640123482296,0.5045,🟡 Monitor (Low Influence + High Risk)
+EMP00741,T. Bagya Winarno,Data & Analytics,2,Senior Staff,2019-08-11,5.39,21366854,P,35,S2,EMP00728,2.7,True,0.0092,Information Broker,0.9996181053511796,0.5044,🟡 Monitor (Low Influence + High Risk)
+EMP00370,Jamalia Utami,Sales,3,Specialist,2019-05-30,5.59,17877412,P,42,S1,EMP00474,2.9,True,0.0092,Information Broker,0.9996990899223704,0.5044,🟡 Monitor (Low Influence + High Risk)
+EMP00399,dr. Gawati Usada,Sales,3,Specialist,2020-06-20,4.53,21057980,P,31,S1,EMP00474,3.0,True,0.0092,Information Broker,0.9990203876807118,0.5041,🟡 Monitor (Low Influence + High Risk)
+EMP00058,Yance Samosir,Engineering,1,Staff,2019-12-09,5.06,10607217,P,45,S1,EMP00155,3.3,True,0.0092,Information Broker,0.998921294248062,0.5041,🟡 Monitor (Low Influence + High Risk)
+EMP00821,Janet Prayoga,Customer Success,3,Specialist,2018-07-14,6.47,13815986,P,35,S1,EMP00846,3.0,True,0.0092,Information Broker,0.9990434300397246,0.5041,🟡 Monitor (Low Influence + High Risk)
+EMP00934,H. Endra Nasyiah,Research,1,Staff,2018-08-06,6.4,19276939,L,51,D3,EMP00942,3.0,True,0.0092,Information Broker,0.9981435011693668,0.5037,🟡 Monitor (Low Influence + High Risk)
+EMP00827,"Banara Hastuti, S.Pd",Customer Success,5,Manager,2019-02-26,5.85,20760260,P,30,S1,,2.9,True,0.0092,Information Broker,0.9975820410830064,0.5034,🟡 Monitor (Low Influence + High Risk)
+EMP00924,Salman Hutagalung,IT Infrastructure,1,Staff,2021-12-29,3.01,15276178,L,23,D3,EMP00925,4.8,True,0.0675,Information Broker,0.9387680985591168,0.5031,🟡 Monitor (Low Influence + High Risk)
+EMP00474,"Dodo Wahyudin, S.E.I",Sales,4,Lead,2019-01-19,5.95,19510506,L,37,S1,,3.5,True,0.0092,Central Connector,0.9968012090450186,0.503,🟡 Monitor (Low Influence + High Risk)
+EMP00740,Drs. Febi Tarihoran,Data & Analytics,3,Specialist,2022-02-09,2.89,36069697,L,30,S1,EMP00728,2.8,True,0.0092,Information Broker,0.9962348653199284,0.5027,🟡 Monitor (Low Influence + High Risk)
+EMP00449,"R.M. Balapati Wijayanti, S.Ked",Sales,3,Specialist,2018-10-30,6.17,21673618,L,26,D3,EMP00474,2.7,True,0.0092,Information Broker,0.9957504893757108,0.5025,🟡 Monitor (Low Influence + High Risk)
+EMP00447,Enteng Maulana,Sales,1,Staff,2023-02-14,1.88,11983929,L,47,S1,EMP00474,2.3,True,0.0092,Information Broker,0.9956899096017772,0.5024,🟡 Monitor (Low Influence + High Risk)
+EMP00004,Lantar Anggraini,Engineering,3,Specialist,2020-02-21,4.86,21984461,L,32,D3,EMP00155,3.0,True,0.0092,Information Broker,0.9953314064615976,0.5023,🟡 Monitor (Low Influence + High Risk)
+EMP00706,Cawisono Wahyuni,Data & Analytics,2,Senior Staff,2022-04-17,2.71,16725982,L,49,S1,EMP00728,3.9,True,0.0092,Central Connector,0.9946202530471372,0.5019,🟡 Monitor (Low Influence + High Risk)
+EMP00013,"Tgk. Baktiono Iswahyudi, S.Sos",Engineering,2,Senior Staff,2022-02-12,2.88,15671093,L,22,S1,EMP00155,3.8,True,0.0092,Information Broker,0.9944806835131644,0.5018,🟡 Monitor (Low Influence + High Risk)
+EMP00748,Olivia Gunarto,Data & Analytics,2,Senior Staff,2021-09-13,3.3,26036566,P,33,S2,EMP00728,3.9,True,0.0379,Central Connector,0.9650187565867492,0.5015,🟡 Monitor (Low Influence + High Risk)
+EMP00738,"Karimah Waskita, S.I.Kom",Data & Analytics,2,Senior Staff,2021-12-02,3.08,20557669,L,27,S1,EMP00728,4.0,True,0.0092,Information Broker,0.9937248343600624,0.5015,🟡 Monitor (Low Influence + High Risk)
+EMP00676,Talia Lestari,Operations,3,Specialist,2019-12-11,5.06,12622491,L,28,D3,EMP00601,3.4,True,0.0092,Information Broker,0.993718165440126,0.5015,🟡 Monitor (Low Influence + High Risk)
+EMP00139,Dian Gunarto,Engineering,3,Specialist,2018-12-25,6.02,23498090,P,40,S2,EMP00155,2.9,True,0.0092,Information Broker,0.9935019029900236,0.5014,🟡 Monitor (Low Influence + High Risk)
+EMP00462,"Maimunah Hidayanto, S.Pt",Sales,2,Senior Staff,2018-10-21,6.2,12935712,L,36,D3,EMP00474,2.1,True,0.0092,Information Broker,0.9932733957729842,0.5012,🟡 Monitor (Low Influence + High Risk)
+EMP00484,Drs. Gabriella Mangunsong,Sales,2,Senior Staff,2020-01-08,4.98,15126997,L,25,S1,EMP00474,3.1,True,0.0092,Information Broker,0.9932608475579808,0.5012,🟡 Monitor (Low Influence + High Risk)
+EMP00886,"Harjaya Novitasari, S.Psi",IT Infrastructure,2,Senior Staff,2022-03-24,2.77,16681239,L,32,S1,EMP00925,3.3,True,0.0092,Information Broker,0.9929866886810664,0.5011,🟡 Monitor (Low Influence + High Risk)
+EMP00113,Eman Widodo,Engineering,3,Specialist,2020-06-28,4.51,23680076,L,31,S1,EMP00155,2.1,True,0.0092,Information Broker,0.9923012339334216,0.5008,🟡 Monitor (Low Influence + High Risk)
+EMP00649,Wani Hutasoit,Operations,1,Staff,2019-05-19,5.62,11764278,P,27,S2,EMP00601,3.9,True,0.0092,Information Broker,0.9918438157957282,0.5005,🟡 Monitor (Low Influence + High Risk)
+EMP00716,"Almira Manullang, M.M.",Data & Analytics,3,Specialist,2020-06-20,4.53,28253653,P,51,S1,EMP00728,2.7,True,0.077,Central Connector,0.9239762626338088,0.5005,🟡 Monitor (Low Influence + High Risk)
+EMP00142,Mulyanto Jailani,Engineering,2,Senior Staff,2022-05-16,2.63,15279048,L,41,S1,EMP00155,3.3,True,0.0092,Information Broker,0.9915092349077478,0.5004,🟡 Monitor (Low Influence + High Risk)
+EMP00211,Vera Padmasari,Product,1,Staff,2018-09-02,6.33,22335505,P,24,S1,EMP00254,3.1,True,0.0092,Information Broker,0.9915940900443884,0.5004,🟡 Monitor (Low Influence + High Risk)
+EMP00385,Daru Hariyah,Sales,2,Senior Staff,2022-01-07,2.98,21476336,L,27,S2,EMP00474,2.8,True,0.0092,Information Broker,0.9909067906775688,0.5001,🟡 Monitor (Low Influence + High Risk)
+EMP00911,Laras Gunawan,IT Infrastructure,2,Senior Staff,2023-03-22,1.78,15763475,P,36,S1,EMP00925,3.8,True,0.0092,Information Broker,0.9906705584573507,0.4999,🟡 Monitor (Low Influence + High Risk)
+EMP00076,Salsabila Laksita,Engineering,1,Staff,2019-10-06,5.24,14345720,L,42,S1,EMP00155,3.3,True,0.0092,Information Broker,0.9899413657506024,0.4996,🟡 Monitor (Low Influence + High Risk)
+EMP00811,Syahrini Palastri,Customer Success,1,Staff,2022-09-16,2.29,9205316,L,51,S2,EMP00846,3.6,True,0.0392,Information Broker,0.9600944370861092,0.4996,🟡 Monitor (Low Influence + High Risk)
+EMP00126,Eman Latupono,Engineering,3,Specialist,2021-03-14,3.8,22605158,L,36,S1,EMP00155,3.6,True,0.0092,Information Broker,0.9889690865854616,0.4991,🟡 Monitor (Low Influence + High Risk)
+EMP00460,Aswani Kuswandari,Sales,2,Senior Staff,2020-01-19,4.95,13152887,L,31,S1,EMP00474,2.9,True,0.0092,Information Broker,0.9882905324503052,0.4987,🟡 Monitor (Low Influence + High Risk)
+EMP00935,Anita Mardhiyah,Research,2,Senior Staff,2019-05-11,5.64,20626591,P,25,S1,EMP00942,3.9,True,0.0092,Central Connector,0.9882262398587736,0.4987,🟡 Monitor (Low Influence + High Risk)
+EMP00610,Raisa Ardianto,Operations,3,Specialist,2019-07-01,5.5,18554304,L,36,S1,EMP00601,4.2,True,0.0559,Information Broker,0.9415810974256432,0.4987,🟡 Monitor (Low Influence + High Risk)
+EMP00365,Najam Megantara,Sales,4,Lead,2021-05-08,3.65,21692208,L,23,S2,,4.0,True,0.0431,Information Broker,0.9542885510366864,0.4987,🟡 Monitor (Low Influence + High Risk)
+EMP00236,R.A. Nadia Rajasa,Product,1,Staff,2018-11-26,6.1,18896441,P,28,S2,EMP00254,2.7,True,0.0092,Information Broker,0.9880492257542816,0.4986,🟡 Monitor (Low Influence + High Risk)
+EMP00672,Oman Nashiruddin,Operations,4,Lead,2020-09-29,4.25,16695231,L,28,S1,,3.0,True,0.0092,Information Broker,0.9865806986263024,0.4979,🟡 Monitor (Low Influence + High Risk)
+EMP00905,Kusuma Sinaga,IT Infrastructure,2,Senior Staff,2021-02-12,3.88,18581485,P,30,S1,EMP00925,2.9,True,0.0092,Information Broker,0.9862420520091456,0.4977,🟡 Monitor (Low Influence + High Risk)
+EMP00662,Samsul Sudiati,Operations,2,Senior Staff,2021-10-22,3.19,12391247,L,48,S1,EMP00601,3.0,True,0.0092,Information Broker,0.9861594619477728,0.4977,🟡 Monitor (Low Influence + High Risk)
+EMP00997,Gadang Ardianto,Research,2,Senior Staff,2022-07-05,2.49,21496892,L,48,S2,EMP00942,3.1,True,0.0092,Central Connector,0.986054208458826,0.4976,🟡 Monitor (Low Influence + High Risk)
+EMP00033,"Iriana Prabowo, M.Kom.",Engineering,2,Senior Staff,2018-09-28,6.26,19444578,L,49,S1,EMP00155,3.3,True,0.0092,Information Broker,0.985876099795626,0.4975,🟡 Monitor (Low Influence + High Risk)
+EMP00357,"Halima Pertiwi, S.Sos",Sales,1,Staff,2019-03-04,5.83,9102498,P,35,S1,EMP00474,1.9,True,0.0092,Information Broker,0.9847934645106432,0.497,🟡 Monitor (Low Influence + High Risk)
+EMP00819,Tgk. Bakianto Wacana,Customer Success,3,Specialist,2021-12-14,3.05,14101748,P,23,S3,EMP00846,2.2,True,0.0392,Information Broker,0.954629435818373,0.4969,🟡 Monitor (Low Influence + High Risk)
+EMP00470,Mila Pradana,Sales,3,Specialist,2019-07-29,5.43,21220567,P,50,S1,EMP00474,3.8,True,0.0092,Information Broker,0.9846320607315028,0.4969,🟡 Monitor (Low Influence + High Risk)
+EMP00289,"Mahfud Habibi, S.E.I",Marketing,2,Senior Staff,2023-02-20,1.86,12255272,P,22,S2,EMP00318,2.9,True,0.0553,Central Connector,0.93752695653874,0.4964,🟡 Monitor (Low Influence + High Risk)
+EMP00723,Jaka Maheswara,Data & Analytics,3,Specialist,2020-08-25,4.35,22915595,P,46,S2,EMP00728,3.8,True,0.0092,Information Broker,0.9836394741502548,0.4964,🟡 Monitor (Low Influence + High Risk)
+EMP00671,Hilda Latupono,Operations,1,Staff,2020-06-24,4.52,13557201,L,29,S1,EMP00601,3.8,True,0.0497,Information Broker,0.9425339887114068,0.4961,🟡 Monitor (Low Influence + High Risk)
+EMP00949,"drg. Septi Sitompul, M.Farm",Research,3,Specialist,2020-10-31,4.17,30379349,L,38,S1,EMP00942,2.4,True,0.0379,Information Broker,0.95418295246408,0.496,🟡 Monitor (Low Influence + High Risk)
+EMP00617,"Putu Oktaviani, M.M.",Operations,1,Staff,2021-07-11,3.47,11212997,P,46,S1,EMP00601,3.3,True,0.0554,Information Broker,0.9363293566717588,0.4959,🟡 Monitor (Low Influence + High Risk)
+EMP00105,Legawa Hidayat,Engineering,3,Specialist,2021-06-30,3.5,21764602,L,28,S2,EMP00155,3.9,True,0.0431,Information Broker,0.9482653685219976,0.4957,🟡 Monitor (Low Influence + High Risk)
+EMP00976,Karen Kurniawan,Research,2,Senior Staff,2019-08-19,5.37,25106732,L,40,S1,EMP00942,4.0,True,0.0379,Information Broker,0.9522798713369244,0.4951,🟡 Monitor (Low Influence + High Risk)
+EMP00713,Syahrini Sihombing,Data & Analytics,1,Staff,2019-12-24,5.02,16759858,L,39,S1,EMP00728,2.8,True,0.0092,Information Broker,0.980459906656006,0.4948,🟡 Monitor (Low Influence + High Risk)
+EMP00674,R. Eluh Rajata,Operations,1,Staff,2019-07-12,5.47,8218659,P,49,S1,EMP00601,4.3,True,0.0092,Information Broker,0.9795187566167746,0.4944,🟡 Monitor (Low Influence + High Risk)
+EMP00028,Humaira Uyainah,Engineering,1,Staff,2023-11-22,1.11,19214964,L,50,S1,EMP00155,4.7,True,0.0092,Information Broker,0.9796096817947404,0.4944,🟡 Monitor (Low Influence + High Risk)
+EMP00789,Damar Nasyiah,Customer Success,1,Staff,2022-06-22,2.53,11651172,L,27,S2,EMP00846,2.8,True,0.0092,Information Broker,0.9792850211594,0.4942,🟡 Monitor (Low Influence + High Risk)
+EMP00733,dr. Alika Hardiansyah,Data & Analytics,1,Staff,2019-03-01,5.84,16992352,L,31,D3,EMP00728,3.9,True,0.0092,Information Broker,0.9790173910123496,0.4941,🟡 Monitor (Low Influence + High Risk)
+EMP00867,Enteng Nainggolan,IT Infrastructure,2,Senior Staff,2023-07-10,1.48,16127233,L,44,S1,EMP00925,4.4,True,0.0421,Central Connector,0.9461752521363146,0.4941,🟡 Monitor (Low Influence + High Risk)
+EMP00732,drg. Dimas Pratama,Data & Analytics,1,Staff,2021-03-20,3.78,17986552,P,25,S1,EMP00728,2.2,True,0.0092,Information Broker,0.978997234997732,0.4941,🟡 Monitor (Low Influence + High Risk)
+EMP00019,dr. Ratih Nababan,Engineering,2,Senior Staff,2022-11-27,2.09,23352153,P,31,S1,EMP00155,2.7,True,0.0431,Information Broker,0.9444568799430568,0.4938,🟡 Monitor (Low Influence + High Risk)
+EMP00863,Malika Wulandari,IT Infrastructure,3,Specialist,2021-02-10,3.89,14833926,L,36,S1,EMP00925,4.0,True,0.0092,Information Broker,0.9768730647454577,0.493,🟡 Monitor (Low Influence + High Risk)
+EMP00468,drg. Cinthia Latupono,Sales,2,Senior Staff,2023-11-13,1.13,11691060,P,50,S1,EMP00474,2.2,True,0.0092,Information Broker,0.9768916016604277,0.493,🟡 Monitor (Low Influence + High Risk)
+EMP00089,Yani Pudjiastuti,Engineering,1,Staff,2019-04-14,5.72,16205679,L,35,S2,EMP00155,2.8,True,0.0497,Information Broker,0.9360023996037812,0.4929,🟡 Monitor (Low Influence + High Risk)
+EMP00922,Fitria Namaga,IT Infrastructure,3,Specialist,2020-04-01,4.75,20565350,P,39,S1,EMP00925,3.2,True,0.0484,Central Connector,0.9365990660757308,0.4925,🟡 Monitor (Low Influence + High Risk)
+EMP00149,Ani Halimah,Engineering,4,Lead,2019-02-18,5.87,24350546,P,31,S1,,2.1,True,0.0092,Information Broker,0.9756337292327344,0.4924,🟡 Monitor (Low Influence + High Risk)
+EMP00048,Endah Hasanah,Engineering,3,Specialist,2023-09-24,1.27,21865666,P,28,D3,EMP00155,4.3,True,0.0092,Information Broker,0.975066189302444,0.4921,🟡 Monitor (Low Influence + High Risk)
+EMP00429,Salsabila Namaga,Sales,1,Staff,2021-10-09,3.23,8720540,L,33,S1,EMP00474,2.8,True,0.0092,Information Broker,0.9743823159778704,0.4918,🟡 Monitor (Low Influence + High Risk)
+EMP00965,Rahmi Susanti,Research,1,Staff,2020-07-04,4.49,14637917,P,30,S1,EMP00942,3.4,True,0.0427,Information Broker,0.9402578178460962,0.4915,🟡 Monitor (Low Influence + High Risk)
+EMP00069,Atma Sirait,Engineering,1,Staff,2018-09-06,6.32,11817896,L,34,S1,EMP00155,1.7,True,0.0092,Information Broker,0.9710376158042522,0.4901,🟡 Monitor (Low Influence + High Risk)
+EMP00614,Carla Suwarno,Operations,3,Specialist,2021-11-19,3.12,16071686,L,47,S2,EMP00601,4.0,True,0.0092,Information Broker,0.9707740235926912,0.49,🟡 Monitor (Low Influence + High Risk)
+EMP00381,dr. Karya Zulaika,Sales,1,Staff,2020-03-04,4.83,10831330,P,44,S1,EMP00474,4.4,True,0.0092,Information Broker,0.97072543719121,0.49,🟡 Monitor (Low Influence + High Risk)
+EMP00291,Chelsea Prayoga,Marketing,1,Staff,2018-08-14,6.38,9954389,L,51,S3,EMP00318,3.5,True,0.0092,Information Broker,0.968290979761113,0.4887,🟡 Monitor (Low Influence + High Risk)
+EMP00417,"Pangestu Wulandari, S.T.",Sales,1,Staff,2018-12-07,6.07,10840400,L,42,S3,EMP00474,2.4,True,0.0092,Information Broker,0.9663192150971408,0.4878,🟡 Monitor (Low Influence + High Risk)
+EMP00037,T. Pangeran Padmasari,Engineering,1,Staff,2022-06-21,2.53,19758568,P,29,S1,EMP00155,5.0,True,0.0092,Information Broker,0.965418383441461,0.4873,🟡 Monitor (Low Influence + High Risk)
+EMP00787,Maimunah Yolanda,Customer Success,2,Senior Staff,2023-03-13,1.8,10424018,P,35,S2,EMP00846,4.2,True,0.0592,Information Broker,0.9151078200743648,0.4872,🟡 Monitor (Low Influence + High Risk)
+EMP00940,Wulan Widodo,Research,4,Lead,2021-04-12,3.72,31151955,P,25,S1,,3.6,True,0.0379,Information Broker,0.9361692552921956,0.487,🟡 Monitor (Low Influence + High Risk)
+EMP00030,"Cut Ghaliyati Firmansyah, S.Psi",Engineering,4,Lead,2018-11-18,6.12,26609112,L,22,S1,,3.6,True,0.0092,Information Broker,0.963923621826549,0.4866,🟡 Monitor (Low Influence + High Risk)
+EMP00878,Ratih Rahimah,IT Infrastructure,3,Specialist,2021-01-10,3.97,19042428,L,36,S3,EMP00925,2.9,True,0.0392,Information Broker,0.9334278249318312,0.4863,🟡 Monitor (Low Influence + High Risk)
+EMP00129,R.A. Tina Siregar,Engineering,2,Senior Staff,2023-06-09,1.56,14117311,L,50,S2,EMP00155,2.1,True,0.0092,Information Broker,0.9626313512985534,0.4859,🟡 Monitor (Low Influence + High Risk)
+EMP00810,Puti Juli Suryono,Customer Success,2,Senior Staff,2020-12-28,4.01,11641251,L,45,S2,EMP00846,2.8,True,0.0399,Information Broker,0.931799991728523,0.4858,🟡 Monitor (Low Influence + High Risk)
+EMP00427,Daryani Nasyiah,Sales,4,Lead,2020-05-17,4.62,25388502,P,39,S2,,3.4,True,0.0092,Information Broker,0.9618207999191988,0.4855,🟡 Monitor (Low Influence + High Risk)
+EMP00478,"Ulya Wahyudin, S.E.I",Sales,2,Senior Staff,2022-02-22,2.86,13927118,P,41,S1,EMP00474,3.9,True,0.0392,Information Broker,0.9315483858805952,0.4854,🟡 Monitor (Low Influence + High Risk)
+EMP00179,Kajen Kusmawati,Engineering,4,Lead,2018-09-23,6.27,27919165,L,44,S1,,3.7,True,0.0092,Information Broker,0.9610203617755771,0.4851,🟡 Monitor (Low Influence + High Risk)
+EMP00367,Jarwadi Saptono,Sales,1,Staff,2021-11-12,3.13,15940515,L,22,S1,EMP00474,4.0,True,0.0092,Information Broker,0.9605079603307268,0.4849,🟡 Monitor (Low Influence + High Risk)
+EMP00488,R.A. Yani Aryani,Sales,1,Staff,2021-07-18,3.46,12394252,L,22,S2,EMP00474,2.8,True,0.0092,Information Broker,0.9601237879253108,0.4847,🟡 Monitor (Low Influence + High Risk)
+EMP00090,Asirwanda Yulianti,Engineering,3,Specialist,2022-06-26,2.52,24064319,L,49,S1,EMP00155,2.3,True,0.0092,Information Broker,0.9602753230263268,0.4847,🟡 Monitor (Low Influence + High Risk)
+EMP00166,Mala Hidayat,Engineering,1,Staff,2023-07-27,1.43,14419611,L,47,S1,EMP00155,3.0,True,0.0092,Information Broker,0.9583227177226952,0.4838,🟡 Monitor (Low Influence + High Risk)
+EMP00064,"Ir. Lintang Prabowo, M.Pd",Engineering,3,Specialist,2023-11-01,1.17,29125986,P,30,D3,EMP00155,2.5,True,0.0092,Information Broker,0.9578533842043666,0.4835,🟡 Monitor (Low Influence + High Risk)
+EMP00349,Drs. Ulva Mansur,Sales,3,Specialist,2019-08-12,5.39,15807440,L,40,S2,EMP00474,2.1,True,0.0092,Information Broker,0.9559717822689314,0.4826,🟡 Monitor (Low Influence + High Risk)
+EMP00237,"Tgk. Caturangga Sudiati, M.Ak",Product,2,Senior Staff,2023-01-20,1.95,26664234,L,28,S2,EMP00254,1.9,True,0.0438,Information Broker,0.921245640964612,0.4825,🟡 Monitor (Low Influence + High Risk)
+EMP00176,Irfan Prastuti,Engineering,1,Staff,2019-02-09,5.89,13945000,P,24,S1,EMP00155,3.5,True,0.0092,Information Broker,0.9557371739583612,0.4825,🟡 Monitor (Low Influence + High Risk)
+EMP00011,"KH. Capa Anggraini, S.Psi",Engineering,2,Senior Staff,2018-08-15,6.38,15484519,L,28,S1,EMP00155,2.4,True,0.0092,Information Broker,0.9555346375979132,0.4824,🟡 Monitor (Low Influence + High Risk)
+EMP00039,Gawati Mandala,Engineering,2,Senior Staff,2021-06-18,3.54,18015556,P,25,S1,EMP00155,3.6,True,0.0092,Information Broker,0.9548793687625634,0.482,🟡 Monitor (Low Influence + High Risk)
+EMP00181,Oliva Wijayanti,Engineering,2,Senior Staff,2022-05-11,2.64,19692645,L,51,S1,EMP00155,2.9,True,0.0092,Information Broker,0.9523100929241448,0.4808,🟡 Monitor (Low Influence + High Risk)
+EMP00171,"Ida Puspasari, S.E.I",Engineering,1,Staff,2023-11-20,1.11,21685933,L,38,S1,EMP00155,4.8,True,0.0092,Information Broker,0.9519706172940104,0.4806,🟡 Monitor (Low Influence + High Risk)
+EMP00138,"dr. Restu Puspasari, S.E.I",Engineering,1,Staff,2021-11-28,3.09,14803574,P,38,S1,EMP00155,4.1,True,0.0092,Information Broker,0.9505676518631012,0.4799,🟡 Monitor (Low Influence + High Risk)
+EMP00141,Fathonah Zulaika,Engineering,5,Manager,2023-08-12,1.39,29991361,P,45,S1,,3.8,True,0.0092,Information Broker,0.9494770265873452,0.4793,🟡 Monitor (Low Influence + High Risk)
+EMP00423,"Ridwan Hariyah, S.Pd",Sales,2,Senior Staff,2022-09-29,2.26,10727331,P,43,D3,EMP00474,3.8,True,0.0431,Information Broker,0.9146144191204458,0.4789,🟡 Monitor (Low Influence + High Risk)
+EMP00389,Jelita Rahmawati,Sales,2,Senior Staff,2019-08-11,5.39,18971106,P,27,S1,EMP00474,3.6,True,0.0092,Information Broker,0.9474139923514228,0.4783,🟡 Monitor (Low Influence + High Risk)
+EMP00430,Rini Mangunsong,Sales,1,Staff,2019-05-03,5.66,11950721,L,47,S1,EMP00474,3.4,True,0.0092,Information Broker,0.9467784469837136,0.478,🟡 Monitor (Low Influence + High Risk)
+EMP00416,Jaeman Uwais,Sales,6,Senior Manager,2021-09-12,3.3,22941002,L,39,S2,,2.6,True,0.0092,Information Broker,0.9467719946544264,0.478,🟡 Monitor (Low Influence + High Risk)
+EMP00833,"Rachel Wahyudin, S.Farm",Customer Success,3,Specialist,2021-05-15,3.63,11482111,P,26,S1,EMP00846,4.2,True,0.0092,Information Broker,0.9466239720031376,0.4779,🟡 Monitor (Low Influence + High Risk)
+EMP00109,Lukman Hutapea,Engineering,2,Senior Staff,2023-10-23,1.19,21070181,P,49,S1,EMP00155,4.1,True,0.0092,Information Broker,0.9461766158420498,0.4777,🟡 Monitor (Low Influence + High Risk)
+EMP00408,"Dr. Taufik Utama, M.TI.",Sales,1,Staff,2019-11-16,5.13,12511604,L,40,S1,EMP00474,2.3,True,0.0092,Information Broker,0.9432989586894016,0.4762,🟡 Monitor (Low Influence + High Risk)
+EMP00094,Catur Wibowo,Engineering,2,Senior Staff,2020-02-04,4.91,17962034,L,39,S1,EMP00155,3.2,True,0.0092,Central Connector,0.9421088794504654,0.4757,🟡 Monitor (Low Influence + High Risk)
+EMP00199,Hana Prayoga,Engineering,2,Senior Staff,2023-07-19,1.45,18049163,P,49,S1,EMP00155,3.2,True,0.0092,Information Broker,0.939225234784416,0.4742,🟡 Monitor (Low Influence + High Risk)
+EMP00108,Labuh Riyanti,Engineering,1,Staff,2022-08-03,2.41,12681190,L,49,S1,EMP00155,3.8,True,0.0092,Information Broker,0.9343987764846354,0.4718,🟡 Monitor (Low Influence + High Risk)
+EMP00344,"Puti Malika Lazuardi, S.E.I",Sales,1,Staff,2019-05-02,5.67,11578398,P,49,S1,EMP00474,3.2,True,0.0092,Central Connector,0.9307797447233452,0.47,🟡 Monitor (Low Influence + High Risk)
+EMP00041,"Puti Eva Utami, S.E.",Engineering,5,Manager,2019-02-15,5.88,37985352,L,29,S1,,3.5,True,0.0092,Information Broker,0.9307233568913552,0.47,🟡 Monitor (Low Influence + High Risk)
+EMP00332,Prasetyo Waskita,Marketing,3,Specialist,2023-05-28,1.6,23219093,L,42,D3,EMP00318,4.2,True,0.0092,Information Broker,0.9299687896025346,0.4696,🟡 Monitor (Low Influence + High Risk)
+EMP00278,"R.A. Ida Pradana, S.I.Kom",Marketing,3,Specialist,2020-01-23,4.94,14677201,P,51,S1,EMP00318,3.7,True,0.0392,Information Broker,0.8997868475304827,0.4695,🟡 Monitor (Low Influence + High Risk)
+EMP00477,Ian Kuswoyo,Sales,1,Staff,2019-04-10,5.73,13961054,L,31,S1,EMP00474,2.3,True,0.0092,Information Broker,0.9283605381590784,0.4688,🟡 Monitor (Low Influence + High Risk)
+EMP00027,"Hesti Marpaung, M.M.",Engineering,2,Senior Staff,2021-05-21,3.61,17629165,P,31,S1,EMP00155,4.2,True,0.0092,Information Broker,0.9260933207121752,0.4676,🟡 Monitor (Low Influence + High Risk)
+EMP00310,"Cakrawala Santoso, S.E.I",Marketing,2,Senior Staff,2020-04-23,4.69,14434947,L,51,S1,EMP00318,2.8,True,0.0092,Central Connector,0.925158848635288,0.4672,🟡 Monitor (Low Influence + High Risk)
+EMP00390,Suci Anggraini,Sales,3,Specialist,2022-10-09,2.23,16229887,L,44,D3,EMP00474,2.5,True,0.0092,Information Broker,0.9245503390009636,0.4669,🟡 Monitor (Low Influence + High Risk)
+EMP00311,Asmuni Marbun,Marketing,4,Lead,2022-09-12,2.3,18977731,L,46,S1,,3.3,True,0.0092,Information Broker,0.9204863125209606,0.4648,🟡 Monitor (Low Influence + High Risk)
+EMP00472,Lidya Kuswoyo,Sales,2,Senior Staff,2022-11-03,2.16,17822411,P,47,S1,EMP00474,3.5,True,0.0431,Information Broker,0.8843324043851447,0.4637,🟡 Monitor (Low Influence + High Risk)
+EMP00839,Aswani Pudjiastuti,Customer Success,1,Staff,2020-11-29,4.09,9591117,L,39,D3,EMP00846,2.3,True,0.0092,Information Broker,0.9170492563118954,0.4631,🟡 Monitor (Low Influence + High Risk)
+EMP00063,R.M. Eman Nuraini,Engineering,4,Lead,2020-02-28,4.84,26615266,P,37,S1,,2.7,True,0.0092,Information Broker,0.9148558365631142,0.462,🟡 Monitor (Low Influence + High Risk)
+EMP00164,"Maya Adriansyah, M.TI.",Engineering,3,Specialist,2020-11-05,4.15,21313160,L,48,D3,EMP00155,3.6,True,0.0092,Information Broker,0.9139190870537324,0.4616,🟡 Monitor (Low Influence + High Risk)
+EMP00817,"Praba Nababan, S.E.",Customer Success,3,Specialist,2023-10-29,1.17,15933080,L,23,S1,EMP00846,1.0,True,0.0092,Central Connector,0.9110403345380752,0.4601,🟡 Monitor (Low Influence + High Risk)
+EMP00065,"H. Muhammad Pangestu, S.Pd",Engineering,1,Staff,2022-09-27,2.26,17241077,P,48,S1,EMP00155,3.1,True,0.0092,Information Broker,0.9068044248219442,0.458,🟡 Monitor (Low Influence + High Risk)
+EMP00929,Kasiyah Halim,IT Infrastructure,4,Lead,2020-10-08,4.23,21902063,P,48,S1,,4.2,True,0.0092,Central Connector,0.9063848864497728,0.4578,🟡 Monitor (Low Influence + High Risk)
+EMP00603,Harto Mardhiyah,Operations,1,Staff,2022-05-29,2.59,9501068,L,26,S1,EMP00601,4.4,True,0.0431,Information Broker,0.8650880322205416,0.4541,🟡 Monitor (Low Influence + High Risk)
+EMP00301,Kusuma Hutagalung,Marketing,2,Senior Staff,2020-08-27,4.34,11133980,L,29,S1,EMP00318,2.0,True,0.0092,Information Broker,0.8985079460143061,0.4539,🟡 Monitor (Low Influence + High Risk)
+EMP00115,Michelle Sihotang,Engineering,2,Senior Staff,2020-04-21,4.7,18920606,L,42,S3,EMP00155,2.4,True,0.0092,Information Broker,0.8920876946442238,0.4506,🟡 Monitor (Low Influence + High Risk)
+EMP00042,"Ir. Indra Riyanti, S.Pt",Engineering,3,Specialist,2019-02-06,5.9,23404485,P,25,S2,EMP00155,3.5,True,0.0092,Information Broker,0.8900901578942394,0.4496,🟡 Monitor (Low Influence + High Risk)
+EMP00428,Harsanto Hasanah,Sales,3,Specialist,2021-07-01,3.5,20071002,L,42,S1,EMP00474,4.3,True,0.0092,Information Broker,0.8898212635380962,0.4495,🟡 Monitor (Low Influence + High Risk)
+EMP00001,"Balidin Dongoran, S.T.",Engineering,1,Staff,2023-06-10,1.56,16787219,P,45,S2,EMP00155,4.2,True,0.0092,Information Broker,0.8819481151257184,0.4456,🟡 Monitor (Low Influence + High Risk)
+EMP00355,KH. Kenari Waluyo,Sales,3,Specialist,2018-07-28,6.43,20353913,P,38,S2,EMP00474,5.0,True,0.0092,Information Broker,0.8780512080281146,0.4436,🟡 Monitor (Low Influence + High Risk)
+EMP00608,Edison Halimah,Operations,1,Staff,2019-01-16,5.96,12372494,L,49,D3,EMP00601,3.9,True,0.0092,Information Broker,0.8565175391876774,0.4329,🟡 Monitor (Low Influence + High Risk)
+EMP00168,Salimah Maheswara,Engineering,2,Senior Staff,2020-07-18,4.45,20794934,L,28,S2,EMP00155,3.7,True,0.0092,Information Broker,0.8552521456077546,0.4322,🟡 Monitor (Low Influence + High Risk)
+EMP00316,Liman Gunarto,Marketing,2,Senior Staff,2022-04-05,2.74,13857042,L,27,S1,EMP00318,3.8,True,0.0092,Information Broker,0.8469486258264409,0.4281,🟡 Monitor (Low Influence + High Risk)
+EMP00524,"Suci Agustina, S.Pd",Finance,3,Specialist,2022-08-21,2.36,17384694,L,44,S2,EMP00523,3.1,True,0.0092,Information Broker,0.8171591663760099,0.4132,🟡 Monitor (Low Influence + High Risk)
+EMP00757,"Cut Kartika Sitompul, S.IP",Legal,3,Specialist,2022-06-20,2.53,21562475,P,46,S1,EMP00770,3.0,False,0.6418,Central Connector,0.0039260480328901,0.3229,🟢 Stable
+EMP00754,Tgk. Rika Sirait,Legal,3,Specialist,2023-07-01,1.5,29664321,P,49,D3,EMP00770,4.2,False,0.5572,Central Connector,0.0183830888741826,0.2878,🟢 Stable
+EMP00774,Patricia Siregar,Legal,2,Senior Staff,2023-10-27,1.18,25761156,L,41,S1,EMP00770,4.3,False,0.5445,Central Connector,0.002147012234619,0.2733,🟢 Stable
+EMP00766,"Carla Nainggolan, S.Ked",Legal,2,Senior Staff,2022-07-11,2.48,18636111,L,28,S1,EMP00770,3.2,False,0.4972,Central Connector,0.0006989910669309,0.2489,🟢 Stable
+EMP00775,Tgk. Murti Zulaika,Legal,3,Specialist,2022-05-01,2.67,24686707,L,23,S1,EMP00770,3.6,False,0.4779,Central Connector,0.0029213269790072,0.2404,🟢 Stable
+EMP00779,Wardaya Salahudin,Legal,4,Lead,2019-05-26,5.6,28022365,L,31,S1,,4.5,False,0.4783,Central Connector,0.0006783566355281,0.2395,🟢 Stable
+EMP00756,"Padmi Salahudin, M.Kom.",Legal,1,Staff,2022-07-05,2.49,15082022,P,44,S1,EMP00770,2.6,False,0.4075,Central Connector,0.0434359905941049,0.2255,🟢 Stable
+EMP00753,Elisa Wijaya,Legal,3,Specialist,2018-10-03,6.25,23994341,L,30,D3,EMP00770,3.3,False,0.4035,Central Connector,0.0036193803458016,0.2036,🟢 Stable
+EMP00719,Galar Simanjuntak,Data & Analytics,3,Specialist,2021-11-20,3.11,22515539,L,30,S1,EMP00728,3.4,False,0.3843,Central Connector,0.0192233200098633,0.2018,🟢 Stable
+EMP00770,Zizi Halim,Legal,4,Lead,2023-02-16,1.87,36700635,P,40,D3,,3.6,False,0.3964,Central Connector,0.0063752650506885,0.2014,🟢 Stable
+EMP00558,"Tgk. Nasab Hutasoit, M.TI.",HR,2,Senior Staff,2020-08-25,4.35,8807486,L,36,D3,EMP00575,3.3,False,0.3678,Central Connector,0.0011221064998497,0.1845,🟢 Stable
+EMP00776,"Rangga Saptono, M.Ak",Legal,1,Staff,2020-06-09,4.56,19839828,L,23,S1,EMP00770,3.7,False,0.3623,Central Connector,0.004823063574225,0.1836,🟢 Stable
+EMP00768,Hendri Putra,Legal,3,Specialist,2022-04-22,2.69,20977296,L,36,S1,EMP00770,3.7,False,0.3533,Central Connector,0.000834040413159,0.1771,🟢 Stable
+EMP00527,Yance Tarihoran,Finance,3,Specialist,2019-01-29,5.92,21746338,P,46,S1,EMP00523,4.0,False,0.3294,Central Connector,0.023542568176219,0.1765,🟢 Stable
+EMP00560,"Maida Farida, M.TI.",HR,2,Senior Staff,2019-03-31,5.75,13262630,P,48,D3,EMP00575,2.4,False,0.335,Central Connector,0.0103232216250547,0.1727,🟢 Stable
+EMP00571,Diah Riyanti,HR,2,Senior Staff,2022-07-20,2.45,12897404,L,50,S1,EMP00575,4.3,False,0.3053,Central Connector,0.0051193563519885,0.1552,🟢 Stable
+EMP00705,Lega Prastuti,Data & Analytics,4,Lead,2023-01-04,1.99,22840358,L,31,S2,,3.3,False,0.2698,Central Connector,0.0382742742033815,0.154,🟢 Stable
+EMP00761,"KH. Labuh Permata, S.H.",Legal,3,Specialist,2022-08-22,2.36,27150303,P,34,D3,EMP00770,4.2,False,0.2878,Central Connector,0.0164170848146149,0.1521,🟢 Stable
+EMP00772,Tgk. Mujur Kuswandari,Legal,1,Staff,2023-11-29,1.09,16619860,L,44,S1,EMP00770,4.0,False,0.3006,Central Connector,0.001977134819953,0.1513,🟢 Stable
+EMP00215,"drg. Paulin Palastri, M.Ak",Product,2,Senior Staff,2020-09-11,4.3,26636218,P,44,S1,EMP00254,3.4,False,0.2977,Central Connector,0.0040692337807771,0.1509,🟢 Stable
+EMP00752,R.M. Gamanto Suryatmi,Legal,1,Staff,2019-11-10,5.14,15809511,L,43,S1,EMP00770,3.2,False,0.2997,Central Connector,0.0006841914565858,0.1502,🟢 Stable
+EMP00545,Jarwadi Handayani,Finance,1,Staff,2019-04-09,5.73,12618003,L,41,S1,EMP00523,2.3,False,0.2489,Central Connector,0.041968443913835,0.1454,🟢 Stable
+EMP00780,"T. Niyaga Pranowo, M.Kom.",Legal,2,Senior Staff,2019-05-05,5.66,22881677,L,27,S1,EMP00770,3.2,False,0.2871,Central Connector,0.0023456812481114,0.1447,🟢 Stable
+EMP00750,"Juli Kusmawati, M.TI.",Data & Analytics,1,Staff,2019-04-20,5.7,14415356,P,31,S2,EMP00728,3.9,False,0.2498,Central Connector,0.0388902316094601,0.1443,🟢 Stable
+EMP00693,"Bagya Hartati, M.M.",Data & Analytics,2,Senior Staff,2023-05-03,1.66,14279477,L,42,S1,EMP00728,3.3,False,0.28,Central Connector,0.006656165747671,0.1433,🟢 Stable
+EMP00240,Wisnu Saragih,Product,1,Staff,2021-08-20,3.36,18144916,L,25,S2,EMP00254,3.4,False,0.2759,Central Connector,0.0080774159578809,0.142,🟢 Stable
+EMP00760,Dr. Hani Yolanda,Legal,2,Senior Staff,2022-05-16,2.63,17520035,P,46,S2,EMP00770,3.7,False,0.2688,Central Connector,0.0027381503096328,0.1358,🟢 Stable
+EMP00562,Intan Wibisono,HR,1,Staff,2023-03-22,1.78,8337793,L,42,S1,EMP00575,2.6,False,0.2656,Central Connector,0.0004936845314206,0.133,🟢 Stable
+EMP00570,Safina Wijayanti,HR,1,Staff,2018-09-21,6.28,8064339,P,24,S2,EMP00575,2.6,False,0.2551,Central Connector,0.0048312427544634,0.13,🟢 Stable
+EMP00764,"Raina Wibowo, S.E.I",Legal,3,Specialist,2022-11-07,2.15,25992076,P,27,S1,EMP00770,2.8,False,0.2569,Central Connector,0.0014662207362953,0.1292,🟢 Stable
+EMP00762,"Anastasia Padmasari, M.Kom.",Legal,2,Senior Staff,2020-09-23,4.27,17537537,L,39,S2,EMP00770,3.3,False,0.2482,Central Connector,0.0008073422226443,0.1245,🟢 Stable
+EMP00777,Febi Prayoga,Legal,1,Staff,2021-01-31,3.92,15988416,P,39,S2,EMP00770,4.0,False,0.242,Central Connector,0.0025888118877595,0.1223,🟢 Stable
+EMP00746,"Tgk. Kalim Utama, S.E.I",Data & Analytics,1,Staff,2018-07-31,6.42,18238664,L,41,S1,EMP00728,3.0,False,0.2356,Central Connector,0.0009518036833634,0.1183,🟢 Stable
+EMP00765,"Hj. Hesti Firmansyah, M.Farm",Legal,1,Staff,2023-04-12,1.72,18237200,L,35,S1,EMP00770,4.3,False,0.2328,Central Connector,0.0018377305546529,0.1173,🟢 Stable
+EMP00208,Julia Namaga,Product,2,Senior Staff,2022-03-01,2.84,23857410,P,45,S1,EMP00254,4.5,False,0.2176,Information Broker,0.0168224565809737,0.1172,🟢 Stable
+EMP00561,Drs. Capa Utama,HR,1,Staff,2023-09-02,1.33,10646068,L,39,S1,EMP00575,4.7,False,0.2307,Central Connector,0.0037955070727386,0.1172,🟢 Stable
+EMP00767,Iriana Andriani,Legal,3,Specialist,2019-11-04,5.16,25098761,L,28,S1,EMP00770,3.5,False,0.2273,Central Connector,0.0060260286122113,0.1167,🟢 Stable
+EMP00743,Yunita Oktaviani,Data & Analytics,2,Senior Staff,2020-06-25,4.52,19109531,L,38,S1,EMP00728,3.8,False,0.2256,Central Connector,0.0048456050107366,0.1152,🟢 Stable
+EMP00694,"Kariman Situmorang, S.E.I",Data & Analytics,1,Staff,2022-11-02,2.16,16818786,L,36,S1,EMP00728,3.5,False,0.2158,Central Connector,0.0037950722821106,0.1098,🟢 Stable
+EMP00726,Kiandra Susanti,Data & Analytics,1,Staff,2021-09-22,3.27,16354785,L,37,D3,EMP00728,3.3,False,0.2006,Central Connector,0.0142341596659674,0.1074,🟢 Stable
+EMP00731,Bakijan Wijaya,Data & Analytics,3,Specialist,2022-01-03,2.99,20450183,P,22,S2,EMP00728,4.0,False,0.1843,Central Connector,0.0299651800700476,0.1071,🟢 Stable
+EMP00747,Luhung Melani,Data & Analytics,2,Senior Staff,2019-02-09,5.89,26954387,P,48,S2,EMP00728,2.7,False,0.1914,Central Connector,0.0178862518958358,0.1046,🟢 Stable
+EMP00725,Bakti Hardiansyah,Data & Analytics,1,Staff,2019-11-15,5.13,15357725,P,44,D3,EMP00728,3.6,False,0.199,Central Connector,0.0061469519034752,0.1026,🟢 Stable
+EMP00559,"Cawuk Gunarto, S.H.",HR,1,Staff,2018-12-02,6.08,8162201,L,27,D3,EMP00575,2.9,False,0.1992,Central Connector,0.0010801938362772,0.1001,🟢 Stable
+EMP00539,R. Vanya Yolanda,Finance,2,Senior Staff,2023-11-02,1.16,14451878,L,30,S1,EMP00523,2.9,False,0.1959,Central Connector,0.0011476441769689,0.0985,🟢 Stable
+EMP00840,Sutan Kemal Nasyiah,Customer Success,3,Specialist,2023-03-04,1.83,13082015,P,44,S2,EMP00846,3.0,False,0.1887,Central Connector,0.00690707828001,0.0978,🟢 Stable
+EMP00504,Maimunah Wijayanti,Finance,2,Senior Staff,2022-05-27,2.6,19152270,P,32,S1,EMP00523,3.9,False,0.1726,Central Connector,0.0148881812780619,0.0937,🟢 Stable
+EMP00225,Asirwanda Rajata,Product,2,Senior Staff,2020-04-26,4.68,25521052,P,48,S2,EMP00254,3.5,False,0.1782,Central Connector,0.0089381932551066,0.0936,🟢 Stable
+EMP00295,Mila Handayani,Marketing,1,Staff,2019-04-08,5.73,13384967,L,33,S1,EMP00318,2.9,False,0.1774,Central Connector,0.0089290664085579,0.0932,🟢 Stable
+EMP00500,Ira Simbolon,Finance,2,Senior Staff,2019-08-11,5.39,19182412,L,37,D3,EMP00523,3.0,False,0.1841,Central Connector,0.0016074070628961,0.0929,🟢 Stable
+EMP00577,Elvina Prabowo,HR,2,Senior Staff,2019-07-08,5.48,13100305,L,49,D3,EMP00575,3.1,False,0.1841,Central Connector,0.0008901898114282,0.0925,🟢 Stable
+EMP00224,Sakti Hariyah,Product,1,Staff,2019-10-20,5.2,24329389,P,38,S3,EMP00254,2.6,False,0.1729,Central Connector,0.0121221774916656,0.0925,🟢 Stable
+EMP00575,"Mumpuni Anggraini, M.TI.",HR,4,Lead,2020-05-22,4.61,18911107,P,46,S2,,3.0,False,0.1783,Central Connector,0.0029838558718604,0.0906,🟢 Stable
+EMP00958,Eja Marpaung,Research,1,Staff,2020-09-18,4.28,15444944,L,49,S2,EMP00942,3.3,False,0.1623,Central Connector,0.0117028076542722,0.087,🟢 Stable
+EMP00769,Olivia Suryatmi,Legal,2,Senior Staff,2019-10-20,5.2,21947803,P,45,S2,EMP00770,3.6,False,0.1728,Central Connector,0.0009294779021848,0.0869,🟢 Stable
+EMP00553,Ratna Puspasari,HR,2,Senior Staff,2020-12-22,4.02,11941246,L,27,S1,EMP00575,3.0,False,0.1715,Central Connector,0.0013750134317901,0.0864,🟢 Stable
+EMP00825,"Queen Anggriawan, S.T.",Customer Success,4,Lead,2021-08-29,3.34,16531050,P,28,S1,,2.9,False,0.1697,Central Connector,0.002079059037852,0.0859,🟢 Stable
+EMP00204,Puput Hutapea,Product,3,Specialist,2023-06-15,1.55,20392234,L,23,S2,EMP00254,4.8,False,0.1617,Central Connector,0.0034609621061704,0.0826,🟢 Stable
+EMP00579,Darmanto Mandala,HR,1,Staff,2022-05-03,2.66,10434329,P,43,D3,EMP00575,2.8,False,0.1624,Central Connector,0.0012119457955441,0.0818,🟢 Stable
+EMP00549,Ani Hakim,Finance,4,Lead,2019-05-17,5.63,29913114,L,28,S2,,2.4,False,0.1501,Information Broker,0.0111401714502233,0.0806,🟢 Stable
+EMP00581,"Puti Ophelia Namaga, M.TI.",HR,5,Manager,2022-10-06,2.24,24784052,P,39,S1,,3.3,False,0.158,Central Connector,0.0022893044033404,0.0801,🟢 Stable
+EMP00773,dr. Galar Natsir,Legal,4,Lead,2023-07-29,1.43,37924332,L,22,S1,,2.9,False,0.1563,Central Connector,0.0004908480032319,0.0784,🟢 Stable
+EMP00495,"R. Padmi Wahyuni, S.Sos",Finance,3,Specialist,2022-04-10,2.73,19382354,L,44,S2,EMP00523,2.0,False,0.1468,Central Connector,0.0099328852630856,0.0784,🟢 Stable
+EMP00576,Anita Tarihoran,HR,1,Staff,2019-12-05,5.07,8562369,L,43,S1,EMP00575,2.2,False,0.152,Central Connector,0.0028950481617565,0.0774,🟢 Stable
+EMP00551,Mariadi Iswahyudi,HR,1,Staff,2022-09-12,2.3,8535808,L,23,S1,EMP00575,4.1,False,0.1154,Central Connector,0.0391561407166206,0.0773,🟢 Stable
+EMP00534,Karta Melani,Finance,1,Staff,2019-08-03,5.41,13156293,P,23,S2,EMP00523,2.8,False,0.1487,Central Connector,0.0027811489945178,0.0757,🟢 Stable
+EMP00567,Tari Wahyuni,HR,1,Staff,2019-05-10,5.65,8545536,P,35,S1,EMP00575,2.5,False,0.1494,Central Connector,0.0011243063054322,0.0753,🟢 Stable
+EMP00771,"Dina Maryati, S.Kom",Legal,1,Staff,2021-03-09,3.81,17225283,P,46,S2,EMP00770,3.3,False,0.1486,Central Connector,0.0015933567025748,0.0751,🟢 Stable
+EMP00324,drg. Siska Lestari,Marketing,3,Specialist,2019-11-15,5.13,14037413,L,41,D3,EMP00318,2.4,False,0.1445,Central Connector,0.0055133945990418,0.075,🟢 Stable
+EMP00239,Cici Prastuti,Product,2,Senior Staff,2018-08-29,6.34,21822641,P,35,S1,EMP00254,2.1,False,0.1479,Central Connector,0.000612436589803,0.0743,🟢 Stable
+EMP00898,"Lukita Suartini, S.Gz",IT Infrastructure,2,Senior Staff,2020-11-21,4.11,18907256,P,32,S1,EMP00925,2.4,False,0.1332,Central Connector,0.0145142890608654,0.0739,🟢 Stable
+EMP00972,Wirda Prayoga,Research,3,Specialist,2022-02-16,2.87,19950650,L,28,S1,EMP00942,3.9,False,0.1397,Central Connector,0.0044574586841671,0.0721,🟢 Stable
+EMP00585,"Ir. Yessi Marbun, M.M.",HR,1,Staff,2021-08-22,3.36,10920849,P,51,S1,EMP00575,3.9,False,0.1383,Central Connector,0.0051617710866127,0.0717,🟢 Stable
+EMP00755,Dr. Kasiran Lestari,Legal,2,Senior Staff,2022-01-19,2.95,18615272,L,26,S2,EMP00770,2.8,False,0.1422,Central Connector,0.0012589914870807,0.0717,🟢 Stable
+EMP00556,Dr. Olivia Maryadi,HR,1,Staff,2021-04-13,3.72,13792184,L,28,S1,EMP00575,3.3,False,0.1428,Central Connector,0.0002980980130265,0.0715,🟢 Stable
+EMP00552,Ir. Ophelia Winarno,HR,2,Senior Staff,2021-04-24,3.69,14485759,L,37,S1,EMP00575,1.6,False,0.1404,Central Connector,0.0021238195528536,0.0713,🟢 Stable
+EMP00546,"Gadang Saefullah, M.Farm",Finance,2,Senior Staff,2021-01-24,3.93,17754535,L,34,S2,EMP00523,3.4,False,0.1408,Central Connector,0.0007787575830043,0.0708,🟢 Stable
+EMP00300,"Bajragin Manullang, S.H.",Marketing,2,Senior Staff,2021-01-29,3.92,13127187,L,26,S2,EMP00318,3.3,False,0.1387,Central Connector,0.0011542057586647,0.0699,🟢 Stable
+EMP00578,Vivi Laksita,HR,2,Senior Staff,2019-07-12,5.47,10181430,L,34,S1,EMP00575,2.7,False,0.1357,Central Connector,0.0032766926449598,0.0695,🟢 Stable
+EMP00201,"Digdaya Saefullah, M.M.",Product,2,Senior Staff,2023-03-27,1.77,17685137,L,51,S1,EMP00254,3.5,False,0.1366,Central Connector,0.0016476345223901,0.0691,🟢 Stable
+EMP00871,Legawa Firmansyah,IT Infrastructure,1,Staff,2021-06-01,3.58,13446473,P,41,S1,EMP00925,3.4,False,0.1363,Central Connector,0.0008277041021975,0.0686,🟢 Stable
+EMP00514,Pranata Mandala,Finance,2,Senior Staff,2021-09-30,3.25,15878848,L,42,S1,EMP00523,3.8,False,0.1341,Central Connector,0.0025467708733664,0.0683,🟢 Stable
+EMP00936,"Hj. Mala Nugroho, S.IP",Research,2,Senior Staff,2020-12-23,4.02,24085453,L,25,S3,EMP00942,3.3,False,0.085,Central Connector,0.0495059357036215,0.0673,🟢 Stable
+EMP00512,Rahayu Hakim,Finance,1,Staff,2021-12-29,3.01,10318064,P,41,S1,EMP00523,3.4,False,0.1236,Central Connector,0.0103166565275628,0.067,🟢 Stable
+EMP00893,R.M. Harsanto Prasasta,IT Infrastructure,1,Staff,2019-05-15,5.63,11527477,P,37,S1,EMP00925,2.4,False,0.1294,Central Connector,0.0043650449653159,0.0669,🟢 Stable
+EMP00565,Gambira Kuswoyo,HR,1,Staff,2022-10-15,2.21,8534639,P,29,S3,EMP00575,3.9,False,0.1256,Central Connector,0.0077107475474789,0.0667,🟢 Stable
+EMP00720,"Zelda Situmorang, S.Sos",Data & Analytics,1,Staff,2021-05-11,3.64,18625785,L,26,D3,EMP00728,2.8,False,0.1287,Central Connector,0.0025705726936541,0.0656,🟢 Stable
+EMP00573,Syahrini Sitompul,HR,2,Senior Staff,2019-02-03,5.91,12425047,L,35,S1,EMP00575,2.7,False,0.1208,Central Connector,0.0078873770730804,0.0643,🟢 Stable
+EMP00759,"H. Teddy Usamah, S.Ked",Legal,2,Senior Staff,2021-01-22,3.94,19086286,L,41,S1,EMP00770,4.0,False,0.1253,Central Connector,0.0020354735803876,0.0637,🟢 Stable
+EMP00794,Makuta Pradipta,Customer Success,4,Lead,2022-12-13,2.05,18503613,P,39,S1,,4.1,False,0.1099,Central Connector,0.0172917652360061,0.0636,🟢 Stable
+EMP00582,Mitra Sirait,HR,2,Senior Staff,2021-05-19,3.62,12990229,P,31,S1,EMP00575,3.9,False,0.121,Central Connector,0.0056293682393186,0.0633,🟢 Stable
+EMP00874,Maida Pradipta,IT Infrastructure,2,Senior Staff,2022-06-01,2.58,12577125,P,48,S1,EMP00925,3.4,False,0.0873,Central Connector,0.0376878885353276,0.0625,🟢 Stable
+EMP00698,Caraka Sinaga,Data & Analytics,3,Specialist,2020-10-31,4.17,23792922,P,48,S1,EMP00728,2.5,False,0.1193,Central Connector,0.003133673263785,0.0612,🟢 Stable
+EMP00563,Vicky Sirait,HR,1,Staff,2023-07-18,1.46,10454604,L,26,S1,EMP00575,3.2,False,0.1174,Information Broker,0.0026280865892469,0.06,🟢 Stable
+EMP00591,"R.A. Kartika Wastuti, M.Farm",Operations,2,Senior Staff,2020-01-28,4.93,10982731,P,22,S3,EMP00601,4.3,False,0.0754,Central Connector,0.0443608308149206,0.0599,🟢 Stable
+EMP00814,"R. Gamblang Marpaung, M.M.",Customer Success,2,Senior Staff,2023-07-28,1.43,10345587,P,49,S1,EMP00846,3.3,False,0.1128,Central Connector,0.0067795646772235,0.0598,🟢 Stable
+EMP00721,Prabawa Uwais,Data & Analytics,1,Staff,2019-04-19,5.7,17323929,L,49,S1,EMP00728,2.9,False,0.1167,Central Connector,0.0023990967817797,0.0595,🟢 Stable
+EMP00596,"Jaya Wahyudin, M.Pd",Operations,1,Staff,2023-07-16,1.46,10899263,L,46,D3,EMP00601,4.5,False,0.107,Central Connector,0.0110188450879766,0.059,🟢 Stable
+EMP00531,Ira Sirait,Finance,4,Lead,2019-07-31,5.42,19856364,L,37,S1,,3.3,False,0.1174,Central Connector,0.0006576064022119,0.059,🟢 Stable
+EMP00964,Gina Hutagalung,Research,2,Senior Staff,2023-10-22,1.19,20605290,P,48,S1,EMP00942,4.0,False,0.1143,Central Connector,0.0034166301073706,0.0589,🟢 Stable
+EMP00492,Cemeti Saputra,Finance,1,Staff,2023-07-17,1.46,11066184,L,40,S1,EMP00523,2.3,False,0.1173,Central Connector,0.0004385990490981,0.0589,🟢 Stable
+EMP00887,"Lidya Wasita, S.E.I",IT Infrastructure,2,Senior Staff,2023-05-28,1.6,16609481,P,48,D3,EMP00925,3.0,False,0.1153,Central Connector,0.0022741427435483,0.0588,🟢 Stable
+EMP00745,Hartana Wahyudin,Data & Analytics,2,Senior Staff,2023-09-16,1.29,21291650,L,46,S1,EMP00728,2.5,False,0.1059,Central Connector,0.0100105628476863,0.058,🟢 Stable
+EMP00834,"Pia Halimah, M.Pd",Customer Success,3,Specialist,2022-10-25,2.18,17087053,L,31,S1,EMP00846,2.2,False,0.0431,Information Broker,0.0722812326616096,0.0577,🟢 Stable
+EMP00758,Restu Samosir,Legal,1,Staff,2021-11-20,3.11,19602636,P,24,S2,EMP00770,3.8,False,0.1052,Central Connector,0.0094710635920382,0.0573,🟢 Stable
+EMP00944,"Sidiq Yulianti, S.Gz",Research,3,Specialist,2018-11-17,6.12,25680661,P,29,S1,EMP00942,4.7,False,0.1087,Central Connector,0.0059027186250032,0.0573,🟢 Stable
+EMP00708,Rudi Dabukke,Data & Analytics,1,Staff,2021-04-12,3.72,14542056,L,32,S1,EMP00728,3.1,False,0.1137,Central Connector,0.0005702178468088,0.0571,🟢 Stable
+EMP00536,Titi Yuliarti,Finance,1,Staff,2019-07-23,5.44,10661151,L,44,S1,EMP00523,4.2,False,0.1001,Central Connector,0.0140685962735087,0.0571,🟢 Stable
+EMP00214,Umi Wibisono,Product,3,Specialist,2020-02-13,4.88,31315708,L,33,S1,EMP00254,3.3,False,0.1136,Central Connector,0.0003023569137503,0.057,🟢 Stable
+EMP00813,"Drs. Nadia Saputra, S.Kom",Customer Success,1,Staff,2020-09-19,4.28,10442780,P,48,S1,EMP00846,3.1,False,0.1103,Central Connector,0.0035201344776323,0.0569,🟢 Stable
+EMP00259,Wirda Rajata,Product,1,Staff,2020-01-11,4.97,18577883,L,49,S1,EMP00254,2.5,False,0.1048,Central Connector,0.0084117622879653,0.0566,🟢 Stable
+EMP00260,Indah Riyanti,Product,1,Staff,2020-04-24,4.69,19956121,L,36,S1,EMP00254,4.2,False,0.1058,Central Connector,0.0072509251498551,0.0565,🟢 Stable
+EMP00082,Nadia Habibi,Engineering,2,Senior Staff,2022-02-18,2.87,25443358,P,36,S2,EMP00155,3.4,False,0.1109,Central Connector,0.0016563121677689,0.0563,🟢 Stable
+EMP00288,Belinda Permata,Marketing,3,Specialist,2021-06-25,3.52,16927747,L,29,S1,EMP00318,3.1,False,0.1075,Central Connector,0.0042816920022819,0.0559,🟢 Stable
+EMP00513,Damu Sihombing,Finance,3,Specialist,2022-01-07,2.98,15959533,L,26,S2,EMP00523,4.2,False,0.1096,Central Connector,0.0020096486884105,0.0558,🟢 Stable
+EMP00736,Dt. Slamet Kurniawan,Data & Analytics,1,Staff,2019-11-26,5.1,20413732,P,40,S1,EMP00728,3.0,False,0.1067,Central Connector,0.0049377980397908,0.0558,🟢 Stable
+EMP00509,Edi Wastuti,Finance,2,Senior Staff,2023-04-22,1.69,17378784,P,36,D3,EMP00523,3.9,False,0.1092,Central Connector,0.0018683275641149,0.0555,🟢 Stable
+EMP00541,Malika Pratiwi,Finance,3,Specialist,2022-09-22,2.28,20342812,P,23,S2,EMP00523,3.7,False,0.1,Central Connector,0.0087324839399509,0.0544,🟢 Stable
+EMP00687,dr. Nadia Puspasari,Operations,2,Senior Staff,2023-11-20,1.11,10712107,L,31,S1,EMP00601,3.4,False,0.1018,Central Connector,0.0061568287316041,0.054,🟢 Stable
+EMP00791,Balangga Susanti,Customer Success,1,Staff,2020-09-13,4.3,9949091,L,42,S1,EMP00846,4.3,False,0.1041,Central Connector,0.0038924888292837,0.054,🟢 Stable
+EMP00496,Caket Usada,Finance,2,Senior Staff,2022-09-03,2.33,16533069,L,43,D3,EMP00523,4.2,False,0.0533,Central Connector,0.0547229904347779,0.054,🟢 Stable
+EMP00842,"Drs. Maimunah Latupono, S.Kom",Customer Success,2,Senior Staff,2023-10-23,1.19,11649081,P,29,S1,EMP00846,2.5,False,0.0392,Information Broker,0.0684493193483078,0.0538,🟢 Stable
+EMP00953,Mahdi Setiawan,Research,2,Senior Staff,2022-07-27,2.43,15404879,P,30,S2,EMP00942,3.8,False,0.0992,Central Connector,0.0079547279739931,0.0536,🟢 Stable
+EMP00555,"Drs. Martana Nainggolan, S.Psi",HR,2,Senior Staff,2022-05-23,2.61,11898003,P,33,S1,EMP00575,3.3,False,0.0985,Central Connector,0.0086989790772959,0.0536,🟢 Stable
+EMP00883,R. Sari Wastuti,IT Infrastructure,1,Staff,2018-09-22,6.28,11067350,P,46,S2,EMP00925,2.2,False,0.1059,Central Connector,0.0004977329778468,0.0532,🟢 Stable
+EMP00588,Tgk. Umi Hassanah,HR,2,Senior Staff,2021-08-15,3.38,11524654,L,29,S1,EMP00575,3.9,False,0.1056,Central Connector,0.0008953233777178,0.0532,🟢 Stable
+EMP00544,"Hj. Iriana Maryadi, M.M.",Finance,1,Staff,2022-05-19,2.62,15797495,L,30,S1,EMP00523,3.3,False,0.1049,Central Connector,0.0008623154727641,0.0529,🟢 Stable
+EMP00294,Prayoga Nurdiyanti,Marketing,2,Senior Staff,2018-08-06,6.4,13606790,L,51,S2,EMP00318,2.2,False,0.0991,Central Connector,0.0060713698826057,0.0526,🟢 Stable
+EMP00506,Lidya Saputra,Finance,3,Specialist,2019-09-07,5.32,21766035,L,47,S1,EMP00523,3.5,False,0.0993,Central Connector,0.0057351850504578,0.0525,🟢 Stable
+EMP00590,Yessi Halimah,HR,2,Senior Staff,2022-09-04,2.32,13303412,P,28,S1,EMP00575,2.9,False,0.0957,Central Connector,0.0086584686735225,0.0522,🟢 Stable
+EMP00984,Ir. Violet Simbolon,Research,2,Senior Staff,2018-09-26,6.26,16786407,P,33,S1,EMP00942,3.9,False,0.0987,Central Connector,0.0054607313856863,0.0521,🟢 Stable
+EMP00970,"Lanang Wijayanti, S.Sos",Research,2,Senior Staff,2020-09-03,4.33,21713744,L,28,S1,EMP00942,4.6,False,0.0999,Central Connector,0.0028064716540484,0.0514,🟢 Stable
+EMP00494,Agnes Najmudin,Finance,3,Specialist,2022-05-23,2.61,15534458,P,35,S1,EMP00523,2.6,False,0.0994,Central Connector,0.0027167336825388,0.0511,🟢 Stable
+EMP00637,"R.M. Atma Haryanti, S.Gz",Operations,1,Staff,2019-03-30,5.76,11436142,L,47,S1,EMP00601,3.4,False,0.0866,Central Connector,0.015240856314216,0.0509,🟢 Stable
+EMP00912,R.A. Ulya Maulana,IT Infrastructure,2,Senior Staff,2020-06-12,4.55,18167494,L,33,S2,EMP00925,4.5,False,0.0976,Central Connector,0.0032221352594093,0.0504,🟢 Stable
+EMP00926,Saiful Usamah,IT Infrastructure,2,Senior Staff,2018-10-26,6.18,14716824,P,39,S1,EMP00925,3.3,False,0.0987,Central Connector,0.0008420733089046,0.0498,🟢 Stable
+EMP00045,Dt. Maman Latupono,Engineering,2,Senior Staff,2021-07-31,3.42,24295624,L,36,S1,EMP00155,2.4,False,0.0092,Information Broker,0.0897785879415034,0.0495,🟢 Stable
+EMP00994,Hafshah Prayoga,Research,2,Senior Staff,2019-06-26,5.52,19040549,P,51,S2,EMP00942,3.7,False,0.0741,Central Connector,0.0225684587799891,0.0483,🟢 Stable
+EMP00995,"Sari Lailasari, M.Ak",Research,3,Specialist,2019-07-26,5.43,31853745,P,32,D3,EMP00942,3.2,False,0.0944,Central Connector,0.0022732753322612,0.0483,🟢 Stable
+EMP00032,Vino Purnawati,Engineering,1,Staff,2020-11-10,4.14,14280560,P,49,S1,EMP00155,4.1,False,0.0797,Central Connector,0.0168830186372398,0.0483,🟢 Stable
+EMP00692,"Ir. Belinda Mahendra, S.Psi",Data & Analytics,4,Lead,2020-09-10,4.31,35647538,P,26,S1,,3.6,False,0.0738,Central Connector,0.0223489396154553,0.0481,🟢 Stable
+EMP00820,"Bakiono Nashiruddin, S.E.I",Customer Success,1,Staff,2022-12-06,2.07,8808260,P,35,S2,EMP00846,2.4,False,0.0431,Information Broker,0.0529741363368288,0.048,🟢 Stable
+EMP00364,"Dr. Cinthia Novitasari, M.M.",Sales,3,Specialist,2019-03-19,5.79,20661773,P,22,S1,EMP00474,4.3,False,0.0731,Central Connector,0.021355735389287,0.0472,🟢 Stable
+EMP00823,Ivan Santoso,Customer Success,2,Senior Staff,2019-12-14,5.05,11344293,L,38,S2,EMP00846,3.7,False,0.0679,Information Broker,0.026000968501391,0.047,🟢 Stable
+EMP00685,Paiman Lailasari,Operations,1,Staff,2023-05-21,1.62,11503925,L,30,D3,EMP00601,4.1,False,0.0854,Central Connector,0.0086154459060583,0.047,🟢 Stable
+EMP00826,"Gatra Prakasa, S.Gz",Customer Success,3,Specialist,2021-06-22,3.53,13113429,P,32,S1,EMP00846,4.7,False,0.089,Central Connector,0.0044667723511527,0.0467,🟢 Stable
+EMP00493,"Vanesa Saragih, S.Psi",Finance,1,Staff,2021-05-24,3.61,12502330,P,34,S1,EMP00523,2.1,False,0.0918,Central Connector,0.0016725482477441,0.0467,🟢 Stable
+EMP00285,Maida Siregar,Marketing,2,Senior Staff,2019-08-08,5.4,12592873,L,50,S1,EMP00318,3.4,False,0.0914,Central Connector,0.0014572048958401,0.0464,🟢 Stable
+EMP00809,Emin Purnawati,Customer Success,2,Senior Staff,2018-09-29,6.26,14230896,L,44,S1,EMP00846,2.9,False,0.089,Central Connector,0.003219699306454,0.0461,🟢 Stable
+EMP00939,T. Rahman Thamrin,Research,2,Senior Staff,2021-11-22,3.11,22400997,P,42,S1,EMP00942,3.5,False,0.0535,Central Connector,0.0384073841014615,0.046,🟢 Stable
+EMP00569,Hj. Dinda Tampubolon,HR,2,Senior Staff,2018-07-20,6.45,11921099,L,27,S1,EMP00575,2.4,False,0.0891,Central Connector,0.0022010732522378,0.0457,🟢 Stable
+EMP00210,Rafi Andriani,Product,2,Senior Staff,2021-01-20,3.95,21062983,L,37,S1,EMP00254,1.3,False,0.0795,Central Connector,0.0114702331064271,0.0455,🟢 Stable
+EMP00699,"Genta Situmorang, M.TI.",Data & Analytics,2,Senior Staff,2021-01-24,3.93,20052510,L,44,S1,EMP00728,3.4,False,0.0894,Central Connector,0.0013413594803019,0.0454,🟢 Stable
+EMP00729,"R.M. Jamil Mulyani, M.M.",Data & Analytics,1,Staff,2023-09-18,1.29,20030248,P,38,S1,EMP00728,3.2,False,0.085,Central Connector,0.0050906810864374,0.045,🟢 Stable
+EMP00784,"Kenari Wibowo, S.Sos",Customer Success,3,Specialist,2023-03-18,1.79,11514272,L,50,S2,EMP00846,4.3,False,0.07,Information Broker,0.0197326885559951,0.0449,🟢 Stable
+EMP00701,Faizah Usada,Data & Analytics,3,Specialist,2018-11-19,6.12,23129650,P,37,S1,EMP00728,2.9,False,0.077,Central Connector,0.0126022688577302,0.0448,🟢 Stable
+EMP00533,Kajen Usada,Finance,3,Specialist,2022-05-25,2.6,21231587,L,30,S1,EMP00523,2.1,False,0.0811,Central Connector,0.0078508371064968,0.0445,🟢 Stable
+EMP00366,Safina Mangunsong,Sales,3,Specialist,2021-05-10,3.64,13924512,L,46,S2,EMP00474,3.3,False,0.0864,Central Connector,0.0025307883545199,0.0445,🟢 Stable
+EMP00532,Ganda Narpati,Finance,2,Senior Staff,2019-04-17,5.71,12817353,L,24,S1,EMP00523,3.2,False,0.0746,Central Connector,0.0140275541531867,0.0443,🟢 Stable
+EMP00967,Mahesa Saputra,Research,2,Senior Staff,2021-12-01,3.08,23487703,L,38,S1,EMP00942,2.2,False,0.0837,Information Broker,0.0043552150364713,0.044,🟢 Stable
+EMP00847,Kurnia Hariyah,Customer Success,2,Senior Staff,2021-10-28,3.18,9289909,P,23,S1,EMP00846,4.1,False,0.0392,Information Broker,0.0469489339546256,0.0431,🟢 Stable
+EMP00943,"Genta Salahudin, S.Pt",Research,3,Specialist,2019-09-08,5.31,22535372,L,50,S2,EMP00942,2.5,False,0.0392,Information Broker,0.0467805867656999,0.043,🟢 Stable
+EMP00249,"Dr. Cici Astuti, S.I.Kom",Product,1,Staff,2023-05-14,1.63,18715329,P,36,S1,EMP00254,4.2,False,0.0516,Central Connector,0.0344147480396581,0.043,🟢 Stable
+EMP00503,Mursita Hutapea,Finance,3,Specialist,2020-05-25,4.6,26575736,P,36,S1,EMP00523,4.3,False,0.0724,Central Connector,0.0134153770642982,0.0429,🟢 Stable
+EMP00763,Karna Usamah,Legal,1,Staff,2022-10-31,2.17,17212966,P,28,D3,EMP00770,2.6,False,0.0853,Central Connector,0.0004290920249522,0.0429,🟢 Stable
+EMP00206,Talia Mangunsong,Product,3,Specialist,2021-12-15,3.04,26964404,P,49,S2,EMP00254,3.9,False,0.0771,Central Connector,0.0086344104269443,0.0429,🟢 Stable
+EMP00413,"Sutan Satya Wastuti, S.Sos",Sales,3,Specialist,2022-04-22,2.69,20088424,L,51,S1,EMP00474,3.0,False,0.0464,Information Broker,0.0385475783199577,0.0425,🟢 Stable
+EMP00308,"Rangga Napitupulu, S.Farm",Marketing,2,Senior Staff,2022-12-03,2.08,15439355,L,30,S1,EMP00318,3.9,False,0.0823,Central Connector,0.0012050947363319,0.0418,🟢 Stable
+EMP00537,"R. Gilda Jailani, S.E.I",Finance,1,Staff,2020-03-17,4.79,12901947,L,49,S1,EMP00523,2.7,False,0.0794,Central Connector,0.0035105744471585,0.0415,🟢 Stable
+EMP00426,Nilam Latupono,Sales,3,Specialist,2019-11-10,5.14,16072164,L,24,S2,EMP00474,1.4,False,0.0431,Information Broker,0.0399493068535203,0.0415,🟢 Stable
+EMP00212,"Ayu Permata, S.Sos",Product,1,Staff,2021-04-03,3.75,17142144,P,48,S1,EMP00254,3.8,False,0.0735,Information Broker,0.0093435478523153,0.0414,🟢 Stable
+EMP00137,"Eka Palastri, S.Gz",Engineering,2,Senior Staff,2019-06-20,5.53,18766929,P,35,S1,EMP00155,3.6,False,0.077,Central Connector,0.005592304982479,0.0413,🟢 Stable
+EMP00739,Himawan Habibi,Data & Analytics,4,Lead,2019-03-26,5.77,31141133,L,29,D3,,3.6,False,0.0379,Information Broker,0.044092677044391,0.041,🟢 Stable
+EMP00822,Elon Winarno,Customer Success,2,Senior Staff,2020-05-10,4.64,12966445,P,37,S2,EMP00846,3.2,False,0.0749,Central Connector,0.0063799716185825,0.0406,🟢 Stable
+EMP00499,Jasmin Manullang,Finance,1,Staff,2019-05-05,5.66,13196805,L,27,S1,EMP00523,3.0,False,0.0661,Information Broker,0.0146667826673908,0.0404,🟢 Stable
+EMP00683,"Tgk. Kacung Prasetyo, S.IP",Operations,3,Specialist,2020-01-11,4.97,12543616,P,37,S1,EMP00601,2.0,False,0.0731,Central Connector,0.007420179927445,0.0403,🟢 Stable
+EMP00678,"Puti Mila Natsir, M.M.",Operations,4,Lead,2018-12-10,6.06,17745408,P,49,S1,,4.5,False,0.0732,Central Connector,0.0066870692116312,0.0399,🟢 Stable
+EMP00624,"Bakiadi Novitasari, S.I.Kom",Operations,1,Staff,2019-05-07,5.65,11575143,L,45,S1,EMP00601,3.1,False,0.05,Information Broker,0.0290826344256166,0.0395,🟢 Stable
+EMP00919,"drg. Nyoman Yuniar, M.Kom.",IT Infrastructure,2,Senior Staff,2023-11-05,1.16,23873520,P,41,S1,EMP00925,3.4,False,0.0768,Information Broker,0.0019690351458317,0.0394,🟢 Stable
+EMP00568,R. Juli Hutapea,HR,1,Staff,2022-04-18,2.7,7149527,P,38,S1,EMP00575,3.3,False,0.0731,Central Connector,0.0050646962294812,0.0391,🟢 Stable
+EMP00231,Martaka Hidayat,Product,3,Specialist,2019-01-29,5.92,24297573,L,37,S1,EMP00254,3.1,False,0.0772,Central Connector,0.0008964058063769,0.039,🟢 Stable
+EMP00359,Galiono Kusmawati,Sales,1,Staff,2022-05-07,2.65,12604685,P,49,S1,EMP00474,3.9,False,0.0431,Information Broker,0.0349124761941454,0.039,🟢 Stable
+EMP00795,Baktianto Zulkarnain,Customer Success,2,Senior Staff,2021-08-08,3.4,10660547,L,38,S1,EMP00846,2.8,False,0.0384,Information Broker,0.0393605999702293,0.0389,🟢 Stable
+EMP00110,Sakura Padmasari,Engineering,1,Staff,2023-06-10,1.56,11348378,P,39,S1,EMP00155,3.6,False,0.0718,Central Connector,0.0055813502439192,0.0387,🟢 Stable
+EMP00540,Cecep Utami,Finance,2,Senior Staff,2021-06-23,3.52,18039335,L,41,S1,EMP00523,4.1,False,0.0465,Information Broker,0.0306671349689447,0.0386,🟢 Stable
+EMP00696,"R.M. Ian Mardhiyah, S.Gz",Data & Analytics,1,Staff,2021-06-18,3.54,18975930,L,28,S2,EMP00728,3.4,False,0.0714,Central Connector,0.0056146803663279,0.0385,🟢 Stable
+EMP00928,Darimin Mayasari,IT Infrastructure,1,Staff,2021-12-31,3.0,11994385,P,29,S1,EMP00925,3.8,False,0.0759,Information Broker,0.0011400140352623,0.0385,🟢 Stable
+EMP00497,Bakijan Nuraini,Finance,3,Specialist,2020-08-16,4.38,16838170,P,41,S1,EMP00523,5.0,False,0.075,Central Connector,0.0017205019768877,0.0384,🟢 Stable
+EMP00566,Ir. Harsana Suryono,HR,2,Senior Staff,2019-03-02,5.83,13764271,L,51,D3,EMP00575,3.7,False,0.0626,Central Connector,0.0141735377605118,0.0384,🟢 Stable
+EMP00244,Mursinin Sihombing,Product,2,Senior Staff,2020-08-18,4.37,24071255,P,51,S1,EMP00254,3.2,False,0.0628,Information Broker,0.0140061443835144,0.0384,🟢 Stable
+EMP00812,drg. Tirtayasa Mansur,Customer Success,2,Senior Staff,2018-07-17,6.46,12823500,L,46,S1,EMP00846,3.8,False,0.0725,Central Connector,0.0039705717115882,0.0382,🟢 Stable
+EMP00441,"Manah Riyanti, S.Ked",Sales,2,Senior Staff,2020-10-17,4.21,17668576,L,31,S1,EMP00474,3.7,False,0.0731,Central Connector,0.0030692470804813,0.0381,🟢 Stable
+EMP00584,Carub Najmudin,HR,1,Staff,2022-01-04,2.99,8652725,P,47,S1,EMP00575,3.0,False,0.0753,Central Connector,0.0001927446908262,0.0377,🟢 Stable
+EMP00831,R.A. Gawati Mansur,Customer Success,6,Senior Manager,2018-11-15,6.13,23016638,P,29,S1,,3.3,False,0.0731,Central Connector,0.0023598691096738,0.0377,🟢 Stable
+EMP00954,Drs. Maryadi Firmansyah,Research,1,Staff,2021-06-05,3.57,15133044,L,24,S1,EMP00942,2.6,False,0.0743,Information Broker,0.0010579730556311,0.0377,🟢 Stable
+EMP00330,"Drs. Ani Hasanah, S.Pt",Marketing,3,Specialist,2018-10-12,6.22,18908647,L,24,S1,EMP00318,3.3,False,0.0731,Central Connector,0.0017144368889084,0.0374,🟢 Stable
+EMP00844,drg. Rusman Hakim,Customer Success,3,Specialist,2019-01-08,5.98,16839134,P,32,S1,EMP00846,2.9,False,0.0696,Central Connector,0.0048634800843051,0.0372,🟢 Stable
+EMP00085,"R. Drajat Nababan, S.Kom",Engineering,1,Staff,2021-09-05,3.32,15433287,L,30,S2,EMP00155,2.4,False,0.0431,Information Broker,0.0297125321097621,0.0364,🟢 Stable
+EMP00790,Putri Saputra,Customer Success,3,Specialist,2023-08-02,1.42,14987028,L,26,S3,EMP00846,2.6,False,0.0491,Central Connector,0.0237943031233159,0.0364,🟢 Stable
+EMP00422,Marsudi Haryanto,Sales,2,Senior Staff,2022-11-04,2.16,17804274,P,41,S1,EMP00474,3.5,False,0.0431,Information Broker,0.0294710635430093,0.0363,🟢 Stable
+EMP00977,Adhiarja Samosir,Research,3,Specialist,2023-05-15,1.63,23243271,L,25,S1,EMP00942,4.8,False,0.0693,Central Connector,0.0028056493417164,0.0361,🟢 Stable
+EMP00196,Usyi Handayani,Engineering,3,Specialist,2022-08-07,2.4,33788724,L,24,D3,EMP00155,3.4,False,0.0431,Information Broker,0.0283139060374382,0.0357,🟢 Stable
+EMP00133,"Tgk. Aurora Adriansyah, S.Psi",Engineering,2,Senior Staff,2019-06-01,5.59,18339870,L,34,S2,EMP00155,4.4,False,0.0431,Information Broker,0.0278190780269082,0.0355,🟢 Stable
+EMP00634,Tgk. Rahmat Yuniar,Operations,2,Senior Staff,2023-06-01,1.59,11020796,P,49,S1,EMP00601,4.0,False,0.0492,Information Broker,0.0213574310422293,0.0353,🟢 Stable
+EMP00580,Bahuwarna Sihombing,HR,3,Specialist,2020-04-18,4.7,14457193,L,27,S1,EMP00575,2.9,False,0.0686,Central Connector,0.0015826992100754,0.0351,🟢 Stable
+EMP00999,Wani Sitompul,Research,1,Staff,2021-01-17,3.95,16002513,L,33,S1,EMP00942,3.5,False,0.0692,Central Connector,0.0007623330532626,0.035,🟢 Stable
+EMP00952,Humaira Gunawan,Research,2,Senior Staff,2019-05-22,5.61,18121142,L,33,D3,EMP00942,3.3,False,0.0695,Central Connector,0.0005700431719087,0.035,🟢 Stable
+EMP00554,"H. Umar Gunarto, M.M.",HR,2,Senior Staff,2023-05-26,1.6,12848537,L,46,S2,EMP00575,4.6,False,0.0575,Information Broker,0.0121545174302378,0.0348,🟢 Stable
+EMP00516,Jamal Astuti,Finance,2,Senior Staff,2022-07-02,2.5,15742450,L,46,D3,EMP00523,3.8,False,0.0671,Central Connector,0.0021663033742944,0.0346,🟢 Stable
+EMP00243,"Yance Utami, S.H.",Product,1,Staff,2023-07-16,1.46,18614984,P,51,S1,EMP00254,3.5,False,0.0581,Information Broker,0.0111866215037745,0.0346,🟢 Stable
+EMP00250,"Tri Haryanti, S.E.I",Product,2,Senior Staff,2018-09-06,6.32,19329119,L,39,S1,EMP00254,3.3,False,0.0665,Central Connector,0.0024767789843601,0.0345,🟢 Stable
+EMP00778,Puti Salahudin,Legal,1,Staff,2019-09-29,5.26,16333731,P,48,S1,EMP00770,4.6,False,0.0669,Central Connector,0.0019603738330522,0.0344,🟢 Stable
+EMP00744,"Lurhur Lazuardi, S.E.I",Data & Analytics,1,Staff,2023-09-07,1.32,21231240,L,37,S1,EMP00728,3.8,False,0.0517,Central Connector,0.0165927285720447,0.0341,🟢 Stable
+EMP00927,Bagas Maryadi,IT Infrastructure,2,Senior Staff,2020-04-26,4.68,14209060,L,29,S2,EMP00925,3.8,False,0.0617,Information Broker,0.0061277987659704,0.0339,🟢 Stable
+EMP00704,Jefri Yuniar,Data & Analytics,3,Specialist,2022-01-26,2.93,29196054,P,22,D3,EMP00728,3.9,False,0.0431,Central Connector,0.0237613184651866,0.0334,🟢 Stable
+EMP00323,Indah Najmudin,Marketing,1,Staff,2021-07-06,3.49,9327308,L,44,S2,EMP00318,3.6,False,0.0582,Information Broker,0.0077610779022171,0.033,🟢 Stable
+EMP00615,Gada Maheswara,Operations,2,Senior Staff,2020-04-04,4.74,11638101,L,24,S1,EMP00601,3.3,False,0.0615,Information Broker,0.0038187426589439,0.0327,🟢 Stable
+EMP00526,Ella Safitri,Finance,1,Staff,2019-07-10,5.48,15222286,P,35,S2,EMP00523,3.2,False,0.0646,Central Connector,0.0006465309924458,0.0326,🟢 Stable
+EMP00797,Maman Mandala,Customer Success,1,Staff,2018-08-20,6.37,8973418,L,24,S1,EMP00846,3.0,False,0.0648,Information Broker,0.0004016441580357,0.0326,🟢 Stable
+EMP00601,Warsita Prasetya,Operations,6,Senior Manager,2021-04-18,3.7,21134850,L,33,S1,,3.2,False,0.0392,Information Broker,0.0244137318255552,0.0318,🟢 Stable
+EMP00792,"Rini Permadi, S.H.",Customer Success,1,Staff,2019-12-08,5.07,8969015,P,43,S1,EMP00846,3.7,False,0.0497,Central Connector,0.0137761655895155,0.0317,🟢 Stable
+EMP00734,Nilam Riyanti,Data & Analytics,2,Senior Staff,2022-08-03,2.41,21193183,L,27,D3,EMP00728,3.3,False,0.0566,Central Connector,0.006090454899465,0.0313,🟢 Stable
+EMP00875,Sutan Perkasa Hakim,IT Infrastructure,1,Staff,2020-11-20,4.11,14778158,L,33,S1,EMP00925,1.8,False,0.0421,Central Connector,0.0201768224762057,0.0311,🟢 Stable
+EMP00265,Widya Budiyanto,Marketing,3,Specialist,2023-11-15,1.13,15866914,L,51,S1,EMP00318,2.0,False,0.0392,Information Broker,0.0222869378631622,0.0307,🟢 Stable
+EMP00067,Maida Maryati,Engineering,2,Senior Staff,2021-01-08,3.98,22162077,L,42,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0517795259030071,0.0305,🟢 Stable
+EMP00287,"Dr. Calista Haryanto, S.Sos",Marketing,2,Senior Staff,2022-06-21,2.53,17734764,L,30,D3,EMP00318,2.6,False,0.0471,Central Connector,0.0137358655125679,0.0304,🟢 Stable
+EMP00657,"Kamila Susanti, S.Farm",Operations,2,Senior Staff,2021-01-15,3.96,10122332,L,30,S1,EMP00601,4.4,False,0.0431,Information Broker,0.0177551767855255,0.0304,🟢 Stable
+EMP00724,Mila Prayoga,Data & Analytics,3,Specialist,2022-09-28,2.26,27036084,L,35,S1,EMP00728,3.7,False,0.0507,Central Connector,0.0084281038204587,0.0296,🟢 Stable
+EMP00846,Mutia Pratiwi,Customer Success,5,Manager,2018-09-10,6.31,18860176,P,42,S1,,2.8,False,0.0092,Central Connector,0.0497049829287353,0.0295,🟢 Stable
+EMP00951,Umay Purnawati,Research,2,Senior Staff,2023-06-29,1.51,25762799,P,40,S1,EMP00942,1.5,False,0.0464,Information Broker,0.0126015722374657,0.0295,🟢 Stable
+EMP00160,drg. Jelita Sihotang,Engineering,3,Specialist,2020-02-01,4.91,21585251,P,46,S1,EMP00155,2.9,False,0.0092,Information Broker,0.0494074819107897,0.0293,🟢 Stable
+EMP00507,Perkasa Mulyani,Finance,2,Senior Staff,2019-02-15,5.88,16849327,P,35,D3,EMP00523,4.2,False,0.0425,Information Broker,0.0160391599558586,0.0293,🟢 Stable
+EMP00339,Tami Laksita,Marketing,2,Senior Staff,2023-04-23,1.69,20825000,L,23,S1,EMP00318,4.1,False,0.0466,Information Broker,0.0120609413130979,0.0293,🟢 Stable
+EMP00156,Shania Nasyiah,Engineering,2,Senior Staff,2021-06-06,3.57,23319764,L,39,D3,EMP00155,3.1,False,0.0431,Information Broker,0.0148343692018716,0.029,🟢 Stable
+EMP00322,Padma Yulianti,Marketing,2,Senior Staff,2023-10-04,1.24,13549203,P,25,S1,EMP00318,3.0,False,0.0558,Central Connector,0.0022778229000811,0.029,🟢 Stable
+EMP00223,Margana Aryani,Product,3,Specialist,2021-12-26,3.01,26318670,L,35,S1,EMP00254,2.0,False,0.0462,Information Broker,0.0118229052876388,0.029,🟢 Stable
+EMP00669,R. Paris Utama,Operations,3,Specialist,2022-01-20,2.95,13267782,L,26,S1,EMP00601,3.6,False,0.0518,Central Connector,0.0060928273834398,0.0289,🟢 Stable
+EMP00959,R.A. Qori Wibisono,Research,3,Specialist,2022-06-23,2.52,24816002,L,33,S1,EMP00942,4.0,False,0.0464,Information Broker,0.0113363528233995,0.0289,🟢 Stable
+EMP00132,"Cut Cornelia Usada, S.Farm",Engineering,2,Senior Staff,2023-06-24,1.52,21946215,L,29,S1,EMP00155,3.0,False,0.0431,Information Broker,0.0145233361382971,0.0288,🟢 Stable
+EMP00307,"Daruna Saptono, M.Farm",Marketing,3,Specialist,2018-08-22,6.36,18916718,L,34,S2,EMP00318,3.3,False,0.0571,Information Broker,0.0004920937801776,0.0288,🟢 Stable
+EMP00312,"T. Legawa Purnawati, S.Pd",Marketing,1,Staff,2022-07-08,2.48,12659155,L,23,S1,EMP00318,3.2,False,0.0401,Information Broker,0.0172527640178224,0.0287,🟢 Stable
+EMP00665,"Ir. Ghani Tarihoran, S.Sos",Operations,1,Staff,2019-12-26,5.02,10088199,L,29,S1,EMP00601,3.1,False,0.0554,Information Broker,0.0020864782954176,0.0287,🟢 Stable
+EMP00327,"Bala Marpaung, S.Psi",Marketing,2,Senior Staff,2018-08-04,6.41,15215437,L,50,S1,EMP00318,1.5,False,0.0431,Information Broker,0.0142661074849319,0.0287,🟢 Stable
+EMP00628,Makara Wibisono,Operations,1,Staff,2023-02-25,1.85,10527430,L,29,S1,EMP00601,3.8,False,0.0431,Information Broker,0.0140484183578534,0.0286,🟢 Stable
+EMP00178,Maimunah Wulandari,Engineering,1,Staff,2023-09-30,1.25,12198936,L,49,S2,EMP00155,2.2,False,0.0379,Information Broker,0.0188779137488915,0.0284,🟢 Stable
+EMP00384,Jamal Padmasari,Sales,2,Senior Staff,2020-04-15,4.71,12970018,P,37,S1,EMP00474,2.7,False,0.0431,Information Broker,0.0135969664252312,0.0283,🟢 Stable
+EMP00442,Panji Sitorus,Sales,4,Lead,2020-09-16,4.29,20628387,L,41,S1,,2.7,False,0.0518,Central Connector,0.0047353906362899,0.0283,🟢 Stable
+EMP00908,Oliva Mandasari,IT Infrastructure,1,Staff,2023-04-27,1.68,17064661,L,28,S2,EMP00925,3.7,False,0.0546,Information Broker,0.0020778442371715,0.0283,🟢 Stable
+EMP00040,drg. Bakijan Hardiansyah,Engineering,2,Senior Staff,2019-08-03,5.41,18900097,L,33,S1,EMP00155,3.3,False,0.0431,Information Broker,0.0133092276618229,0.0282,🟢 Stable
+EMP00271,Kamila Hasanah,Marketing,3,Specialist,2021-02-13,3.88,14022578,P,40,D3,EMP00318,4.4,False,0.0497,Information Broker,0.0067062563364904,0.0282,🟢 Stable
+EMP00850,"Gasti Prastuti, S.Pt",Customer Success,2,Senior Staff,2020-03-27,4.76,14050694,P,50,S2,EMP00846,3.3,False,0.0392,Central Connector,0.0171503430988344,0.0282,🟢 Stable
+EMP00598,"Puti Intan Hutasoit, S.E.",Operations,1,Staff,2023-06-16,1.54,10045457,L,27,D3,EMP00601,2.8,False,0.0497,Information Broker,0.006614387616712,0.0282,🟢 Stable
+EMP00217,Maya Laksita,Product,3,Specialist,2019-12-30,5.0,23912800,L,44,S1,EMP00254,3.9,False,0.0526,Central Connector,0.0035931703160063,0.0281,🟢 Stable
+EMP00645,Lalita Farida,Operations,1,Staff,2022-10-23,2.19,9137808,L,29,S1,EMP00601,2.7,False,0.0551,Information Broker,0.0011310324431478,0.0281,🟢 Stable
+EMP00373,Laswi Suwarno,Sales,3,Specialist,2022-01-10,2.97,15629202,L,28,S1,EMP00474,3.6,False,0.0092,Information Broker,0.0468186384734024,0.028,🟢 Stable
+EMP00101,Asirwanda Padmasari,Engineering,3,Specialist,2020-06-30,4.5,27147204,P,35,S2,EMP00155,3.0,False,0.0092,Information Broker,0.046501385791248,0.0279,🟢 Stable
+EMP00505,Nova Sudiati,Finance,3,Specialist,2021-08-11,3.39,19553877,P,37,S2,EMP00523,3.1,False,0.0466,Information Broker,0.0092562069379342,0.0279,🟢 Stable
+EMP00643,"Cut Zelaya Yolanda, S.Psi",Operations,2,Senior Staff,2019-04-19,5.7,8776364,L,36,S1,EMP00601,3.6,False,0.0392,Information Broker,0.0164477275852754,0.0278,🟢 Stable
+EMP00418,drg. Yuni Uyainah,Sales,1,Staff,2019-06-05,5.57,10593215,L,28,S2,EMP00474,3.5,False,0.0431,Information Broker,0.0124112178562944,0.0278,🟢 Stable
+EMP00973,"Belinda Hutasoit, S.T.",Research,2,Senior Staff,2020-02-29,4.84,23061954,L,23,S1,EMP00942,2.8,False,0.0547,Central Connector,0.0009598236026504,0.0278,🟢 Stable
+EMP00055,KH. Virman Nuraini,Engineering,2,Senior Staff,2018-10-20,6.2,21281784,P,50,S2,EMP00155,3.2,False,0.0431,Information Broker,0.012276596516891,0.0277,🟢 Stable
+EMP00262,Sutan Bakiadi Permadi,Marketing,2,Senior Staff,2022-10-04,2.24,12635598,L,39,S1,EMP00318,3.2,False,0.0497,Information Broker,0.0053416409545025,0.0275,🟢 Stable
+EMP00257,Ana Lailasari,Product,1,Staff,2020-08-03,4.41,15360488,L,42,S1,EMP00254,2.6,False,0.0512,Information Broker,0.0037129032019742,0.0275,🟢 Stable
+EMP00607,"Hj. Juli Maulana, S.E.I",Operations,2,Senior Staff,2020-10-01,4.25,9095836,P,43,S1,EMP00601,5.0,False,0.0092,Information Broker,0.0457285973617898,0.0275,🟢 Stable
+EMP00868,"Vanesa Kusumo, S.Gz",IT Infrastructure,1,Staff,2023-03-17,1.79,11616111,L,42,S1,EMP00925,4.5,False,0.0431,Information Broker,0.0118296380708641,0.0275,🟢 Stable
+EMP00226,Jane Prabowo,Product,1,Staff,2021-08-04,3.41,19551470,L,32,S2,EMP00254,3.7,False,0.0518,Central Connector,0.0031393368000036,0.0275,🟢 Stable
+EMP00229,"Puti Nadine Budiyanto, M.Pd",Product,3,Specialist,2020-11-21,4.11,21280094,P,29,S1,EMP00254,3.4,False,0.0526,Central Connector,0.0020495659948349,0.0273,🟢 Stable
+EMP00798,Yoga Pudjiastuti,Customer Success,2,Senior Staff,2022-01-27,2.93,11422946,L,44,S1,EMP00846,3.9,False,0.0384,Information Broker,0.0161020735434917,0.0273,🟢 Stable
+EMP00501,"Drs. Lembah Hutasoit, S.Gz",Finance,1,Staff,2018-08-22,6.36,14448316,L,22,S1,EMP00523,4.5,False,0.0464,Central Connector,0.0077776754178461,0.0271,🟢 Stable
+EMP00675,"Melinda Prabowo, M.Ak",Operations,1,Staff,2019-04-08,5.73,8920992,P,37,S1,EMP00601,2.7,False,0.0533,Information Broker,0.0007435636635091,0.027,🟢 Stable
+EMP00751,Eka Sudiati,Legal,1,Staff,2018-08-03,6.41,21792232,L,39,S1,EMP00770,3.0,False,0.0535,Central Connector,0.0003480080028716,0.0269,🟢 Stable
+EMP00589,Kasusra Permadi,HR,3,Specialist,2022-02-21,2.86,16384905,L,35,S1,EMP00575,3.4,False,0.0504,Central Connector,0.002778263223972,0.0266,🟢 Stable
+EMP00938,Dadi Safitri,Research,1,Staff,2022-07-30,2.42,16312718,P,22,S1,EMP00942,3.7,False,0.0428,Information Broker,0.0104436232678857,0.0266,🟢 Stable
+EMP00333,"Drs. Yunita Adriansyah, M.Pd",Marketing,1,Staff,2021-02-17,3.87,13100323,P,43,D3,EMP00318,4.1,False,0.0431,Central Connector,0.0098521795282779,0.0265,🟢 Stable
+EMP00900,Jatmiko Pranowo,IT Infrastructure,2,Senior Staff,2020-07-25,4.44,18455342,L,49,S2,EMP00925,3.7,False,0.0431,Information Broker,0.0098595718172032,0.0265,🟢 Stable
+EMP00998,Juli Safitri,Research,2,Senior Staff,2018-08-16,6.38,23796830,P,50,S1,EMP00942,3.0,False,0.0392,Information Broker,0.0137716680294133,0.0265,🟢 Stable
+EMP00880,Dinda Wijayanti,IT Infrastructure,2,Senior Staff,2023-02-18,1.87,17513049,L,47,S1,EMP00925,4.6,False,0.0431,Information Broker,0.0095214562321731,0.0263,🟢 Stable
+EMP00618,Balapati Mandasari,Operations,3,Specialist,2019-04-16,5.71,10402814,L,50,S1,EMP00601,4.0,False,0.0484,Central Connector,0.0042987919579031,0.0263,🟢 Stable
+EMP00182,"Lukman Sitorus, S.Pt",Engineering,4,Lead,2018-08-16,6.38,22589208,L,25,S1,,4.3,False,0.0092,Information Broker,0.0434571852042805,0.0263,🟢 Stable
+EMP00727,Hilda Manullang,Data & Analytics,1,Staff,2020-06-11,4.56,18118182,L,35,S1,EMP00728,2.8,False,0.0511,Information Broker,0.0012777538240711,0.0262,🟢 Stable
+EMP00248,"Ganep Budiman, S.Farm",Product,2,Senior Staff,2019-08-18,5.37,18997784,P,28,S1,EMP00254,2.9,False,0.0381,Information Broker,0.0143895891265484,0.0262,🟢 Stable
+EMP00961,Usyi Mandala,Research,2,Senior Staff,2022-05-04,2.66,19903061,P,23,S2,EMP00942,4.3,False,0.0431,Information Broker,0.0091686350531385,0.0261,🟢 Stable
+EMP00073,Dartono Hidayat,Engineering,3,Specialist,2021-02-12,3.88,26477845,L,47,S1,EMP00155,3.7,False,0.0431,Information Broker,0.0090745362085793,0.0261,🟢 Stable
+EMP00508,Gangsar Astuti,Finance,3,Specialist,2023-09-04,1.33,18800533,P,44,S1,EMP00523,4.4,False,0.0401,Information Broker,0.0117970703308356,0.0259,🟢 Stable
+EMP00916,Ghaliyati Wibowo,IT Infrastructure,1,Staff,2020-02-16,4.87,15082929,L,29,S1,EMP00925,4.8,False,0.0471,Central Connector,0.0046557691747377,0.0259,🟢 Stable
+EMP00088,Taufan Hutagalung,Engineering,1,Staff,2018-09-08,6.31,11708163,L,44,S3,EMP00155,2.3,False,0.0092,Information Broker,0.0426697691887984,0.0259,🟢 Stable
+EMP00114,Mumpuni Yuliarti,Engineering,4,Lead,2019-05-12,5.64,32186563,L,43,S1,,3.4,False,0.0092,Information Broker,0.0424690995897488,0.0258,🟢 Stable
+EMP00975,Okta Wibisono,Research,2,Senior Staff,2019-03-10,5.81,17786159,L,41,S1,EMP00942,2.5,False,0.0392,Information Broker,0.0121256883250071,0.0257,🟢 Stable
+EMP00688,Luwar Irawan,Operations,2,Senior Staff,2023-07-10,1.48,10006118,P,46,D3,EMP00601,4.1,False,0.0431,Information Broker,0.0082751658280227,0.0257,🟢 Stable
+EMP00283,"Taswir Lestari, S.IP",Marketing,2,Senior Staff,2020-06-12,4.55,10491972,L,51,S1,EMP00318,2.8,False,0.0431,Information Broker,0.0083627621987978,0.0257,🟢 Stable
+EMP00329,Salimah Wacana,Marketing,3,Specialist,2019-10-23,5.19,18076778,P,32,D3,EMP00318,3.1,False,0.0435,Information Broker,0.0076430177050489,0.0256,🟢 Stable
+EMP00621,Maria Adriansyah,Operations,3,Specialist,2020-01-03,4.99,13023623,L,48,S2,EMP00601,3.0,False,0.0497,Information Broker,0.0014996235394878,0.0256,🟢 Stable
+EMP00917,R.A. Najwa Pudjiastuti,IT Infrastructure,3,Specialist,2019-10-18,5.2,23421052,L,51,S1,EMP00925,3.3,False,0.0453,Information Broker,0.0056876212148535,0.0255,🟢 Stable
+EMP00642,"Ir. Dadap Suwarno, S.I.Kom",Operations,1,Staff,2023-08-31,1.34,7741855,L,43,S1,EMP00601,4.0,False,0.0431,Information Broker,0.0075540301782922,0.0253,🟢 Stable
+EMP00957,R. Umi Widodo,Research,1,Staff,2019-05-18,5.62,16090791,L,24,S1,EMP00942,3.5,False,0.0464,Information Broker,0.0042261911929375,0.0253,🟢 Stable
+EMP00690,"Tantri Kuswandari, M.TI.",Operations,1,Staff,2020-09-07,4.31,10249041,L,30,S1,EMP00601,3.5,False,0.0464,Information Broker,0.0039510055128584,0.0252,🟢 Stable
+EMP00872,Rahayu Wulandari,IT Infrastructure,1,Staff,2019-10-14,5.22,10503305,L,46,S1,EMP00925,3.1,False,0.048,Information Broker,0.001745930419086,0.0249,🟢 Stable
+EMP00899,"Puti Fitriani Rahmawati, M.Pd",IT Infrastructure,2,Senior Staff,2021-09-12,3.3,18473492,P,30,S2,EMP00925,2.5,False,0.0485,Information Broker,0.0012828728500524,0.0249,🟢 Stable
+EMP00981,Dr. Kambali Wasita,Research,1,Staff,2021-06-02,3.58,17506333,L,37,S2,EMP00942,3.4,False,0.0492,Information Broker,0.0004168034460601,0.0248,🟢 Stable
+EMP00978,Karen Saputra,Research,1,Staff,2020-01-20,4.95,17495626,P,42,S3,EMP00942,3.8,False,0.0408,Information Broker,0.0084485054234933,0.0246,🟢 Stable
+EMP00263,"Laila Lestari, M.Pd",Marketing,2,Senior Staff,2022-04-05,2.74,10307805,P,34,S2,EMP00318,3.8,False,0.0392,Information Broker,0.010009735911735,0.0246,🟢 Stable
+EMP00152,Ajiono Wahyuni,Engineering,1,Staff,2021-02-12,3.88,16132314,P,33,S1,EMP00155,3.0,False,0.0431,Information Broker,0.0059431089646021,0.0245,🟢 Stable
+EMP00870,Danang Hidayat,IT Infrastructure,2,Senior Staff,2022-06-12,2.55,15502503,L,50,D3,EMP00925,2.8,False,0.0431,Information Broker,0.005810069383525,0.0245,🟢 Stable
+EMP00274,Devi Nasyiah,Marketing,4,Lead,2019-12-18,5.04,17975137,P,23,S1,,3.4,False,0.0435,Information Broker,0.0055381830067739,0.0245,🟢 Stable
+EMP00894,Farhunnisa Sitompul,IT Infrastructure,2,Senior Staff,2023-09-24,1.27,13914608,P,43,S1,EMP00925,4.2,False,0.0421,Information Broker,0.0063765884795021,0.0242,🟢 Stable
+EMP00054,Vanesa Marpaung,Engineering,2,Senior Staff,2022-03-26,2.77,21783817,P,26,S1,EMP00155,2.8,False,0.0431,Information Broker,0.0052350930348173,0.0242,🟢 Stable
+EMP00374,Pangeran Iswahyudi,Sales,3,Specialist,2020-04-23,4.69,22452090,L,29,S1,EMP00474,3.5,False,0.0431,Information Broker,0.0051236831301278,0.0241,🟢 Stable
+EMP00080,"dr. Dadap Kuswoyo, S.IP",Engineering,1,Staff,2018-07-20,6.45,13330642,P,39,S1,EMP00155,2.0,False,0.0092,Information Broker,0.0389277827302187,0.0241,🟢 Stable
+EMP00519,Ir. Reksa Thamrin,Finance,1,Staff,2021-01-11,3.97,13679462,L,23,S1,EMP00523,3.5,False,0.0475,Information Broker,0.0004897432021476,0.024,🟢 Stable
+EMP00245,"Hj. Rahayu Lazuardi, M.Farm",Product,2,Senior Staff,2018-11-17,6.12,17964810,L,46,D3,EMP00254,2.5,False,0.0419,Information Broker,0.0060334504955119,0.024,🟢 Stable
+EMP00411,"T. Pangeran Sirait, S.IP",Sales,1,Staff,2020-11-05,4.15,17443999,L,40,S1,EMP00474,2.7,False,0.0092,Information Broker,0.0388924573602596,0.024,🟢 Stable
+EMP00632,"Bala Prastuti, S.Psi",Operations,1,Staff,2020-04-01,4.75,7714795,L,26,S1,EMP00601,2.8,False,0.0425,Information Broker,0.0053654820009564,0.0239,🟢 Stable
+EMP00801,Praba Suwarno,Customer Success,2,Senior Staff,2019-06-23,5.52,11766239,P,24,S1,EMP00846,3.3,False,0.0384,Information Broker,0.0093645243112506,0.0239,🟢 Stable
+EMP00666,Cut Rahmi Mangunsong,Operations,3,Specialist,2022-08-22,2.36,14564287,L,37,S1,EMP00601,4.6,False,0.0427,Information Broker,0.0051122479339391,0.0239,🟢 Stable
+EMP00060,Puti Chelsea Laksita,Engineering,2,Senior Staff,2021-06-23,3.52,21205763,L,26,D3,EMP00155,3.2,False,0.0431,Information Broker,0.0041869719999376,0.0236,🟢 Stable
+EMP00609,"Yance Mandala, M.Kom.",Operations,1,Staff,2019-10-23,5.19,9390678,L,39,S1,EMP00601,2.1,False,0.0431,Information Broker,0.0040804886501221,0.0236,🟢 Stable
+EMP00815,"Edi Nashiruddin, S.Ked",Customer Success,1,Staff,2021-03-09,3.81,9026130,L,24,S1,EMP00846,4.4,False,0.0431,Information Broker,0.0038641148173613,0.0235,🟢 Stable
+EMP00405,"Diah Iswahyudi, S.Pd",Sales,2,Senior Staff,2023-07-07,1.49,14873543,L,45,S2,EMP00474,3.1,False,0.0431,Information Broker,0.0039455004861311,0.0235,🟢 Stable
+EMP00594,Rendy Pangestu,Operations,1,Staff,2018-12-26,6.02,7534404,L,26,S2,EMP00601,3.6,False,0.0431,Central Connector,0.0039936301541091,0.0235,🟢 Stable
+EMP00836,"Perkasa Riyanti, S.Pt",Customer Success,2,Senior Staff,2021-01-24,3.93,7496391,L,22,S2,EMP00846,5.0,False,0.0408,Central Connector,0.006275330856717,0.0235,🟢 Stable
+EMP00974,Harjasa Usada,Research,2,Senior Staff,2023-02-26,1.85,18582176,L,28,D3,EMP00942,3.3,False,0.0463,Central Connector,0.0005102902965115,0.0234,🟢 Stable
+EMP00654,Melinda Suartini,Operations,3,Specialist,2023-02-04,1.91,11605539,L,47,S1,EMP00601,2.9,False,0.0431,Information Broker,0.0036492683928831,0.0234,🟢 Stable
+EMP00177,Hj. Janet Hastuti,Engineering,1,Staff,2022-01-24,2.93,21121577,L,32,S2,EMP00155,3.7,False,0.0092,Information Broker,0.0375611335738569,0.0234,🟢 Stable
+EMP00722,Dr. Balamantri Simanjuntak,Data & Analytics,1,Staff,2023-10-29,1.17,19718810,P,44,S1,EMP00728,1.6,False,0.0092,Information Broker,0.0374288869776811,0.0233,🟢 Stable
+EMP00282,Tami Mahendra,Marketing,1,Staff,2020-05-18,4.62,9937387,L,33,S1,EMP00318,2.8,False,0.0392,Information Broker,0.0074974511452269,0.0233,🟢 Stable
+EMP00865,Yuni Pradana,IT Infrastructure,1,Staff,2019-11-23,5.11,15661335,P,27,S1,EMP00925,3.0,False,0.0421,Information Broker,0.0045579662603325,0.0233,🟢 Stable
+EMP00971,Prasetyo Safitri,Research,2,Senior Staff,2021-05-31,3.59,15447382,L,34,S1,EMP00942,4.0,False,0.0392,Information Broker,0.007315477566944,0.0233,🟢 Stable
+EMP00923,"Yusuf Halim, M.TI.",IT Infrastructure,4,Lead,2023-11-06,1.15,20855592,P,36,S1,,4.6,False,0.0431,Information Broker,0.0035448631765597,0.0233,🟢 Stable
+EMP00273,Banawa Nababan,Marketing,1,Staff,2022-11-10,2.14,8361484,L,39,S1,EMP00318,4.0,False,0.0439,Information Broker,0.0024296831853584,0.0232,🟢 Stable
+EMP00686,Gatra Puspasari,Operations,1,Staff,2019-07-04,5.49,8931618,L,25,S1,EMP00601,3.0,False,0.0431,Information Broker,0.003342563665428,0.0232,🟢 Stable
+EMP00325,Jarwadi Tampubolon,Marketing,2,Senior Staff,2021-04-02,3.75,12009077,P,48,S1,EMP00318,3.2,False,0.0431,Information Broker,0.0030457343485808,0.0231,🟢 Stable
+EMP00482,"dr. Taswir Habibi, S.Pd",Sales,3,Specialist,2019-04-07,5.74,14146018,L,49,S2,EMP00474,3.0,False,0.0092,Information Broker,0.0369492025099635,0.0231,🟢 Stable
+EMP00353,"Jindra Maryadi, M.M.",Sales,3,Specialist,2018-10-28,6.18,15450238,P,25,S1,EMP00474,3.3,False,0.0431,Information Broker,0.0031253760578037,0.0231,🟢 Stable
+EMP00305,Edward Suryono,Marketing,1,Staff,2019-10-19,5.2,8386922,L,31,S1,EMP00318,4.4,False,0.0431,Central Connector,0.00299157388284,0.023,🟢 Stable
+EMP00314,"Ilsa Waskita, S.T.",Marketing,1,Staff,2021-04-09,3.73,9547718,P,35,D3,EMP00318,4.3,False,0.0436,Information Broker,0.0023621911210825,0.023,🟢 Stable
+EMP00298,Cut Rahmi Januar,Marketing,3,Specialist,2021-08-09,3.39,13730980,P,32,S1,EMP00318,4.3,False,0.0431,Information Broker,0.0027819845478424,0.0229,🟢 Stable
+EMP00279,Gada Budiman,Marketing,1,Staff,2018-11-10,6.14,12828862,L,40,S1,EMP00318,3.0,False,0.0392,Information Broker,0.0066370362626431,0.0229,🟢 Stable
+EMP00529,Ibrani Rahmawati,Finance,1,Staff,2023-05-18,1.62,12476546,L,44,S2,EMP00523,2.5,False,0.0446,Central Connector,0.0012379736874536,0.0229,🟢 Stable
+EMP00996,R.A. Michelle Kurniawan,Research,4,Lead,2020-09-02,4.33,39178571,L,28,S1,,3.7,False,0.0417,Information Broker,0.0039181545549034,0.0228,🟢 Stable
+EMP00491,Hj. Yance Santoso,Finance,4,Lead,2023-06-30,1.51,20578127,P,45,S2,,3.4,False,0.0431,Central Connector,0.0023173997912319,0.0227,🟢 Stable
+EMP00342,Puspa Budiman,Sales,2,Senior Staff,2022-10-28,2.18,15746982,P,29,S2,EMP00474,4.3,False,0.0431,Information Broker,0.002244802143151,0.0227,🟢 Stable
+EMP00663,"Purwa Farida, S.Gz",Operations,1,Staff,2020-04-06,4.74,9244773,P,26,D3,EMP00601,3.8,False,0.0431,Information Broker,0.0020779510254072,0.0226,🟢 Stable
+EMP00180,"KH. Oman Narpati, S.Pt",Engineering,3,Specialist,2021-05-24,3.61,24494374,L,50,S1,EMP00155,3.1,False,0.0431,Information Broker,0.002131196795578,0.0226,🟢 Stable
+EMP00222,Ir. Salimah Dongoran,Product,1,Staff,2020-07-12,4.47,14882256,P,41,S2,EMP00254,1.4,False,0.0431,Information Broker,0.0020879715120785,0.0226,🟢 Stable
+EMP00051,Tedi Utami,Engineering,1,Staff,2023-11-17,1.12,15700698,L,39,S1,EMP00155,3.6,False,0.0431,Information Broker,0.0021727498565162,0.0226,🟢 Stable
+EMP00438,Ika Nainggolan,Sales,1,Staff,2021-01-04,3.99,10916358,P,31,S2,EMP00474,4.1,False,0.0431,Information Broker,0.0020111924843546,0.0226,🟢 Stable
+EMP00020,"Betania Gunawan, S.H.",Engineering,3,Specialist,2021-07-05,3.49,21762360,P,32,D3,EMP00155,2.4,False,0.0431,Information Broker,0.00191568353403,0.0225,🟢 Stable
+EMP00309,Kenari Prasetyo,Marketing,2,Senior Staff,2021-11-25,3.1,19144541,P,37,S1,EMP00318,3.1,False,0.0431,Information Broker,0.0018919022698501,0.0225,🟢 Stable
+EMP00937,Karna Maryadi,Research,1,Staff,2020-01-08,4.98,19926783,P,25,S1,EMP00942,3.9,False,0.0392,Central Connector,0.0058661461681152,0.0225,🟢 Stable
+EMP00128,Empluk Suryono,Engineering,1,Staff,2021-05-05,3.66,14111762,L,28,S1,EMP00155,3.0,False,0.0431,Information Broker,0.0019409068501858,0.0225,🟢 Stable
+EMP00436,Mahfud Uwais,Sales,3,Specialist,2021-01-20,3.95,24174319,L,50,S1,EMP00474,2.3,False,0.0392,Information Broker,0.0055456900661099,0.0224,🟢 Stable
+EMP00010,Yessi Ardianto,Engineering,2,Senior Staff,2023-06-29,1.51,20473412,L,44,S1,EMP00155,4.0,False,0.0092,Information Broker,0.0355257134487255,0.0224,🟢 Stable
+EMP00979,Cahyadi Irawan,Research,1,Staff,2020-05-09,4.65,19956848,P,33,S2,EMP00942,2.8,False,0.0408,Information Broker,0.0037028548600532,0.0223,🟢 Stable
+EMP00086,drg. Cahyono Anggraini,Engineering,1,Staff,2020-05-29,4.59,12611360,L,49,S1,EMP00155,3.1,False,0.0379,Information Broker,0.0066717693741587,0.0223,🟢 Stable
+EMP00334,Laras Habibi,Marketing,1,Staff,2022-04-19,2.7,9625272,L,22,S2,EMP00318,1.6,False,0.0431,Information Broker,0.0009506686758569,0.022,🟢 Stable
+EMP00684,Prima Mandala,Operations,2,Senior Staff,2018-08-18,6.37,9967763,P,34,S1,EMP00601,3.5,False,0.0431,Information Broker,0.0008531211219276,0.022,🟢 Stable
+EMP00203,Empluk Sitorus,Product,3,Specialist,2022-11-14,2.13,22939302,P,33,S1,EMP00254,3.7,False,0.0417,Information Broker,0.002312678730487,0.022,🟢 Stable
+EMP00914,Ir. Tantri Agustina,IT Infrastructure,1,Staff,2021-12-15,3.04,11976928,P,44,S1,EMP00925,4.5,False,0.0431,Information Broker,0.0008761831883256,0.022,🟢 Stable
+EMP00891,"drg. Vinsen Hakim, M.Pd",IT Infrastructure,2,Senior Staff,2022-06-21,2.53,20191260,P,32,S1,EMP00925,4.7,False,0.0431,Information Broker,0.0009404903053498,0.022,🟢 Stable
+EMP00679,Rusman Zulaika,Operations,3,Specialist,2023-03-08,1.82,13810335,L,42,S1,EMP00601,3.7,False,0.0431,Information Broker,0.0007841164263952,0.0219,🟢 Stable
+EMP00896,Kawaca Nainggolan,IT Infrastructure,1,Staff,2022-06-03,2.58,12402964,L,25,S1,EMP00925,2.7,False,0.0421,Central Connector,0.0015748010429434,0.0218,🟢 Stable
+EMP00866,Jagaraga Situmorang,IT Infrastructure,3,Specialist,2023-09-08,1.31,17299759,P,33,S1,EMP00925,3.4,False,0.0421,Central Connector,0.0014789383579044,0.0218,🟢 Stable
+EMP00930,Hj. Salwa Susanti,IT Infrastructure,1,Staff,2018-11-24,6.1,13047035,P,42,S1,EMP00925,2.2,False,0.0392,Information Broker,0.0043162821907695,0.0218,🟢 Stable
+EMP00913,Elon Puspasari,IT Infrastructure,3,Specialist,2020-07-15,4.46,16399062,L,47,S1,EMP00925,3.6,False,0.0092,Information Broker,0.0344814483410906,0.0218,🟢 Stable
+EMP00388,"Kenes Manullang, S.Pt",Sales,2,Senior Staff,2021-02-16,3.87,13594817,L,48,S1,EMP00474,3.9,False,0.0092,Information Broker,0.0342337962664169,0.0217,🟢 Stable
+EMP00498,Harimurti Andriani,Finance,3,Specialist,2021-02-13,3.88,15327614,P,50,S1,EMP00523,4.4,False,0.0392,Information Broker,0.0040836396603506,0.0216,🟢 Stable
+EMP00881,Sutan Hendri Salahudin,IT Infrastructure,1,Staff,2021-11-20,3.11,11049276,L,27,S1,EMP00925,2.6,False,0.0405,Information Broker,0.0027895568517075,0.0216,🟢 Stable
+EMP00718,Ganep Sudiati,Data & Analytics,1,Staff,2021-07-31,3.42,16593796,L,26,S1,EMP00728,4.8,False,0.0376,Information Broker,0.0051095823551045,0.0214,🟢 Stable
+EMP00869,"Ir. Hari Susanti, S.Ked",IT Infrastructure,3,Specialist,2023-09-18,1.29,19033708,L,25,S1,EMP00925,3.2,False,0.0379,Information Broker,0.0046726659659787,0.0213,🟢 Stable
+EMP00242,"Faizah Hutagalung, M.Farm",Product,3,Specialist,2021-06-22,3.53,27525975,P,50,S1,EMP00254,5.0,False,0.0392,Central Connector,0.0032977095930519,0.0212,🟢 Stable
+EMP00106,"Setya Prakasa, S.Sos",Engineering,2,Senior Staff,2023-01-16,1.96,15624030,P,22,S2,EMP00155,2.4,False,0.0092,Information Broker,0.033260578348788,0.0212,🟢 Stable
+EMP00851,Indra Situmorang,Customer Success,1,Staff,2021-12-28,3.01,10750802,P,46,S2,EMP00846,3.1,False,0.0396,Central Connector,0.0023753477583488,0.021,🟢 Stable
+EMP00989,Cahyono Santoso,Research,3,Specialist,2020-07-17,4.46,22635580,P,51,S1,EMP00942,3.6,False,0.0379,Information Broker,0.0040416491921083,0.021,🟢 Stable
+EMP00185,Jaswadi Suryatmi,Engineering,2,Senior Staff,2021-03-21,3.78,21127181,L,43,S2,EMP00155,3.1,False,0.0092,Information Broker,0.0328208138085468,0.021,🟢 Stable
+EMP00895,"Bahuwirya Hartati, S.I.Kom",IT Infrastructure,4,Lead,2023-07-26,1.43,24695204,L,37,S2,,4.0,False,0.0092,Information Broker,0.0325068017612048,0.0209,🟢 Stable
+EMP00611,Ajiman Rajasa,Operations,2,Senior Staff,2022-12-14,2.05,11307822,L,32,S2,EMP00601,3.7,False,0.0392,Information Broker,0.002694819728475,0.0209,🟢 Stable
+EMP00962,"H. Nyoman Hutapea, M.TI.",Research,5,Manager,2022-01-13,2.97,33940559,L,33,S2,,3.0,False,0.0392,Information Broker,0.0023229417831085,0.0208,🟢 Stable
+EMP00597,Narji Maryati,Operations,3,Specialist,2021-01-07,3.98,11957935,L,35,S1,EMP00601,3.0,False,0.0392,Information Broker,0.0024022794109762,0.0208,🟢 Stable
+EMP00680,"dr. Salwa Situmorang, S.Pt",Operations,1,Staff,2018-07-13,6.47,11465490,L,27,D3,EMP00601,3.2,False,0.0408,Central Connector,0.000602427826928,0.0207,🟢 Stable
+EMP00890,Zamira Megantara,IT Infrastructure,2,Senior Staff,2020-03-01,4.84,18576132,L,30,S2,EMP00925,2.3,False,0.0092,Information Broker,0.0321671276520906,0.0207,🟢 Stable
+EMP00480,Tgk. Mumpuni Maheswara,Sales,3,Specialist,2023-03-04,1.83,19357274,L,47,S2,EMP00474,4.0,False,0.0092,Information Broker,0.0315147731333691,0.0204,🟢 Stable
+EMP00269,Nabila Puspasari,Marketing,2,Senior Staff,2023-08-14,1.38,11626569,L,28,S1,EMP00318,3.2,False,0.0401,Information Broker,0.0004806431010942,0.0203,🟢 Stable
+EMP00097,"Uchita Puspita, M.Kom.",Engineering,1,Staff,2023-05-14,1.63,16381277,P,32,S1,EMP00155,3.7,False,0.0392,Information Broker,0.0012140372805698,0.0202,🟢 Stable
+EMP00483,Tgk. Kamila Jailani,Sales,3,Specialist,2021-07-18,3.46,18174005,L,37,S1,EMP00474,3.0,False,0.0392,Information Broker,0.0012315249718417,0.0202,🟢 Stable
+EMP00034,Syahrini Haryanti,Engineering,4,Lead,2023-11-20,1.11,23096462,P,50,D3,,3.3,False,0.0092,Information Broker,0.0307547194306519,0.02,🟢 Stable
+EMP00639,"Sutan Timbul Gunarto, S.Psi",Operations,1,Staff,2021-06-11,3.56,11350797,P,33,S1,EMP00601,3.4,False,0.0392,Central Connector,0.0007389574779952,0.02,🟢 Stable
+EMP00638,Farah Gunawan,Operations,2,Senior Staff,2022-09-27,2.26,11361899,L,47,S1,EMP00601,3.2,False,0.0092,Information Broker,0.0305200661968465,0.0199,🟢 Stable
+EMP00281,Asmadi Puspasari,Marketing,1,Staff,2018-09-09,6.31,10353829,L,27,S2,EMP00318,2.6,False,0.0386,Information Broker,0.001012573618281,0.0198,🟢 Stable
+EMP00319,Yono Wulandari,Marketing,1,Staff,2020-05-02,4.67,10706480,L,33,S1,EMP00318,3.3,False,0.0392,Central Connector,0.00049935493984,0.0198,🟢 Stable
+EMP00213,Agnes Thamrin,Product,5,Manager,2021-06-17,3.54,36493359,P,41,S2,,4.7,False,0.0378,Information Broker,0.0016804770578208,0.0197,🟢 Stable
+EMP00653,Salimah Sihombing,Operations,1,Staff,2021-12-09,3.06,7199532,L,41,S2,EMP00601,4.3,False,0.0386,Information Broker,0.0005966998604998,0.0196,🟢 Stable
+EMP00884,Puti Lailasari,IT Infrastructure,2,Senior Staff,2021-03-30,3.76,13392470,L,38,D3,EMP00925,3.2,False,0.0386,Information Broker,0.0004583569245309,0.0195,🟢 Stable
+EMP00432,"Dr. Raisa Wasita, S.T.",Sales,2,Senior Staff,2022-08-25,2.35,15732836,P,49,S1,EMP00474,3.0,False,0.0092,Information Broker,0.0294263358024218,0.0193,🟢 Stable
+EMP00835,"Ir. Rudi Pratama, S.H.",Customer Success,2,Senior Staff,2021-05-03,3.66,14780289,L,26,S2,EMP00846,4.2,False,0.0092,Information Broker,0.0291980092503013,0.0192,🟢 Stable
+EMP00788,Ulva Kuswandari,Customer Success,1,Staff,2019-03-24,5.77,9024088,L,31,S1,EMP00846,3.3,False,0.0372,Information Broker,0.0011049208194059,0.0192,🟢 Stable
+EMP00660,Karimah Mulyani,Operations,3,Specialist,2020-05-05,4.66,13779585,L,34,S1,EMP00601,2.8,False,0.0092,Information Broker,0.0290739004856087,0.0191,🟢 Stable
+EMP00434,Ibun Handayani,Sales,4,Lead,2022-11-08,2.15,21711017,L,26,S2,,4.5,False,0.0092,Information Broker,0.0286639489703984,0.0189,🟢 Stable
+EMP00735,"Hj. Samiah Halimah, S.Pd",Data & Analytics,3,Specialist,2022-08-08,2.4,22025936,P,42,S1,EMP00728,3.3,False,0.0092,Central Connector,0.0285759911911173,0.0189,🟢 Stable
+EMP00183,"R.A. Samiah Saragih, S.H.",Engineering,1,Staff,2021-11-16,3.12,14618904,L,49,S1,EMP00155,2.4,False,0.0092,Information Broker,0.0283092728288175,0.0188,🟢 Stable
+EMP00466,"Jane Wibowo, M.Ak",Sales,2,Senior Staff,2021-05-12,3.64,17482189,P,23,S1,EMP00474,3.1,False,0.0092,Information Broker,0.0279873809067346,0.0186,🟢 Stable
+EMP00404,Labuh Utama,Sales,1,Staff,2021-11-12,3.13,15038034,L,34,D3,EMP00474,3.0,False,0.0092,Information Broker,0.0278510959899577,0.0185,🟢 Stable
+EMP00117,Puti Belinda Nasyiah,Engineering,1,Staff,2020-01-11,4.97,16195500,L,23,S1,EMP00155,3.6,False,0.0092,Information Broker,0.0274724981866257,0.0183,🟢 Stable
+EMP00190,"KH. Timbul Kurniawan, S.Farm",Engineering,1,Staff,2022-08-15,2.38,13583253,P,50,S1,EMP00155,2.7,False,0.0092,Information Broker,0.0274521116603285,0.0183,🟢 Stable
+EMP00346,H. Empluk Agustina,Sales,3,Specialist,2021-05-24,3.61,16416042,L,31,S2,EMP00474,2.3,False,0.0092,Information Broker,0.0273907780386926,0.0183,🟢 Stable
+EMP00302,Ade Wasita,Marketing,2,Senior Staff,2022-06-13,2.55,13861312,L,27,D3,EMP00318,2.0,False,0.0092,Information Broker,0.0272753021253375,0.0182,🟢 Stable
+EMP00354,drg. Gangsar Sitorus,Sales,1,Staff,2018-12-09,6.06,12508004,P,40,S1,EMP00474,3.9,False,0.0092,Information Broker,0.0269950888694364,0.0181,🟢 Stable
+EMP00781,Natalia Tampubolon,Customer Success,3,Specialist,2021-05-08,3.65,18026166,L,34,S1,EMP00846,3.0,False,0.0092,Information Broker,0.0268025830233112,0.018,🟢 Stable
+EMP00406,Ulva Agustina,Sales,1,Staff,2022-06-11,2.56,14153504,L,50,S1,EMP00474,4.0,False,0.0092,Information Broker,0.0266248007227909,0.0179,🟢 Stable
+EMP00068,Devi Prayoga,Engineering,2,Senior Staff,2023-03-23,1.78,19205992,P,25,S1,EMP00155,4.3,False,0.0092,Information Broker,0.0261381529503299,0.0177,🟢 Stable
+EMP00251,Elma Nurdiyanti,Product,3,Specialist,2022-05-08,2.65,21893371,L,28,S1,EMP00254,3.0,False,0.0092,Information Broker,0.0255355133628145,0.0174,🟢 Stable
+EMP00689,Galak Widodo,Operations,2,Senior Staff,2020-12-11,4.05,11118519,P,30,S1,EMP00601,3.3,False,0.0092,Information Broker,0.0251903066119554,0.0172,🟢 Stable
+EMP00189,Marwata Ardianto,Engineering,3,Specialist,2018-08-03,6.41,23080111,L,33,S1,EMP00155,2.9,False,0.0092,Information Broker,0.0250023291263367,0.0171,🟢 Stable
+EMP00170,"Hasan Simbolon, S.Sos",Engineering,1,Staff,2018-10-12,6.22,12126553,L,51,S1,EMP00155,2.3,False,0.0092,Information Broker,0.0237548978645505,0.0165,🟢 Stable
+EMP00387,"Adika Hastuti, S.Pd",Sales,1,Staff,2022-07-25,2.44,11390722,L,32,S1,EMP00474,2.5,False,0.0092,Information Broker,0.023744894642512,0.0165,🟢 Stable
+EMP00595,"Drs. Cahyo Ramadan, S.Gz",Operations,2,Senior Staff,2019-01-21,5.94,12244896,L,30,S1,EMP00601,3.3,False,0.0092,Information Broker,0.0236040656617816,0.0164,🟢 Stable
+EMP00648,Wirda Maryati,Operations,3,Specialist,2020-07-02,4.5,14635708,L,38,S2,EMP00601,3.3,False,0.0092,Information Broker,0.0232464134513767,0.0162,🟢 Stable
+EMP00150,Daliono Haryanti,Engineering,2,Senior Staff,2019-03-22,5.78,20576487,L,30,S1,EMP00155,3.5,False,0.0092,Information Broker,0.0220451775674175,0.0156,🟢 Stable
+EMP00695,"Drs. Suci Rahmawati, S.E.",Data & Analytics,2,Senior Staff,2019-02-12,5.88,16824724,L,27,S1,EMP00728,2.3,False,0.0092,Information Broker,0.0217008873012378,0.0155,🟢 Stable
+EMP00158,Elma Prastuti,Engineering,1,Staff,2021-06-28,3.51,15519046,P,51,S3,EMP00155,4.4,False,0.0092,Information Broker,0.02167971866721,0.0154,🟢 Stable
+EMP00829,"Vera Saragih, S.IP",Customer Success,1,Staff,2023-05-09,1.65,11389163,P,48,S2,EMP00846,1.3,False,0.0092,Information Broker,0.0214164027263548,0.0153,🟢 Stable
+EMP00209,Lidya Halim,Product,3,Specialist,2019-07-25,5.44,30194557,L,28,S1,EMP00254,3.1,False,0.0092,Central Connector,0.0214122959487281,0.0153,🟢 Stable
+EMP00855,Pranawa Mansur,Customer Success,3,Specialist,2022-10-23,2.19,19374179,P,27,S2,EMP00846,4.9,False,0.0092,Information Broker,0.0209299689352338,0.0151,🟢 Stable
+EMP00347,"Dr. Nadine Prasasta, M.M.",Sales,3,Specialist,2021-11-14,3.13,14032675,L,51,D3,EMP00474,3.7,False,0.0092,Information Broker,0.0207121889405287,0.015,🟢 Stable
+EMP00079,Purwanto Kusmawati,Engineering,1,Staff,2018-12-18,6.04,14023935,L,26,S1,EMP00155,3.5,False,0.0092,Information Broker,0.020704629559858,0.015,🟢 Stable
+EMP00341,R.A. Titin Manullang,Sales,3,Specialist,2021-03-15,3.8,19847992,P,25,S2,EMP00474,3.9,False,0.0092,Information Broker,0.0206957430626691,0.0149,🟢 Stable
+EMP00350,"Puti Ika Agustina, S.Psi",Sales,1,Staff,2020-12-04,4.07,15199435,P,42,S1,EMP00474,2.2,False,0.0092,Information Broker,0.0203827422399679,0.0148,🟢 Stable
+EMP00266,Emil Prasetya,Marketing,3,Specialist,2020-04-25,4.68,18773378,P,46,S2,EMP00318,4.4,False,0.0092,Information Broker,0.0194754204067921,0.0143,🟢 Stable
+EMP00644,Dewi Uwais,Operations,1,Staff,2018-12-14,6.05,10175013,L,23,S3,EMP00601,2.2,False,0.0092,Central Connector,0.0191644226783933,0.0142,🟢 Stable
+EMP00161,Rachel Melani,Engineering,3,Specialist,2023-11-30,1.09,28513941,L,51,S1,EMP00155,3.8,False,0.0092,Information Broker,0.0191207351617871,0.0142,🟢 Stable
+EMP00315,Dr. Jumadi Farida,Marketing,1,Staff,2019-01-28,5.92,9846723,L,25,S1,EMP00318,2.8,False,0.0092,Central Connector,0.0189534419666295,0.0141,🟢 Stable
+EMP00915,Eva Napitupulu,IT Infrastructure,1,Staff,2019-12-12,5.05,13220164,P,36,S1,EMP00925,4.0,False,0.0092,Information Broker,0.0188276529966955,0.014,🟢 Stable
+EMP00038,Restu Wacana,Engineering,1,Staff,2022-11-19,2.12,14458153,L,46,S1,EMP00155,4.0,False,0.0092,Information Broker,0.01879451740271,0.014,🟢 Stable
+EMP00376,"Cinthia Handayani, S.E.",Sales,3,Specialist,2022-05-16,2.63,18224730,P,47,S2,EMP00474,4.5,False,0.0092,Information Broker,0.0186371713672925,0.0139,🟢 Stable
+EMP00360,"Yessi Wibowo, S.Sos",Sales,3,Specialist,2020-08-05,4.41,17259478,P,41,S1,EMP00474,4.6,False,0.0092,Information Broker,0.0180107216384047,0.0136,🟢 Stable
+EMP00947,Makuta Anggriawan,Research,2,Senior Staff,2022-03-14,2.8,20667720,L,32,D3,EMP00942,4.2,False,0.0092,Central Connector,0.0177092364132336,0.0135,🟢 Stable
+EMP00395,"Ida Damanik, S.Sos",Sales,2,Senior Staff,2023-05-17,1.63,17530733,L,29,S1,EMP00474,2.7,False,0.0092,Information Broker,0.0176431481794618,0.0134,🟢 Stable
+EMP00174,Ir. Ilsa Waskita,Engineering,2,Senior Staff,2023-11-14,1.13,19806265,L,28,S1,EMP00155,3.9,False,0.0092,Information Broker,0.017693033505719,0.0134,🟢 Stable
+EMP00629,Hafshah Budiyanto,Operations,4,Lead,2023-11-21,1.11,18358119,L,39,S1,,3.9,False,0.0092,Information Broker,0.0173283909052566,0.0133,🟢 Stable
+EMP00920,Ella Thamrin,IT Infrastructure,2,Senior Staff,2022-03-02,2.83,15655611,P,47,S2,EMP00925,2.3,False,0.0092,Information Broker,0.0173239113116582,0.0133,🟢 Stable
+EMP00232,"Ir. Arta Dabukke, S.H.",Product,1,Staff,2022-12-27,2.01,14620218,P,27,S3,EMP00254,2.5,False,0.0092,Information Broker,0.0171078345007303,0.0132,🟢 Stable
+EMP00633,Artawan Thamrin,Operations,2,Senior Staff,2022-10-13,2.22,11836847,P,51,S1,EMP00601,3.2,False,0.0092,Information Broker,0.0172777487870778,0.0132,🟢 Stable
+EMP00264,"Sutan Muhammad Kusmawati, M.Kom.",Marketing,1,Staff,2021-12-23,3.02,11461182,P,51,S3,EMP00318,3.5,False,0.0092,Information Broker,0.0171375640128492,0.0132,🟢 Stable
+EMP00275,"H. Cengkal Nababan, S.Kom",Marketing,1,Staff,2020-07-06,4.49,11933194,P,45,S1,EMP00318,4.1,False,0.0092,Information Broker,0.0171105462514971,0.0132,🟢 Stable
+EMP00664,Bagas Prakasa,Operations,4,Lead,2022-01-28,2.92,16503068,P,44,S1,,3.8,False,0.0092,Information Broker,0.0169802320587512,0.0131,🟢 Stable
+EMP00450,Aditya Tamba,Sales,4,Lead,2019-08-05,5.41,19030624,P,40,D3,,4.7,False,0.0092,Information Broker,0.0167963539913785,0.013,🟢 Stable
+EMP00035,Eman Mandala,Engineering,1,Staff,2020-05-04,4.66,13598074,P,25,S2,EMP00155,1.8,False,0.0092,Information Broker,0.0166883149158428,0.0129,🟢 Stable
+EMP00986,Victoria Hutasoit,Research,1,Staff,2023-03-01,1.84,12863489,L,32,D3,EMP00942,3.1,False,0.0092,Information Broker,0.0165853953109893,0.0129,🟢 Stable
+EMP00807,Raihan Widodo,Customer Success,2,Senior Staff,2023-05-10,1.65,13460871,P,48,S1,EMP00846,3.1,False,0.0092,Information Broker,0.0159177224956049,0.0126,🟢 Stable
+EMP00194,Diana Hariyah,Engineering,1,Staff,2023-04-23,1.69,15523666,L,33,S1,EMP00155,4.2,False,0.0092,Information Broker,0.0157856904276399,0.0125,🟢 Stable
+EMP00640,Oliva Widodo,Operations,1,Staff,2019-04-15,5.71,11150399,L,48,S2,EMP00601,3.1,False,0.0092,Information Broker,0.0155119276443243,0.0124,🟢 Stable
+EMP00336,Dr. Sari Handayani,Marketing,3,Specialist,2023-05-23,1.61,17432047,L,48,S1,EMP00318,3.3,False,0.0092,Information Broker,0.0153945146672459,0.0123,🟢 Stable
+EMP00445,Langgeng Pratama,Sales,2,Senior Staff,2022-06-10,2.56,21732776,L,43,S1,EMP00474,3.6,False,0.0092,Information Broker,0.0153613062855593,0.0123,🟢 Stable
+EMP00465,Hj. Restu Pudjiastuti,Sales,1,Staff,2020-11-07,4.15,14288157,L,43,S1,EMP00474,3.2,False,0.0092,Information Broker,0.0153967815378957,0.0123,🟢 Stable
+EMP00143,Victoria Purwanti,Engineering,2,Senior Staff,2021-07-30,3.42,19388150,P,26,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0152278209945243,0.0122,🟢 Stable
+EMP00125,Salimah Jailani,Engineering,2,Senior Staff,2020-07-12,4.47,30205432,P,33,S2,EMP00155,3.9,False,0.0092,Information Broker,0.015012414025195,0.0121,🟢 Stable
+EMP00786,Edward Hutapea,Customer Success,4,Lead,2023-11-03,1.16,16150426,P,39,S1,,4.1,False,0.0092,Information Broker,0.0149343307025717,0.0121,🟢 Stable
+EMP00391,"Hafshah Hasanah, S.Pd",Sales,1,Staff,2018-10-26,6.18,9904429,P,28,S2,EMP00474,2.5,False,0.0092,Information Broker,0.0148857026320291,0.012,🟢 Stable
+EMP00147,"dr. Rama Winarsih, S.H.",Engineering,2,Senior Staff,2023-02-11,1.89,19121404,L,43,S1,EMP00155,4.1,False,0.0092,Information Broker,0.0145726583831511,0.0119,🟢 Stable
+EMP00661,"H. Mustika Manullang, S.Ked",Operations,4,Lead,2019-06-28,5.51,20093139,P,49,S1,,3.5,False,0.0092,Information Broker,0.0143033642287409,0.0118,🟢 Stable
+EMP00407,Daliono Mustofa,Sales,2,Senior Staff,2021-02-04,3.9,17348757,P,25,D3,EMP00474,4.0,False,0.0092,Information Broker,0.014288135190609,0.0117,🟢 Stable
+EMP00352,"Ifa Rahmawati, M.Farm",Sales,2,Senior Staff,2022-02-20,2.86,17780788,L,23,S1,EMP00474,5.0,False,0.0092,Information Broker,0.0141399256616689,0.0117,🟢 Stable
+EMP00398,"Najwa Suwarno, S.H.",Sales,5,Manager,2019-11-10,5.14,29573079,L,45,S1,,2.7,False,0.0092,Information Broker,0.0140077949513247,0.0116,🟢 Stable
+EMP00714,Hesti Waskita,Data & Analytics,2,Senior Staff,2022-08-24,2.35,16395324,L,27,S1,EMP00728,3.5,False,0.0092,Information Broker,0.0138634757593377,0.0115,🟢 Stable
+EMP00942,Padmi Prasasta,Research,4,Lead,2019-12-01,5.08,30923805,L,41,S1,,2.9,False,0.0092,Information Broker,0.0138629426100788,0.0115,🟢 Stable
+EMP00437,Ir. Gatot Halim,Sales,2,Senior Staff,2023-06-13,1.55,16759996,P,40,S2,EMP00474,5.0,False,0.0092,Information Broker,0.0138832749523793,0.0115,🟢 Stable
+EMP00007,Cut Putri Napitupulu,Engineering,3,Specialist,2020-07-10,4.48,20362375,L,43,S1,EMP00155,3.5,False,0.0092,Information Broker,0.0136356633881569,0.0114,🟢 Stable
+EMP00100,"Puput Halim, S.Psi",Engineering,3,Specialist,2019-04-24,5.69,23710497,P,29,S2,EMP00155,4.9,False,0.0092,Information Broker,0.0132449259222449,0.0112,🟢 Stable
+EMP00155,"T. Gara Yuniar, M.TI.",Engineering,5,Manager,2022-08-30,2.34,24400412,L,44,S1,,4.5,False,0.0092,Information Broker,0.0130924759883296,0.0111,🟢 Stable
+EMP00057,Anita Kusumo,Engineering,1,Staff,2023-05-28,1.6,12432364,L,35,S2,EMP00155,2.4,False,0.0092,Information Broker,0.0127317762528469,0.011,🟢 Stable
+EMP00255,"Puti Indah Hartati, S.H.",Product,1,Staff,2019-03-02,5.83,20579596,L,44,S1,EMP00254,2.7,False,0.0092,Information Broker,0.0126155274335574,0.0109,🟢 Stable
+EMP00169,"Ifa Mayasari, S.Pd",Engineering,3,Specialist,2023-08-04,1.41,23439253,L,33,S2,EMP00155,3.1,False,0.0092,Information Broker,0.0126182978507016,0.0109,🟢 Stable
+EMP00572,"Chelsea Saragih, M.Pd",HR,2,Senior Staff,2019-10-04,5.24,11023784,L,41,S2,EMP00575,3.8,False,0.0092,Central Connector,0.0123770870484536,0.0108,🟢 Stable
+EMP00136,Dt. Balidin Hutagalung,Engineering,2,Senior Staff,2023-09-22,1.28,17209754,L,50,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0123845734985427,0.0108,🟢 Stable
+EMP00304,Icha Firmansyah,Marketing,2,Senior Staff,2023-09-28,1.26,15111399,P,45,S2,EMP00318,3.6,False,0.0092,Information Broker,0.0123516661861011,0.0108,🟢 Stable
+EMP00130,Mahfud Usada,Engineering,2,Senior Staff,2022-04-17,2.71,21613998,L,48,S1,EMP00155,2.7,False,0.0092,Information Broker,0.0121450945203004,0.0107,🟢 Stable
+EMP00025,"Emas Zulaika, S.Pt",Engineering,2,Senior Staff,2022-10-29,2.17,18314591,L,50,D3,EMP00155,3.5,False,0.0092,Information Broker,0.0121832484688272,0.0107,🟢 Stable
+EMP00241,Hj. Keisha Widodo,Product,4,Lead,2018-09-26,6.26,34138715,L,49,S2,,2.9,False,0.0092,Information Broker,0.0122244547313789,0.0107,🟢 Stable
+EMP00084,Hadi Sirait,Engineering,2,Senior Staff,2022-03-19,2.79,17000730,P,27,D3,EMP00155,3.9,False,0.0092,Information Broker,0.0122607489166484,0.0107,🟢 Stable
+EMP00320,"Ir. Rini Damanik, S.T.",Marketing,2,Senior Staff,2018-07-16,6.46,15055713,P,45,S2,EMP00318,3.9,False,0.0092,Information Broker,0.0120949947005732,0.0106,🟢 Stable
+EMP00056,Liman Sinaga,Engineering,5,Manager,2021-08-20,3.36,29090833,P,25,D3,,2.1,False,0.0092,Information Broker,0.0119533525185686,0.0106,🟢 Stable
+EMP00277,"Dr. Lembah Suryono, S.IP",Marketing,3,Specialist,2021-07-27,3.43,16181303,L,28,S2,EMP00318,3.9,False,0.0092,Information Broker,0.0117247553552288,0.0105,🟢 Stable
+EMP00956,Yono Pranowo,Research,1,Staff,2019-10-04,5.24,16393788,P,35,S1,EMP00942,3.6,False,0.0092,Information Broker,0.0115197531645469,0.0104,🟢 Stable
+EMP00424,"Hasan Latupono, S.E.I",Sales,3,Specialist,2019-11-25,5.1,16152463,P,29,S2,EMP00474,3.4,False,0.0092,Information Broker,0.0115633142875816,0.0104,🟢 Stable
+EMP00321,Cut Vanesa Natsir,Marketing,1,Staff,2022-01-09,2.98,12384606,L,23,S1,EMP00318,4.2,False,0.0092,Central Connector,0.0115940556647268,0.0104,🟢 Stable
+EMP00074,Satya Sitompul,Engineering,1,Staff,2019-12-24,5.02,14263575,L,31,S1,EMP00155,1.9,False,0.0092,Information Broker,0.0115633866457224,0.0104,🟢 Stable
+EMP00613,H. Lulut Nuraini,Operations,6,Senior Manager,2019-01-12,5.97,16933306,L,38,S1,,2.7,False,0.0092,Information Broker,0.0113397868240028,0.0103,🟢 Stable
+EMP00254,Janet Prasasta,Product,4,Lead,2021-08-23,3.36,33986895,P,26,D3,,2.5,False,0.0092,Information Broker,0.0111083355265243,0.0102,🟢 Stable
+EMP00154,Zelaya Hidayat,Engineering,1,Staff,2019-07-22,5.45,16271894,P,29,S2,EMP00155,2.6,False,0.0092,Information Broker,0.0112112061283312,0.0102,🟢 Stable
+EMP00383,drg. Raina Zulaika,Sales,3,Specialist,2023-08-05,1.41,21573927,P,48,S1,EMP00474,3.3,False,0.0092,Information Broker,0.0112716319397039,0.0102,🟢 Stable
+EMP00059,Asmianto Permadi,Engineering,1,Staff,2020-04-30,4.67,15314290,L,51,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0111099789013488,0.0102,🟢 Stable
+EMP00297,Ina Purnawati,Marketing,1,Staff,2022-04-14,2.72,8944357,L,43,S2,EMP00318,2.8,False,0.0092,Central Connector,0.0111792944790695,0.0102,🟢 Stable
+EMP00650,"Lintang Hutapea, S.Farm",Operations,3,Specialist,2018-10-26,6.18,14311816,P,47,S1,EMP00601,3.3,False,0.0092,Central Connector,0.0111310389411313,0.0102,🟢 Stable
+EMP00885,Gangsar Yuniar,IT Infrastructure,1,Staff,2022-07-17,2.46,15100374,L,50,S1,EMP00925,3.5,False,0.0092,Central Connector,0.0110086357562147,0.0101,🟢 Stable
+EMP00153,Heru Sitompul,Engineering,3,Specialist,2022-12-20,2.03,19497700,P,50,S1,EMP00155,4.2,False,0.0092,Information Broker,0.0110854469345565,0.0101,🟢 Stable
+EMP00296,Zelda Rahmawati,Marketing,1,Staff,2020-11-18,4.12,12773573,L,28,S1,EMP00318,2.7,False,0.0092,Information Broker,0.0108126038349648,0.01,🟢 Stable
+EMP00052,Zaenab Uyainah,Engineering,3,Specialist,2023-03-03,1.83,17748058,L,49,S2,EMP00155,4.5,False,0.0092,Information Broker,0.0108344134658974,0.01,🟢 Stable
+EMP00969,dr. Ian Nashiruddin,Research,3,Specialist,2019-02-10,5.89,20095494,P,48,D3,EMP00942,2.1,False,0.0092,Information Broker,0.0107649435603763,0.01,🟢 Stable
+EMP00018,Yance Utami,Engineering,4,Lead,2022-04-03,2.75,25324255,L,40,S1,,2.8,False,0.0092,Information Broker,0.0107321488446614,0.01,🟢 Stable
+EMP00907,"Gatot Samosir, S.T.",IT Infrastructure,3,Specialist,2019-03-10,5.81,19403346,P,26,S2,EMP00925,2.9,False,0.0092,Information Broker,0.0106044450815302,0.0099,🟢 Stable
+EMP00087,Estiawan Hariyah,Engineering,1,Staff,2019-07-22,5.45,15539224,L,35,S1,EMP00155,4.4,False,0.0092,Information Broker,0.0106662326093268,0.0099,🟢 Stable
+EMP00188,Lalita Prasasta,Engineering,1,Staff,2023-02-08,1.89,16901899,L,47,S2,EMP00155,3.5,False,0.0092,Information Broker,0.0106534043032405,0.0099,🟢 Stable
+EMP00077,Kayun Mustofa,Engineering,1,Staff,2021-05-27,3.6,17162426,P,26,S3,EMP00155,4.6,False,0.0092,Information Broker,0.0103455662864663,0.0098,🟢 Stable
+EMP00454,R. Panca Haryanto,Sales,2,Senior Staff,2020-10-18,4.2,16306155,P,24,S1,EMP00474,3.3,False,0.0092,Information Broker,0.0101089236638064,0.0097,🟢 Stable
+EMP00730,Ina Mandasari,Data & Analytics,2,Senior Staff,2020-10-09,4.23,24048396,L,48,D3,EMP00728,2.1,False,0.0092,Information Broker,0.0102772873982918,0.0097,🟢 Stable
+EMP00712,Sari Palastri,Data & Analytics,2,Senior Staff,2021-11-29,3.09,21332301,L,47,S1,EMP00728,3.6,False,0.0092,Central Connector,0.0100238310140989,0.0096,🟢 Stable
+EMP00175,Dt. Gadang Suwarno,Engineering,3,Specialist,2019-05-22,5.61,30071694,P,50,S1,EMP00155,4.6,False,0.0092,Information Broker,0.0099295790405944,0.0096,🟢 Stable
+EMP00635,Radika Hariyah,Operations,3,Specialist,2019-01-27,5.93,9701551,P,29,S1,EMP00601,2.1,False,0.0092,Information Broker,0.0100405147014901,0.0096,🟢 Stable
+EMP00433,Muhammad Uwais,Sales,4,Lead,2022-10-21,2.2,20392742,L,48,S1,,3.7,False,0.0092,Information Broker,0.009920232608557,0.0096,🟢 Stable
+EMP00931,Sakura Laksita,Research,1,Staff,2019-01-27,5.93,14517211,P,41,S2,EMP00942,4.4,False,0.0092,Central Connector,0.0100632950525229,0.0096,🟢 Stable
+EMP00992,Ika Andriani,Research,1,Staff,2023-06-10,1.56,15442105,P,49,D3,EMP00942,3.6,False,0.0092,Central Connector,0.0100310053823988,0.0096,🟢 Stable
+EMP00832,Eva Hasanah,Customer Success,1,Staff,2021-12-03,3.08,10048590,L,46,S1,EMP00846,4.5,False,0.0092,Central Connector,0.0100440485224377,0.0096,🟢 Stable
+EMP00144,"drg. Raina Mangunsong, S.H.",Engineering,1,Staff,2022-04-15,2.71,16032567,L,41,S1,EMP00155,3.8,False,0.0092,Information Broker,0.0098317018781116,0.0095,🟢 Stable
+EMP00099,Asmianto Prastuti,Engineering,3,Specialist,2020-11-23,4.1,20803214,P,31,S1,EMP00155,1.6,False,0.0092,Information Broker,0.009749782309832,0.0095,🟢 Stable
+EMP00372,Lasmanto Hidayat,Sales,3,Specialist,2023-03-11,1.81,22323114,P,36,S2,EMP00474,4.5,False,0.0092,Information Broker,0.0097408048568799,0.0095,🟢 Stable
+EMP00193,Vero Maheswara,Engineering,2,Senior Staff,2019-12-24,5.02,19838022,L,48,S1,EMP00155,2.3,False,0.0092,Information Broker,0.0098985438694039,0.0095,🟢 Stable
+EMP00616,Digdaya Andriani,Operations,1,Staff,2020-03-28,4.76,7690115,P,39,S1,EMP00601,2.8,False,0.0092,Information Broker,0.0098131008486668,0.0095,🟢 Stable
+EMP00670,Iriana Yulianti,Operations,2,Senior Staff,2020-02-03,4.91,15165394,P,46,S1,EMP00601,3.0,False,0.0092,Information Broker,0.009863889854544,0.0095,🟢 Stable
+EMP00848,"Respati Samosir, S.Ked",Customer Success,2,Senior Staff,2019-06-01,5.59,12478847,L,26,S1,EMP00846,3.6,False,0.0092,Central Connector,0.0097032095498749,0.0095,🟢 Stable
+EMP00530,Paramita Hutapea,Finance,4,Lead,2022-09-25,2.27,23643052,L,29,S2,,4.1,False,0.0092,Information Broker,0.0095395713246529,0.0094,🟢 Stable
+EMP00464,Budi Saefullah,Sales,1,Staff,2018-08-23,6.36,11793353,P,44,S1,EMP00474,3.9,False,0.0092,Information Broker,0.0096528214252173,0.0094,🟢 Stable
+EMP00457,Sutan Warsita Susanti,Sales,2,Senior Staff,2019-07-05,5.49,15861567,P,30,S1,EMP00474,3.8,False,0.0092,Information Broker,0.0095480521822434,0.0094,🟢 Stable
+EMP00046,"Timbul Nasyiah, S.T.",Engineering,2,Senior Staff,2022-12-07,2.07,22787233,L,42,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0096694532936073,0.0094,🟢 Stable
+EMP00461,"drg. Maria Kurniawan, M.Kom.",Sales,3,Specialist,2022-04-28,2.68,18106458,L,32,S1,EMP00474,4.0,False,0.0092,Information Broker,0.0096072982606592,0.0094,🟢 Stable
+EMP00021,"T. Bahuwirya Pradipta, S.IP",Engineering,5,Manager,2022-06-07,2.57,31924022,L,36,S1,,2.8,False,0.0092,Information Broker,0.0094082473778678,0.0093,🟢 Stable
+EMP00446,"R.A. Julia Maulana, M.Ak",Sales,4,Lead,2020-09-16,4.29,18499142,P,27,S1,,4.0,False,0.0092,Information Broker,0.0094467277740316,0.0093,🟢 Stable
+EMP00451,"KH. Dasa Rahmawati, S.Psi",Sales,3,Specialist,2023-03-26,1.77,17810076,L,48,S1,EMP00474,3.5,False,0.0092,Information Broker,0.0093444503650344,0.0093,🟢 Stable
+EMP00873,"Alika Prasasta, S.Gz",IT Infrastructure,2,Senior Staff,2021-02-28,3.84,14267002,L,23,S1,EMP00925,2.7,False,0.0092,Information Broker,0.0094592681560443,0.0093,🟢 Stable
+EMP00071,Lanjar Prasetya,Engineering,2,Senior Staff,2020-08-05,4.41,21994039,L,31,S1,EMP00155,2.6,False,0.0092,Information Broker,0.0091297766384789,0.0092,🟢 Stable
+EMP00830,"Vero Sihombing, S.I.Kom",Customer Success,2,Senior Staff,2023-05-19,1.62,11662064,L,22,S1,EMP00846,4.2,False,0.0092,Central Connector,0.0092503261130819,0.0092,🟢 Stable
+EMP00111,Drs. Iriana Rajata,Engineering,1,Staff,2019-01-31,5.92,15025787,P,45,S3,EMP00155,3.0,False,0.0092,Information Broker,0.0090386165079741,0.0091,🟢 Stable
+EMP00652,Ciaobella Hutapea,Operations,1,Staff,2019-03-26,5.77,7781521,P,35,S3,EMP00601,3.4,False,0.0092,Information Broker,0.0090005498063833,0.0091,🟢 Stable
+EMP00414,"Drs. Karimah Iswahyudi, S.Sos",Sales,3,Specialist,2023-02-05,1.9,17585983,L,42,S1,EMP00474,4.5,False,0.0092,Information Broker,0.0089169236214517,0.0091,🟢 Stable
+EMP00400,Lukman Ramadan,Sales,2,Senior Staff,2021-08-30,3.34,11765710,L,23,S2,EMP00474,3.5,False,0.0092,Information Broker,0.0088143640135335,0.009,🟢 Stable
+EMP00849,Hamima Adriansyah,Customer Success,3,Specialist,2020-04-04,4.74,14917635,L,32,S1,EMP00846,4.0,False,0.0092,Information Broker,0.0087862965113418,0.009,🟢 Stable
+EMP00983,Puspa Iswahyudi,Research,4,Lead,2019-03-01,5.84,27800468,L,38,S1,,4.5,False,0.0092,Information Broker,0.0087158400303642,0.009,🟢 Stable
+EMP00522,Setya Sihotang,Finance,1,Staff,2023-08-03,1.41,11932657,L,44,S1,EMP00523,2.3,False,0.0092,Central Connector,0.0087919632049723,0.009,🟢 Stable
+EMP00528,Ibrani Kurniawan,Finance,2,Senior Staff,2020-04-09,4.73,19856865,L,47,S1,EMP00523,3.5,False,0.0092,Central Connector,0.0088244607182758,0.009,🟢 Stable
+EMP00091,Dt. Bakiman Prakasa,Engineering,3,Specialist,2019-10-22,5.19,19935966,L,43,S1,EMP00155,2.4,False,0.0092,Information Broker,0.0088182540027352,0.009,🟢 Stable
+EMP00081,"Irfan Thamrin, S.Farm",Engineering,2,Senior Staff,2021-09-22,3.27,19330844,L,42,S2,EMP00155,2.8,False,0.0092,Information Broker,0.0085153478499936,0.0089,🟢 Stable
+EMP00523,drg. Queen Waskita,Finance,4,Lead,2021-12-03,3.08,22990600,L,50,S1,,4.1,False,0.0092,Information Broker,0.0084084164074108,0.0088,🟢 Stable
+EMP00272,Ina Ramadan,Marketing,3,Specialist,2020-12-18,4.04,15607376,P,27,S1,EMP00318,3.6,False,0.0092,Information Broker,0.0084554649906214,0.0088,🟢 Stable
+EMP00420,Jarwi Dongoran,Sales,3,Specialist,2022-11-10,2.14,17747940,L,32,S1,EMP00474,3.0,False,0.0092,Information Broker,0.0083187744375722,0.0088,🟢 Stable
+EMP00335,Karja Tarihoran,Marketing,2,Senior Staff,2019-02-20,5.86,16688054,L,36,S1,EMP00318,3.4,False,0.0092,Information Broker,0.0084172816037568,0.0088,🟢 Stable
+EMP00220,"Dr. Dian Oktaviani, M.Pd",Product,3,Specialist,2022-09-03,2.33,19683053,L,36,S1,EMP00254,3.5,False,0.0092,Information Broker,0.0083409426895462,0.0088,🟢 Stable
+EMP00403,Winda Farida,Sales,2,Senior Staff,2019-10-31,5.17,14636019,L,42,S2,EMP00474,3.0,False,0.0092,Information Broker,0.0082655143588239,0.0087,🟢 Stable
+EMP00186,"Puti Mutia Agustina, M.Farm",Engineering,3,Specialist,2018-09-07,6.32,24595131,L,49,S2,EMP00155,4.2,False,0.0092,Information Broker,0.0082302830508881,0.0087,🟢 Stable
+EMP00583,"Drs. Cahyadi Riyanti, S.Sos",HR,3,Specialist,2022-03-23,2.78,14294905,L,31,S1,EMP00575,3.5,False,0.0092,Central Connector,0.008296709964913,0.0087,🟢 Stable
+EMP00538,Faizah Natsir,Finance,2,Senior Staff,2023-11-14,1.13,17772188,P,22,S1,EMP00523,3.4,False,0.0092,Information Broker,0.0082760719402894,0.0087,🟢 Stable
+EMP00397,"Hj. Victoria Hardiansyah, M.Ak",Sales,1,Staff,2021-06-11,3.56,15549358,L,44,S1,EMP00474,3.1,False,0.0092,Information Broker,0.0082553018059937,0.0087,🟢 Stable
+EMP00843,"Restu Lestari, S.Pt",Customer Success,1,Staff,2021-11-23,3.1,9777606,L,46,S1,EMP00846,3.1,False,0.0092,Information Broker,0.008095727070722,0.0086,🟢 Stable
+EMP00394,dr. Ratih Sihombing,Sales,2,Senior Staff,2022-04-21,2.7,16676992,P,45,S1,EMP00474,3.4,False,0.0092,Information Broker,0.0079170309484133,0.0086,🟢 Stable
+EMP00371,"Vanya Laksita, M.Pd",Sales,1,Staff,2019-09-05,5.32,11806752,P,41,S1,EMP00474,3.0,False,0.0092,Information Broker,0.0079131156302925,0.0086,🟢 Stable
+EMP00486,Zulfa Puspita,Sales,2,Senior Staff,2023-04-30,1.67,16263866,P,34,S2,EMP00474,2.9,False,0.0092,Information Broker,0.0077580393779185,0.0085,🟢 Stable
+EMP00800,Natalia Yulianti,Customer Success,3,Specialist,2023-01-05,1.99,15933200,L,33,S1,EMP00846,3.5,False,0.0092,Information Broker,0.0077475576206681,0.0085,🟢 Stable
+EMP00140,Karimah Gunarto,Engineering,1,Staff,2019-07-07,5.49,16051711,L,44,S1,EMP00155,3.6,False,0.0092,Information Broker,0.0077412591310412,0.0085,🟢 Stable
+EMP00521,Anita Haryanti,Finance,1,Staff,2023-09-21,1.28,12903657,L,32,D3,EMP00523,4.4,False,0.0092,Information Broker,0.007857214855849,0.0085,🟢 Stable
+EMP00402,"Bakti Utami, S.Gz",Sales,1,Staff,2022-08-07,2.4,9131263,L,28,S2,EMP00474,4.7,False,0.0092,Information Broker,0.00777637684207,0.0085,🟢 Stable
+EMP00006,Daruna Mayasari,Engineering,2,Senior Staff,2019-08-18,5.37,16529890,L,27,S2,EMP00155,2.7,False,0.0092,Information Broker,0.0075838678228381,0.0084,🟢 Stable
+EMP00593,"dr. Jefri Nuraini, S.Farm",Operations,2,Senior Staff,2022-12-06,2.07,9950547,P,43,S1,EMP00601,2.3,False,0.0092,Information Broker,0.0075833077990828,0.0084,🟢 Stable
+EMP00987,"Putri Prasasta, M.Farm",Research,2,Senior Staff,2018-11-23,6.11,26678750,L,38,S1,EMP00942,2.9,False,0.0092,Central Connector,0.0076663094643852,0.0084,🟢 Stable
+EMP00096,"KH. Jaeman Suwarno, S.Farm",Engineering,1,Staff,2022-11-30,2.09,11570392,L,51,S1,EMP00155,3.6,False,0.0092,Information Broker,0.00765106856391,0.0084,🟢 Stable
+EMP00016,"Michelle Nasyiah, S.IP",Engineering,1,Staff,2022-07-06,2.49,14544814,L,43,S1,EMP00155,2.8,False,0.0092,Information Broker,0.0074442956251373,0.0083,🟢 Stable
+EMP00066,Salsabila Yulianti,Engineering,2,Senior Staff,2020-12-28,4.01,19697526,L,45,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0074839680784818,0.0083,🟢 Stable
+EMP00121,Intan Manullang,Engineering,1,Staff,2021-05-23,3.61,13955365,P,26,S1,EMP00155,4.4,False,0.0092,Information Broker,0.007497544468539,0.0083,🟢 Stable
+EMP00824,Ilsa Padmasari,Customer Success,2,Senior Staff,2019-07-10,5.48,11582675,P,37,S1,EMP00846,2.1,False,0.0092,Information Broker,0.007456764418437,0.0083,🟢 Stable
+EMP00075,Kamidin Prakasa,Engineering,1,Staff,2022-08-18,2.37,9615447,P,40,S1,EMP00155,3.1,False,0.0092,Information Broker,0.0071286689928593,0.0082,🟢 Stable
+EMP00044,Paris Ramadan,Engineering,4,Lead,2022-03-06,2.82,17861851,L,37,S1,,3.3,False,0.0092,Information Broker,0.0071649133035723,0.0082,🟢 Stable
+EMP00550,Yance Suwarno,Finance,1,Staff,2023-02-23,1.85,16399620,L,22,S2,EMP00523,3.2,False,0.0092,Information Broker,0.0072060699920462,0.0082,🟢 Stable
+EMP00485,"Jaya Prasetyo, S.IP",Sales,2,Senior Staff,2021-07-28,3.43,16821660,L,40,S1,EMP00474,4.6,False,0.0092,Information Broker,0.0070072395955151,0.0081,🟢 Stable
+EMP00070,Lanjar Puspasari,Engineering,3,Specialist,2021-05-06,3.66,19476364,P,36,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0068591479341985,0.008,🟢 Stable
+EMP00122,Zahra Palastri,Engineering,1,Staff,2022-01-27,2.93,15065640,P,36,S1,EMP00155,3.5,False,0.0092,Information Broker,0.0068661301390857,0.008,🟢 Stable
+EMP00118,Jono Saptono,Engineering,3,Specialist,2023-01-29,1.92,22631716,L,28,S1,EMP00155,2.9,False,0.0092,Information Broker,0.0067476070052605,0.008,🟢 Stable
+EMP00697,"Puti Padma Mangunsong, S.Pd",Data & Analytics,3,Specialist,2021-11-27,3.09,23844626,L,44,S1,EMP00728,3.2,False,0.0092,Central Connector,0.0068243481853961,0.008,🟢 Stable
+EMP00889,"Dr. Jasmani Permadi, S.H.",IT Infrastructure,1,Staff,2023-07-19,1.45,14617367,L,23,S2,EMP00925,3.8,False,0.0092,Information Broker,0.0065222931958775,0.0079,🟢 Stable
+EMP00622,dr. Halima Pertiwi,Operations,1,Staff,2021-02-28,3.84,8462743,L,49,S2,EMP00601,4.6,False,0.0092,Information Broker,0.0066478366023962,0.0079,🟢 Stable
+EMP00636,"Natalia Usamah, S.E.",Operations,2,Senior Staff,2021-10-08,3.23,12080475,L,47,S1,EMP00601,3.0,False,0.0092,Information Broker,0.0065201658558238,0.0079,🟢 Stable
+EMP00003,"Ciaobella Wastuti, M.Pd",Engineering,1,Staff,2020-12-23,4.02,15853064,P,35,S2,EMP00155,2.7,False,0.0092,Information Broker,0.0066374300368934,0.0079,🟢 Stable
+EMP00948,"Ella Hutasoit, M.Kom.",Research,3,Specialist,2022-11-18,2.12,27548986,L,48,S1,EMP00942,3.8,False,0.0092,Information Broker,0.0065093708403868,0.0079,🟢 Stable
+EMP00796,Tina Halimah,Customer Success,1,Staff,2019-09-10,5.31,10024788,P,30,S1,EMP00846,4.3,False,0.0092,Information Broker,0.0066217739405549,0.0079,🟢 Stable
+EMP00015,Tgk. Yani Gunawan,Engineering,1,Staff,2022-01-27,2.93,15927008,P,25,S2,EMP00155,2.9,False,0.0092,Information Broker,0.0063880756496549,0.0078,🟢 Stable
+EMP00233,Salman Damanik,Product,2,Senior Staff,2023-01-12,1.97,23319861,P,34,D3,EMP00254,4.6,False,0.0092,Information Broker,0.0063125731875103,0.0078,🟢 Stable
+EMP00157,Ana Latupono,Engineering,3,Specialist,2023-09-16,1.29,27946282,L,32,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0064456964546996,0.0078,🟢 Stable
+EMP00625,Xanana Novitasari,Operations,2,Senior Staff,2020-12-13,4.05,11250455,L,49,S1,EMP00601,3.6,False,0.0092,Information Broker,0.006389310359053,0.0078,🟢 Stable
+EMP00012,Eva Pratama,Engineering,1,Staff,2021-07-30,3.42,15360989,P,41,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0063071695885642,0.0078,🟢 Stable
+EMP00412,Citra Megantara,Sales,2,Senior Staff,2020-11-19,4.11,16300563,L,34,S1,EMP00474,3.5,False,0.0092,Information Broker,0.0063205946150502,0.0078,🟢 Stable
+EMP00163,Dodo Gunawan,Engineering,3,Specialist,2018-11-14,6.13,28124049,P,34,S1,EMP00155,3.0,False,0.0092,Information Broker,0.0063739366164187,0.0078,🟢 Stable
+EMP00435,Sabar Tarihoran,Sales,1,Staff,2022-03-13,2.8,10696722,L,33,D3,EMP00474,2.7,False,0.0092,Information Broker,0.006412379668723,0.0078,🟢 Stable
+EMP00382,"R.M. Cawisono Natsir, S.Pt",Sales,4,Lead,2019-09-11,5.31,18578471,P,44,S1,,3.2,False,0.0092,Information Broker,0.0062633349360609,0.0077,🟢 Stable
+EMP00148,Endah Kurniawan,Engineering,2,Senior Staff,2021-06-01,3.58,19731675,P,35,D3,EMP00155,3.9,False,0.0092,Information Broker,0.0061225461132277,0.0077,🟢 Stable
+EMP00518,H. Dartono Mardhiyah,Finance,3,Specialist,2019-01-03,5.99,21742538,L,31,S2,EMP00523,3.8,False,0.0092,Information Broker,0.0062163598586748,0.0077,🟢 Stable
+EMP00630,Winda Hidayat,Operations,2,Senior Staff,2023-02-03,1.91,8286076,L,48,S1,EMP00601,4.3,False,0.0092,Information Broker,0.0062993813756525,0.0077,🟢 Stable
+EMP00197,Drs. Maria Pudjiastuti,Engineering,1,Staff,2022-10-26,2.18,21211147,L,38,S2,EMP00155,3.7,False,0.0092,Information Broker,0.0061301089736146,0.0077,🟢 Stable
+EMP00985,"drg. Amalia Siregar, S.Farm",Research,3,Specialist,2020-02-02,4.91,23886563,L,51,S1,EMP00942,2.5,False,0.0092,Information Broker,0.0059517796589699,0.0076,🟢 Stable
+EMP00261,"Ika Puspita, S.Ked",Marketing,1,Staff,2021-08-15,3.38,10986965,P,28,D3,EMP00318,3.7,False,0.0092,Information Broker,0.0060764486757884,0.0076,🟢 Stable
+EMP00165,"Dr. Mahfud Winarsih, S.Kom",Engineering,2,Senior Staff,2023-06-14,1.55,18239095,L,35,S1,EMP00155,3.3,False,0.0092,Information Broker,0.0059112972670798,0.0076,🟢 Stable
+EMP00656,Melinda Gunarto,Operations,1,Staff,2021-03-10,3.81,9440212,L,25,S1,EMP00601,3.3,False,0.0092,Information Broker,0.0060618500483869,0.0076,🟢 Stable
+EMP00072,Bagus Usamah,Engineering,2,Senior Staff,2019-07-24,5.44,20456697,P,44,S1,EMP00155,3.2,False,0.0092,Information Broker,0.0060081837404253,0.0076,🟢 Stable
+EMP00783,Dewi Pertiwi,Customer Success,1,Staff,2022-05-18,2.62,8831297,L,29,S1,EMP00846,3.7,False,0.0092,Information Broker,0.00583863490105,0.0075,🟢 Stable
+EMP00668,Vanesa Hutagalung,Operations,2,Senior Staff,2022-07-03,2.5,11821432,P,40,S1,EMP00601,4.3,False,0.0092,Information Broker,0.0057482399590095,0.0075,🟢 Stable
+EMP00401,"Perkasa Wahyuni, S.E.I",Sales,3,Specialist,2019-11-10,5.14,20515241,P,30,S1,EMP00474,2.8,False,0.0092,Information Broker,0.0057433037699438,0.0075,🟢 Stable
+EMP00343,dr. Bakiman Prasetyo,Sales,3,Specialist,2021-03-24,3.77,26315482,L,34,D3,EMP00474,4.5,False,0.0092,Information Broker,0.0057223056699658,0.0075,🟢 Stable
+EMP00351,"Dr. Emas Adriansyah, S.Pd",Sales,1,Staff,2018-09-27,6.26,13162106,L,39,S1,EMP00474,1.5,False,0.0092,Information Broker,0.0057259661827054,0.0075,🟢 Stable
+EMP00280,"Patricia Mahendra, S.T.",Marketing,3,Specialist,2022-12-06,2.07,16364184,P,47,S1,EMP00318,2.7,False,0.0092,Information Broker,0.0058650292908021,0.0075,🟢 Stable
+EMP00050,KH. Cemani Mayasari,Engineering,2,Senior Staff,2018-11-24,6.1,15622461,L,50,S1,EMP00155,2.7,False,0.0092,Information Broker,0.0056783508672508,0.0074,🟢 Stable
+EMP00377,"Ifa Dabukke, S.Gz",Sales,3,Specialist,2023-07-23,1.44,20031807,P,51,S1,EMP00474,2.4,False,0.0092,Information Broker,0.0056368876153668,0.0074,🟢 Stable
+EMP00036,Panca Purwanti,Engineering,1,Staff,2019-11-09,5.14,13151306,L,40,S1,EMP00155,3.2,False,0.0092,Information Broker,0.0056800960388251,0.0074,🟢 Stable
+EMP00198,Endah Kusmawati,Engineering,3,Specialist,2021-10-28,3.18,18536337,L,23,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0055215571342112,0.0074,🟢 Stable
+EMP00303,Shakila Riyanti,Marketing,2,Senior Staff,2022-09-13,2.3,16029005,L,28,S1,EMP00318,4.0,False,0.0092,Information Broker,0.0053905189231054,0.0073,🟢 Stable
+EMP00535,Utama Tampubolon,Finance,2,Senior Staff,2021-12-03,3.08,13547270,P,50,D3,EMP00523,3.8,False,0.0092,Information Broker,0.0054435565968354,0.0073,🟢 Stable
+EMP00879,"Ir. Reza Sinaga, S.H.",IT Infrastructure,3,Specialist,2023-08-23,1.36,17991224,L,37,D3,EMP00925,2.8,False,0.0092,Information Broker,0.0053295420840714,0.0073,🟢 Stable
+EMP00904,"Rahmi Putra, S.Sos",IT Infrastructure,1,Staff,2019-06-29,5.51,16243986,L,35,S2,EMP00925,3.0,False,0.0092,Central Connector,0.0054110163985572,0.0073,🟢 Stable
+EMP00134,"R.M. Makuta Saptono, S.E.",Engineering,2,Senior Staff,2020-01-01,5.0,15954756,L,25,S1,EMP00155,2.8,False,0.0092,Information Broker,0.0053636191049312,0.0073,🟢 Stable
+EMP00047,"Ir. Ganep Kusumo, S.Pd",Engineering,3,Specialist,2018-09-27,6.26,25475406,L,47,S1,EMP00155,3.0,False,0.0092,Information Broker,0.0054115920952123,0.0073,🟢 Stable
+EMP00548,Galak Hariyah,Finance,1,Staff,2022-09-24,2.27,13928462,L,50,S1,EMP00523,3.5,False,0.0092,Central Connector,0.0054392036345192,0.0073,🟢 Stable
+EMP00135,"Maimunah Puspasari, S.Farm",Engineering,3,Specialist,2019-03-07,5.82,27909316,L,43,S1,EMP00155,3.6,False,0.0092,Information Broker,0.0052288428609867,0.0072,🟢 Stable
+EMP00857,Kezia Hassanah,Customer Success,2,Senior Staff,2019-09-13,5.3,12756520,L,37,S1,EMP00846,4.5,False,0.0092,Information Broker,0.00517787597028,0.0072,🟢 Stable
+EMP00284,"Cut Queen Suryono, M.Kom.",Marketing,2,Senior Staff,2019-11-07,5.15,10533694,P,44,S1,EMP00318,2.8,False,0.0092,Information Broker,0.0052710454716747,0.0072,🟢 Stable
+EMP00471,Jessica Hasanah,Sales,2,Senior Staff,2023-05-26,1.6,15592454,P,24,S1,EMP00474,3.8,False,0.0092,Information Broker,0.0052892030837269,0.0072,🟢 Stable
+EMP00195,"Karta Purwanti, M.Ak",Engineering,1,Staff,2020-10-27,4.18,12766637,P,27,S2,EMP00155,4.0,False,0.0092,Information Broker,0.005228611389567,0.0072,🟢 Stable
+EMP00658,Suci Hakim,Operations,2,Senior Staff,2020-12-20,4.03,11885494,P,28,S2,EMP00601,2.8,False,0.0092,Information Broker,0.0052137556973994,0.0072,🟢 Stable
+EMP00838,Vero Pratiwi,Customer Success,2,Senior Staff,2020-10-16,4.21,14765410,L,30,S1,EMP00846,5.0,False,0.0092,Information Broker,0.0052482155614222,0.0072,🟢 Stable
+EMP00386,"Dodo Haryanti, S.T.",Sales,2,Senior Staff,2018-09-25,6.27,13737955,L,28,S2,EMP00474,3.4,False,0.0092,Information Broker,0.0051215120500196,0.0072,🟢 Stable
+EMP00711,"Drs. Hamzah Safitri, S.Ked",Data & Analytics,1,Staff,2019-11-06,5.15,16771313,L,27,S2,EMP00728,3.7,False,0.0092,Information Broker,0.0050574630559664,0.0071,🟢 Stable
+EMP00026,Hj. Ella Nasyidah,Engineering,1,Staff,2022-04-23,2.69,15393392,P,35,S1,EMP00155,4.6,False,0.0092,Information Broker,0.0050432861676921,0.0071,🟢 Stable
+EMP00444,Bagiya Puspasari,Sales,1,Staff,2022-07-22,2.44,10116397,L,25,D3,EMP00474,3.2,False,0.0092,Information Broker,0.0050814147719591,0.0071,🟢 Stable
+EMP00008,"Sadina Palastri, S.Farm",Engineering,3,Specialist,2020-06-26,4.51,22729239,P,26,S2,EMP00155,3.6,False,0.0092,Information Broker,0.005042555391412,0.0071,🟢 Stable
+EMP00888,Keisha Nashiruddin,IT Infrastructure,1,Staff,2023-01-28,1.92,12175552,P,46,D3,EMP00925,4.9,False,0.0092,Information Broker,0.0050303656493115,0.0071,🟢 Stable
+EMP00882,Almira Puspita,IT Infrastructure,4,Lead,2020-05-25,4.6,19894122,P,25,S1,,4.8,False,0.0092,Information Broker,0.0049363151442124,0.0071,🟢 Stable
+EMP00369,"Bajragin Sitompul, M.Pd",Sales,1,Staff,2019-07-05,5.49,9408540,P,30,S1,EMP00474,3.7,False,0.0092,Information Broker,0.0049938626682093,0.0071,🟢 Stable
+EMP00853,Warji Halimah,Customer Success,1,Staff,2020-01-17,4.96,9075041,P,23,S2,EMP00846,4.2,False,0.0092,Information Broker,0.0050387003502657,0.0071,🟢 Stable
+EMP00337,"Dt. Damu Santoso, M.Pd",Marketing,4,Lead,2022-06-29,2.51,22840814,L,35,S2,,3.5,False,0.0092,Information Broker,0.0048027977843208,0.007,🟢 Stable
+EMP00340,Alambana Usamah,Marketing,1,Staff,2022-01-25,2.93,10693192,L,44,S1,EMP00318,4.1,False,0.0092,Central Connector,0.0047647406006318,0.007,🟢 Stable
+EMP00009,Ikin Rahmawati,Engineering,1,Staff,2020-12-03,4.08,14393530,L,35,S1,EMP00155,4.4,False,0.0092,Information Broker,0.0047856029518926,0.007,🟢 Stable
+EMP00361,"Prima Yulianti, S.E.I",Sales,2,Senior Staff,2022-02-21,2.86,15242932,L,22,S1,EMP00474,4.1,False,0.0092,Information Broker,0.0045921432463459,0.0069,🟢 Stable
+EMP00808,"drg. Cengkir Siregar, S.Gz",Customer Success,3,Specialist,2022-12-23,2.02,12298181,L,25,D3,EMP00846,3.0,False,0.0092,Central Connector,0.0045936477677873,0.0069,🟢 Stable
+EMP00557,Ihsan Jailani,HR,2,Senior Staff,2019-11-21,5.11,11916543,L,46,D3,EMP00575,3.2,False,0.0092,Central Connector,0.0046313438779991,0.0069,🟢 Stable
+EMP00667,"Ihsan Uwais, S.I.Kom",Operations,4,Lead,2019-05-18,5.62,16327504,P,30,S1,,3.0,False,0.0092,Information Broker,0.0045494017111158,0.0069,🟢 Stable
+EMP00002,Darmana Mandala,Engineering,2,Senior Staff,2020-01-19,4.95,16497967,P,45,S2,EMP00155,3.9,False,0.0092,Information Broker,0.0046444923625663,0.0069,🟢 Stable
+EMP00490,"Margana Puspita, S.Ked",Sales,1,Staff,2020-06-20,4.53,13179840,P,22,D3,EMP00474,3.2,False,0.0092,Information Broker,0.0045227742320883,0.0069,🟢 Stable
+EMP00946,Puspa Kusmawati,Research,1,Staff,2020-06-02,4.58,17023754,P,23,S1,EMP00942,3.2,False,0.0092,Information Broker,0.0045027561705053,0.0069,🟢 Stable
+EMP00448,Kayun Ramadan,Sales,2,Senior Staff,2021-04-25,3.69,13869446,P,31,S2,EMP00474,3.1,False,0.0092,Information Broker,0.0043383115682524,0.0068,🟢 Stable
+EMP00396,Ajeng Pratiwi,Sales,1,Staff,2019-10-24,5.19,11350934,P,42,D3,EMP00474,2.6,False,0.0092,Information Broker,0.0043530171470654,0.0068,🟢 Stable
+EMP00107,Wardaya Purnawati,Engineering,3,Specialist,2021-01-23,3.94,15981065,L,29,S1,EMP00155,2.4,False,0.0092,Information Broker,0.0044568108532678,0.0068,🟢 Stable
+EMP00459,T. Jagapati Yuniar,Sales,1,Staff,2023-03-18,1.79,10806776,L,37,S1,EMP00474,3.5,False,0.0092,Information Broker,0.0044427120520287,0.0068,🟢 Stable
+EMP00378,Wulan Hakim,Sales,3,Specialist,2021-09-18,3.29,16590070,L,38,S1,EMP00474,4.5,False,0.0092,Information Broker,0.0043424005629496,0.0068,🟢 Stable
+EMP00102,Olivia Nuraini,Engineering,3,Specialist,2021-05-20,3.62,28170391,L,27,S1,EMP00155,3.1,False,0.0092,Information Broker,0.0044455847891168,0.0068,🟢 Stable
+EMP00627,Dt. Harsaya Halimah,Operations,1,Staff,2020-06-12,4.55,14165250,L,27,S1,EMP00601,2.8,False,0.0092,Information Broker,0.0044891462170253,0.0068,🟢 Stable
+EMP00247,"Hairyanto Hidayat, M.TI.",Product,1,Staff,2021-01-05,3.99,16619723,P,29,S1,EMP00254,2.5,False,0.0092,Information Broker,0.0044590520570472,0.0068,🟢 Stable
+EMP00029,"Puti Prasetya, S.Psi",Engineering,4,Lead,2020-01-14,4.96,22953190,L,48,S1,,3.8,False,0.0092,Information Broker,0.0044189019045858,0.0068,🟢 Stable
+EMP00023,"Rafid Utama, S.E.",Engineering,1,Staff,2022-03-21,2.78,14879476,L,25,S2,EMP00155,4.7,False,0.0092,Information Broker,0.0042104670969468,0.0067,🟢 Stable
+EMP00368,Sarah Widodo,Sales,3,Specialist,2022-10-25,2.18,19525104,P,26,S1,EMP00474,3.7,False,0.0092,Information Broker,0.004281931561511,0.0067,🟢 Stable
+EMP00677,Banawi Mansur,Operations,1,Staff,2019-09-01,5.33,7055514,L,24,S3,EMP00601,3.0,False,0.0092,Information Broker,0.0041089317685334,0.0067,🟢 Stable
+EMP00379,Kani Wahyudin,Sales,1,Staff,2022-12-07,2.07,11651464,L,36,S1,EMP00474,4.1,False,0.0092,Information Broker,0.0041885829759401,0.0067,🟢 Stable
+EMP00246,"Dt. Ganjaran Nasyidah, S.Farm",Product,1,Staff,2021-06-24,3.52,18682063,L,32,S1,EMP00254,3.3,False,0.0092,Information Broker,0.0040230583041831,0.0066,🟢 Stable
+EMP00980,Irfan Hassanah,Research,2,Senior Staff,2018-12-11,6.06,19100261,P,32,S1,EMP00942,3.7,False,0.0092,Central Connector,0.0039979758746502,0.0066,🟢 Stable
+EMP00452,Cayadi Saptono,Sales,2,Senior Staff,2019-06-19,5.54,18000014,L,27,S1,EMP00474,4.4,False,0.0092,Information Broker,0.0039228808078275,0.0066,🟢 Stable
+EMP00932,Adiarja Nasyidah,Research,1,Staff,2022-01-08,2.98,19621770,L,46,D3,EMP00942,3.4,False,0.0092,Information Broker,0.0039251467308824,0.0066,🟢 Stable
+EMP00005,Among Iswahyudi,Engineering,3,Specialist,2020-12-21,4.03,31024041,L,26,S1,EMP00155,3.1,False,0.0092,Information Broker,0.0039028944643929,0.0066,🟢 Stable
+EMP00425,Warsita Firgantoro,Sales,3,Specialist,2023-03-01,1.84,18763147,L,31,S2,EMP00474,2.6,False,0.0092,Information Broker,0.0040901853895182,0.0066,🟢 Stable
+EMP00127,Paiman Puspasari,Engineering,3,Specialist,2023-09-01,1.33,19418231,P,32,S1,EMP00155,2.5,False,0.0092,Information Broker,0.003938479271419,0.0066,🟢 Stable
+EMP00299,"Sutan Luis Prabowo, S.T.",Marketing,1,Staff,2022-04-27,2.68,8384319,P,46,S1,EMP00318,3.1,False,0.0092,Information Broker,0.0037547799667413,0.0065,🟢 Stable
+EMP00083,"Martani Yuliarti, S.IP",Engineering,1,Staff,2021-11-06,3.15,14841809,L,32,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0038152894115471,0.0065,🟢 Stable
+EMP00673,Padma Wibisono,Operations,1,Staff,2020-10-11,4.22,7867637,L,40,S1,EMP00601,2.6,False,0.0092,Information Broker,0.0037799720063332,0.0065,🟢 Stable
+EMP00517,Cager Wibowo,Finance,1,Staff,2020-04-18,4.7,12672929,L,44,S1,EMP00523,4.3,False,0.0092,Central Connector,0.0038235024346052,0.0065,🟢 Stable
+EMP00510,"Lega Laksita, M.TI.",Finance,3,Specialist,2022-07-05,2.49,20571937,L,23,S1,EMP00523,3.3,False,0.0092,Central Connector,0.0038422062565995,0.0065,🟢 Stable
+EMP00258,"dr. Elvina Laksita, S.Kom",Product,5,Manager,2022-02-19,2.86,33643210,L,35,S1,,3.6,False,0.0092,Information Broker,0.0038956579298065,0.0065,🟢 Stable
+EMP00793,Mulyono Nuraini,Customer Success,3,Specialist,2020-08-15,4.38,14641817,P,45,S1,EMP00846,2.6,False,0.0092,Central Connector,0.003591965954921,0.0064,🟢 Stable
+EMP00631,Halima Wahyuni,Operations,1,Staff,2019-12-18,5.04,6416984,L,22,S1,EMP00601,3.6,False,0.0092,Information Broker,0.0036211426109231,0.0064,🟢 Stable
+EMP00053,Drs. Dalimin Mangunsong,Engineering,3,Specialist,2022-10-18,2.2,23299852,L,42,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0035547524788714,0.0064,🟢 Stable
+EMP00120,Tasnim Prasasta,Engineering,2,Senior Staff,2023-09-24,1.27,17384866,L,45,S1,EMP00155,3.1,False,0.0092,Information Broker,0.0036117827752692,0.0064,🟢 Stable
+EMP00525,Halim Damanik,Finance,3,Specialist,2023-06-13,1.55,23316319,L,29,S1,EMP00523,3.0,False,0.0092,Information Broker,0.0035616913444539,0.0064,🟢 Stable
+EMP00991,Atma Marbun,Research,5,Manager,2019-09-30,5.25,37509855,P,45,S1,,3.5,False,0.0092,Central Connector,0.0035526617064324,0.0064,🟢 Stable
+EMP00356,Janet Nainggolan,Sales,1,Staff,2021-03-28,3.76,11295814,L,46,S1,EMP00474,3.8,False,0.0092,Information Broker,0.0033919396668579,0.0063,🟢 Stable
+EMP00605,Hardi Prasetyo,Operations,3,Specialist,2020-02-10,4.89,15830168,P,37,S1,EMP00601,3.7,False,0.0092,Information Broker,0.0034437729370393,0.0063,🟢 Stable
+EMP00256,"drg. Kairav Suryatmi, S.Sos",Product,3,Specialist,2022-07-31,2.42,34894473,L,30,S1,EMP00254,5.0,False,0.0092,Information Broker,0.0033918341489771,0.0063,🟢 Stable
+EMP00479,Dt. Langgeng Purwanti,Sales,1,Staff,2021-12-16,3.04,12275897,P,37,S1,EMP00474,3.9,False,0.0092,Central Connector,0.0031347952670509,0.0062,🟢 Stable
+EMP00119,Wardi Tampubolon,Engineering,3,Specialist,2021-01-17,3.95,22058124,L,43,D3,EMP00155,2.5,False,0.0092,Central Connector,0.003190097870701,0.0062,🟢 Stable
+EMP00440,Mujur Prabowo,Sales,3,Specialist,2023-01-24,1.94,14682146,P,27,S1,EMP00474,2.9,False,0.0092,Information Broker,0.0031578348428917,0.0062,🟢 Stable
+EMP00476,Radika Hutasoit,Sales,1,Staff,2023-10-17,1.21,10696957,P,31,S1,EMP00474,3.2,False,0.0092,Information Broker,0.0032175381101943,0.0062,🟢 Stable
+EMP00647,Talia Mandasari,Operations,2,Senior Staff,2018-07-16,6.46,10319180,P,29,D3,EMP00601,3.3,False,0.0092,Information Broker,0.0032448088293372,0.0062,🟢 Stable
+EMP00592,Malika Suryono,Operations,2,Senior Staff,2022-07-21,2.45,10421505,P,30,S2,EMP00601,4.3,False,0.0092,Central Connector,0.0031450538971496,0.0062,🟢 Stable
+EMP00292,Kalim Agustina,Marketing,1,Staff,2022-11-23,2.11,13147253,P,22,S1,EMP00318,3.9,False,0.0092,Information Broker,0.0032922135330832,0.0062,🟢 Stable
+EMP00221,Umaya Wijaya,Product,3,Specialist,2023-11-04,1.16,20009694,P,35,S1,EMP00254,2.3,False,0.0092,Information Broker,0.0032778139264152,0.0062,🟢 Stable
+EMP00014,Gatot Situmorang,Engineering,3,Specialist,2021-03-28,3.76,22170054,L,42,D3,EMP00155,3.1,False,0.0092,Information Broker,0.003242584411149,0.0062,🟢 Stable
+EMP00703,Raisa Nasyidah,Data & Analytics,3,Specialist,2023-06-28,1.51,27091408,L,32,S1,EMP00728,3.6,False,0.0092,Information Broker,0.0030855043185574,0.0061,🟢 Stable
+EMP00202,Nasab Suwarno,Product,4,Lead,2018-09-18,6.29,37859904,L,48,S1,,1.2,False,0.0092,Information Broker,0.0030972356236767,0.0061,🟢 Stable
+EMP00489,"Drs. Vivi Oktaviani, M.Ak",Sales,2,Senior Staff,2023-02-13,1.88,15283209,P,32,S1,EMP00474,3.3,False,0.0092,Information Broker,0.0029157438175506,0.0061,🟢 Stable
+EMP00933,dr. Adinata Budiyanto,Research,1,Staff,2023-10-03,1.25,16499492,L,51,S2,EMP00942,3.5,False,0.0092,Central Connector,0.0029657662406515,0.0061,🟢 Stable
+EMP00902,Yono Lazuardi,IT Infrastructure,1,Staff,2019-01-21,5.94,15163028,P,32,D3,EMP00925,2.8,False,0.0092,Information Broker,0.0029789519429401,0.0061,🟢 Stable
+EMP00903,"Usyi Kuswandari, S.H.",IT Infrastructure,3,Specialist,2022-03-28,2.76,20120000,P,51,S1,EMP00925,4.0,False,0.0092,Information Broker,0.0029551644631727,0.0061,🟢 Stable
+EMP00837,drg. Karsana Tarihoran,Customer Success,2,Senior Staff,2021-01-02,3.99,11619227,P,22,S1,EMP00846,4.6,False,0.0092,Central Connector,0.0028702986263144,0.006,🟢 Stable
+EMP00095,Harsaya Saptono,Engineering,3,Specialist,2021-06-29,3.51,30612794,L,43,S1,EMP00155,3.6,False,0.0092,Information Broker,0.0027110670197101,0.006,🟢 Stable
+EMP00290,Rosman Pratiwi,Marketing,3,Specialist,2022-03-03,2.83,16718911,P,22,S2,EMP00318,3.8,False,0.0092,Information Broker,0.0027387359021347,0.006,🟢 Stable
+EMP00049,Xanana Saptono,Engineering,2,Senior Staff,2021-02-05,3.9,15727215,P,50,S2,EMP00155,3.0,False,0.0092,Information Broker,0.0028230654509865,0.006,🟢 Stable
+EMP00805,"Tari Firgantoro, S.E.",Customer Success,3,Specialist,2020-07-22,4.44,12521506,P,49,S1,EMP00846,3.3,False,0.0092,Central Connector,0.0028752973051865,0.006,🟢 Stable
+EMP00184,"Sutan Cakrajiya Dongoran, S.Gz",Engineering,1,Staff,2022-05-08,2.65,13650518,L,41,S1,EMP00155,4.0,False,0.0092,Information Broker,0.002863144943015,0.006,🟢 Stable
+EMP00093,Gabriella Wacana,Engineering,4,Lead,2020-02-23,4.85,22456454,P,48,S1,,1.6,False,0.0092,Information Broker,0.0025364353646119,0.0059,🟢 Stable
+EMP00467,T. Jaeman Mayasari,Sales,3,Specialist,2023-09-19,1.28,19304168,L,24,S1,EMP00474,2.6,False,0.0092,Information Broker,0.0025044065700648,0.0059,🟢 Stable
+EMP00463,Rachel Maulana,Sales,1,Staff,2023-11-24,1.1,10766304,L,24,S1,EMP00474,3.2,False,0.0092,Information Broker,0.0025106727694067,0.0059,🟢 Stable
+EMP00162,Harsana Permata,Engineering,3,Specialist,2022-12-17,2.04,24324021,P,34,S2,EMP00155,2.7,False,0.0092,Information Broker,0.0025642778504057,0.0059,🟢 Stable
+EMP00043,Kezia Riyanti,Engineering,1,Staff,2022-08-17,2.37,15605256,L,51,S1,EMP00155,3.5,False,0.0092,Information Broker,0.0025210921711263,0.0059,🟢 Stable
+EMP00207,"Gabriella Haryanto, S.Farm",Product,4,Lead,2020-07-20,4.45,27720264,P,50,S1,,4.9,False,0.0092,Information Broker,0.0025229326647893,0.0059,🟢 Stable
+EMP00187,Nasim Winarno,Engineering,2,Senior Staff,2018-12-13,6.05,17136853,L,39,S1,EMP00155,4.3,False,0.0092,Information Broker,0.0026280445373911,0.0059,🟢 Stable
+EMP00375,Cinthia Usada,Sales,4,Lead,2022-08-14,2.38,25799981,P,35,S1,,2.8,False,0.0092,Information Broker,0.0026832649065901,0.0059,🟢 Stable
+EMP00542,"Drs. Ikin Zulaika, M.Farm",Finance,2,Senior Staff,2020-07-04,4.49,15197973,L,45,S1,EMP00523,3.0,False,0.0092,Information Broker,0.002460847109337,0.0058,🟢 Stable
+EMP00864,"Puji Anggraini, M.Pd",IT Infrastructure,3,Specialist,2023-03-16,1.8,14867684,L,40,S1,EMP00925,3.8,False,0.0092,Information Broker,0.0024888165687051,0.0058,🟢 Stable
+EMP00173,Shania Natsir,Engineering,3,Specialist,2019-11-07,5.15,18456967,L,30,D3,EMP00155,3.9,False,0.0092,Information Broker,0.0024219562554975,0.0058,🟢 Stable
+EMP00112,Mulyono Sihotang,Engineering,1,Staff,2023-06-29,1.51,17052607,L,32,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0023343964682124,0.0058,🟢 Stable
+EMP00061,"Puti Vanya Nasyidah, S.E.I",Engineering,1,Staff,2023-01-29,1.92,12349052,L,23,S2,EMP00155,2.5,False,0.0092,Information Broker,0.0023802677696369,0.0058,🟢 Stable
+EMP00078,"Queen Permata, M.Kom.",Engineering,4,Lead,2020-05-29,4.59,24564090,L,26,S1,,4.4,False,0.0092,Information Broker,0.0023176380611626,0.0058,🟢 Stable
+EMP00599,Mila Mulyani,Operations,2,Senior Staff,2019-11-22,5.11,10894845,L,32,S1,EMP00601,2.6,False,0.0092,Information Broker,0.0024087574159175,0.0058,🟢 Stable
+EMP00803,Umaya Irawan,Customer Success,2,Senior Staff,2021-02-04,3.9,12429972,L,22,S2,EMP00846,2.9,False,0.0092,Information Broker,0.0024531776764139,0.0058,🟢 Stable
+EMP00600,Radika Fujiati,Operations,1,Staff,2021-09-16,3.29,8214156,L,29,S1,EMP00601,4.4,False,0.0092,Information Broker,0.002469223755599,0.0058,🟢 Stable
+EMP00017,Cindy Puspasari,Engineering,2,Senior Staff,2020-01-11,4.97,17151253,P,31,S1,EMP00155,2.3,False,0.0092,Information Broker,0.0022587242835921,0.0057,🟢 Stable
+EMP00502,Candrakanta Safitri,Finance,1,Staff,2019-07-17,5.46,12563358,L,26,S1,EMP00523,3.8,False,0.0092,Information Broker,0.0022730389799552,0.0057,🟢 Stable
+EMP00481,Kamila Widiastuti,Sales,2,Senior Staff,2021-02-06,3.9,15314249,L,35,S1,EMP00474,4.2,False,0.0092,Central Connector,0.0021966378565862,0.0057,🟢 Stable
+EMP00200,"Hj. Ika Nurdiyanti, M.Kom.",Engineering,2,Senior Staff,2019-08-27,5.35,15833778,P,27,S2,EMP00155,4.2,False,0.0092,Information Broker,0.0021738916136645,0.0057,🟢 Stable
+EMP00392,Harjo Laksmiwati,Sales,3,Specialist,2021-03-05,3.82,18397527,L,42,S1,EMP00474,3.7,False,0.0092,Information Broker,0.0021869632746957,0.0057,🟢 Stable
+EMP00123,"Ilsa Suryatmi, M.TI.",Engineering,4,Lead,2021-01-15,3.96,22164654,P,45,D3,,3.1,False,0.0092,Information Broker,0.0022422023271981,0.0057,🟢 Stable
+EMP00159,Ani Kurniawan,Engineering,2,Senior Staff,2020-07-04,4.49,20007014,P,24,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0019905711563917,0.0056,🟢 Stable
+EMP00409,T. Radika Marbun,Sales,2,Senior Staff,2022-02-19,2.86,13842753,L,37,S1,EMP00474,2.5,False,0.0092,Information Broker,0.0020527747443658,0.0056,🟢 Stable
+EMP00453,Budi Andriani,Sales,2,Senior Staff,2022-05-09,2.65,13255739,L,27,S1,EMP00474,2.6,False,0.0092,Information Broker,0.0020600313191111,0.0056,🟢 Stable
+EMP00918,"Warsa Sirait, S.T.",IT Infrastructure,1,Staff,2020-03-04,4.83,11324316,P,44,S1,EMP00925,4.0,False,0.0092,Information Broker,0.0020463784698815,0.0056,🟢 Stable
+EMP00345,Tina Siregar,Sales,1,Staff,2023-05-08,1.65,12076981,P,24,S1,EMP00474,3.4,False,0.0092,Information Broker,0.0019151849033857,0.0056,🟢 Stable
+EMP00116,"R. Adika Haryanti, M.Ak",Engineering,2,Senior Staff,2020-10-20,4.2,19462934,P,39,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0018384716845295,0.0055,🟢 Stable
+EMP00487,Calista Setiawan,Sales,2,Senior Staff,2019-12-31,5.0,9998924,L,38,S1,EMP00474,2.9,False,0.0092,Information Broker,0.001878677961279,0.0055,🟢 Stable
+EMP00458,Ozy Wahyuni,Sales,1,Staff,2019-09-02,5.33,12777445,L,46,S1,EMP00474,3.2,False,0.0092,Information Broker,0.0018274118346523,0.0055,🟢 Stable
+EMP00151,Ina Pradana,Engineering,2,Senior Staff,2020-12-22,4.02,13519894,L,43,S2,EMP00155,3.4,False,0.0092,Information Broker,0.0015278586765105,0.0054,🟢 Stable
+EMP00234,R. Halima Mahendra,Product,1,Staff,2021-09-08,3.31,17176092,P,36,S2,EMP00254,4.4,False,0.0092,Central Connector,0.0016326549101731,0.0054,🟢 Stable
+EMP00192,Alika Puspita,Engineering,2,Senior Staff,2018-11-17,6.12,15708369,L,33,S1,EMP00155,3.8,False,0.0092,Information Broker,0.00167029028107,0.0054,🟢 Stable
+EMP00124,Mulyanto Puspasari,Engineering,4,Lead,2023-11-26,1.1,24960014,P,28,S2,,4.8,False,0.0092,Information Broker,0.0016003762749716,0.0054,🟢 Stable
+EMP00897,Embuh Waluyo,IT Infrastructure,1,Staff,2021-06-28,3.51,13066778,L,35,S1,EMP00925,1.6,False,0.0092,Information Broker,0.0016762351606723,0.0054,🟢 Stable
+EMP00317,Unjani Sinaga,Marketing,2,Senior Staff,2023-05-14,1.63,10398547,P,32,S1,EMP00318,2.8,False,0.0092,Information Broker,0.0016184884278379,0.0054,🟢 Stable
+EMP00473,Maria Sihotang,Sales,1,Staff,2020-03-07,4.82,15356700,P,22,S1,EMP00474,2.7,False,0.0092,Information Broker,0.0016667670432465,0.0054,🟢 Stable
+EMP00024,Kamila Pranowo,Engineering,1,Staff,2018-08-29,6.34,13453863,P,28,S1,EMP00155,4.7,False,0.0092,Information Broker,0.001655849335934,0.0054,🟢 Stable
+EMP00990,Hasna Lailasari,Research,2,Senior Staff,2019-08-06,5.4,18443449,P,23,S1,EMP00942,3.2,False,0.0092,Central Connector,0.0013836729252295,0.0053,🟢 Stable
+EMP00313,Dewi Hastuti,Marketing,1,Staff,2021-11-16,3.12,11376386,P,25,S1,EMP00318,3.9,False,0.0092,Central Connector,0.0014193980147668,0.0053,🟢 Stable
+EMP00331,Hafshah Sinaga,Marketing,1,Staff,2023-03-15,1.8,13239203,L,39,S1,EMP00318,3.5,False,0.0092,Information Broker,0.0013483375808944,0.0053,🟢 Stable
+EMP00612,Rafid Maryadi,Operations,4,Lead,2022-05-28,2.6,18883121,L,22,S2,,3.8,False,0.0092,Central Connector,0.0014495439486322,0.0053,🟢 Stable
+EMP00191,Cecep Maryati,Engineering,3,Specialist,2023-04-15,1.71,25193690,P,25,S1,EMP00155,3.3,False,0.0092,Information Broker,0.0014249036594786,0.0053,🟢 Stable
+EMP00799,Hasim Yolanda,Customer Success,1,Staff,2023-02-09,1.89,8946072,L,24,S1,EMP00846,3.6,False,0.0092,Information Broker,0.0014143356812605,0.0053,🟢 Stable
+EMP00655,"Maria Marbun, M.M.",Operations,1,Staff,2021-05-08,3.65,9124094,P,38,S2,EMP00601,4.1,False,0.0092,Information Broker,0.0014059972754536,0.0053,🟢 Stable
+EMP00543,"Makara Oktaviani, S.Psi",Finance,1,Staff,2023-03-22,1.78,10061229,L,31,S1,EMP00523,3.9,False,0.0092,Information Broker,0.0013930108973188,0.0053,🟢 Stable
+EMP00892,Lidya Puspita,IT Infrastructure,1,Staff,2023-04-23,1.69,12034283,L,45,S1,EMP00925,3.0,False,0.0092,Information Broker,0.0014572415960274,0.0053,🟢 Stable
+EMP00103,Asmianto Melani,Engineering,1,Staff,2023-03-02,1.83,13250621,L,23,S1,EMP00155,3.0,False,0.0092,Information Broker,0.0013151476894199,0.0053,🟢 Stable
+EMP00963,"Jelita Habibi, S.IP",Research,1,Staff,2018-08-27,6.35,16834544,L,27,S1,EMP00942,2.9,False,0.0092,Information Broker,0.0014926629446425,0.0053,🟢 Stable
+EMP00022,Indah Hasanah,Engineering,1,Staff,2020-12-24,4.02,14686542,L,37,S1,EMP00155,4.1,False,0.0092,Information Broker,0.0011583431700037,0.0052,🟢 Stable
+EMP00966,drg. Vicky Simbolon,Research,3,Specialist,2023-04-03,1.75,22351459,L,25,S1,EMP00942,2.9,False,0.0092,Information Broker,0.0012252268167033,0.0052,🟢 Stable
+EMP00031,Hasna Haryanto,Engineering,1,Staff,2019-10-15,5.21,14266750,L,39,S1,EMP00155,3.9,False,0.0092,Information Broker,0.0012385605550948,0.0052,🟢 Stable
+EMP00710,"Drs. Eman Yulianti, S.Kom",Data & Analytics,4,Lead,2020-03-19,4.79,28992880,L,41,S1,,4.1,False,0.0092,Central Connector,0.0011056049389736,0.0052,🟢 Stable
+EMP00098,Dadap Sihombing,Engineering,1,Staff,2021-06-30,3.5,14960535,P,34,S1,EMP00155,2.8,False,0.0092,Information Broker,0.0012321101635048,0.0052,🟢 Stable
+EMP00267,Talia Prasasta,Marketing,1,Staff,2018-09-27,6.26,11705838,P,30,S1,EMP00318,3.6,False,0.0092,Information Broker,0.0011814168837533,0.0052,🟢 Stable
+EMP00876,Jefri Siregar,IT Infrastructure,2,Senior Staff,2018-07-25,6.44,14771837,L,34,S1,EMP00925,2.9,False,0.0092,Central Connector,0.0012157871767303,0.0052,🟢 Stable
+EMP00520,Hasta Gunarto,Finance,2,Senior Staff,2022-02-01,2.91,16100383,P,28,S1,EMP00523,3.7,False,0.0092,Information Broker,0.0012332983581847,0.0052,🟢 Stable
+EMP00145,"R. Wirda Nugroho, S.Farm",Engineering,3,Specialist,2018-08-08,6.4,18226470,P,47,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0012582065316156,0.0052,🟢 Stable
+EMP00606,Galuh Januar,Operations,1,Staff,2023-03-26,1.77,8336079,P,46,S1,EMP00601,3.8,False,0.0092,Information Broker,0.0011979224962403,0.0052,🟢 Stable
+EMP00338,Wira Suwarno,Marketing,2,Senior Staff,2022-10-11,2.22,15974439,L,40,D3,EMP00318,2.9,False,0.0092,Information Broker,0.0010785433011189,0.0051,🟢 Stable
+EMP00286,Aslijan Ramadan,Marketing,3,Specialist,2022-11-29,2.09,17100686,L,42,S1,EMP00318,3.4,False,0.0092,Central Connector,0.0009751882110342,0.0051,🟢 Stable
+EMP00230,Wawan Tampubolon,Product,1,Staff,2019-12-10,5.06,18079619,L,47,S1,EMP00254,4.0,False,0.0092,Central Connector,0.0009273305590176,0.0051,🟢 Stable
+EMP00104,Soleh Nashiruddin,Engineering,3,Specialist,2022-07-01,2.5,21687937,L,37,S1,EMP00155,2.8,False,0.0092,Information Broker,0.0010979126425875,0.0051,🟢 Stable
+EMP00172,Imam Widiastuti,Engineering,2,Senior Staff,2021-11-30,3.09,16143475,L,36,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0007319058345542,0.005,🟢 Stable
+EMP00604,Gilda Winarno,Operations,3,Specialist,2021-03-18,3.79,11032759,P,50,S1,EMP00601,3.3,False,0.0092,Central Connector,0.0008361530727921,0.005,🟢 Stable
+EMP00092,Hasim Laksita,Engineering,1,Staff,2023-05-16,1.63,15072416,L,40,S1,EMP00155,3.7,False,0.0092,Information Broker,0.0007887280525189,0.005,🟢 Stable
+EMP00380,Dalima Prasasta,Sales,2,Senior Staff,2020-11-11,4.14,11353529,L,35,S2,EMP00474,2.9,False,0.0092,Information Broker,0.000707367463173,0.005,🟢 Stable
+EMP00691,Vivi Wasita,Data & Analytics,2,Senior Staff,2022-08-10,2.39,24155560,L,39,S1,EMP00728,2.8,False,0.0092,Central Connector,0.0007976879413204,0.005,🟢 Stable
+EMP00252,"Emong Susanti, M.Pd",Product,1,Staff,2021-01-26,3.93,18198934,P,46,S1,EMP00254,3.4,False,0.0092,Information Broker,0.0008936971401238,0.005,🟢 Stable
+EMP00982,Akarsana Irawan,Research,4,Lead,2020-02-21,4.86,31969178,P,29,S2,,3.0,False,0.0092,Central Connector,0.0007554989699672,0.005,🟢 Stable
+EMP00293,Ir. Widya Safitri,Marketing,2,Senior Staff,2023-10-27,1.18,13692200,P,25,S1,EMP00318,3.0,False,0.0092,Information Broker,0.000797813417159,0.005,🟢 Stable
+EMP00901,"dr. Ilsa Budiman, S.Kom",IT Infrastructure,4,Lead,2023-05-14,1.63,20082730,L,37,S2,,3.6,False,0.0092,Central Connector,0.0007377492187616,0.005,🟢 Stable
+EMP00602,"Dr. Kamaria Dongoran, S.Farm",Operations,2,Senior Staff,2021-01-25,3.93,8674372,P,43,S1,EMP00601,3.1,False,0.0092,Information Broker,0.0008961211431925,0.005,🟢 Stable
+EMP00682,"R. Tania Uyainah, S.E.",Operations,1,Staff,2022-12-15,2.05,8838085,L,37,S1,EMP00601,3.8,False,0.0092,Information Broker,0.0008328694671296,0.005,🟢 Stable
+EMP00651,R. Puji Sihombing,Operations,1,Staff,2022-12-04,2.08,11603299,L,48,S2,EMP00601,2.8,False,0.0092,Information Broker,0.000766917284562,0.005,🟢 Stable
+EMP00469,"Hj. Sadina Puspasari, S.Kom",Sales,3,Specialist,2021-07-07,3.49,14475508,L,29,S2,EMP00474,3.1,False,0.0092,Information Broker,0.0007651361442734,0.005,🟢 Stable
+EMP00909,Cinthia Halimah,IT Infrastructure,2,Senior Staff,2021-02-10,3.89,18672968,P,38,S1,EMP00925,2.6,False,0.0092,Information Broker,0.0006286241380798,0.0049,🟢 Stable
+EMP00146,Cemani Sitorus,Engineering,3,Specialist,2019-11-14,5.13,28089799,L,41,S1,EMP00155,4.5,False,0.0092,Information Broker,0.0005836675541369,0.0049,🟢 Stable
+EMP00219,"Mustika Waskita, S.E.",Product,3,Specialist,2020-10-13,4.22,22615036,L,44,S1,EMP00254,3.0,False,0.0092,Information Broker,0.0005483401582142,0.0049,🟢 Stable
+EMP00167,"Viman Sitompul, M.Ak",Engineering,2,Senior Staff,2020-10-01,4.25,18501915,L,29,S1,EMP00155,3.4,False,0.0092,Information Broker,0.0006713074660581,0.0049,🟢 Stable
+EMP00925,"Hj. Alika Ardianto, S.Farm",IT Infrastructure,4,Lead,2022-05-07,2.65,19568672,L,30,S1,,2.8,False,0.0092,Information Broker,0.0005398056537491,0.0049,🟢 Stable
+EMP00348,R.M. Harjo Nainggolan,Sales,1,Staff,2021-04-27,3.68,13107861,P,34,S2,EMP00474,3.1,False,0.0092,Information Broker,0.000522781494907,0.0049,🟢 Stable
+EMP00306,"Zelda Hasanah, S.Pt",Marketing,2,Senior Staff,2023-03-15,1.8,12733414,L,23,S1,EMP00318,4.5,False,0.0092,Central Connector,0.0006129201048214,0.0049,🟢 Stable
+EMP00421,Drs. Jane Suryatmi,Sales,1,Staff,2023-04-24,1.69,13547320,L,29,S1,EMP00474,3.1,False,0.0092,Information Broker,0.0006903345299774,0.0049,🟢 Stable
+EMP00393,Dasa Wibowo,Sales,3,Specialist,2023-10-11,1.22,18578434,P,24,S1,EMP00474,3.4,False,0.0092,Information Broker,0.0006869879208179,0.0049,🟢 Stable
+EMP00861,Paris Mahendra,IT Infrastructure,3,Specialist,2021-08-20,3.36,17577181,L,22,D3,EMP00925,3.3,False,0.0092,Information Broker,0.0006000245228343,0.0049,🟢 Stable
+EMP00238,"Tina Latupono, S.E.",Product,1,Staff,2020-12-31,4.0,18398377,P,31,S1,EMP00254,3.4,False,0.0092,Information Broker,0.0006405368269117,0.0049,🟢 Stable
+EMP00456,Drs. Balangga Hartati,Sales,3,Specialist,2022-12-24,2.02,24196334,L,43,D3,EMP00474,3.4,False,0.0092,Information Broker,0.0005736953364835,0.0049,🟢 Stable
+EMP00641,"Drs. Nabila Ramadan, S.Gz",Operations,3,Specialist,2018-08-19,6.37,14145564,P,29,S1,EMP00601,3.4,False,0.0092,Central Connector,0.0004891054691339,0.0048,🟢 Stable
+EMP00574,"R. Salsabila Novitasari, S.Pt",HR,3,Specialist,2022-01-28,2.92,11107584,L,29,S1,EMP00575,3.0,False,0.0092,Central Connector,0.0003963226282068,0.0048,🟢 Stable
+EMP00659,Mumpuni Uyainah,Operations,2,Senior Staff,2022-11-19,2.12,8520273,L,28,S1,EMP00601,2.8,False,0.0092,Information Broker,0.0003491979962341,0.0048,🟢 Stable
+EMP00681,Dr. Elvin Salahudin,Operations,1,Staff,2022-03-19,2.79,7186192,L,35,S1,EMP00601,3.4,False,0.0092,Information Broker,0.0003741561399761,0.0048,🟢 Stable
+EMP00216,Jinawi Prasetya,Product,1,Staff,2020-11-18,4.12,16975482,L,25,S2,EMP00254,4.6,False,0.0092,Information Broker,0.0003931528058472,0.0048,🟢 Stable
+EMP00131,"Tgk. Ophelia Lestari, S.T.",Engineering,1,Staff,2018-11-04,6.16,10306710,L,31,S1,EMP00155,2.0,False,0.0092,Information Broker,0.0004923726924495,0.0048,🟢 Stable
+EMP00511,"Gaiman Gunawan, S.H.",Finance,1,Staff,2018-08-07,6.4,13078894,L,28,S1,EMP00523,2.9,False,0.0092,Central Connector,0.0004242939293703,0.0048,🟢 Stable
+EMP00358,Sabri Zulkarnain,Sales,1,Staff,2023-10-22,1.19,10684496,L,28,S1,EMP00474,3.2,False,0.0092,Information Broker,0.0003154664383329,0.0048,🟢 Stable
+EMP00877,Rahman Permata,IT Infrastructure,2,Senior Staff,2023-10-21,1.2,13282318,L,43,S1,EMP00925,2.6,False,0.0092,Information Broker,0.0002861883185003,0.0047,🟢 Stable

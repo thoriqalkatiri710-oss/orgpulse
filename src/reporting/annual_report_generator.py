@@ -165,7 +165,72 @@ def generate_annual_workforce_report(
     wb.close()
     print(f"✅ Annual report saved: {output_path}")
     return output_path
+# ── 10.2.1 ROI Calculator Sheet ───────────────────────────────────────────────
 
+def add_roi_calculator_sheet(wb, df_flight_risk: pd.DataFrame,
+                              df_employees: pd.DataFrame):
+    """
+    Sheet interaktif formula-driven untuk CFO.
+    Sel kuning = input yang bisa diubah langsung di Excel.
+    Formula Excel terhubung ke FlightRiskRegister sheet.
+    """
+    ws = wb.add_worksheet("ROI Retention Calculator")
+    ws.set_column("A:A", 50)
+    ws.set_column("B:B", 20)
+
+    title_fmt = wb.add_format({"bold": True, "font_size": 14, "font_color": "#1D3557"})
+    input_fmt = wb.add_format({"bg_color": "#FEF3C7", "border": 1})
+    hdr_fmt   = wb.add_format({"bold": True, "bg_color": "#1D3557",
+                                "font_color": "white", "border": 1})
+    cell_fmt  = wb.add_format({"border": 1})
+    bold_fmt  = wb.add_format({"bold": True, "border": 1})
+    idr_fmt   = wb.add_format({"num_format": "Rp #,##0", "border": 1})
+    pct_fmt   = wb.add_format({"num_format": "0.0%", "border": 1})
+    green_fmt = wb.add_format({"bold": True, "font_color": "#16A34A",
+                                "num_format": "Rp #,##0", "border": 1})
+
+    ws.write("A1", "ROI Calculator: Investasi Retensi vs Biaya Penggantian", title_fmt)
+    ws.write("A2", "Sel berwarna kuning dapat diubah sesuai asumsi bisnis")
+
+    ws.write("A3", "ASUMSI BIAYA (ubah sel kuning)", hdr_fmt)
+    ws.write("B3", "NILAI", hdr_fmt)
+
+    ws.write("A4", "Biaya rekrutmen (% gaji tahunan):",              bold_fmt)
+    ws.write("B4", 0.20,                                              input_fmt)
+    ws.write("A5", "Biaya onboarding & produktivitas hilang (bulan gaji):", bold_fmt)
+    ws.write("B5", 3,                                                 input_fmt)
+    ws.write("A6", "Kenaikan gaji untuk retensi (%):",               bold_fmt)
+    ws.write("B6", 0.10,                                              input_fmt)
+    ws.write("A7", "Bonus retensi (% gaji tahunan):",                bold_fmt)
+    ws.write("B7", 0.15,                                              input_fmt)
+
+    # Hitung dari data aktual
+    critical_count   = int((df_flight_risk["flight_risk_score"] >= 0.6).sum())
+    merged           = df_employees.merge(df_flight_risk, on="employee_id")
+    avg_salary_risk  = int(merged[merged["flight_risk_score"] >= 0.6]["monthly_salary"].mean())
+
+    ws.write("A9",  "HASIL KALKULASI",                                hdr_fmt)
+    ws.write("B9",  "",                                               hdr_fmt)
+    ws.write("A10", "Total karyawan HIGH risk (score ≥ 0.6):",        bold_fmt)
+    ws.write("B10", critical_count,                                    cell_fmt)
+    ws.write("A11", "Rata-rata gaji karyawan HIGH risk (Rp):",        bold_fmt)
+    ws.write("B11", avg_salary_risk,                                   idr_fmt)
+
+    ws.write("A13", "Total biaya penggantian jika SEMUA resign (Rp):", bold_fmt)
+    ws.write_formula("B13", f"=B10*(B11*12*B4+B11*B5)",               idr_fmt)
+
+    ws.write("A14", "Total biaya program retensi (Rp):",              bold_fmt)
+    ws.write_formula("B14", f"=B10*(B11*12*B6+B11*12*B7)",           idr_fmt)
+
+    ws.write("A15", "Net penghematan jika program retensi berhasil (Rp):", bold_fmt)
+    ws.write_formula("B15", "=B13-B14",                               green_fmt)
+
+    ws.write("A16", "ROI Program Retensi:",                           bold_fmt)
+    ws.write_formula("B16", "=(B13-B14)/B14",                         pct_fmt)
+
+    ws.write("A18", "INTERPRETASI",                                   hdr_fmt)
+    ws.write("A19", "ROI > 100%: Program retensi sangat layak diinvestasikan", cell_fmt)
+    ws.write("A20", "ROI > 200%: Setiap Rp 1 investasi menghasilkan Rp 3 penghematan", cell_fmt)
 
 if __name__ == "__main__":
     import sys
